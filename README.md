@@ -2,25 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2007%20Dec%202025%2016:22:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-253ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2007%20Dec%202025%2017:16:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-395ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 11 km ESE of Gilroy, CA | 16:09 |
-| 🟢 1.4 | 13 km NW of The Geysers, CA | 16:04 |
-| 🟢 1.8 | 29 km SSE of Midland, Texas | 15:54 |
-| 🟢 0.9 | 10 km WNW of Cobb, CA | 15:44 |
-| 🟠 3.4 | 117 km N of Yakutat, Alaska | 15:44 |
-| 🟢 2.5 | 62 km NNE of Petersville, Alaska | 15:43 |
-| 🟢 1.1 | 10 km WNW of Cobb, CA | 15:43 |
-| 🟢 1.2 | 6 km ESE of North Shore, CA | 15:41 |
-| 🟢 1.8 | 3 km SSW of Indios, Puerto Rico | 15:41 |
-| 🟢 3.0 | 82 km N of Yakutat, Alaska | 15:38 |
-| 🟢 1.8 | 19 km N of Fishhook, Alaska | 15:34 |
-| 🟢 1.1 | 14 km SSE of Stanton, Texas | 15:34 |
-| 🟢 1.6 | 12 km SE of Middletown, CA | 15:26 |
-| 🟠 3.5 | 105 km N of Yakutat, Alaska | 15:21 |
+| 🟠 3.7 | 91 km NNE of Yakutat, Alaska | 17:07 |
+| 🟢 0.8 | 7 km NE of Coso Junction, CA | 17:02 |
+| 🟢 2.5 | 3 km S of Honoka‘a, Hawaii | 16:59 |
+| 🟠 4.4 | 112 km N of Yakutat, Alaska | 16:56 |
+| 🟠 3.4 | 93 km N of Yakutat, Alaska | 16:55 |
+| 🟢 1.0 | 23 km SW of Ocotillo Wells, CA | 16:44 |
+| 🟠 3.5 | 98 km N of Yakutat, Alaska | 16:42 |
+| 🟠 4.9 | 123 km SE of Petropavlovsk-Kamchatsky, Russia | 16:41 |
+| 🔴 5.6 | 65 km SE of Severo-Kuril’sk, Russia | 16:34 |
+| 🟢 0.9 | 3 km NW of The Geysers, CA | 16:25 |
+| 🟢 0.7 | 3 km NW of The Geysers, CA | 16:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
