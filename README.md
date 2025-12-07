@@ -2,21 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2007%20Dec%202025%2019:15:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-215ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2007%20Dec%202025%2020:20:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-468ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.6 | 18 km NW of Parkfield, CA | 19:10 |
-| 🟢 0.4 | 7 km WNW of Cobb, CA | 18:57 |
-| 🟢 1.1 | 7 km WNW of Cobb, CA | 18:56 |
-| 🟢 1.0 | 7 km WNW of Cobb, CA | 18:56 |
-| 🟢 2.4 | 18 km NW of Parkfield, CA | 18:51 |
-| 🟢 2.7 | 7 km NW of Pinnacles, CA | 18:51 |
-| 🟠 3.8 | 95 km N of Yakutat, Alaska | 18:50 |
-| 🟢 1.0 | 10 km NW of The Geysers, CA | 18:34 |
-| 🟢 1.2 | 0 km N of The Geysers, CA | 18:32 |
-| 🟢 0.8 | 2 km N of The Geysers, CA | 18:19 |
+| 🟢 1.9 | 37 km W of Petrolia, CA | 20:11 |
+| 🟢 2.1 | 56 km SE of King Salmon, Alaska | 19:58 |
+| 🟠 3.6 | 117 km N of Yakutat, Alaska | 19:54 |
+| 🟢 2.5 | 32 km S of Ivanof Bay, Alaska | 19:53 |
+| 🟢 2.1 | 18 km NW of Parkfield, CA | 19:43 |
+| 🟢 2.4 | 14 km W of Susitna, Alaska | 19:43 |
+| 🟠 3.4 | 63 km ENE of Chase, Alaska | 19:33 |
+| 🟢 2.7 | 115 km NNW of Yakutat, Alaska | 19:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
