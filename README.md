@@ -2,18 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2007%20Dec%202025%2018:26:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-625ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2007%20Dec%202025%2019:15:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-215ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.6 | 18 km NW of Parkfield, CA | 19:10 |
+| 🟢 0.4 | 7 km WNW of Cobb, CA | 18:57 |
+| 🟢 1.1 | 7 km WNW of Cobb, CA | 18:56 |
+| 🟢 1.0 | 7 km WNW of Cobb, CA | 18:56 |
+| 🟢 2.4 | 18 km NW of Parkfield, CA | 18:51 |
+| 🟢 2.7 | 7 km NW of Pinnacles, CA | 18:51 |
+| 🟠 3.8 | 95 km N of Yakutat, Alaska | 18:50 |
+| 🟢 1.0 | 10 km NW of The Geysers, CA | 18:34 |
+| 🟢 1.2 | 0 km N of The Geysers, CA | 18:32 |
 | 🟢 0.8 | 2 km N of The Geysers, CA | 18:19 |
-| 🟠 4.6 | 103 km N of Yakutat, Alaska | 18:04 |
-| 🟢 0.6 | 7 km WNW of Anza, CA | 18:02 |
-| 🟢 1.5 | 11 km WSW of Grapevine, CA | 17:59 |
-| 🟠 3.9 | 82 km N of Yakutat, Alaska | 17:50 |
-| 🟠 4.1 | 101 km N of Yakutat, Alaska | 17:47 |
-| 🟢 0.8 | 8 km W of Cobb, CA | 17:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
