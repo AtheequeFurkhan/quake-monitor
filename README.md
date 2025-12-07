@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2007%20Dec%202025%2020:20:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-468ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2007%20Dec%202025%2021:16:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-490ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 37 km W of Petrolia, CA | 20:11 |
-| 🟢 2.1 | 56 km SE of King Salmon, Alaska | 19:58 |
-| 🟠 3.6 | 117 km N of Yakutat, Alaska | 19:54 |
-| 🟢 2.5 | 32 km S of Ivanof Bay, Alaska | 19:53 |
-| 🟢 2.1 | 18 km NW of Parkfield, CA | 19:43 |
-| 🟢 2.4 | 14 km W of Susitna, Alaska | 19:43 |
-| 🟠 3.4 | 63 km ENE of Chase, Alaska | 19:33 |
-| 🟢 2.7 | 115 km NNW of Yakutat, Alaska | 19:26 |
+| 🟢 0.7 | 2 km NW of The Geysers, CA | 21:12 |
+| 🟢 0.9 | 39 km E of Minto, Alaska | 21:10 |
+| 🟢 1.8 | 10 km N of Truckee, CA | 20:55 |
+| 🟠 4.3 | Volcano Islands, Japan region | 20:42 |
+| 🟠 3.3 | 4 km S of San Clemente, CA | 20:36 |
+| 🟢 2.7 | 96 km N of Yakutat, Alaska | 20:34 |
+| 🟢 1.5 | 10 km W of Templeton, CA | 20:31 |
+| 🟢 2.1 | 8 km WSW of Glacier View, Alaska | 20:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
