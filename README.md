@@ -2,13 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2007%20Dec%202025%2022:18:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-585ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2007%20Dec%202025%2023:17:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-191ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 3 km E of Fremont, CA | 22:13 |
-| 🟢 1.0 | 2 km ENE of Berkeley, CA | 21:33 |
+| 🟢 1.0 | 9 km WNW of Cobb, CA | 23:09 |
+| 🟢 0.8 | 8 km WNW of Cobb, CA | 23:01 |
+| 🟢 1.0 | 14 km NW of Ocotillo, CA | 22:46 |
+| 🟢 0.8 | 10 km NW of The Geysers, CA | 22:45 |
+| 🟢 1.1 | 14 km WSW of Searles Valley, CA | 22:39 |
+| 🟢 0.8 | 5 km NNW of The Geysers, CA | 22:26 |
+| 🟢 0.8 | 11 km WNW of The Geysers, CA | 22:25 |
+| 🟠 3.5 | 101 km N of Yakutat, Alaska | 22:25 |
+| 🟢 1.3 | 5 km NW of The Geysers, CA | 22:23 |
+| 🟠 4.6 | 93 km SSE of Sand Point, Alaska | 22:17 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
