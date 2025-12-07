@@ -8,140 +8,200 @@ import (
 	"net/http"
 	"os"
 	"strings"
+	"sync"
 	"time"
 )
 
-// USGS API Endpoint (All earthquakes in the past hour)
-const API_URL = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson"
+// --- CONFIGURATION ---
+const (
+	USGS_URL  = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson"
+	NASA_URL  = "https://eonet.gsfc.nasa.gov/api/v3/events?status=open&limit=10" // Top 10 recent active events
+)
 
-// Structs for parsing GeoJSON
-type FeatureCollection struct {
-	Metadata Metadata  `json:"metadata"`
-	Features []Feature `json:"features"`
+// --- STRUCTS: EARTHQUAKE (USGS) ---
+type QuakeCollection struct {
+	Metadata QuakeMetadata `json:"metadata"`
+	Features []QuakeFeature `json:"features"`
 }
-
-type Metadata struct {
-	Generated int64  `json:"generated"`
-	Url       string `json:"url"`
-	Title     string `json:"title"`
-	Count     int    `json:"count"`
+type QuakeMetadata struct {
+	Count int    `json:"count"`
+	Url   string `json:"url"`
 }
-
-type Feature struct {
-	Properties Properties `json:"properties"`
-	Id         string     `json:"id"`
+type QuakeFeature struct {
+	Properties QuakeProps `json:"properties"`
 }
-
-type Properties struct {
+type QuakeProps struct {
 	Mag   float64 `json:"mag"`
 	Place string  `json:"place"`
 	Time  int64   `json:"time"`
 	Url   string  `json:"url"`
-	Type  string  `json:"type"`
 }
 
+// --- STRUCTS: NASA EONET (Wildfires/Volcanoes) ---
+type EONETResponse struct {
+	Events []EONETEvent `json:"events"`
+}
+type EONETEvent struct {
+	Title      string        `json:"title"`
+	Categories []EONETCategory `json:"categories"`
+	Sources    []EONETSource   `json:"sources"`
+	Geometry   []EONETGeo      `json:"geometry"`
+}
+type EONETCategory struct {
+	Id    string `json:"id"`
+	Title string `json:"title"`
+}
+type EONETSource struct {
+	Id  string `json:"id"`
+	Url string `json:"url"`
+}
+type EONETGeo struct {
+	Date string `json:"date"`
+}
+
+// --- MAIN EXECUTION ---
 func main() {
-	// 1. Fetch Data
-	data, err := fetchEarthquakeData()
-	if err != nil {
-		log.Fatalf("Error fetching data: %v", err)
+	start := time.Now()
+
+	// We use a WaitGroup to fetch both APIs at the same time (Concurrency)
+	var wg sync.WaitGroup
+	wg.Add(2)
+
+	var quakeData *QuakeCollection
+	var nasaData *EONETResponse
+	var err1, err2 error
+
+	// 1. Fetch Earthquakes (Goroutine)
+	go func() {
+		defer wg.Done()
+		quakeData, err1 = fetchQuakes()
+	}()
+
+	// 2. Fetch NASA Data (Goroutine)
+	go func() {
+		defer wg.Done()
+		nasaData, err2 = fetchNASA()
+	}()
+
+	wg.Wait() // Wait for both to finish
+
+	// Error handling (Don't crash if one fails, just warn)
+	if err1 != nil {
+		fmt.Printf("Warning: Failed to fetch Quakes: %v\n", err1)
+		quakeData = &QuakeCollection{} // Empty struct
+	}
+	if err2 != nil {
+		fmt.Printf("Warning: Failed to fetch NASA: %v\n", err2)
+		nasaData = &EONETResponse{} // Empty struct
 	}
 
-	// 2. Generate Markdown Content
-	markdown := generateMarkdown(data)
-
-	// 3. Write to README.md
-	err = os.WriteFile("README.md", []byte(markdown), 0644)
+	// 3. Generate and Write Markdown
+	markdown := generateMarkdown(quakeData, nasaData, time.Since(start))
+	err := os.WriteFile("README.md", []byte(markdown), 0644)
 	if err != nil {
 		log.Fatalf("Error writing README: %v", err)
 	}
 
-	fmt.Println("README.md updated successfully.")
+	fmt.Println("Global Disaster Monitor updated successfully.")
 }
 
-func fetchEarthquakeData() (*FeatureCollection, error) {
-	client := http.Client{
-		Timeout: 10 * time.Second,
-	}
+// --- FETCH FUNCTIONS ---
 
-	resp, err := client.Get(API_URL)
-	if err != nil {
-		return nil, err
-	}
+func fetchQuakes() (*QuakeCollection, error) {
+	resp, err := http.Get(USGS_URL)
+	if err != nil { return nil, err }
 	defer resp.Body.Close()
 
-	if resp.StatusCode != 200 {
-		return nil, fmt.Errorf("API returned status: %d", resp.StatusCode)
-	}
-
-	body, err := io.ReadAll(resp.Body)
-	if err != nil {
-		return nil, err
-	}
-
-	var collection FeatureCollection
-	if err := json.Unmarshal(body, &collection); err != nil {
-		return nil, err
-	}
-
-	return &collection, nil
+	body, _ := io.ReadAll(resp.Body)
+	var data QuakeCollection
+	if err := json.Unmarshal(body, &data); err != nil { return nil, err }
+	return &data, nil
 }
 
-func generateMarkdown(data *FeatureCollection) string {
-	now := time.Now().UTC().Format(time.RFC1123)
-	
-	// Determine Status Color based on count
-	statusColor := "green"
-	if data.Metadata.Count > 10 {
-		statusColor = "orange"
-	}
-	if data.Metadata.Count > 20 {
-		statusColor = "red"
-	}
+func fetchNASA() (*EONETResponse, error) {
+	client := http.Client{Timeout: 10 * time.Second}
+	resp, err := client.Get(NASA_URL)
+	if err != nil { return nil, err }
+	defer resp.Body.Close()
 
+	body, _ := io.ReadAll(resp.Body)
+	var data EONETResponse
+	if err := json.Unmarshal(body, &data); err != nil { return nil, err }
+	return &data, nil
+}
+
+// --- MARKDOWN GENERATION ---
+
+func generateMarkdown(quakes *QuakeCollection, nasa *EONETResponse, duration time.Duration) string {
+	now := time.Now().UTC().Format(time.RFC1123)
 	var sb strings.Builder
 
-	// Header & Badges
-	sb.WriteString("# 🌏 Global Seismic Activity Monitor\n\n")
-	sb.WriteString("This repository automatically tracks earthquakes occurring worldwide in the last hour.\n\n")
+	// HEADER
+	sb.WriteString("# 🌪️ Global Disaster Monitor\n\n")
+	sb.WriteString("> *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*\n\n")
 	
-	sb.WriteString(fmt.Sprintf("![Last Updated](https://img.shields.io/badge/Last%%20Updated-%s-blue)\n", strings.ReplaceAll(now, " ", "%20")))
-	sb.WriteString(fmt.Sprintf("![Status](https://img.shields.io/badge/Seismic%%20Status-%s-%s)\n", "Active", statusColor))
-	sb.WriteString("![Source](https://img.shields.io/badge/Data%%20Source-USGS-green)\n\n")
+	// BADGES
+	sb.WriteString(fmt.Sprintf("![Last Updated](https://img.shields.io/badge/Updated-%s-blue) ", strings.ReplaceAll(now, " ", "%20")))
+	sb.WriteString(fmt.Sprintf("![Build Time](https://img.shields.io/badge/Build%%20Time-%s-green) ", duration.Round(time.Millisecond)))
+	sb.WriteString("![System](https://img.shields.io/badge/System-Operational-success)\n\n")
 
-	// Statistics
-	sb.WriteString("## 📊 Current Statistics (Last Hour)\n")
-	sb.WriteString(fmt.Sprintf("- **Total Earthquakes:** %d\n", data.Metadata.Count))
-	sb.WriteString(fmt.Sprintf("- **Source:** [USGS GeoJSON Feed](%s)\n\n", data.Metadata.Url))
-
-	// Table of Earthquakes
-	sb.WriteString("## 🌋 Recent Activity\n")
-	if len(data.Features) == 0 {
-		sb.WriteString("_No earthquakes recorded in the last hour._\n")
+	// SECTION 1: EARTHQUAKES
+	sb.WriteString("## 📉 Earthquakes (Last Hour)\n")
+	if len(quakes.Features) == 0 {
+		sb.WriteString("✅ *No significant seismic activity recorded in the past hour.*\n")
 	} else {
-		sb.WriteString("| Mag | Location | Time (UTC) | Details |\n")
-		sb.WriteString("|:---:|:---|:---|:---:|\n")
-
-		for _, f := range data.Features {
-			// Formatting Time
-			t := time.Unix(f.Properties.Time/1000, 0).UTC().Format("15:04:05")
+		sb.WriteString("| Mag | Location | Time (UTC) |\n")
+		sb.WriteString("|:---:|:---|:---|\n")
+		for _, f := range quakes.Features {
+			t := time.Unix(f.Properties.Time/1000, 0).UTC().Format("15:04")
 			
-			// Formatting Magnitude Indicator
-			magIcon := "🟢"
-			if f.Properties.Mag >= 4.5 {
-				magIcon = "🔴"
-			} else if f.Properties.Mag >= 2.5 {
-				magIcon = "🟠"
-			}
+			// Danger Icons
+			icon := "🟢"
+			if f.Properties.Mag > 5.0 { icon = "🔴" } else if f.Properties.Mag > 3.0 { icon = "🟠" }
 
-			row := fmt.Sprintf("| %s %.1f | %s | %s | [View](%s) |\n", 
-				magIcon, f.Properties.Mag, f.Properties.Place, t, f.Properties.Url)
-			sb.WriteString(row)
+			sb.WriteString(fmt.Sprintf("| %s %.1f | %s | %s |\n", icon, f.Properties.Mag, f.Properties.Place, t))
+		}
+	}
+
+	// SECTION 2: NASA EVENTS
+	sb.WriteString("\n## 🌋 Active Hazards (NASA EONET)\n")
+	sb.WriteString("*Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*\n\n")
+
+	if len(nasa.Events) == 0 {
+		sb.WriteString("✅ *No active major hazards reported by NASA right now.*\n")
+	} else {
+		for _, e := range nasa.Events {
+			// Get Category Icon
+			catIcon := "⚠️"
+			catName := "Unknown"
+			if len(e.Categories) > 0 {
+				catName = e.Categories[0].Title
+				switch e.Categories[0].Id {
+				case "wildfires": catIcon = "🔥"
+				case "volcanoes": catIcon = "🌋"
+				case "severeStorms": catIcon = "⛈️"
+				case "seaLakeIce": catIcon = "❄️"
+				}
+			}
+			
+			// Get Date
+			date := "N/A"
+			if len(e.Geometry) > 0 {
+				// Parse NASA date (2023-10-05T00:00:00Z)
+				parsedTime, _ := time.Parse(time.RFC3339, e.Geometry[len(e.Geometry)-1].Date)
+				date = parsedTime.Format("Jan 02")
+			}
+			
+			// Get Link
+			link := "#"
+			if len(e.Sources) > 0 { link = e.Sources[0].Url }
+
+			sb.WriteString(fmt.Sprintf("- %s **%s**: [%s](%s) (%s)\n", catIcon, catName, e.Title, link, date))
 		}
 	}
 
 	sb.WriteString("\n---\n")
-	sb.WriteString(fmt.Sprintf("\n*This report was auto-generated by GitHub Actions using Go.* \n"))
-	
+	sb.WriteString("Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.\n")
+
 	return sb.String()
 }
