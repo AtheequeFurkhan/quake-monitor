@@ -2,18 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2007%20Dec%202025%2011:16:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-405ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2007%20Dec%202025%2012:36:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-266ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟠 3.5 | 12 km ESE of Pāhala, Hawaii | 11:00 |
-| 🟢 0.9 | 19 km SSW of Ocotillo Wells, CA | 10:58 |
-| 🟢 1.4 | 23 km NW of Ocotillo, CA | 10:48 |
-| 🟢 1.7 | 98 km SE of McCarthy, Alaska | 10:41 |
-| 🟢 0.6 | 8 km NW of The Geysers, CA | 10:34 |
-| 🟠 4.3 | 105 km N of Yakutat, Alaska | 10:32 |
-| 🟠 3.6 | 115 km N of Yakutat, Alaska | 10:20 |
+| 🟢 0.5 | 4 km NNW of The Geysers, CA | 12:32 |
+| 🟢 0.6 | 21 km ESE of Anza, CA | 12:26 |
+| 🟠 3.2 | 106 km N of Yakutat, Alaska | 12:25 |
+| 🟢 1.8 | 7 km W of Cobb, CA | 12:25 |
+| 🟠 4.0 | 185 km SE of Chignik, Alaska | 12:22 |
+| 🟢 0.8 | 5 km WNW of The Geysers, CA | 12:18 |
+| 🔴 5.4 | 56 km WNW of Port-Olry, Vanuatu | 12:16 |
+| 🟠 3.3 | 98 km N of Yakutat, Alaska | 11:53 |
+| 🟢 2.0 | 6 km SE of Valle Vista, CA | 11:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
