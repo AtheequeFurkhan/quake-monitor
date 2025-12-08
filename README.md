@@ -2,24 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2021:17:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-478ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2022:19:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-568ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 5 km SE of Kettleman City, CA | 21:12 |
-| 🟢 1.5 | 9 km WNW of The Geysers, CA | 21:06 |
-| 🟢 2.9 | 38 km ESE of King Salmon, Alaska | 21:02 |
-| 🟠 3.4 | 107 km N of Yakutat, Alaska | 20:41 |
-| 🟠 4.8 | 298 km ENE of Lospalos, Timor Leste | 20:39 |
-| 🟢 0.7 | 7 km W of Cobb, CA | 20:35 |
-| 🟠 3.6 | 100 km N of Yakutat, Alaska | 20:34 |
-| 🟢 2.2 | 17 km W of Susitna North, Alaska | 20:32 |
-| 🟠 5.0 | 187 km NNE of Colonia, Micronesia | 20:31 |
-| 🟢 1.4 | 8 km S of Hickory, Oklahoma | 20:30 |
-| 🟢 0.7 | 12 km SSE of Anza, CA | 20:29 |
-| 🟢 1.2 | 5 km SE of Addy, Washington | 20:24 |
-| 🟢 1.8 | 7 km SSE of Molalla, Oregon | 20:17 |
+| 🟢 2.0 | 6 km SSW of Redlands, CA | 22:05 |
+| 🟢 2.6 | 4 km SE of San Ramon, CA | 21:59 |
+| 🟢 2.5 | 28 km N of Susitna, Alaska | 21:57 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 21:53 |
+| 🔴 6.7 | 127 km S of Honchō, Japan | 21:52 |
+| 🟢 1.8 | 8 km NW of The Geysers, CA | 21:51 |
+| 🟢 2.9 | 4 km ESE of San Ramon, CA | 21:50 |
+| 🟢 0.8 | 4 km NNW of The Geysers, CA | 21:30 |
+| 🟢 2.6 | 115 km N of Yakutat, Alaska | 21:20 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
