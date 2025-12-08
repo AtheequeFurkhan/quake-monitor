@@ -2,19 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2003:21:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2004:33:38%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-495ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 10 km W of Templeton, CA | 03:13 |
-| 🟢 0.7 | 3 km ENE of Ocotillo Wells, CA | 03:06 |
-| 🟠 3.7 | 112 km N of Yakutat, Alaska | 03:01 |
-| 🟢 2.1 | 15 km SSW of Willow, Alaska | 03:00 |
-| 🟠 3.6 | 74 km NNE of Yakutat, Alaska | 02:28 |
-| 🟠 4.5 | 48 km ENE of Pueblo Nuevo, Venezuela | 02:27 |
-| 🟢 1.6 | 58 km NW of Toyah, Texas | 02:25 |
-| 🟢 2.1 | 8 km ESE of Comunas, Puerto Rico | 02:24 |
+| 🟢 0.9 | 4 km E of Julian, CA | 04:21 |
+| 🟢 0.9 | 21 km ESE of Anza, CA | 03:59 |
+| 🟢 2.9 | 40 km NNW of San Antonio, Puerto Rico | 03:52 |
+| 🟢 1.0 | 40 km NW of Toyah, Texas | 03:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
