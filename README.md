@@ -2,20 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2022:19:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-568ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2023:19:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-597ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 6 km SSW of Redlands, CA | 22:05 |
-| 🟢 2.6 | 4 km SE of San Ramon, CA | 21:59 |
-| 🟢 2.5 | 28 km N of Susitna, Alaska | 21:57 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 21:53 |
-| 🔴 6.7 | 127 km S of Honchō, Japan | 21:52 |
-| 🟢 1.8 | 8 km NW of The Geysers, CA | 21:51 |
-| 🟢 2.9 | 4 km ESE of San Ramon, CA | 21:50 |
-| 🟢 0.8 | 4 km NNW of The Geysers, CA | 21:30 |
-| 🟢 2.6 | 115 km N of Yakutat, Alaska | 21:20 |
+| 🟢 1.8 | 55 km NW of Toyah, Texas | 23:08 |
+| 🟢 0.7 | 5 km WNW of Cobb, CA | 23:07 |
+| 🟢 2.9 | 2 km E of Piedmont, CA | 22:55 |
+| 🟠 4.2 | 105 km N of Yakutat, Alaska | 22:51 |
+| 🟢 1.5 | 5 km SE of Home Gardens, CA | 22:42 |
+| 🟢 0.7 | 7 km NW of The Geysers, CA | 22:23 |
+| 🟢 2.9 | 30 km WNW of Willow, Alaska | 22:22 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
