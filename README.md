@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2001:39:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-244ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2003:21:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.6 | 3 km ESE of The Geysers, CA | 01:35 |
-| 🟠 4.1 | 92 km N of Yakutat, Alaska | 01:23 |
-| 🟠 4.3 | 97 km N of Yakutat, Alaska | 01:22 |
-| 🟠 3.5 | 100 km N of Yakutat, Alaska | 01:13 |
-| 🟢 3.0 | 55 km W of Tyonek, Alaska | 01:08 |
-| 🟢 3.0 | 8 km NNE of Capulin, New Mexico | 01:07 |
-| 🔴 5.8 | 93 km N of Yakutat, Alaska | 00:56 |
-| 🟢 0.7 | 7 km NW of The Geysers, CA | 00:53 |
+| 🟢 1.5 | 10 km W of Templeton, CA | 03:13 |
+| 🟢 0.7 | 3 km ENE of Ocotillo Wells, CA | 03:06 |
+| 🟠 3.7 | 112 km N of Yakutat, Alaska | 03:01 |
+| 🟢 2.1 | 15 km SSW of Willow, Alaska | 03:00 |
+| 🟠 3.6 | 74 km NNE of Yakutat, Alaska | 02:28 |
+| 🟠 4.5 | 48 km ENE of Pueblo Nuevo, Venezuela | 02:27 |
+| 🟢 1.6 | 58 km NW of Toyah, Texas | 02:25 |
+| 🟢 2.1 | 8 km ESE of Comunas, Puerto Rico | 02:24 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
