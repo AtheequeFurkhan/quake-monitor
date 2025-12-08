@@ -2,20 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2014:22:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-582ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2015:22:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-430ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 5 km NW of The Geysers, CA | 14:06 |
-| 🟢 0.7 | 8 km W of Cobb, CA | 13:47 |
-| 🟢 2.2 | 4 km SE of San Ramon, CA | 13:47 |
-| 🟢 2.4 | 21 km SE of Pāhala, Hawaii | 13:44 |
-| 🟢 2.7 | 4 km SE of San Ramon, CA | 13:37 |
-| 🟢 2.1 | 4 km SE of San Ramon, CA | 13:36 |
-| 🟢 0.8 | 9 km NW of The Geysers, CA | 13:34 |
-| 🟢 2.1 | 5 km SE of San Ramon, CA | 13:29 |
-| 🟢 1.6 | 3 km ESE of San Ramon, CA | 13:27 |
+| 🟢 1.7 | 29 km NW of Toyah, Texas | 15:11 |
+| 🟢 1.9 | 26 km SW of Jal, New Mexico | 15:09 |
+| 🟠 4.2 | 109 km N of Yakutat, Alaska | 14:44 |
+| 🔴 5.5 | 96 km ENE of Hachinohe, Japan | 14:33 |
+| 🟠 3.2 | 26 km W of Puako, Hawaii | 14:24 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
