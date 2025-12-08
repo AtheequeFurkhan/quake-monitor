@@ -2,29 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2018:31:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-630ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2019:17:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-343ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.7 | 77 km W of Karluk, Alaska | 19:14 |
+| 🟢 0.3 | 5 km WNW of Cobb, CA | 19:12 |
+| 🟢 1.3 | 2 km NNW of The Geysers, CA | 19:01 |
+| 🟢 2.3 | 15 km S of Volcano, Hawaii | 18:57 |
+| 🔴 5.8 | 124 km S of Honchō, Japan | 18:56 |
+| 🟢 1.9 | 5 km WSW of Yountville, CA | 18:55 |
+| 🟢 1.0 | 13 km S of Searles Valley, CA | 18:53 |
+| 🔴 5.5 | South Sandwich Islands region | 18:41 |
+| 🟢 2.8 | 102 km N of Yakutat, Alaska | 18:27 |
 | 🟢 2.1 | 3 km SE of San Ramon, CA | 18:22 |
 | 🟢 2.1 | 20 km WNW of Stanton, Texas | 18:21 |
-| 🟢 1.7 | 4 km SE of San Ramon, CA | 18:13 |
-| 🟢 1.6 | 4 km ESE of San Ramon, CA | 18:13 |
-| 🟢 1.8 | 4 km SE of San Ramon, CA | 18:11 |
-| 🟢 1.8 | 4 km ESE of San Ramon, CA | 18:07 |
-| 🟢 2.9 | 4 km ESE of San Ramon, CA | 18:06 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 17:57 |
-| 🟢 2.3 | 27 km W of Hayfork, CA | 17:52 |
-| 🟢 1.7 | 4 km SE of San Ramon, CA | 17:45 |
-| 🟠 4.4 | 112 km N of Yakutat, Alaska | 17:45 |
-| 🟢 1.7 | 4 km SE of San Ramon, CA | 17:42 |
-| 🟢 1.7 | 4 km SE of San Ramon, CA | 17:41 |
-| 🟢 0.9 | 9 km WNW of The Geysers, CA | 17:40 |
-| 🟢 1.1 | 15 km W of Searles Valley, CA | 17:38 |
-| 🟢 1.1 | 60 km S of Whites City, New Mexico | 17:36 |
-| 🟢 1.8 | 4 km SE of San Ramon, CA | 17:33 |
-| 🟢 2.8 | 88 km N of Yakutat, Alaska | 17:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
