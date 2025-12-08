@@ -2,15 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2010:23:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-608ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2011:18:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-494ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 4 km SE of San Ramon, CA | 10:11 |
-| 🟢 2.1 | 80 km N of Karluk, Alaska | 09:59 |
-| 🟢 0.8 | 7 km WNW of Cobb, CA | 09:58 |
-| 🟢 1.1 | 7 km NW of The Geysers, CA | 09:47 |
+| 🟢 0.8 | 9 km NW of The Geysers, CA | 11:01 |
+| 🟠 3.5 | 100 km N of Yakutat, Alaska | 11:01 |
+| 🟢 2.2 | 4 km SE of San Ramon, CA | 11:00 |
+| 🟢 1.2 | 9 km W of Toms Place, CA | 10:58 |
+| 🟠 3.9 | 102 km N of Yakutat, Alaska | 10:57 |
+| 🟢 1.0 | 4 km S of Yorba Linda, CA | 10:52 |
+| 🟢 1.3 | 9 km WNW of The Geysers, CA | 10:43 |
+| 🟢 2.3 | 2 km WNW of Indios, Puerto Rico | 10:42 |
+| 🟢 1.8 | 4 km SE of San Ramon, CA | 10:40 |
+| 🟢 1.8 | 4 km SE of San Ramon, CA | 10:34 |
+| 🟢 2.9 | 4 km SE of San Ramon, CA | 10:33 |
+| 🔴 5.1 | 23 km SSE of Kocaaliler, Turkey | 10:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
