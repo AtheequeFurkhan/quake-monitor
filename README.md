@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2016:28:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-252ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2017:20:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-297ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.6 | 4 km SE of San Ramon, CA | 17:10 |
+| 🟠 3.7 | 4 km SE of San Ramon, CA | 17:07 |
+| 🟢 2.5 | 4 km SE of San Ramon, CA | 17:05 |
+| 🟢 1.7 | 11 km E of Coahoma, Texas | 16:57 |
+| 🟢 1.9 | 132 km SE of McCarthy, Alaska | 16:49 |
+| 🟢 2.0 | 7 km W of Templeton, CA | 16:43 |
 | 🟢 1.6 | 46 km NW of Toyah, Texas | 16:21 |
-| 🟢 2.2 | 4 km SE of San Ramon, CA | 16:16 |
-| 🟢 1.1 | 7 km WNW of Cobb, CA | 16:15 |
-| 🟢 1.5 | 46 km NW of Toyah, Texas | 16:12 |
-| 🟢 1.5 | 12 km NE of Fox, Alaska | 16:11 |
-| 🟢 0.7 | 2 km N of The Geysers, CA | 16:07 |
-| 🟢 2.1 | 57 km S of Whites City, New Mexico | 15:51 |
+| 🟢 1.2 | 44 km NW of Toyah, Texas | 16:20 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
