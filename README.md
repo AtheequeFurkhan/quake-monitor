@@ -2,19 +2,29 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2017:20:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-297ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2018:31:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-630ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 4 km SE of San Ramon, CA | 17:10 |
-| 🟠 3.7 | 4 km SE of San Ramon, CA | 17:07 |
-| 🟢 2.5 | 4 km SE of San Ramon, CA | 17:05 |
-| 🟢 1.7 | 11 km E of Coahoma, Texas | 16:57 |
-| 🟢 1.9 | 132 km SE of McCarthy, Alaska | 16:49 |
-| 🟢 2.0 | 7 km W of Templeton, CA | 16:43 |
-| 🟢 1.6 | 46 km NW of Toyah, Texas | 16:21 |
-| 🟢 1.2 | 44 km NW of Toyah, Texas | 16:20 |
+| 🟢 2.1 | 3 km SE of San Ramon, CA | 18:22 |
+| 🟢 2.1 | 20 km WNW of Stanton, Texas | 18:21 |
+| 🟢 1.7 | 4 km SE of San Ramon, CA | 18:13 |
+| 🟢 1.6 | 4 km ESE of San Ramon, CA | 18:13 |
+| 🟢 1.8 | 4 km SE of San Ramon, CA | 18:11 |
+| 🟢 1.8 | 4 km ESE of San Ramon, CA | 18:07 |
+| 🟢 2.9 | 4 km ESE of San Ramon, CA | 18:06 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 17:57 |
+| 🟢 2.3 | 27 km W of Hayfork, CA | 17:52 |
+| 🟢 1.7 | 4 km SE of San Ramon, CA | 17:45 |
+| 🟠 4.4 | 112 km N of Yakutat, Alaska | 17:45 |
+| 🟢 1.7 | 4 km SE of San Ramon, CA | 17:42 |
+| 🟢 1.7 | 4 km SE of San Ramon, CA | 17:41 |
+| 🟢 0.9 | 9 km WNW of The Geysers, CA | 17:40 |
+| 🟢 1.1 | 15 km W of Searles Valley, CA | 17:38 |
+| 🟢 1.1 | 60 km S of Whites City, New Mexico | 17:36 |
+| 🟢 1.8 | 4 km SE of San Ramon, CA | 17:33 |
+| 🟢 2.8 | 88 km N of Yakutat, Alaska | 17:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
