@@ -2,22 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2019:17:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-343ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2020:23:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-284ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.7 | 77 km W of Karluk, Alaska | 19:14 |
-| 🟢 0.3 | 5 km WNW of Cobb, CA | 19:12 |
-| 🟢 1.3 | 2 km NNW of The Geysers, CA | 19:01 |
-| 🟢 2.3 | 15 km S of Volcano, Hawaii | 18:57 |
-| 🔴 5.8 | 124 km S of Honchō, Japan | 18:56 |
-| 🟢 1.9 | 5 km WSW of Yountville, CA | 18:55 |
-| 🟢 1.0 | 13 km S of Searles Valley, CA | 18:53 |
-| 🔴 5.5 | South Sandwich Islands region | 18:41 |
-| 🟢 2.8 | 102 km N of Yakutat, Alaska | 18:27 |
-| 🟢 2.1 | 3 km SE of San Ramon, CA | 18:22 |
-| 🟢 2.1 | 20 km WNW of Stanton, Texas | 18:21 |
+| 🟢 0.9 | 7 km ESE of Ridgecrest, CA | 20:15 |
+| 🟢 2.2 | 70 km NNE of Petersville, Alaska | 20:11 |
+| 🟢 1.9 | 8 km W of Templeton, CA | 20:08 |
+| 🟢 0.7 | 9 km SW of Idyllwild, CA | 19:52 |
+| 🟠 3.6 | 112 km N of Yakutat, Alaska | 19:48 |
+| 🟢 1.9 | 14 km S of Volcano, Hawaii | 19:41 |
+| 🟢 2.1 | 5 km SE of San Ramon, CA | 19:41 |
+| 🟢 1.5 | 46 km NW of Toyah, Texas | 19:36 |
+| 🟢 1.4 | 30 km SSE of Midland, Texas | 19:35 |
+| 🟢 2.2 | 57 km ESE of Ugashik, Alaska | 19:34 |
+| 🟠 3.0 | 16 km S of Volcano, Hawaii | 19:26 |
+| 🟢 1.2 | 16 km S of Volcano, Hawaii | 19:26 |
+| 🟢 2.5 | 110 km NNW of Yakutat, Alaska | 19:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
