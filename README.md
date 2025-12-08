@@ -2,21 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2012:42:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-375ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2013:34:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-507ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.3 | 3 km SSW of Pāhala, Hawaii | 12:30 |
-| 🟢 1.7 | 13 km W of Niland, CA | 12:23 |
-| 🟢 2.6 | 13 km NE of Kettleman City, CA | 12:21 |
-| 🟠 4.7 | 24 km SW of Kabare, Democratic Republic of the Congo | 12:19 |
-| 🟢 1.5 | 4 km SE of San Ramon, CA | 12:19 |
-| 🟢 0.8 | 5 km NW of The Geysers, CA | 12:09 |
-| 🟠 4.6 | 3 km N of Baco, Philippines | 11:59 |
-| 🟢 1.9 | 132 km NW of Yakutat, Alaska | 11:57 |
-| 🟢 1.6 | 59 km NNW of Karluk, Alaska | 11:50 |
-| 🟢 1.6 | 4 km SE of San Ramon, CA | 11:45 |
+| 🟢 2.1 | 5 km SE of San Ramon, CA | 13:29 |
+| 🟢 1.6 | 3 km ESE of San Ramon, CA | 13:27 |
+| 🟢 2.4 | 3 km SSE of San Ramon, CA | 13:21 |
+| 🟢 3.0 | 4 km SE of San Ramon, CA | 13:21 |
+| 🟢 3.0 | 73 km W of Petrolia, CA | 13:10 |
+| 🟢 2.6 | 13 km ENE of Kettleman City, CA | 13:08 |
+| 🟢 2.5 | 13 km ENE of Kettleman City, CA | 12:59 |
+| 🟢 1.2 | 12 km ESE of Anza, CA | 12:56 |
+| 🟠 3.0 | 110 km N of Ambler, Alaska | 12:50 |
+| 🟢 0.5 | 7 km WSW of Anza, CA | 12:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
