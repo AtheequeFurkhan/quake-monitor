@@ -2,24 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2020:23:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-284ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2021:17:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-478ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 7 km ESE of Ridgecrest, CA | 20:15 |
-| 🟢 2.2 | 70 km NNE of Petersville, Alaska | 20:11 |
-| 🟢 1.9 | 8 km W of Templeton, CA | 20:08 |
-| 🟢 0.7 | 9 km SW of Idyllwild, CA | 19:52 |
-| 🟠 3.6 | 112 km N of Yakutat, Alaska | 19:48 |
-| 🟢 1.9 | 14 km S of Volcano, Hawaii | 19:41 |
-| 🟢 2.1 | 5 km SE of San Ramon, CA | 19:41 |
-| 🟢 1.5 | 46 km NW of Toyah, Texas | 19:36 |
-| 🟢 1.4 | 30 km SSE of Midland, Texas | 19:35 |
-| 🟢 2.2 | 57 km ESE of Ugashik, Alaska | 19:34 |
-| 🟠 3.0 | 16 km S of Volcano, Hawaii | 19:26 |
-| 🟢 1.2 | 16 km S of Volcano, Hawaii | 19:26 |
-| 🟢 2.5 | 110 km NNW of Yakutat, Alaska | 19:23 |
+| 🟢 2.0 | 5 km SE of Kettleman City, CA | 21:12 |
+| 🟢 1.5 | 9 km WNW of The Geysers, CA | 21:06 |
+| 🟢 2.9 | 38 km ESE of King Salmon, Alaska | 21:02 |
+| 🟠 3.4 | 107 km N of Yakutat, Alaska | 20:41 |
+| 🟠 4.8 | 298 km ENE of Lospalos, Timor Leste | 20:39 |
+| 🟢 0.7 | 7 km W of Cobb, CA | 20:35 |
+| 🟠 3.6 | 100 km N of Yakutat, Alaska | 20:34 |
+| 🟢 2.2 | 17 km W of Susitna North, Alaska | 20:32 |
+| 🟠 5.0 | 187 km NNE of Colonia, Micronesia | 20:31 |
+| 🟢 1.4 | 8 km S of Hickory, Oklahoma | 20:30 |
+| 🟢 0.7 | 12 km SSE of Anza, CA | 20:29 |
+| 🟢 1.2 | 5 km SE of Addy, Washington | 20:24 |
+| 🟢 1.8 | 7 km SSE of Molalla, Oregon | 20:17 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
