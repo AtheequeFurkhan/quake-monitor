@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2006:34:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-217ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2007:23:38%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-279ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.8 | 60 km WSW of Karluk, Alaska | 06:21 |
-| 🟢 2.4 | 29 km WNW of Petersville, Alaska | 06:20 |
-| 🟢 1.1 | 4 km ENE of Pinnacles, CA | 06:12 |
-| 🟢 0.9 | 23 km SW of Ocotillo Wells, CA | 06:04 |
-| 🟢 0.6 | 22 km N of Borrego Springs, CA | 06:00 |
-| 🟢 2.3 | 65 km NW of Yakutat, Alaska | 05:53 |
-| 🟢 3.0 | 10 km E of Loco, Oklahoma | 05:45 |
-| 🟢 2.0 | 4 km SSW of Wasilla, Alaska | 05:44 |
+| 🟢 1.4 | 15 km NE of Ridgecrest, CA | 07:20 |
+| 🟢 2.5 | 81 km W of Akhiok, Alaska | 07:09 |
+| 🟢 1.4 | 17 km NW of Anderson, Alaska | 07:02 |
+| 🟢 1.1 | 10 km SW of Idyllwild, CA | 06:58 |
+| 🟢 1.7 | 18 km SSE of Westbrook, Texas | 06:50 |
+| 🟢 2.4 | 86 km SW of Karluk, Alaska | 06:41 |
+| 🟢 2.6 | 14 km NE of Milford, Utah | 06:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
