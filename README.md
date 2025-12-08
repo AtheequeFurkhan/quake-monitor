@@ -2,16 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2015:22:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-430ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2016:28:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-252ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 29 km NW of Toyah, Texas | 15:11 |
-| 🟢 1.9 | 26 km SW of Jal, New Mexico | 15:09 |
-| 🟠 4.2 | 109 km N of Yakutat, Alaska | 14:44 |
-| 🔴 5.5 | 96 km ENE of Hachinohe, Japan | 14:33 |
-| 🟠 3.2 | 26 km W of Puako, Hawaii | 14:24 |
+| 🟢 1.6 | 46 km NW of Toyah, Texas | 16:21 |
+| 🟢 2.2 | 4 km SE of San Ramon, CA | 16:16 |
+| 🟢 1.1 | 7 km WNW of Cobb, CA | 16:15 |
+| 🟢 1.5 | 46 km NW of Toyah, Texas | 16:12 |
+| 🟢 1.5 | 12 km NE of Fox, Alaska | 16:11 |
+| 🟢 0.7 | 2 km N of The Geysers, CA | 16:07 |
+| 🟢 2.1 | 57 km S of Whites City, New Mexico | 15:51 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
