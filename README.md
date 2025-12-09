@@ -2,22 +2,14 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2021:17:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-198ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2022:20:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-749ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 72 km SE of Denali National Park, Alaska | 21:09 |
-| 🟢 1.6 | 4 km SE of San Ramon, CA | 21:06 |
-| 🟢 0.8 | 9 km NW of The Geysers, CA | 20:52 |
-| 🟢 1.1 | 8 km ENE of Fox, Alaska | 20:46 |
-| 🟢 1.2 | 4 km NE of Victorville, CA | 20:43 |
-| 🟢 2.0 | 84 km NW of Yakutat, Alaska | 20:36 |
-| 🟢 1.0 | 2 km ESE of Home Gardens, CA | 20:30 |
-| 🟢 1.9 | 21 km ENE of Coachella, CA | 20:24 |
-| 🟢 1.8 | 21 km ENE of Coachella, CA | 20:23 |
-| 🟢 0.7 | 8 km S of Idyllwild, CA | 20:22 |
-| 🟠 3.8 | 107 km N of Yakutat, Alaska | 20:22 |
+| 🟢 1.1 | 7 km NW of The Geysers, CA | 22:07 |
+| 🟢 1.7 | 29 km ESE of Pāhala, Hawaii | 22:04 |
+| 🟢 0.7 | 12 km SSE of Anza, CA | 21:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
