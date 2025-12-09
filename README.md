@@ -2,19 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2004:28:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-476ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2005:20:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-184ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.6 | 9 km NW of The Geysers, CA | 05:16 |
+| 🟢 1.1 | 19 km E of Anza, CA | 05:13 |
+| 🟢 1.7 | 23 km E of Pāhala, Hawaii | 04:40 |
+| 🟠 4.7 | Rat Islands, Aleutian Islands, Alaska | 04:29 |
 | 🟢 0.8 | 8 km NW of The Geysers, CA | 04:24 |
-| 🟢 1.3 | 7 km WNW of Redwood Valley, CA | 04:16 |
-| 🟢 2.3 | 7 km WNW of Redwood Valley, CA | 04:10 |
-| 🟢 1.2 | 3 km WSW of Borrego Springs, CA | 04:09 |
-| 🟢 1.5 | 6 km SE of Grand Terrace, CA | 03:56 |
-| 🟢 2.4 | 88 km N of Yakutat, Alaska | 03:53 |
-| 🟠 3.7 | 6 km WSW of Gypsum, Kansas | 03:39 |
-| 🟢 1.2 | 19 km SSW of Ocotillo Wells, CA | 03:38 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
