@@ -2,19 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2006:32:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-254ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2007:22:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-495ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🔴 5.2 | 43 km W of Sinabang, Indonesia | 07:02 |
+| 🟢 0.7 | 7 km WNW of Cobb, CA | 07:01 |
+| 🟠 3.4 | 95 km N of Yakutat, Alaska | 06:54 |
+| 🟢 1.3 | 19 km N of San Simeon, CA | 06:52 |
+| 🟢 1.6 | 44 km NW of Toyah, Texas | 06:41 |
+| 🟢 1.6 | 44 km NW of Toyah, Texas | 06:41 |
+| 🟢 0.9 | 4 km ESE of El Centro, CA | 06:40 |
+| 🟢 0.8 | 5 km WNW of Cobb, CA | 06:35 |
 | 🟢 2.2 | 4 km SE of San Ramon, CA | 06:24 |
 | 🟢 2.5 | 4 km SE of San Ramon, CA | 06:23 |
-| 🟢 2.6 | 56 km SSW of Whites City, New Mexico | 06:15 |
-| 🟢 2.3 | 55 km S of Whites City, New Mexico | 06:15 |
-| 🟢 1.6 | 55 km N of Chase, Alaska | 06:10 |
-| 🟢 2.5 | 4 km ESE of El Centro, CA | 06:05 |
-| 🟢 0.5 | 20 km E of Anza, CA | 05:57 |
-| 🟢 1.8 | 1 km SW of Hope, Alaska | 05:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
