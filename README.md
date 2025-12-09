@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2014:22:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-277ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2015:24:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-496ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.3 | 57 km N of Petersville, Alaska | 14:06 |
-| 🟢 1.1 | 44 km E of Clear, Alaska | 14:03 |
-| 🟢 0.3 | 19 km E of Anza, CA | 13:55 |
-| 🟢 2.2 | 65 km E of Port Alsworth, Alaska | 13:52 |
-| 🟢 0.7 | 9 km WNW of Cobb, CA | 13:41 |
-| 🟢 0.8 | 2 km N of The Geysers, CA | 13:37 |
-| 🟢 0.7 | 13 km ENE of Cloverdale, CA | 13:31 |
-| 🟢 1.9 | 86 km WNW of Yakutat, Alaska | 13:31 |
+| 🟢 1.9 | 58 km S of Whites City, New Mexico | 15:18 |
+| 🟢 1.6 | 5 km SSW of Redlands, CA | 15:16 |
+| 🟢 1.2 | 3 km WSW of Anderson Springs, CA | 15:12 |
+| 🟢 1.6 | 29 km WNW of Susitna, Alaska | 15:04 |
+| 🟢 0.6 | 19 km SW of Ocotillo Wells, CA | 14:59 |
+| 🟢 1.9 | 1 km SW of Pāhala, Hawaii | 14:50 |
+| 🟢 2.7 | 54 km N of Yakutat, Alaska | 14:47 |
+| 🟢 1.1 | 1 km NE of The Geysers, CA | 14:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
