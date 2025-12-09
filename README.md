@@ -2,18 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2008%20Dec%202025%2023:19:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-597ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2001:38:47%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-291ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 55 km NW of Toyah, Texas | 23:08 |
-| 🟢 0.7 | 5 km WNW of Cobb, CA | 23:07 |
-| 🟢 2.9 | 2 km E of Piedmont, CA | 22:55 |
-| 🟠 4.2 | 105 km N of Yakutat, Alaska | 22:51 |
-| 🟢 1.5 | 5 km SE of Home Gardens, CA | 22:42 |
-| 🟢 0.7 | 7 km NW of The Geysers, CA | 22:23 |
-| 🟢 2.9 | 30 km WNW of Willow, Alaska | 22:22 |
+| 🟢 0.9 | 8 km ENE of Moreno Valley, CA | 01:27 |
+| 🟢 1.7 | 4 km SE of San Ramon, CA | 01:21 |
+| 🟢 2.7 | 106 km N of Yakutat, Alaska | 01:20 |
+| 🟢 2.2 | 13 km E of Pāhala, Hawaii | 01:11 |
+| 🟢 2.0 | 10 km W of Templeton, CA | 01:06 |
+| 🟢 2.1 | 12 km SSE of Anza, CA | 00:52 |
+| 🟢 1.0 | 13 km E of Julian, CA | 00:50 |
+| 🟢 1.3 | 3 km WSW of Cobb, CA | 00:43 |
+| 🟢 0.6 | 2 km NW of The Geysers, CA | 00:41 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
