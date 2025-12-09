@@ -2,19 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2011:19:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-289ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2012:43:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-274ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.3 | 10 km WNW of The Geysers, CA | 11:14 |
-| 🟢 1.6 | 5 km SW of Tres Pinos, CA | 10:58 |
-| 🟢 1.3 | 126 km SE of McCarthy, Alaska | 10:54 |
-| 🟢 0.2 | 10 km NW of The Geysers, CA | 10:49 |
-| 🟢 2.0 | 3 km NW of Pinnacles, CA | 10:49 |
-| 🟢 1.4 | 4 km SE of San Ramon, CA | 10:29 |
-| 🟢 1.4 | 15 km W of Palos Verdes Estates, CA | 10:23 |
-| 🟢 1.4 | 4 km SE of San Ramon, CA | 10:23 |
+| 🟢 1.7 | 29 km ENE of Pedro Bay, Alaska | 12:38 |
+| 🟢 1.8 | 10 km E of Coahoma, Texas | 12:28 |
+| 🟢 0.8 | 20 km SW of Ocotillo Wells, CA | 12:22 |
+| 🟢 0.3 | 7 km NW of Aguanga, CA | 12:15 |
+| 🟢 1.9 | 7 km SSW of Clam Gulch, Alaska | 11:49 |
+| 🟢 1.4 | 6 km NW of The Geysers, CA | 11:48 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
