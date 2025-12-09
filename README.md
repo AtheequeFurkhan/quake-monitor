@@ -2,16 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2005:20:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-184ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2006:32:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-254ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.6 | 9 km NW of The Geysers, CA | 05:16 |
-| 🟢 1.1 | 19 km E of Anza, CA | 05:13 |
-| 🟢 1.7 | 23 km E of Pāhala, Hawaii | 04:40 |
-| 🟠 4.7 | Rat Islands, Aleutian Islands, Alaska | 04:29 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 04:24 |
+| 🟢 2.2 | 4 km SE of San Ramon, CA | 06:24 |
+| 🟢 2.5 | 4 km SE of San Ramon, CA | 06:23 |
+| 🟢 2.6 | 56 km SSW of Whites City, New Mexico | 06:15 |
+| 🟢 2.3 | 55 km S of Whites City, New Mexico | 06:15 |
+| 🟢 1.6 | 55 km N of Chase, Alaska | 06:10 |
+| 🟢 2.5 | 4 km ESE of El Centro, CA | 06:05 |
+| 🟢 0.5 | 20 km E of Anza, CA | 05:57 |
+| 🟢 1.8 | 1 km SW of Hope, Alaska | 05:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
