@@ -2,16 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2016:27:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-585ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2017:20:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-1.493s-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.9 | 20 km SW of Ocotillo Wells, CA | 17:05 |
+| 🟢 0.6 | 13 km NW of The Geysers, CA | 16:50 |
+| 🟢 1.1 | 5 km NNW of The Geysers, CA | 16:46 |
+| 🟢 0.4 | 14 km SE of Anza, CA | 16:44 |
+| 🟢 0.8 | 13 km ENE of Cloverdale, CA | 16:37 |
+| 🟢 1.0 | 22 km SW of La Quinta, CA | 16:28 |
+| 🟢 2.1 | 12 km NW of The Geysers, CA | 16:25 |
 | 🟢 2.2 | 57 km WNW of Nanwalek, Alaska | 16:24 |
-| 🟢 0.8 | 5 km NE of San Jacinto, CA | 16:19 |
-| 🟢 1.7 | 8 km SSW of Westlake Village, CA | 16:03 |
-| 🟢 0.8 | 6 km WNW of The Geysers, CA | 15:55 |
-| 🟢 2.1 | 31 km ENE of Balmorhea, Texas | 15:51 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
