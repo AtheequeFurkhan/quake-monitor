@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2001:38:47%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-291ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2003:18:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-268ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 8 km ENE of Moreno Valley, CA | 01:27 |
-| 🟢 1.7 | 4 km SE of San Ramon, CA | 01:21 |
-| 🟢 2.7 | 106 km N of Yakutat, Alaska | 01:20 |
-| 🟢 2.2 | 13 km E of Pāhala, Hawaii | 01:11 |
-| 🟢 2.0 | 10 km W of Templeton, CA | 01:06 |
-| 🟢 2.1 | 12 km SSE of Anza, CA | 00:52 |
-| 🟢 1.0 | 13 km E of Julian, CA | 00:50 |
-| 🟢 1.3 | 3 km WSW of Cobb, CA | 00:43 |
-| 🟢 0.6 | 2 km NW of The Geysers, CA | 00:41 |
+| 🟢 1.6 | 50 km WNW of Toyah, Texas | 03:09 |
+| 🟢 1.9 | 11 km NNW of Kermit, Texas | 03:09 |
+| 🟢 0.2 | 10 km NW of The Geysers, CA | 03:03 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 02:56 |
+| 🟢 0.6 | 17 km NE of Pine Valley, CA | 02:44 |
+| 🟠 3.1 | 68 km SE of Port Graham, Alaska | 02:24 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
