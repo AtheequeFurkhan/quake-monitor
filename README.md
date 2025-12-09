@@ -2,22 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2008:29:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-284ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2009:24:22%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-543ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.5 | 6 km NW of The Geysers, CA | 09:14 |
+| 🟠 3.6 | 87 km E of Yakutat, Alaska | 09:07 |
+| 🟢 1.7 | 15 km N of Fishhook, Alaska | 08:58 |
+| 🟢 1.8 | 11 km SSE of Pāhala, Hawaii | 08:48 |
+| 🟢 0.7 | 10 km WNW of Palomar Observatory, CA | 08:45 |
+| 🟢 1.2 | 7 km NW of The Geysers, CA | 08:43 |
+| 🟢 0.9 | 3 km SW of Borrego Springs, CA | 08:40 |
 | 🟢 0.7 | 3 km N of The Geysers, CA | 08:27 |
-| 🟠 4.0 | 96 km NNE of Yakutat, Alaska | 08:11 |
-| 🟢 2.2 | 11 km E of Pāhala, Hawaii | 08:09 |
-| 🟠 3.1 | 4 km SW of Borrego Springs, CA | 08:01 |
-| 🟢 0.4 | 20 km SW of Ocotillo Wells, CA | 07:51 |
-| 🟢 0.5 | 19 km SW of Ocotillo Wells, CA | 07:46 |
-| 🟢 0.6 | 19 km S of Trona, CA | 07:41 |
-| 🟢 0.7 | 7 km WNW of Cobb, CA | 07:40 |
-| 🟢 0.5 | 19 km SW of Ocotillo Wells, CA | 07:37 |
-| 🟢 0.9 | 20 km SW of Ocotillo Wells, CA | 07:36 |
-| 🟢 1.7 | 8 km NE of Alum Rock, CA | 07:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
