@@ -2,15 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2018:27:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-260ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2019:15:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-406ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 93 km WNW of Aleneva, Alaska | 18:18 |
+| 🟢 2.1 | 19 km E of Point Possession, Alaska | 19:11 |
+| 🟢 1.0 | 13 km NW of The Geysers, CA | 19:07 |
+| 🟢 2.7 | 39 km W of Port Lions, Alaska | 19:03 |
+| 🟢 1.9 | 16 km NNE of Barstow, CA | 18:53 |
+| 🟢 1.0 | 10 km NW of The Geysers, CA | 18:41 |
+| 🟢 0.8 | 10 km NW of The Geysers, CA | 18:32 |
+| 🟢 1.0 | 88 km N of Karluk, Alaska | 18:18 |
 | 🟢 1.8 | 23 km SSE of Volcano, Hawaii | 18:18 |
-| 🟢 2.3 | 76 km NW of Yakutat, Alaska | 18:12 |
-| 🟢 1.0 | 3 km ENE of Borrego Springs, CA | 17:55 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
