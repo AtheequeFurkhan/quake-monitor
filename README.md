@@ -2,21 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2007:22:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-495ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2008:29:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-284ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🔴 5.2 | 43 km W of Sinabang, Indonesia | 07:02 |
-| 🟢 0.7 | 7 km WNW of Cobb, CA | 07:01 |
-| 🟠 3.4 | 95 km N of Yakutat, Alaska | 06:54 |
-| 🟢 1.3 | 19 km N of San Simeon, CA | 06:52 |
-| 🟢 1.6 | 44 km NW of Toyah, Texas | 06:41 |
-| 🟢 1.6 | 44 km NW of Toyah, Texas | 06:41 |
-| 🟢 0.9 | 4 km ESE of El Centro, CA | 06:40 |
-| 🟢 0.8 | 5 km WNW of Cobb, CA | 06:35 |
-| 🟢 2.2 | 4 km SE of San Ramon, CA | 06:24 |
-| 🟢 2.5 | 4 km SE of San Ramon, CA | 06:23 |
+| 🟢 0.7 | 3 km N of The Geysers, CA | 08:27 |
+| 🟠 4.0 | 96 km NNE of Yakutat, Alaska | 08:11 |
+| 🟢 2.2 | 11 km E of Pāhala, Hawaii | 08:09 |
+| 🟠 3.1 | 4 km SW of Borrego Springs, CA | 08:01 |
+| 🟢 0.4 | 20 km SW of Ocotillo Wells, CA | 07:51 |
+| 🟢 0.5 | 19 km SW of Ocotillo Wells, CA | 07:46 |
+| 🟢 0.6 | 19 km S of Trona, CA | 07:41 |
+| 🟢 0.7 | 7 km WNW of Cobb, CA | 07:40 |
+| 🟢 0.5 | 19 km SW of Ocotillo Wells, CA | 07:37 |
+| 🟢 0.9 | 20 km SW of Ocotillo Wells, CA | 07:36 |
+| 🟢 1.7 | 8 km NE of Alum Rock, CA | 07:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
