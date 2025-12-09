@@ -2,17 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2003:18:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-268ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2004:28:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-476ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 50 km WNW of Toyah, Texas | 03:09 |
-| 🟢 1.9 | 11 km NNW of Kermit, Texas | 03:09 |
-| 🟢 0.2 | 10 km NW of The Geysers, CA | 03:03 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 02:56 |
-| 🟢 0.6 | 17 km NE of Pine Valley, CA | 02:44 |
-| 🟠 3.1 | 68 km SE of Port Graham, Alaska | 02:24 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 04:24 |
+| 🟢 1.3 | 7 km WNW of Redwood Valley, CA | 04:16 |
+| 🟢 2.3 | 7 km WNW of Redwood Valley, CA | 04:10 |
+| 🟢 1.2 | 3 km WSW of Borrego Springs, CA | 04:09 |
+| 🟢 1.5 | 6 km SE of Grand Terrace, CA | 03:56 |
+| 🟢 2.4 | 88 km N of Yakutat, Alaska | 03:53 |
+| 🟠 3.7 | 6 km WSW of Gypsum, Kansas | 03:39 |
+| 🟢 1.2 | 19 km SSW of Ocotillo Wells, CA | 03:38 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
