@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2010:25:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-294ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2011:19:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-289ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 9 km NW of The Geysers, CA | 10:13 |
-| 🟢 0.4 | 14 km ENE of Ridgecrest, CA | 10:12 |
-| 🟢 0.8 | 5 km WNW of The Geysers, CA | 10:02 |
-| 🟢 1.8 | 1 km SW of Pāhala, Hawaii | 09:51 |
-| 🟢 1.7 | 5 km NW of Redwood Valley, CA | 09:47 |
-| 🟢 1.0 | 26 km NNW of Tehachapi, CA | 09:32 |
-| 🟢 1.4 | 3 km ENE of Chatsworth, CA | 09:32 |
+| 🟢 0.3 | 10 km WNW of The Geysers, CA | 11:14 |
+| 🟢 1.6 | 5 km SW of Tres Pinos, CA | 10:58 |
+| 🟢 1.3 | 126 km SE of McCarthy, Alaska | 10:54 |
+| 🟢 0.2 | 10 km NW of The Geysers, CA | 10:49 |
+| 🟢 2.0 | 3 km NW of Pinnacles, CA | 10:49 |
+| 🟢 1.4 | 4 km SE of San Ramon, CA | 10:29 |
+| 🟢 1.4 | 15 km W of Palos Verdes Estates, CA | 10:23 |
+| 🟢 1.4 | 4 km SE of San Ramon, CA | 10:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
