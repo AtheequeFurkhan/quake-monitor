@@ -2,19 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2019:15:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-406ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2020:20:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-597ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 19 km E of Point Possession, Alaska | 19:11 |
-| 🟢 1.0 | 13 km NW of The Geysers, CA | 19:07 |
-| 🟢 2.7 | 39 km W of Port Lions, Alaska | 19:03 |
-| 🟢 1.9 | 16 km NNE of Barstow, CA | 18:53 |
-| 🟢 1.0 | 10 km NW of The Geysers, CA | 18:41 |
-| 🟢 0.8 | 10 km NW of The Geysers, CA | 18:32 |
-| 🟢 1.0 | 88 km N of Karluk, Alaska | 18:18 |
-| 🟢 1.8 | 23 km SSE of Volcano, Hawaii | 18:18 |
+| 🟢 0.9 | 9 km WNW of The Geysers, CA | 20:08 |
+| 🟢 1.6 | 24 km NW of Karluk, Alaska | 20:07 |
+| 🟢 2.0 | 14 km NE of Milford, Utah | 19:47 |
+| 🟢 2.6 | 14 km NE of Milford, Utah | 19:47 |
+| 🟢 1.1 | 8 km NW of The Geysers, CA | 19:42 |
+| 🟠 3.4 | 113 km N of Yakutat, Alaska | 19:39 |
+| 🟢 2.2 | 2 km NE of Lewiston Orchards, Idaho | 19:28 |
+| 🟢 1.3 | 15 km NE of Milford, Utah | 19:23 |
+| 🟢 1.0 | 4 km ENE of Borrego Springs, CA | 19:22 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
