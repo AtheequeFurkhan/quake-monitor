@@ -2,17 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2008:29:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-479ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2009:30:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-597ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 30 km WNW of Salamatof, Alaska | 08:21 |
-| 🟢 2.3 | 7 km WSW of Fort Greely, Alaska | 07:50 |
-| 🟠 4.9 | 111 km WSW of Banda Aceh, Indonesia | 07:42 |
-| 🟢 1.8 | 75 km WNW of Ninilchik, Alaska | 07:38 |
-| 🟢 0.8 | 8 km WNW of Cobb, CA | 07:34 |
-| 🟢 2.0 | 4 km S of Pāhala, Hawaii | 07:30 |
+| 🟢 0.9 | 20 km ESE of Anza, CA | 09:18 |
+| 🟠 3.2 | 4 km NNW of Big Lake, Alaska | 09:11 |
+| 🟢 0.9 | 9 km NE of Coso Junction, CA | 09:04 |
+| 🟢 1.1 | 7 km W of Cobb, CA | 08:59 |
+| 🟢 2.2 | 5 km SSW of Indios, Puerto Rico | 08:56 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 08:50 |
+| 🟢 1.9 | 51 km NW of Toyah, Texas | 08:45 |
+| 🟢 1.5 | 5 km N of Dublin, CA | 08:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
