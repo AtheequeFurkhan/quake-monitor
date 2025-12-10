@@ -2,22 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2011:18:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-251ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2012:43:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-263ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 11:10 |
-| 🟢 1.4 | 6 km SSW of Redlands, CA | 11:09 |
-| 🟢 1.9 | 93 km NW of Yakutat, Alaska | 11:06 |
-| 🟠 4.0 | 119 km N of Yakutat, Alaska | 10:58 |
-| 🟢 1.7 | 24 km NW of Susitna, Alaska | 10:51 |
-| 🟢 1.3 | 116 km SE of McCarthy, Alaska | 10:49 |
-| 🟢 0.5 | 23 km ESE of Anza, CA | 10:48 |
-| 🟢 0.7 | 6 km W of Cobb, CA | 10:34 |
-| 🟢 1.1 | 1 km ENE of The Geysers, CA | 10:32 |
-| 🟢 1.2 | 11 km WNW of Cobb, CA | 10:30 |
-| 🟢 2.1 | 92 km N of Yakutat, Alaska | 10:18 |
+| 🟢 2.0 | 2 km W of Happy Valley, Alaska | 12:31 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 12:25 |
+| 🟢 1.7 | 6 km E of Fremont, CA | 12:14 |
+| 🟢 1.3 | 12 km NW of The Geysers, CA | 12:12 |
+| 🟢 2.0 | 12 km WNW of The Geysers, CA | 12:11 |
+| 🟢 1.5 | 38 km SE of Denali National Park, Alaska | 12:10 |
+| 🟢 1.4 | 14 km NNW of Midland, Texas | 12:03 |
+| 🟢 0.8 | 15 km NNW of Midland, Texas | 12:01 |
+| 🟢 1.7 | 16 km SW of Laupāhoehoe, Hawaii | 11:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
