@@ -2,19 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2017:22:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-217ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2018:30:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-181ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 64 km NW of Rampart, Alaska | 17:16 |
-| 🟢 1.9 | 21 km NW of Grapevine, CA | 17:03 |
-| 🟢 0.8 | 16 km W of Searles Valley, CA | 16:51 |
-| 🟢 1.0 | 2 km W of Loma Linda, CA | 16:50 |
-| 🟢 1.0 | 10 km NW of The Geysers, CA | 16:42 |
-| 🟢 1.4 | 1 km SSW of Hollywood, CA | 16:28 |
-| 🟢 1.3 | 5 km NNE of El Segundo, CA | 16:28 |
-| 🟠 3.0 | 74 km N of San Juan, Puerto Rico | 16:25 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 18:26 |
+| 🟢 1.9 | 4 km NNE of Heber, CA | 18:26 |
+| 🟢 0.9 | 31 km E of Minto, Alaska | 18:26 |
+| 🟢 2.0 | 6 km NE of La Parguera, Puerto Rico | 18:14 |
+| 🟢 1.1 | 1 km N of The Geysers, CA | 17:36 |
+| 🟢 1.9 | 87 km N of Yakutat, Alaska | 17:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
