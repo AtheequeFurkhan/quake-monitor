@@ -2,17 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2021:21:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-176ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2022:20:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-327ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 1 km ESE of The Geysers, CA | 21:05 |
-| 🟢 0.8 | 3 km S of Cobb, CA | 21:03 |
-| 🟢 1.5 | 69 km ESE of Cantwell, Alaska | 21:01 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 20:48 |
-| 🟢 2.1 | 1 km WNW of Indios, Puerto Rico | 20:44 |
-| 🟢 0.5 | 8 km WNW of Cobb, CA | 20:25 |
+| 🟢 1.0 | 6 km W of Cobb, CA | 21:58 |
+| 🟢 1.3 | 5 km ESE of Pinnacles, CA | 21:53 |
+| 🟢 1.6 | 18 km E of Balmorhea, Texas | 21:49 |
+| 🟢 0.2 | 8 km NW of The Geysers, CA | 21:44 |
+| 🟢 1.3 | 17 km NW of Parkfield, CA | 21:40 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
