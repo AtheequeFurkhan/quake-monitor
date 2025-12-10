@@ -2,15 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2013:36:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-370ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2014:22:47%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-474ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.2 | 15 km E of Coso Junction, CA | 14:17 |
+| 🟢 2.5 | 15 km E of Coso Junction, CA | 14:16 |
+| 🟢 0.8 | 14 km NE of Milford, Utah | 13:54 |
+| 🟢 1.9 | 36 km NW of Toyah, Texas | 13:52 |
+| 🟢 0.7 | 9 km NW of The Geysers, CA | 13:46 |
+| 🟢 2.5 | 42 km NNW of Chenega, Alaska | 13:36 |
+| 🟢 1.2 | 13 km W of Ludlow, CA | 13:34 |
 | 🟢 0.7 | 5 km WNW of Cobb, CA | 13:31 |
-| 🟢 1.3 | 5 km WNW of Cobb, CA | 12:52 |
-| 🟢 2.3 | 25 km NW of Ludlow, CA | 12:44 |
-| 🟢 2.4 | 37 km W of Port Lions, Alaska | 12:42 |
+| 🔴 5.3 | 69 km W of Panguna, Papua New Guinea | 13:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
