@@ -2,22 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2010:24:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-394ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2011:18:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-251ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 11:10 |
+| 🟢 1.4 | 6 km SSW of Redlands, CA | 11:09 |
+| 🟢 1.9 | 93 km NW of Yakutat, Alaska | 11:06 |
+| 🟠 4.0 | 119 km N of Yakutat, Alaska | 10:58 |
+| 🟢 1.7 | 24 km NW of Susitna, Alaska | 10:51 |
+| 🟢 1.3 | 116 km SE of McCarthy, Alaska | 10:49 |
+| 🟢 0.5 | 23 km ESE of Anza, CA | 10:48 |
+| 🟢 0.7 | 6 km W of Cobb, CA | 10:34 |
+| 🟢 1.1 | 1 km ENE of The Geysers, CA | 10:32 |
+| 🟢 1.2 | 11 km WNW of Cobb, CA | 10:30 |
 | 🟢 2.1 | 92 km N of Yakutat, Alaska | 10:18 |
-| 🟢 1.8 | 7 km S of Pāhala, Hawaii | 10:15 |
-| 🟢 1.6 | 64 km ESE of Denali National Park, Alaska | 10:11 |
-| 🟢 1.2 | 59 km SSE of McCarthy, Alaska | 10:10 |
-| 🟢 0.7 | 17 km SSW of Maricopa, CA | 10:09 |
-| 🟢 1.0 | 2 km NNW of The Geysers, CA | 10:05 |
-| 🟠 4.3 | 110 km N of Yakutat, Alaska | 09:50 |
-| 🟠 3.7 | 110 km N of Yakutat, Alaska | 09:44 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 09:43 |
-| 🟠 4.7 | 32 km E of Shwebo, Burma (Myanmar) | 09:35 |
-| 🟠 4.3 | 279 km SW of Severo-Kuril’sk, Russia | 09:25 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
