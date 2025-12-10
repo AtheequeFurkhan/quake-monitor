@@ -2,14 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2006:33:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-315ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2007:22:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-192ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 58 km S of Whites City, New Mexico | 06:21 |
-| 🟢 2.9 | 1 km NE of Willow, Alaska | 06:19 |
-| 🟢 0.4 | 1 km WNW of Banning, CA | 05:59 |
+| 🟢 1.5 | 4 km NW of Redwood Valley, CA | 07:06 |
+| 🟢 1.6 | 9 km ESE of Dry Creek, Alaska | 07:05 |
+| 🟢 2.3 | 10 km NNE of Brooktrails, CA | 07:04 |
+| 🟢 1.6 | 81 km S of Kokhanok, Alaska | 06:57 |
+| 🟢 1.7 | 4 km NW of Redwood Valley, CA | 06:43 |
+| 🟢 1.1 | 5 km WNW of The Geysers, CA | 06:42 |
+| 🟢 1.8 | 52 km SSW of Whites City, New Mexico | 06:41 |
+| 🟢 1.8 | 47 km SSE of Nelchina, Alaska | 06:39 |
+| 🟢 2.3 | 18 km S of Guánica, Puerto Rico | 06:39 |
+| 🔴 5.2 | 65 km WSW of Vallenar, Chile | 06:38 |
+| 🟢 1.3 | 4 km NW of Redwood Valley, CA | 06:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
