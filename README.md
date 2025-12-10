@@ -2,20 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2012:43:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-263ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2013:36:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-370ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 2 km W of Happy Valley, Alaska | 12:31 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 12:25 |
-| 🟢 1.7 | 6 km E of Fremont, CA | 12:14 |
-| 🟢 1.3 | 12 km NW of The Geysers, CA | 12:12 |
-| 🟢 2.0 | 12 km WNW of The Geysers, CA | 12:11 |
-| 🟢 1.5 | 38 km SE of Denali National Park, Alaska | 12:10 |
-| 🟢 1.4 | 14 km NNW of Midland, Texas | 12:03 |
-| 🟢 0.8 | 15 km NNW of Midland, Texas | 12:01 |
-| 🟢 1.7 | 16 km SW of Laupāhoehoe, Hawaii | 11:47 |
+| 🟢 0.7 | 5 km WNW of Cobb, CA | 13:31 |
+| 🟢 1.3 | 5 km WNW of Cobb, CA | 12:52 |
+| 🟢 2.3 | 25 km NW of Ludlow, CA | 12:44 |
+| 🟢 2.4 | 37 km W of Port Lions, Alaska | 12:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
