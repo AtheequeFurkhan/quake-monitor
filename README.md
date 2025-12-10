@@ -2,17 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2019:18:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-472ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2020:24:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-486ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 10 km ENE of Hidden Valley Lake, CA | 19:10 |
-| 🟢 1.2 | 14 km NW of Ocotillo, CA | 18:42 |
-| 🟢 0.4 | 7 km NW of The Geysers, CA | 18:28 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 18:26 |
-| 🟢 1.9 | 4 km NNE of Heber, CA | 18:26 |
-| 🟢 0.9 | 31 km E of Minto, Alaska | 18:26 |
+| 🟢 1.1 | 8 km WSW of Pala, CA | 20:02 |
+| 🟢 1.8 | 4 km SSW of Pāhala, Hawaii | 20:01 |
+| 🟢 1.4 | 6 km SSW of Mojave, CA | 19:57 |
+| 🟢 0.7 | 23 km SSW of Little Lake, CA | 19:37 |
+| 🟢 1.1 | 5 km NNW of Lakeside, CA | 19:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
