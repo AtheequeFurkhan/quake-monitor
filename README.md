@@ -2,20 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2009%20Dec%202025%2023:19:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-198ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2001:40:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-324ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 5 km WNW of Cobb, CA | 23:06 |
-| 🟢 1.0 | 14 km W of Mojave, CA | 23:00 |
-| 🟢 1.1 | 27 km N of Yucca Valley, CA | 22:48 |
-| 🟢 1.2 | 3 km W of Cobb, CA | 22:44 |
-| 🟢 1.6 | 59 km WNW of Toyah, Texas | 22:36 |
-| 🟢 1.2 | 15 km NE of Milford, Utah | 22:32 |
-| 🟢 1.4 | 4 km ENE of Rancho San Diego, CA | 22:30 |
-| 🟢 2.5 | 83 km W of Karluk, Alaska | 22:27 |
-| 🟢 2.2 | 7 km W of Templeton, CA | 22:21 |
+| 🟢 1.1 | 6 km NNW of The Geysers, CA | 01:36 |
+| 🟢 0.7 | 86 km NNW of Karluk, Alaska | 01:34 |
+| 🟢 1.9 | 20 km SW of Ocotillo Wells, CA | 01:27 |
+| 🟢 1.6 | 9 km N of Santa Paula, CA | 01:11 |
+| 🟢 0.8 | 2 km N of The Geysers, CA | 01:04 |
+| 🟢 0.8 | 2 km N of The Geysers, CA | 00:44 |
+| 🟢 1.3 | 5 km NW of Boron, CA | 00:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
