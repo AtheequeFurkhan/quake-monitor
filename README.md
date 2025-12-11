@@ -2,19 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2022:20:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-540ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2023:19:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-191ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 8 km NW of The Geysers, CA | 22:18 |
-| 🟢 1.1 | 25 km SSW of Ocotillo Wells, CA | 22:13 |
-| 🟢 1.5 | 13 km ENE of Ridgecrest, CA | 22:11 |
-| 🟢 1.1 | 20 km ESE of Little Lake, CA | 22:10 |
-| 🟢 1.3 | 4 km ESE of Pinnacles, CA | 21:47 |
-| 🟢 2.2 | 13 km NW of Fillmore, CA | 21:32 |
-| 🟢 1.9 | 13 km NW of Fillmore, CA | 21:32 |
-| 🟢 0.9 | 8 km W of Cobb, CA | 21:31 |
+| 🟢 1.1 | 7 km NW of The Geysers, CA | 23:16 |
+| 🟢 0.4 | 9 km WNW of The Geysers, CA | 23:09 |
+| 🟢 2.1 | 76 km NW of Yakutat, Alaska | 23:02 |
+| 🟢 1.7 | 76 km NW of Yakutat, Alaska | 22:59 |
+| 🟢 0.8 | 8 km WNW of Cobb, CA | 22:53 |
+| 🟢 2.0 | 79 km NNW of Aleneva, Alaska | 22:51 |
+| 🟢 1.1 | 7 km WNW of Cobb, CA | 22:42 |
+| 🟢 2.2 | 6 km SE of La Parguera, Puerto Rico | 22:34 |
+| 🟢 1.5 | 46 km NW of Toyah, Texas | 22:29 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
