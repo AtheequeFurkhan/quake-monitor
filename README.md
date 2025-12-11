@@ -2,24 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2010%20Dec%202025%2023:17:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-301ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2001:41:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-268ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 44 km NE of Chase, Alaska | 23:13 |
-| 🟢 0.8 | 2 km N of The Geysers, CA | 22:57 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 22:55 |
-| 🟢 1.2 | 13 km NW of The Geysers, CA | 22:54 |
-| 🟢 1.6 | 72 km WNW of Ninilchik, Alaska | 22:52 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 22:47 |
-| 🟢 2.2 | 4 km SE of San Ramon, CA | 22:44 |
-| 🟢 1.5 | 108 km S of McCarthy, Alaska | 22:40 |
-| 🟢 1.7 | 3 km ENE of The Geysers, CA | 22:34 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 22:32 |
-| 🟢 1.9 | 61 km ESE of Pedro Bay, Alaska | 22:26 |
-| 🟢 2.8 | 80 km N of San Juan, Puerto Rico | 22:17 |
-| 🟠 4.2 | 146 km NNE of Ambler, Alaska | 22:17 |
+| 🟢 0.2 | 11 km ENE of Palomar Observatory, CA | 01:28 |
+| 🟢 1.7 | 6 km NNE of San Dimas, CA | 01:06 |
+| 🟢 2.5 | 67 km WSW of Alberto Oviedo Mota, B.C., MX | 01:05 |
+| 🟢 1.6 | 9 km WNW of The Geysers, CA | 00:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
