@@ -2,16 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2004:35:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-209ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2005:22:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-189ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.7 | 133 km N of Yakutat, Alaska | 04:20 |
-| 🟢 2.8 | 47 km WNW of Anchor Point, Alaska | 04:04 |
-| 🟢 1.0 | 9 km WNW of The Geysers, CA | 04:02 |
-| 🟢 2.4 | 16 km SW of Tatitlek, Alaska | 04:01 |
-| 🟢 2.0 | 7 km WNW of Parkfield, CA | 03:58 |
+| 🟢 1.0 | 6 km WNW of Cobb, CA | 05:20 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 04:49 |
+| 🟢 0.8 | 10 km NW of The Geysers, CA | 04:41 |
+| 🟢 1.8 | 135 km SE of McCarthy, Alaska | 04:38 |
+| 🟢 2.8 | 38 km NNW of Toyah, Texas | 04:35 |
+| 🟢 2.5 | 111 km N of Yakutat, Alaska | 04:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
