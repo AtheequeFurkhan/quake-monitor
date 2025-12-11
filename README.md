@@ -2,15 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2006:33:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-383ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2007:23:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-471ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.3 | 49 km W of Mentone, Texas | 06:08 |
-| 🟢 2.0 | 8 km ESE of Susitna North, Alaska | 05:55 |
-| 🟢 1.6 | 15 km SSE of Glacier View, Alaska | 05:50 |
-| 🟠 4.4 | 296 km WSW of Olonkinbyen, Svalbard and Jan Mayen | 05:40 |
+| 🟢 1.0 | 2 km SW of Borrego Springs, CA | 07:20 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 07:11 |
+| 🟢 1.2 | 2 km ESE of The Geysers, CA | 07:08 |
+| 🟠 4.5 | 9 km ESE of Sındırgı, Turkey | 07:06 |
+| 🟢 0.6 | 6 km NE of Anza, CA | 06:59 |
+| 🟢 2.4 | 43 km W of Aleneva, Alaska | 06:58 |
+| 🟢 0.9 | 5 km NE of Anza, CA | 06:51 |
+| 🟢 0.7 | 6 km NE of Anza, CA | 06:42 |
+| 🟢 1.0 | 6 km NE of Anza, CA | 06:40 |
+| 🟢 1.0 | 10 km NNE of Ojai, CA | 06:37 |
+| 🟢 0.3 | 5 km NE of Anza, CA | 06:36 |
+| 🟢 1.0 | 6 km NE of Anza, CA | 06:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
