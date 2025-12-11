@@ -2,15 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2014:22:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-311ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2015:24:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-251ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 10 km N of Ridgeway, Alaska | 14:08 |
-| 🟢 1.0 | 12 km W of Johannesburg, CA | 13:56 |
-| 🟢 1.9 | 16 km S of Tres Pinos, CA | 13:56 |
-| 🟠 3.3 | 4 km NE of Blue Lake, CA | 13:35 |
+| 🟢 1.6 | 61 km S of Whites City, New Mexico | 15:17 |
+| 🟢 1.6 | 16 km NW of Ferry, Alaska | 15:17 |
+| 🟢 1.2 | 3 km SSW of Banning, CA | 15:15 |
+| 🟢 1.2 | 19 km ESE of Anza, CA | 14:53 |
+| 🟢 0.7 | 4 km W of Cobb, CA | 14:52 |
+| 🟢 0.4 | 8 km W of Cobb, CA | 14:43 |
+| 🟢 1.0 | 17 km SSW of Searles Valley, CA | 14:36 |
+| 🟢 1.2 | 13 km WNW of Calipatria, CA | 14:35 |
+| 🟢 2.1 | 69 km NW of Yakutat, Alaska | 14:35 |
+| 🟠 3.4 | 13 km SE of Pāhala, Hawaii | 14:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
