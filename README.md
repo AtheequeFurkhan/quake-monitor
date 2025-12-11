@@ -2,24 +2,35 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2018:30:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-387ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2019:19:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-457ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.8 | 10 km NNE of Parkfield, CA | 19:04 |
+| 🟢 1.2 | 31 km SE of Malaga, New Mexico | 19:01 |
+| 🟢 1.5 | 13 km NW of Fillmore, CA | 19:01 |
+| 🟢 2.2 | 13 km NW of Fillmore, CA | 18:59 |
+| 🟢 2.9 | 38 km NNE of Chenega, Alaska | 18:57 |
+| 🟢 1.5 | 13 km NW of Fillmore, CA | 18:57 |
+| 🟢 2.0 | 93 km SE of Kokhanok, Alaska | 18:56 |
+| 🟢 1.5 | 3 km NW of The Geysers, CA | 18:47 |
+| 🟢 2.2 | 24 km W of Petrolia, CA | 18:44 |
+| 🟢 1.9 | 14 km NW of Fillmore, CA | 18:41 |
+| 🟠 4.4 | 56 km NNW of Fef, Indonesia | 18:37 |
+| 🟢 1.4 | 13 km NW of Fillmore, CA | 18:35 |
+| 🟢 1.2 | 13 km NW of Fillmore, CA | 18:34 |
+| 🟢 2.8 | 13 km NW of Fillmore, CA | 18:31 |
+| 🟢 1.7 | 46 km NW of Toyah, Texas | 18:30 |
+| 🟢 1.9 | 14 km NW of Fillmore, CA | 18:30 |
+| 🟢 1.1 | 13 km NW of Fillmore, CA | 18:30 |
+| 🟢 2.6 | 14 km NW of Fillmore, CA | 18:29 |
+| 🟢 2.5 | 13 km NW of Fillmore, CA | 18:28 |
 | 🟠 3.3 | 15 km NW of Fillmore, CA | 18:27 |
 | 🟢 2.6 | 13 km NW of Fillmore, CA | 18:27 |
 | 🟢 1.7 | 2 km NE of The Geysers, CA | 18:26 |
 | 🟢 1.1 | 13 km WNW of The Geysers, CA | 18:23 |
-| 🟢 2.8 | 14 km NW of Fillmore, CA | 18:21 |
-| 🟢 1.7 | 13 km NW of Fillmore, CA | 18:01 |
-| 🟢 0.2 | 12 km NE of Little Lake, CA | 17:56 |
-| 🟢 2.4 | 45 km W of Happy Valley, Alaska | 17:53 |
-| 🟢 1.1 | 15 km NW of Fillmore, CA | 17:51 |
-| 🟢 2.0 | 13 km NW of Fillmore, CA | 17:50 |
-| 🟢 1.5 | 13 km NW of Fillmore, CA | 17:49 |
-| 🟢 1.3 | 12 km NE of Little Lake, CA | 17:48 |
-| 🟢 2.3 | 13 km NW of Fillmore, CA | 17:33 |
+| 🟢 2.5 | 15 km NW of Fillmore, California | 18:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
