@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2008:29:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-480ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2009:25:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-260ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 52 km NW of Tatitlek, Alaska | 08:20 |
-| 🟢 1.9 | 14 km ENE of Pāhala, Hawaii | 08:18 |
-| 🟢 0.9 | 20 km SW of Ocotillo Wells, CA | 08:11 |
-| 🟢 1.9 | 41 km NNW of Chickaloon, Alaska | 07:59 |
-| 🟢 2.0 | 3 km SW of Borrego Springs, CA | 07:59 |
-| 🟢 1.6 | 37 km SE of Valdez, Alaska | 07:46 |
-| 🟢 0.5 | 5 km WNW of Cobb, CA | 07:45 |
-| 🟢 1.5 | 20 km SW of Ocotillo Wells, CA | 07:44 |
-| 🟢 0.4 | 11 km ESE of Anza, CA | 07:34 |
+| 🟢 2.0 | 45 km WNW of Circle, Alaska | 09:13 |
+| 🟢 2.3 | 2 km SSW of Pāhala, Hawaii | 09:08 |
+| 🟢 1.7 | 64 km SE of Denali National Park, Alaska | 09:01 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 08:38 |
+| 🟢 2.1 | 7 km NW of The Geysers, CA | 08:37 |
+| 🟢 1.8 | 28 km S of Chickaloon, Alaska | 08:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
