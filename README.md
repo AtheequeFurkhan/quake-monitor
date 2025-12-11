@@ -2,17 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2009:25:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-260ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2010:24:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-186ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 45 km WNW of Circle, Alaska | 09:13 |
-| 🟢 2.3 | 2 km SSW of Pāhala, Hawaii | 09:08 |
-| 🟢 1.7 | 64 km SE of Denali National Park, Alaska | 09:01 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 08:38 |
-| 🟢 2.1 | 7 km NW of The Geysers, CA | 08:37 |
-| 🟢 1.8 | 28 km S of Chickaloon, Alaska | 08:36 |
+| 🟢 0.5 | 5 km WNW of Cobb, CA | 10:18 |
+| 🟢 2.0 | 11 km ENE of Pāhala, Hawaii | 10:06 |
+| 🟢 2.0 | 24 km S of Lopez Point, CA | 09:59 |
+| 🟠 3.6 | 89 km SSE of Perryville, Alaska | 09:59 |
+| 🟢 0.9 | 5 km NE of Anza, CA | 09:56 |
+| 🟢 0.8 | 3 km SW of Borrego Springs, CA | 09:38 |
+| 🟢 2.3 | 73 km SE of Pedro Bay, Alaska | 09:25 |
+| 🟢 2.1 | 4 km S of Espino, Puerto Rico | 09:24 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
