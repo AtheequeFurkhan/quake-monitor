@@ -2,16 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2021:22:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-176ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2022:20:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-540ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 10 km E of Big Bear City, CA | 21:12 |
-| 🟢 0.9 | 84 km NW of Karluk, Alaska | 20:51 |
-| 🟢 2.4 | 43 km E of Pedro Bay, Alaska | 20:47 |
-| 🟢 2.0 | 13 km NW of Fillmore, CA | 20:35 |
-| 🟢 3.0 | 53 km NNE of Kobuk, Alaska | 20:32 |
+| 🟢 1.0 | 8 km NW of The Geysers, CA | 22:18 |
+| 🟢 1.1 | 25 km SSW of Ocotillo Wells, CA | 22:13 |
+| 🟢 1.5 | 13 km ENE of Ridgecrest, CA | 22:11 |
+| 🟢 1.1 | 20 km ESE of Little Lake, CA | 22:10 |
+| 🟢 1.3 | 4 km ESE of Pinnacles, CA | 21:47 |
+| 🟢 2.2 | 13 km NW of Fillmore, CA | 21:32 |
+| 🟢 1.9 | 13 km NW of Fillmore, CA | 21:32 |
+| 🟢 0.9 | 8 km W of Cobb, CA | 21:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
