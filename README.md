@@ -2,23 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2007:23:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-471ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2008:29:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-480ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 2 km SW of Borrego Springs, CA | 07:20 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 07:11 |
-| 🟢 1.2 | 2 km ESE of The Geysers, CA | 07:08 |
-| 🟠 4.5 | 9 km ESE of Sındırgı, Turkey | 07:06 |
-| 🟢 0.6 | 6 km NE of Anza, CA | 06:59 |
-| 🟢 2.4 | 43 km W of Aleneva, Alaska | 06:58 |
-| 🟢 0.9 | 5 km NE of Anza, CA | 06:51 |
-| 🟢 0.7 | 6 km NE of Anza, CA | 06:42 |
-| 🟢 1.0 | 6 km NE of Anza, CA | 06:40 |
-| 🟢 1.0 | 10 km NNE of Ojai, CA | 06:37 |
-| 🟢 0.3 | 5 km NE of Anza, CA | 06:36 |
-| 🟢 1.0 | 6 km NE of Anza, CA | 06:34 |
+| 🟢 1.6 | 52 km NW of Tatitlek, Alaska | 08:20 |
+| 🟢 1.9 | 14 km ENE of Pāhala, Hawaii | 08:18 |
+| 🟢 0.9 | 20 km SW of Ocotillo Wells, CA | 08:11 |
+| 🟢 1.9 | 41 km NNW of Chickaloon, Alaska | 07:59 |
+| 🟢 2.0 | 3 km SW of Borrego Springs, CA | 07:59 |
+| 🟢 1.6 | 37 km SE of Valdez, Alaska | 07:46 |
+| 🟢 0.5 | 5 km WNW of Cobb, CA | 07:45 |
+| 🟢 1.5 | 20 km SW of Ocotillo Wells, CA | 07:44 |
+| 🟢 0.4 | 11 km ESE of Anza, CA | 07:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
