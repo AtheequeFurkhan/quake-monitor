@@ -2,14 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2016:30:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-632ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2017:25:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-183ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 18 km ENE of Pāhala, Hawaii | 15:52 |
-| 🟢 2.1 | 13 km E of Pāhala, Hawaii | 15:52 |
-| 🟢 1.1 | 16 km WSW of Johannesburg, CA | 15:32 |
+| 🟢 2.4 | 5 km N of Dublin, CA | 17:19 |
+| 🟢 1.9 | 101 km NNW of Yakutat, Alaska | 17:18 |
+| 🟢 1.5 | 14 km N of Barstow, Texas | 17:08 |
+| 🟢 1.8 | 75 km NNE of Petersville, Alaska | 16:55 |
+| 🟢 2.9 | 55 km WSW of Nanwalek, Alaska | 16:49 |
+| 🟢 1.1 | 15 km WSW of Johannesburg, CA | 16:44 |
+| 🟢 1.7 | 83 km NNW of Aleneva, Alaska | 16:44 |
+| 🟢 1.9 | 80 km NNW of Aleneva, Alaska | 16:39 |
+| 🟢 0.8 | 48 km NW of Toyah, Texas | 16:36 |
+| 🟢 1.6 | 46 km NW of Toyah, Texas | 16:33 |
+| 🟢 1.7 | 46 km SE of Egegik, Alaska | 16:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
