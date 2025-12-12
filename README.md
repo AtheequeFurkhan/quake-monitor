@@ -2,19 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2008:29:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-310ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2009:25:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-391ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.9 | 16 km W of Volcano, Hawaii | 09:20 |
+| 🟢 0.4 | 4 km WNW of Borrego Springs, CA | 09:19 |
+| 🟢 0.9 | 5 km W of Cobb, CA | 09:10 |
+| 🟢 1.0 | 3 km SW of Anderson Springs, CA | 09:06 |
+| 🟢 2.2 | 7 km SSE of Guánica, Puerto Rico | 08:57 |
+| 🟢 0.4 | 6 km NE of Anza, CA | 08:53 |
+| 🟢 1.1 | 7 km NW of The Geysers, CA | 08:52 |
+| 🟢 0.6 | 6 km NE of Anza, CA | 08:47 |
+| 🟢 0.9 | 20 km SW of Ocotillo Wells, CA | 08:36 |
+| 🟢 0.7 | 5 km NW of The Geysers, CA | 08:35 |
+| 🟢 1.9 | 52 km WNW of Ninilchik, Alaska | 08:34 |
 | 🟢 1.1 | 10 km NW of The Geysers, CA | 08:25 |
-| 🟢 1.6 | 60 km S of Whites City, New Mexico | 08:18 |
-| 🟢 0.7 | 63 km SSE of McCarthy, Alaska | 08:09 |
-| 🟢 1.8 | 32 km WNW of Valdez, Alaska | 07:58 |
-| 🟢 0.3 | 6 km SSW of Idyllwild, CA | 07:58 |
-| 🟢 2.0 | 127 km S of McCarthy, Alaska | 07:54 |
-| 🟢 1.0 | 2 km NW of Fontana, CA | 07:44 |
-| 🟢 0.9 | 19 km ESE of Little Lake, CA | 07:41 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
