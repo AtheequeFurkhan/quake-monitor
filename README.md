@@ -2,20 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2011%20Dec%202025%2023:19:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-191ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2001:41:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-565ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 7 km NW of The Geysers, CA | 23:16 |
-| 🟢 0.4 | 9 km WNW of The Geysers, CA | 23:09 |
-| 🟢 2.1 | 76 km NW of Yakutat, Alaska | 23:02 |
-| 🟢 1.7 | 76 km NW of Yakutat, Alaska | 22:59 |
-| 🟢 0.8 | 8 km WNW of Cobb, CA | 22:53 |
-| 🟢 2.0 | 79 km NNW of Aleneva, Alaska | 22:51 |
-| 🟢 1.1 | 7 km WNW of Cobb, CA | 22:42 |
-| 🟢 2.2 | 6 km SE of La Parguera, Puerto Rico | 22:34 |
-| 🟢 1.5 | 46 km NW of Toyah, Texas | 22:29 |
+| 🟢 0.8 | 5 km WNW of Cobb, CA | 01:31 |
+| 🟢 1.0 | 8 km SSE of San Juan Bautista, CA | 01:26 |
+| 🟠 3.3 | 9 km SSE of San Juan Bautista, CA | 01:19 |
+| 🟢 1.8 | 64 km ESE of Denali National Park, Alaska | 01:15 |
+| 🟢 2.1 | 36 km W of Anchor Point, Alaska | 00:59 |
+| 🟢 1.5 | 21 km ESE of Anza, CA | 00:56 |
+| 🟠 4.4 | 28 km WSW of Atico, Peru | 00:46 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
