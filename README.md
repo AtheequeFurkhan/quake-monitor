@@ -2,32 +2,34 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2013:34:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-154ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2014:19:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-324ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 58 km SSW of Whites City, New Mexico | 13:28 |
-| 🟢 1.8 | 9 km WNW of The Geysers, CA | 13:17 |
-| 🟢 1.0 | 9 km WNW of The Geysers, CA | 13:12 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 13:01 |
-| 🟠 3.1 | 63 km N of Culebra, Puerto Rico | 13:01 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 12:57 |
-| 🟢 1.2 | 3 km S of Yorba Linda, CA | 12:42 |
+| 🟢 1.5 | 8 km NW of The Geysers, CA | 14:08 |
+| 🔴 5.2 | South Sandwich Islands region | 13:56 |
+| 🟢 1.3 | 4 km WNW of Cabazon, CA | 13:53 |
+| 🟢 1.0 | 6 km N of Big Bear City, CA | 13:53 |
+| 🟢 1.5 | 20 km W of Tyonek, Alaska | 13:48 |
+| 🟢 2.0 | 13 km S of Stratford, CA | 13:47 |
+| 🟢 1.7 | 39 km NNE of Chenega, Alaska | 13:39 |
+| 🟠 3.1 | 63 km N of Culebra, Puerto Rico | 13:36 |
+| 🟢 1.6 | 57 km SSW of Whites City, New Mexico | 13:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
+- 🔥 **Wildfires**: [RX Llano 5625 Prescribed Fire, Llano, Texas](https://irwin.doi.gov/observer/incidents/5104c261-c20d-4f98-9075-dea48dded603) (Dec 11)
+- 🔥 **Wildfires**: [RX WINN BU 64 Prescribed Fire, Winn, Louisiana](https://irwin.doi.gov/observer/incidents/60dc5be0-5b6a-42e4-92d5-f455238bad07) (Dec 11)
+- 🔥 **Wildfires**: [APQ Area 12 Rx 1211 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/5a7c223c-10f4-4184-81e3-382aa92aef23) (Dec 11)
+- 🔥 **Wildfires**: [RX CRCC South Prescribed Fire, Murray, Oklahoma](https://irwin.doi.gov/observer/incidents/bf234461-aa98-4fe3-80e6-3a02d597b72e) (Dec 10)
+- 🔥 **Wildfires**: [RX CALV BU 129-130-131 Prescribed Fire, Vernon, Louisiana](https://irwin.doi.gov/observer/incidents/b24125d0-5877-4644-89df-d1c9b9cecf52) (Dec 10)
+- 🔥 **Wildfires**: [APQ Area 12 Rx 1209 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/452b2d3a-355d-496b-b714-a7b7cf2127cb) (Dec 09)
+- 🔥 **Wildfires**: [SNF Clarktown RX Blk C &amp; D Prescribed Fire, Sabine, Texas](https://irwin.doi.gov/observer/incidents/baf2beaa-b380-446b-ba7c-75ab48316d87) (Dec 09)
 - 🔥 **Wildfires**: [RX CALV BU 237-264 Prescribed Fire, Vernon, Louisiana](https://irwin.doi.gov/observer/incidents/94988e37-a6bc-415a-9acf-ee4e65264c09) (Dec 08)
 - 🌋 **Volcanoes**: [Nyamulagira Volcano, DR Congo](https://volcano.si.edu/volcano.cfm?vn=223020) (Dec 07)
 - 🔥 **Wildfires**: [APQ South Tactical Range Rx 1206 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/c86a2dac-91b8-421d-b16b-fb8f7138d8e7) (Dec 06)
-- 🔥 **Wildfires**: [APQ South Tactical Range Rx 1205 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/2f327ebe-c134-41db-bcc2-30e543cff4c9) (Dec 05)
-- 🔥 **Wildfires**: [UBC Upper Jacks RX Prescribed Fire, Coconino, Arizona](https://irwin.doi.gov/observer/incidents/e4ade81a-4db6-40d3-825a-256a5e63689a) (Dec 04)
-- 🔥 **Wildfires**: [Rat RX Prescribed Fire, Lawrence, South Dakota](https://irwin.doi.gov/observer/incidents/096ecf62-bfad-414e-a52e-82557b882805) (Dec 03)
-- 🌋 **Volcanoes**: [Ambae Volcano, Vanuatu](https://volcano.si.edu/volcano.cfm?vn=257030) (Dec 03)
-- 🔥 **Wildfires**: [Slicker RX Prescribed Fire, Lawrence, South Dakota](https://irwin.doi.gov/observer/incidents/59505b42-17c5-4a4a-8567-c068e013bcfb) (Dec 02)
-- 🌋 **Volcanoes**: [Puracé Volcano, Colombia](https://volcano.si.edu/volcano.cfm?vn=351060) (Dec 02)
-- 🔥 **Wildfires**: [Carex RX Prescribed Fire, Crook, Wyoming](https://irwin.doi.gov/observer/incidents/ad128565-ce07-4800-80f8-79ba17407b86) (Dec 01)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
