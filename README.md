@@ -2,14 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2003:23:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-489ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2004:34:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-232ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🔴 6.7 | 114 km ENE of Hachinohe, Japan | 02:44 |
-| 🟢 0.1 | 11 km NNW of Warner Springs, CA | 02:43 |
-| 🟢 2.9 | 66 km NNE of Petersville, Alaska | 02:42 |
+| 🟢 1.8 | 59 km S of Whites City, New Mexico | 04:22 |
+| 🟢 2.2 | 17 km WSW of Volcano, Hawaii | 04:18 |
+| 🟢 1.5 | 74 km NNW of Karluk, Alaska | 04:16 |
+| 🟢 1.3 | 11 km NW of Ocotillo, CA | 04:01 |
+| 🟢 2.1 | 79 km NW of Yakutat, Alaska | 03:58 |
+| 🟢 2.0 | 21 km W of Volcano, Hawaii | 03:53 |
+| 🟢 1.1 | 11 km NW of Ocotillo, CA | 03:46 |
+| 🟢 2.1 | 94 km NW of Yakutat, Alaska | 03:41 |
+| 🟢 2.3 | 10 km SSE of San Juan Bautista, CA | 03:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
