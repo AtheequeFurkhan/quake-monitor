@@ -2,20 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2014:19:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-324ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2015:22:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-447ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 8 km NW of The Geysers, CA | 14:08 |
-| 🔴 5.2 | South Sandwich Islands region | 13:56 |
-| 🟢 1.3 | 4 km WNW of Cabazon, CA | 13:53 |
-| 🟢 1.0 | 6 km N of Big Bear City, CA | 13:53 |
-| 🟢 1.5 | 20 km W of Tyonek, Alaska | 13:48 |
-| 🟢 2.0 | 13 km S of Stratford, CA | 13:47 |
-| 🟢 1.7 | 39 km NNE of Chenega, Alaska | 13:39 |
-| 🟠 3.1 | 63 km N of Culebra, Puerto Rico | 13:36 |
-| 🟢 1.6 | 57 km SSW of Whites City, New Mexico | 13:28 |
+| 🟢 0.8 | 10 km WNW of The Geysers, CA | 15:19 |
+| 🟢 0.6 | 6 km NNW of Cabazon, CA | 15:12 |
+| 🟢 2.7 | 86 km SSE of Perryville, Alaska | 15:09 |
+| 🟢 1.4 | 15 km W of Camp Pendleton South, CA | 15:07 |
+| 🟢 1.8 | 30 km SSE of Chignik Lake, Alaska | 14:59 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 14:59 |
+| 🟢 2.4 | 52 km N of Petersville, Alaska | 14:59 |
+| 🟠 4.6 | 146 km ENE of Masohi, Indonesia | 14:49 |
+| 🟢 2.7 | 108 km N of Yakutat, Alaska | 14:49 |
+| 🟢 2.0 | 57 km S of Whites City, New Mexico | 14:47 |
+| 🟢 0.6 | 4 km ENE of Cabazon, CA | 14:34 |
+| 🟢 2.0 | 32 km E of Cordova, Alaska | 14:24 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
