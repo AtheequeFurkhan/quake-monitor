@@ -2,16 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2012:42:52%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-470ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2013:34:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-154ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 6 km NE of Anza, CA | 12:29 |
-| 🟢 2.2 | 71 km NNE of Petersville, Alaska | 12:24 |
-| 🟢 1.7 | 44 km WSW of Manley Hot Springs, Alaska | 12:23 |
-| 🟢 2.7 | 19 km NNW of Willow, Alaska | 12:09 |
-| 🟢 1.5 | 88 km NNW of Yakutat, Alaska | 12:06 |
+| 🟢 1.9 | 58 km SSW of Whites City, New Mexico | 13:28 |
+| 🟢 1.8 | 9 km WNW of The Geysers, CA | 13:17 |
+| 🟢 1.0 | 9 km WNW of The Geysers, CA | 13:12 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 13:01 |
+| 🟠 3.1 | 63 km N of Culebra, Puerto Rico | 13:01 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 12:57 |
+| 🟢 1.2 | 3 km S of Yorba Linda, CA | 12:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
