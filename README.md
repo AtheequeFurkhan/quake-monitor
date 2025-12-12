@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2007:22:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-377ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2008:29:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-310ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.3 | 6 km WNW of Cobb, CA | 07:06 |
-| 🟢 1.1 | 5 km WNW of Cobb, CA | 07:05 |
-| 🟢 2.6 | 5 km WSW of Pāhala, Hawaii | 07:04 |
-| 🟢 2.0 | 4 km N of Moose Pass, Alaska | 06:56 |
-| 🟢 0.9 | 1 km NNE of Placentia, CA | 06:53 |
-| 🟢 0.6 | 18 km NW of Parkfield, CA | 06:47 |
-| 🟢 1.2 | 8 km W of Templeton, CA | 06:41 |
+| 🟢 1.1 | 10 km NW of The Geysers, CA | 08:25 |
+| 🟢 1.6 | 60 km S of Whites City, New Mexico | 08:18 |
+| 🟢 0.7 | 63 km SSE of McCarthy, Alaska | 08:09 |
+| 🟢 1.8 | 32 km WNW of Valdez, Alaska | 07:58 |
+| 🟢 0.3 | 6 km SSW of Idyllwild, CA | 07:58 |
+| 🟢 2.0 | 127 km S of McCarthy, Alaska | 07:54 |
+| 🟢 1.0 | 2 km NW of Fontana, CA | 07:44 |
+| 🟢 0.9 | 19 km ESE of Little Lake, CA | 07:41 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
