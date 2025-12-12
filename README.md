@@ -2,21 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2011:19:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-288ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2012:42:52%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-470ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 0 km NNW of Beaumont, CA | 11:09 |
-| 🟢 0.6 | 9 km SW of Idyllwild, CA | 11:08 |
-| 🟢 1.1 | 0 km NW of Beaumont, CA | 11:08 |
-| 🟢 0.7 | 1 km NNW of Beaumont, CA | 11:07 |
-| 🟢 2.5 | 61 km ENE of Pedro Bay, Alaska | 11:04 |
-| 🟢 1.4 | 61 km S of Glacier View, Alaska | 10:59 |
-| 🟢 2.1 | 57 km WNW of Aleneva, Alaska | 10:50 |
-| 🟢 1.8 | 21 km SSE of San Pedro, CA | 10:39 |
-| 🟢 1.1 | 4 km SSW of South Pasadena, CA | 10:34 |
-| 🟢 2.4 | 12 km NE of Pāhala, Hawaii | 10:33 |
+| 🟢 0.7 | 6 km NE of Anza, CA | 12:29 |
+| 🟢 2.2 | 71 km NNE of Petersville, Alaska | 12:24 |
+| 🟢 1.7 | 44 km WSW of Manley Hot Springs, Alaska | 12:23 |
+| 🟢 2.7 | 19 km NNW of Willow, Alaska | 12:09 |
+| 🟢 1.5 | 88 km NNW of Yakutat, Alaska | 12:06 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
