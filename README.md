@@ -2,20 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2004:34:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-232ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2005:21:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-168ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.6 | 11 km SSW of Borrego Springs, CA | 05:09 |
+| 🟢 1.4 | 19 km SSW of Ocotillo Wells, CA | 05:07 |
+| 🟢 0.7 | 18 km SSW of Ocotillo Wells, CA | 05:05 |
+| 🟢 1.2 | 9 km SSW of Ojai, CA | 05:00 |
+| 🟢 0.6 | 1 km N of The Geysers, CA | 04:56 |
+| 🟢 3.0 | 85 km NE of Tonopah, Nevada | 04:31 |
+| 🟠 4.9 | 107 km WSW of Gorontalo, Indonesia | 04:29 |
 | 🟢 1.8 | 59 km S of Whites City, New Mexico | 04:22 |
-| 🟢 2.2 | 17 km WSW of Volcano, Hawaii | 04:18 |
-| 🟢 1.5 | 74 km NNW of Karluk, Alaska | 04:16 |
-| 🟢 1.3 | 11 km NW of Ocotillo, CA | 04:01 |
-| 🟢 2.1 | 79 km NW of Yakutat, Alaska | 03:58 |
-| 🟢 2.0 | 21 km W of Volcano, Hawaii | 03:53 |
-| 🟢 1.1 | 11 km NW of Ocotillo, CA | 03:46 |
-| 🟢 2.1 | 94 km NW of Yakutat, Alaska | 03:41 |
-| 🟢 2.3 | 10 km SSE of San Juan Bautista, CA | 03:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
