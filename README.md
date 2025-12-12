@@ -2,19 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2020:22:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-261ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2021:19:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-111ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 6 km NNW of The Geysers, CA | 20:07 |
-| 🟢 1.4 | 8 km E of Lebec, CA | 19:53 |
-| 🟢 2.2 | 19 km ESE of Naalehu, Hawaii | 19:53 |
-| 🟢 1.1 | 108 km SE of McCarthy, Alaska | 19:45 |
-| 🟢 2.2 | 57 km WNW of Happy Valley, Alaska | 19:41 |
-| 🟢 0.3 | 33 km E of West Yellowstone, Montana | 19:37 |
-| 🟢 0.6 | 34 km E of West Yellowstone, Montana | 19:36 |
-| 🟢 0.7 | 7 km WNW of The Geysers, CA | 19:24 |
+| 🟢 1.8 | 22 km NW of Tatitlek, Alaska | 21:08 |
+| 🟢 2.2 | 34 km N of Valdez, Alaska | 21:03 |
+| 🟢 2.1 | 54 km SSE of Whites City, New Mexico | 20:39 |
+| 🟢 0.7 | 13 km ENE of Cloverdale, CA | 20:38 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
