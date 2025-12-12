@@ -2,23 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2009:25:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-391ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2010:23:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-469ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 16 km W of Volcano, Hawaii | 09:20 |
-| 🟢 0.4 | 4 km WNW of Borrego Springs, CA | 09:19 |
-| 🟢 0.9 | 5 km W of Cobb, CA | 09:10 |
-| 🟢 1.0 | 3 km SW of Anderson Springs, CA | 09:06 |
-| 🟢 2.2 | 7 km SSE of Guánica, Puerto Rico | 08:57 |
-| 🟢 0.4 | 6 km NE of Anza, CA | 08:53 |
-| 🟢 1.1 | 7 km NW of The Geysers, CA | 08:52 |
-| 🟢 0.6 | 6 km NE of Anza, CA | 08:47 |
-| 🟢 0.9 | 20 km SW of Ocotillo Wells, CA | 08:36 |
-| 🟢 0.7 | 5 km NW of The Geysers, CA | 08:35 |
-| 🟢 1.9 | 52 km WNW of Ninilchik, Alaska | 08:34 |
-| 🟢 1.1 | 10 km NW of The Geysers, CA | 08:25 |
+| 🟢 1.5 | 112 km NW of Yakutat, Alaska | 10:16 |
+| 🟢 0.3 | 5 km NE of Anza, CA | 10:15 |
+| 🟢 2.1 | 43 km NW of Petersville, Alaska | 10:13 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 10:09 |
+| 🟢 1.3 | 6 km NW of The Geysers, CA | 10:09 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 10:06 |
+| 🟢 1.1 | 7 km ESE of Piru, CA | 10:04 |
+| 🟢 2.5 | 115 km WNW of Yakutat, Alaska | 09:48 |
+| 🟢 2.5 | 79 km SE of Perryville, Alaska | 09:47 |
+| 🟢 0.2 | 6 km WNW of The Geysers, CA | 09:33 |
+| 🟢 2.8 | 110 km N of Yakutat, Alaska | 09:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
