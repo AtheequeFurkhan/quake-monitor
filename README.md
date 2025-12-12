@@ -2,22 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2010:23:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-469ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2012%20Dec%202025%2011:19:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-288ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 112 km NW of Yakutat, Alaska | 10:16 |
-| 🟢 0.3 | 5 km NE of Anza, CA | 10:15 |
-| 🟢 2.1 | 43 km NW of Petersville, Alaska | 10:13 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 10:09 |
-| 🟢 1.3 | 6 km NW of The Geysers, CA | 10:09 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 10:06 |
-| 🟢 1.1 | 7 km ESE of Piru, CA | 10:04 |
-| 🟢 2.5 | 115 km WNW of Yakutat, Alaska | 09:48 |
-| 🟢 2.5 | 79 km SE of Perryville, Alaska | 09:47 |
-| 🟢 0.2 | 6 km WNW of The Geysers, CA | 09:33 |
-| 🟢 2.8 | 110 km N of Yakutat, Alaska | 09:27 |
+| 🟢 0.9 | 0 km NNW of Beaumont, CA | 11:09 |
+| 🟢 0.6 | 9 km SW of Idyllwild, CA | 11:08 |
+| 🟢 1.1 | 0 km NW of Beaumont, CA | 11:08 |
+| 🟢 0.7 | 1 km NNW of Beaumont, CA | 11:07 |
+| 🟢 2.5 | 61 km ENE of Pedro Bay, Alaska | 11:04 |
+| 🟢 1.4 | 61 km S of Glacier View, Alaska | 10:59 |
+| 🟢 2.1 | 57 km WNW of Aleneva, Alaska | 10:50 |
+| 🟢 1.8 | 21 km SSE of San Pedro, CA | 10:39 |
+| 🟢 1.1 | 4 km SSW of South Pasadena, CA | 10:34 |
+| 🟢 2.4 | 12 km NE of Pāhala, Hawaii | 10:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
