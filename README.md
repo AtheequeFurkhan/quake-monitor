@@ -2,19 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2013%20Dec%202025%2012:38:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-368ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2013%20Dec%202025%2013:26:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-168ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.4 | 7 km S of Borrego Springs, CA | 13:20 |
+| 🟢 2.1 | 46 km E of Pedro Bay, Alaska | 13:12 |
+| 🟠 3.5 | 31 km ESE of Susitna North, Alaska | 13:08 |
+| 🟢 1.8 | 17 km W of Volcano, Hawaii | 13:07 |
+| 🟢 1.6 | 55 km NW of Toyah, Texas | 13:06 |
+| 🟢 1.1 | 12 km N of Four Mile Road, Alaska | 13:05 |
+| 🟠 3.3 | 14 km NE of Pedro Bay, Alaska | 12:47 |
+| 🟢 1.2 | 3 km SW of Borrego Springs, CA | 12:43 |
+| 🟢 2.7 | 99 km N of Yakutat, Alaska | 12:39 |
 | 🟢 0.3 | 8 km W of Cobb, CA | 12:35 |
 | 🟢 0.6 | 3 km SSW of Cobb, CA | 12:28 |
-| 🔴 5.4 | 82 km W of Ollagüe, Chile | 12:18 |
-| 🟢 1.0 | 6 km N of Big Bear City, CA | 12:08 |
-| 🟢 1.1 | 3 km E of Mentone, CA | 11:51 |
-| 🟠 4.7 | 202 km E of Levuka, Fiji | 11:46 |
-| 🟢 1.6 | 5 km WNW of Lehi, Utah | 11:42 |
-| 🟢 2.3 | 20 km SE of Kasilof, Alaska | 11:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
