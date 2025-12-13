@@ -2,15 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2013%20Dec%202025%2021:17:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-353ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2013%20Dec%202025%2022:18:31%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-498ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 6 km SSW of Ojai, CA | 21:11 |
-| 🟢 1.4 | 10 km NE of San Martin, CA | 20:59 |
-| 🟢 1.5 | 63 km WNW of Toyah, Texas | 20:57 |
-| 🟢 2.5 | 58 km S of Whites City, New Mexico | 20:55 |
+| 🟢 0.4 | 5 km WNW of Cobb, CA | 22:12 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 22:12 |
+| 🟢 2.2 | 4 km SE of San Ramon, CA | 22:09 |
+| 🟢 1.6 | 69 km ESE of Cantwell, Alaska | 21:55 |
+| 🟢 2.0 | 9 km S of Ojai, CA | 21:47 |
+| 🟢 2.9 | 4 km ESE of San Ramon, CA | 21:44 |
+| 🟢 2.7 | 10 km S of Ojai, CA | 21:38 |
+| 🟢 2.0 | 10 km NE of Pāhala, Hawaii | 21:29 |
+| 🟢 1.7 | 17 km N of Mossyrock, Washington | 21:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
