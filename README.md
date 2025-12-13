@@ -2,18 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2013%20Dec%202025%2017:18:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-230ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2013%20Dec%202025%2018:26:31%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-511ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 59 km S of Whites City, New Mexico | 16:54 |
-| 🟢 0.3 | 9 km WNW of The Geysers, CA | 16:52 |
-| 🟢 1.3 | 27 km WSW of Ackerly, Texas | 16:50 |
-| 🟢 1.2 | 17 km SSE of Bodfish, CA | 16:42 |
-| 🟢 1.5 | 15 km NW of Grapevine, CA | 16:41 |
-| 🟢 2.2 | 58 km SSE of Cantwell, Alaska | 16:36 |
-| 🟢 0.8 | 9 km S of The Geysers, CA | 16:27 |
+| 🟢 1.1 | 8 km WNW of Cobb, CA | 18:14 |
+| 🟢 1.8 | 30 km NNE of Paxson, Alaska | 17:52 |
+| 🟢 1.6 | 58 km S of Whites City, New Mexico | 17:44 |
+| 🟢 0.8 | 5 km NW of The Geysers, CA | 17:36 |
+| 🟢 2.7 | 6 km WSW of Kenwood, CA | 17:30 |
+| 🟢 2.7 | 81 km W of Petrolia, CA | 17:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
