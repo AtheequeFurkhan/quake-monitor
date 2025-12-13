@@ -2,17 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2013%20Dec%202025%2006:30:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-339ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2013%20Dec%202025%2007:21:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-167ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.9 | 11 km SW of Petersville, Alaska | 07:09 |
+| 🟢 2.9 | 30 km S of Denali National Park, Alaska | 07:04 |
+| 🟢 1.4 | 9 km E of Healdsburg, CA | 06:55 |
+| 🟢 2.4 | 49 km WNW of Ninilchik, Alaska | 06:52 |
+| 🟢 2.5 | 59 km S of Whites City, New Mexico | 06:33 |
+| 🟢 2.5 | 59 km S of Whites City, New Mexico | 06:33 |
+| 🟢 0.7 | 10 km WNW of The Geysers, CA | 06:28 |
 | 🟢 0.7 | 2 km NNE of The Geysers, CA | 06:24 |
-| 🟠 4.6 | 81 km ENE of Misawa, Japan | 05:59 |
-| 🟢 1.8 | 5 km W of Glen Ellen, CA | 05:53 |
-| 🟢 1.9 | 55 km SSW of Whites City, New Mexico | 05:53 |
-| 🟢 1.9 | 60 km SE of Pedro Bay, Alaska | 05:44 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 05:38 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
