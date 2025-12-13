@@ -2,17 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2013%20Dec%202025%2011:16:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-349ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2013%20Dec%202025%2012:38:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-368ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 4 km W of Cobb, CA | 10:59 |
-| 🟢 0.3 | 7 km NW of The Geysers, CA | 10:54 |
-| 🔴 5.5 | Rat Islands, Aleutian Islands, Alaska | 10:50 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 10:50 |
-| 🟢 2.6 | 114 km N of Yakutat, Alaska | 10:26 |
-| 🟢 2.3 | 57 km WSW of Anchor Point, Alaska | 10:20 |
+| 🟢 0.3 | 8 km W of Cobb, CA | 12:35 |
+| 🟢 0.6 | 3 km SSW of Cobb, CA | 12:28 |
+| 🔴 5.4 | 82 km W of Ollagüe, Chile | 12:18 |
+| 🟢 1.0 | 6 km N of Big Bear City, CA | 12:08 |
+| 🟢 1.1 | 3 km E of Mentone, CA | 11:51 |
+| 🟠 4.7 | 202 km E of Levuka, Fiji | 11:46 |
+| 🟢 1.6 | 5 km WNW of Lehi, Utah | 11:42 |
+| 🟢 2.3 | 20 km SE of Kasilof, Alaska | 11:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
