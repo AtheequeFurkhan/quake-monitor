@@ -2,21 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2021:17:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-177ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2022:18:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-571ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 11 km ENE of Milpitas, CA | 21:01 |
-| 🟢 1.5 | 55 km NW of Toyah, Texas | 20:59 |
-| 🟢 2.0 | 98 km E of McCarthy, Alaska | 20:52 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 20:50 |
-| 🟢 1.8 | 14 km SE of Pāhala, Hawaii | 20:35 |
-| 🟢 2.1 | 10 km NNE of Garden City, Texas | 20:25 |
-| 🟠 4.5 | 7 km SSW of Palora, Ecuador | 20:23 |
-| 🟢 2.0 | 52 km WNW of Toyah, Texas | 20:20 |
-| 🟢 2.8 | 9 km NNE of Garden City, Texas | 20:19 |
-| 🟢 1.5 | 2 km NNE of The Geysers, CA | 20:19 |
+| 🟢 1.3 | 1 km NE of The Geysers, CA | 22:12 |
+| 🟢 1.0 | 4 km SW of Borrego Springs, CA | 21:56 |
+| 🟢 0.9 | 13 km SSW of Olancha, CA | 21:49 |
+| 🟢 1.7 | 49 km S of Cantwell, Alaska | 21:31 |
+| 🟢 2.3 | 16 km E of Susitna North, Alaska | 21:29 |
+| 🟢 1.4 | 36 km SW of Skwentna, Alaska | 21:27 |
+| 🟢 2.4 | 51 km N of Valdez, Alaska | 21:22 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
