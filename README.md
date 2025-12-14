@@ -2,24 +2,26 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2014:18:14%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-374ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2015:18:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-197ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.4 | 8 km NW of The Geysers, CA | 14:12 |
-| 🟢 1.8 | 99 km SE of McCarthy, Alaska | 14:08 |
-| 🟢 1.6 | 60 km S of Whites City, New Mexico | 14:01 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 13:57 |
-| 🟢 1.1 | 8 km NW of The Geysers, CA | 13:57 |
-| 🟢 1.0 | 8 km NW of The Geysers, CA | 13:54 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 13:53 |
-| 🟢 1.2 | 15 km NW of Fillmore, CA | 13:53 |
-| 🟢 1.1 | 8 km NW of The Geysers, CA | 13:41 |
-| 🟢 0.6 | 4 km WNW of Borrego Springs, CA | 13:39 |
-| 🟢 2.1 | 8 km NW of The Geysers, CA | 13:38 |
-| 🟢 2.0 | 7 km S of Bluffdale, Utah | 13:32 |
-| 🟢 2.0 | 14 km SSW of Pa‘auilo, Hawaii | 13:17 |
+| 🟢 1.0 | 12 km NNW of Piru, CA | 15:16 |
+| 🟢 2.4 | 80 km WNW of Aleneva, Alaska | 15:12 |
+| 🟢 0.5 | 26 km SSW of Ocotillo Wells, CA | 14:57 |
+| 🟢 2.6 | 21 km WNW of Alder Springs, CA | 14:45 |
+| 🟢 2.7 | 27 km SW of Jal, New Mexico | 14:43 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 14:41 |
+| 🟢 1.5 | 20 km N of Mentone, Texas | 14:40 |
+| 🟢 1.9 | 63 km SSE of Denali National Park, Alaska | 14:35 |
+| 🟢 1.2 | 14 km W of Johannesburg, CA | 14:34 |
+| 🟢 1.1 | 2 km N of Placentia, CA | 14:33 |
+| 🔴 5.1 | 29 km NW of Hakui, Japan | 14:26 |
+| 🟢 0.7 | 10 km NNW of Mojave, CA | 14:25 |
+| 🟢 0.7 | 14 km NW of Fillmore, CA | 14:24 |
+| 🟢 0.7 | 5 km NNW of The Geysers, CA | 14:21 |
+| 🟢 0.5 | 2 km WNW of The Geysers, CA | 14:20 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
