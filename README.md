@@ -2,18 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2022:18:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-571ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2023:18:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-241ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 1 km NE of The Geysers, CA | 22:12 |
-| 🟢 1.0 | 4 km SW of Borrego Springs, CA | 21:56 |
-| 🟢 0.9 | 13 km SSW of Olancha, CA | 21:49 |
-| 🟢 1.7 | 49 km S of Cantwell, Alaska | 21:31 |
-| 🟢 2.3 | 16 km E of Susitna North, Alaska | 21:29 |
-| 🟢 1.4 | 36 km SW of Skwentna, Alaska | 21:27 |
-| 🟢 2.4 | 51 km N of Valdez, Alaska | 21:22 |
+| 🟢 0.2 | 5 km WNW of Cobb, CA | 23:14 |
+| 🟢 1.3 | 5 km NW of Huntington Park, CA | 23:09 |
+| 🟠 3.3 | 30 km W of Ester, Alaska | 23:08 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 23:02 |
+| 🟢 1.0 | 13 km ENE of Cloverdale, CA | 22:59 |
+| 🟢 2.3 | 17 km S of Calumet, Oklahoma | 22:19 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
