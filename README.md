@@ -2,15 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2013%20Dec%202025%2023:18:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-437ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2001:46:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-325ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 17 km N of Goleta, CA | 23:15 |
-| 🟢 2.2 | 6 km NW of The Geysers, CA | 23:13 |
-| 🟢 1.0 | 5 km SW of Palomar Observatory, CA | 23:07 |
-| 🟢 0.8 | 6 km WNW of The Geysers, CA | 23:05 |
+| 🟢 1.1 | 8 km NW of The Geysers, CA | 01:37 |
+| 🟠 3.7 | 111 km N of Yakutat, Alaska | 01:36 |
+| 🟢 1.9 | 19 km NE of Moose Pass, Alaska | 01:28 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 01:26 |
+| 🟢 2.4 | 14 km NW of Fillmore, CA | 01:15 |
+| 🟢 1.3 | 22 km SSW of Gorman, CA | 01:14 |
+| 🟢 1.7 | 14 km NW of Fillmore, CA | 01:07 |
+| 🟢 1.1 | 16 km NW of Fillmore, CA | 01:07 |
+| 🟠 3.6 | 13 km NW of Fillmore, CA | 01:03 |
+| 🔴 5.1 | 121 km WNW of Bengkulu, Indonesia | 00:58 |
+| 🟠 4.3 | 77 km WSW of Tobelo, Indonesia | 00:55 |
+| 🟢 0.9 | 6 km NW of The Geysers, CA | 00:52 |
+| 🟢 1.7 | 4 km SSE of Running Springs, CA | 00:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
