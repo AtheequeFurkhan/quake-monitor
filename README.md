@@ -2,17 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2004:35:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-301ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2005:19:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-519ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 13 km NE of Borrego Springs, CA | 04:13 |
-| 🟢 0.8 | 9 km WNW of The Geysers, CA | 04:02 |
-| 🟢 1.0 | 13 km ENE of Cloverdale, CA | 03:57 |
-| 🟢 1.7 | 13 km NW of The Geysers, CA | 03:53 |
-| 🟢 1.4 | 14 km NW of Fillmore, CA | 03:44 |
-| 🟢 1.9 | 42 km NW of Toyah, Texas | 03:39 |
+| 🟢 1.1 | 9 km WSW of Corona, CA | 05:07 |
+| 🟢 1.1 | 4 km NNW of The Geysers, CA | 05:04 |
+| 🟢 1.0 | 6 km WNW of Cobb, CA | 05:01 |
+| 🟢 1.7 | 4 km SE of San Ramon, CA | 04:49 |
+| 🟢 0.8 | 9 km NW of The Geysers, CA | 04:42 |
+| 🟢 1.8 | 16 km NE of Pine Valley, CA | 04:39 |
+| 🟢 2.1 | 64 km NW of Ninilchik, Alaska | 04:37 |
+| 🟢 1.6 | 14 km NW of Fillmore, CA | 04:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
