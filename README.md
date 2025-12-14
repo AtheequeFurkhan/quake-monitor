@@ -2,26 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2015:18:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-197ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2016:23:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-283ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 12 km NNW of Piru, CA | 15:16 |
-| 🟢 2.4 | 80 km WNW of Aleneva, Alaska | 15:12 |
-| 🟢 0.5 | 26 km SSW of Ocotillo Wells, CA | 14:57 |
-| 🟢 2.6 | 21 km WNW of Alder Springs, CA | 14:45 |
-| 🟢 2.7 | 27 km SW of Jal, New Mexico | 14:43 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 14:41 |
-| 🟢 1.5 | 20 km N of Mentone, Texas | 14:40 |
-| 🟢 1.9 | 63 km SSE of Denali National Park, Alaska | 14:35 |
-| 🟢 1.2 | 14 km W of Johannesburg, CA | 14:34 |
-| 🟢 1.1 | 2 km N of Placentia, CA | 14:33 |
-| 🔴 5.1 | 29 km NW of Hakui, Japan | 14:26 |
-| 🟢 0.7 | 10 km NNW of Mojave, CA | 14:25 |
-| 🟢 0.7 | 14 km NW of Fillmore, CA | 14:24 |
-| 🟢 0.7 | 5 km NNW of The Geysers, CA | 14:21 |
-| 🟢 0.5 | 2 km WNW of The Geysers, CA | 14:20 |
+| 🟢 1.7 | 41 km SE of Denali National Park, Alaska | 16:19 |
+| 🟢 1.6 | 56 km S of Whites City, New Mexico | 16:17 |
+| 🟢 1.5 | 3 km SSE of Redlands, CA | 16:14 |
+| 🟢 1.7 | 104 km SSE of McCarthy, Alaska | 16:07 |
+| 🟠 4.8 | Drake Passage | 15:54 |
+| 🟢 1.4 | 4 km ESE of San Ramon, CA | 15:51 |
+| 🟢 0.7 | 5 km WNW of Cobb, CA | 15:44 |
+| 🟢 1.6 | 60 km S of Whites City, New Mexico | 15:36 |
+| 🟢 1.3 | 6 km NW of The Geysers, CA | 15:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
