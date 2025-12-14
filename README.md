@@ -2,15 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2011:16:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-214ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2012:38:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-456ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 2 km WNW of Costa Mesa, CA | 10:52 |
-| 🟢 1.1 | 15 km NW of Fillmore, CA | 10:30 |
-| 🟢 1.0 | 15 km NW of Fillmore, CA | 10:30 |
-| 🟢 1.0 | 4 km W of Brawley, CA | 10:17 |
+| 🟢 0.5 | 8 km NE of Indio, CA | 12:31 |
+| 🟢 2.1 | 32 km E of Chase, Alaska | 12:27 |
+| 🟢 1.7 | 32 km E of Chase, Alaska | 12:24 |
+| 🟢 1.2 | 4 km WNW of Costa Mesa, CA | 12:21 |
+| 🟢 2.9 | 29 km WNW of Clam Gulch, Alaska | 12:05 |
+| 🟠 5.0 | 158 km ENE of Bitung, Indonesia | 12:03 |
+| 🟠 4.7 | 142 km N of Metinaro, Timor Leste | 11:55 |
+| 🟢 2.3 | 88 km NNW of Yakutat, Alaska | 11:44 |
+| 🟢 1.7 | 49 km NNE of Chickaloon, Alaska | 11:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
