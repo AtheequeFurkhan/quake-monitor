@@ -2,22 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2017:17:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-297ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2018:28:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-372ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 17 km NE of Pine Valley, CA | 17:09 |
-| 🟢 1.3 | 9 km SSW of Ojai, CA | 17:05 |
-| 🟢 2.9 | 45 km NW of Ninilchik, Alaska | 16:49 |
-| 🟢 1.1 | 10 km WNW of The Geysers, CA | 16:45 |
-| 🟢 1.1 | 2 km NW of The Geysers, CA | 16:45 |
-| 🟢 0.3 | 8 km NW of The Geysers, CA | 16:45 |
-| 🟢 1.1 | 6 km NNW of The Geysers, CA | 16:36 |
-| 🟢 1.9 | 41 km WNW of Nanwalek, Alaska | 16:26 |
-| 🟢 1.3 | 2 km NNE of The Geysers, CA | 16:25 |
-| 🟢 1.7 | 41 km SE of Denali National Park, Alaska | 16:19 |
-| 🟢 1.6 | 56 km S of Whites City, New Mexico | 16:17 |
+| 🟢 0.2 | 8 km W of Cobb, CA | 18:25 |
+| 🟢 1.1 | 6 km WNW of Cobb, CA | 18:14 |
+| 🟠 4.7 | 91 km ENE of Yokohama, Japan | 18:09 |
+| 🟢 1.5 | 22 km NE of King City, CA | 18:05 |
+| 🟢 0.3 | 6 km WNW of Cobb, CA | 17:48 |
+| 🟢 1.1 | 5 km WNW of Cobb, CA | 17:47 |
+| 🟢 1.9 | 18 km W of Johannesburg, CA | 17:44 |
+| 🟢 1.7 | 28 km W of Volcano, Hawaii | 17:38 |
+| 🟢 1.5 | 11 km ENE of Ocotillo Wells, CA | 17:37 |
+| 🟢 0.9 | 8 km NW of The Geysers, CA | 17:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
