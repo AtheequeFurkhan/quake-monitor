@@ -2,19 +2,14 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2009:20:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-419ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2010:19:52%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-274ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 3.0 | 5 km NNE of Beluga, Alaska | 08:58 |
-| 🟢 0.8 | 9 km W of The Geysers, CA | 08:56 |
-| 🟢 1.4 | 22 km SW of New Idria, CA | 08:52 |
-| 🟢 1.1 | 3 km SSW of Anderson Springs, CA | 08:48 |
-| 🟢 0.7 | 18 km NNW of Borrego Springs, CA | 08:42 |
-| 🟢 0.4 | 9 km SSW of Idyllwild, CA | 08:29 |
-| 🟢 1.4 | 15 km NW of Fillmore, CA | 08:29 |
-| 🟢 0.8 | 6 km WNW of Cobb, CA | 08:26 |
+| 🟢 1.9 | 50 km WNW of Anchor Point, Alaska | 10:02 |
+| 🔴 5.2 | southeast of Easter Island | 09:44 |
+| 🟢 2.1 | 27 km NNW of Susitna, Alaska | 09:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
