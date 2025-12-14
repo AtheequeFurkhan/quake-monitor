@@ -2,18 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2020:21:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-397ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2021:17:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-177ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 8 km NW of The Geysers, CA | 20:11 |
-| 🟠 3.4 | 83 km SSW of Alberto Oviedo Mota, B.C., MX | 20:08 |
-| 🟢 1.9 | 8 km S of Volcano, Hawaii | 19:55 |
-| 🟢 1.1 | 0 km NNE of The Geysers, CA | 19:40 |
-| 🟢 1.1 | 18 km W of Johannesburg, CA | 19:34 |
-| 🟢 0.4 | 4 km W of Cobb, CA | 19:30 |
-| 🟢 0.4 | 9 km WNW of The Geysers, CA | 19:23 |
+| 🟢 2.0 | 11 km ENE of Milpitas, CA | 21:01 |
+| 🟢 1.5 | 55 km NW of Toyah, Texas | 20:59 |
+| 🟢 2.0 | 98 km E of McCarthy, Alaska | 20:52 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 20:50 |
+| 🟢 1.8 | 14 km SE of Pāhala, Hawaii | 20:35 |
+| 🟢 2.1 | 10 km NNE of Garden City, Texas | 20:25 |
+| 🟠 4.5 | 7 km SSW of Palora, Ecuador | 20:23 |
+| 🟢 2.0 | 52 km WNW of Toyah, Texas | 20:20 |
+| 🟢 2.8 | 9 km NNE of Garden City, Texas | 20:19 |
+| 🟢 1.5 | 2 km NNE of The Geysers, CA | 20:19 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
