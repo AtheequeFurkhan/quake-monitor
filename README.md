@@ -2,20 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2016:23:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-283ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2017:17:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-297ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.8 | 17 km NE of Pine Valley, CA | 17:09 |
+| 🟢 1.3 | 9 km SSW of Ojai, CA | 17:05 |
+| 🟢 2.9 | 45 km NW of Ninilchik, Alaska | 16:49 |
+| 🟢 1.1 | 10 km WNW of The Geysers, CA | 16:45 |
+| 🟢 1.1 | 2 km NW of The Geysers, CA | 16:45 |
+| 🟢 0.3 | 8 km NW of The Geysers, CA | 16:45 |
+| 🟢 1.1 | 6 km NNW of The Geysers, CA | 16:36 |
+| 🟢 1.9 | 41 km WNW of Nanwalek, Alaska | 16:26 |
+| 🟢 1.3 | 2 km NNE of The Geysers, CA | 16:25 |
 | 🟢 1.7 | 41 km SE of Denali National Park, Alaska | 16:19 |
 | 🟢 1.6 | 56 km S of Whites City, New Mexico | 16:17 |
-| 🟢 1.5 | 3 km SSE of Redlands, CA | 16:14 |
-| 🟢 1.7 | 104 km SSE of McCarthy, Alaska | 16:07 |
-| 🟠 4.8 | Drake Passage | 15:54 |
-| 🟢 1.4 | 4 km ESE of San Ramon, CA | 15:51 |
-| 🟢 0.7 | 5 km WNW of Cobb, CA | 15:44 |
-| 🟢 1.6 | 60 km S of Whites City, New Mexico | 15:36 |
-| 🟢 1.3 | 6 km NW of The Geysers, CA | 15:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
