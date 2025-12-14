@@ -2,18 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2007:19:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-296ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2008:25:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-368ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 8 km SSE of Kachemak City, Alaska | 07:14 |
-| 🟢 0.7 | 2 km NNE of The Geysers, CA | 07:07 |
-| 🟢 1.7 | 72 km ESE of Denali Park, Alaska | 06:45 |
-| 🟢 1.7 | 19 km SE of Naalehu, Hawaii | 06:38 |
-| 🟢 0.4 | 6 km WNW of Cobb, CA | 06:31 |
-| 🟢 1.0 | 7 km NW of The Geysers, CA | 06:30 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 06:25 |
+| 🟠 4.9 | 146 km E of Miyako, Japan | 07:58 |
+| 🟢 2.0 | 93 km NW of Yakutat, Alaska | 07:54 |
+| 🟢 1.1 | 5 km NNW of The Geysers, CA | 07:52 |
+| 🟢 2.8 | 55 km SSW of Whites City, New Mexico | 07:46 |
+| 🟢 2.4 | 14 km SSE of Susitna North, Alaska | 07:30 |
+| 🟢 0.7 | 9 km WNW of Cobb, CA | 07:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
