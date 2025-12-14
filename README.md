@@ -2,17 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2019:15:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-222ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2020:21:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-397ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 6 km N of Westmorland, CA | 19:07 |
-| 🟢 0.8 | 9 km WNW of The Geysers, CA | 18:54 |
-| 🟠 3.4 | 10 km E of Pāhala, Hawaii | 18:52 |
-| 🟢 2.4 | 21 km W of Petersville, Alaska | 18:45 |
-| 🟢 2.1 | 16 km ESE of Hinton, Oklahoma | 18:40 |
-| 🟢 0.2 | 8 km W of Cobb, CA | 18:25 |
+| 🟢 1.3 | 8 km NW of The Geysers, CA | 20:11 |
+| 🟠 3.4 | 83 km SSW of Alberto Oviedo Mota, B.C., MX | 20:08 |
+| 🟢 1.9 | 8 km S of Volcano, Hawaii | 19:55 |
+| 🟢 1.1 | 0 km NNE of The Geysers, CA | 19:40 |
+| 🟢 1.1 | 18 km W of Johannesburg, CA | 19:34 |
+| 🟢 0.4 | 4 km W of Cobb, CA | 19:30 |
+| 🟢 0.4 | 9 km WNW of The Geysers, CA | 19:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
