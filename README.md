@@ -2,20 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2013:27:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-401ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2014:18:14%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-374ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.4 | 8 km NW of The Geysers, CA | 14:12 |
+| 🟢 1.8 | 99 km SE of McCarthy, Alaska | 14:08 |
+| 🟢 1.6 | 60 km S of Whites City, New Mexico | 14:01 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 13:57 |
+| 🟢 1.1 | 8 km NW of The Geysers, CA | 13:57 |
+| 🟢 1.0 | 8 km NW of The Geysers, CA | 13:54 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 13:53 |
+| 🟢 1.2 | 15 km NW of Fillmore, CA | 13:53 |
+| 🟢 1.1 | 8 km NW of The Geysers, CA | 13:41 |
+| 🟢 0.6 | 4 km WNW of Borrego Springs, CA | 13:39 |
+| 🟢 2.1 | 8 km NW of The Geysers, CA | 13:38 |
+| 🟢 2.0 | 7 km S of Bluffdale, Utah | 13:32 |
 | 🟢 2.0 | 14 km SSW of Pa‘auilo, Hawaii | 13:17 |
-| 🟢 0.8 | 5 km NW of The Geysers, CA | 13:16 |
-| 🟢 1.1 | 15 km NW of Fillmore, CA | 13:04 |
-| 🟢 1.1 | 27 km SSW of Ocotillo Wells, CA | 13:03 |
-| 🟢 1.2 | 27 km SSW of Ocotillo Wells, CA | 13:01 |
-| 🟢 1.5 | 47 km E of Denali National Park, Alaska | 12:46 |
-| 🟢 1.2 | 26 km SSW of Ocotillo Wells, CA | 12:41 |
-| 🟢 0.5 | 8 km NE of Indio, CA | 12:31 |
-| 🟢 2.1 | 32 km E of Chase, Alaska | 12:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
