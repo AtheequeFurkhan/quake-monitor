@@ -2,24 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2003:37:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-377ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2004:35:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-301ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 42 km NW of Toyah, Texas | 03:28 |
-| 🟢 1.0 | 6 km WNW of Cobb, CA | 03:21 |
-| 🟢 0.4 | 6 km WNW of Cobb, CA | 03:15 |
-| 🟢 0.8 | 9 km NW of The Geysers, CA | 03:13 |
-| 🟢 0.5 | 6 km WNW of Cobb, CA | 03:12 |
-| 🟢 0.5 | 6 km WNW of Cobb, CA | 03:06 |
-| 🟢 1.1 | 6 km W of Cobb, CA | 03:00 |
-| 🟢 1.9 | 87 km NNW of Yakutat, Alaska | 03:00 |
-| 🟢 2.3 | 6 km WNW of Cobb, CA | 02:58 |
-| 🟢 2.3 | 5 km SE of San Ramon, CA | 02:57 |
-| 🟢 2.2 | 39 km WNW of Anchor Point, Alaska | 02:51 |
-| 🟢 1.8 | 49 km SSE of Whites City, New Mexico | 02:38 |
-| 🟢 1.2 | 9 km SW of Idyllwild, CA | 02:37 |
+| 🟢 1.1 | 13 km NE of Borrego Springs, CA | 04:13 |
+| 🟢 0.8 | 9 km WNW of The Geysers, CA | 04:02 |
+| 🟢 1.0 | 13 km ENE of Cloverdale, CA | 03:57 |
+| 🟢 1.7 | 13 km NW of The Geysers, CA | 03:53 |
+| 🟢 1.4 | 14 km NW of Fillmore, CA | 03:44 |
+| 🟢 1.9 | 42 km NW of Toyah, Texas | 03:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
