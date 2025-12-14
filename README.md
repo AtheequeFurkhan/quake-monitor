@@ -2,19 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2005:19:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-519ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2006:30:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-445ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 9 km WSW of Corona, CA | 05:07 |
-| 🟢 1.1 | 4 km NNW of The Geysers, CA | 05:04 |
-| 🟢 1.0 | 6 km WNW of Cobb, CA | 05:01 |
-| 🟢 1.7 | 4 km SE of San Ramon, CA | 04:49 |
-| 🟢 0.8 | 9 km NW of The Geysers, CA | 04:42 |
-| 🟢 1.8 | 16 km NE of Pine Valley, CA | 04:39 |
-| 🟢 2.1 | 64 km NW of Ninilchik, Alaska | 04:37 |
-| 🟢 1.6 | 14 km NW of Fillmore, CA | 04:33 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 06:25 |
+| 🟢 1.5 | 12 km E of Coso Junction, CA | 06:12 |
+| 🟢 1.5 | 10 km SSE of Wickett, Texas | 06:11 |
+| 🟢 1.3 | 17 km ESE of Julian, CA | 05:51 |
+| 🟢 1.4 | 2 km NW of Costa Mesa, CA | 05:50 |
+| 🟢 0.7 | 6 km NW of The Geysers, CA | 05:47 |
+| 🟢 1.9 | 20 km NW of Westbrook, Texas | 05:44 |
+| 🟢 1.5 | 11 km SSW of Tres Pinos, CA | 05:40 |
+| 🟠 3.7 | 132 km NNE of Vieques, Puerto Rico | 05:37 |
+| 🟢 1.5 | 20 km NE of Alum Rock, CA | 05:36 |
+| 🟢 1.0 | 4 km W of Borrego Springs, CA | 05:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
