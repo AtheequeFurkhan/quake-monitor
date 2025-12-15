@@ -2,18 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2007:24:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-382ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2008:32:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-451ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 13 km SSE of Fern Forest, Hawaii | 07:01 |
-| 🟢 0.9 | 7 km S of Ojai, CA | 06:52 |
-| 🟢 2.1 | 5 km ESE of San Ramon, CA | 06:52 |
-| 🟢 2.7 | 4 km SE of San Ramon, CA | 06:47 |
-| 🟢 2.8 | 4 km ESE of San Ramon, CA | 06:46 |
-| 🟢 1.8 | 20 km SSW of Leilani Estates, Hawaii | 06:43 |
-| 🟢 0.5 | 10 km NE of Julian, CA | 06:32 |
+| 🟢 1.7 | 22 km ESE of Naalehu, Hawaii | 08:20 |
+| 🟢 1.8 | 7 km NW of The Geysers, CA | 07:51 |
+| 🟢 1.7 | 31 km ENE of McKinney Acres, Texas | 07:51 |
+| 🟠 4.9 | Fiji region | 07:43 |
+| 🟢 2.1 | 12 km NNE of Jal, New Mexico | 07:37 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
