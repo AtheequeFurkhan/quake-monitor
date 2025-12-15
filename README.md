@@ -2,17 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2019:19:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-385ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2020:23:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-209ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 14 km NW of Fillmore, CA | 19:12 |
-| 🟢 1.5 | 9 km NNE of Gonzales, CA | 19:10 |
-| 🟢 1.5 | 25 km NNW of Fillmore, CA | 18:52 |
-| 🟢 1.6 | 12 km ESE of Alum Rock, CA | 18:27 |
-| 🟢 1.4 | 21 km SE of Pinnacles, CA | 18:22 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 18:21 |
+| 🟢 1.1 | 5 km NW of The Geysers, CA | 20:16 |
+| 🟢 1.5 | 16 km NNW of Stanton, Texas | 19:42 |
+| 🟢 1.3 | 15 km SSE of Pyote, Texas | 19:40 |
+| 🟢 1.6 | 9 km NNE of Coyanosa, Texas | 19:40 |
+| 🟢 2.2 | 19 km NW of Stanton, Texas | 19:39 |
+| 🔴 5.6 | 230 km SE of Petropavlovsk-Kamchatsky, Russia | 19:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
