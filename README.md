@@ -2,20 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2022:20:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-503ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2023:20:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-495ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 14 km NW of Fillmore, CA | 22:11 |
-| 🟢 2.2 | 44 km NNW of Los Algodones, B.C., MX | 22:10 |
-| 🟢 1.3 | 15 km NW of Fillmore, CA | 22:09 |
-| 🟢 0.8 | 6 km NW of Lakeside, CA | 21:49 |
-| 🟢 1.8 | 27 km SW of Jal, New Mexico | 21:39 |
-| 🟢 1.6 | 8 km NNE of Bridgeport, California | 21:27 |
-| 🟢 2.1 | 26 km SSW of Trapper Creek, Alaska | 21:26 |
-| 🟢 0.9 | 15 km NE of Little Lake, CA | 21:22 |
-| 🟢 1.1 | 27 km SW of Jal, New Mexico | 21:19 |
+| 🟢 2.6 | 18 km E of Kalaoa, Hawaii | 23:15 |
+| 🔴 5.8 | 82 km SSE of San Jose Village, Northern Mariana Islands | 23:06 |
+| 🟢 1.8 | 13 km S of Fern Forest, Hawaii | 23:02 |
+| 🟢 0.8 | 6 km W of Cobb, CA | 22:53 |
+| 🟢 1.2 | 14 km NW of Fillmore, CA | 22:46 |
+| 🟢 1.9 | 12 km NE of Pāhala, Hawaii | 22:24 |
+| 🟢 0.8 | 3 km SSE of The Geysers, CA | 22:22 |
+| 🟠 3.3 | 114 km N of Yakutat, Alaska | 22:20 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
