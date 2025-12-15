@@ -2,18 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2001:44:59%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-489ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2003:41:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-270ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 8 km SW of Corona, CA | 01:41 |
-| 🟢 1.6 | 10 km WSW of Grapevine, CA | 01:28 |
-| 🟢 0.5 | 9 km NW of The Geysers, CA | 01:12 |
-| 🟢 0.9 | 19 km NNW of Borrego Springs, CA | 00:57 |
-| 🟢 1.1 | 3 km NNE of Fox, Alaska | 00:56 |
-| 🟢 1.5 | 8 km NNW of Barstow, Texas | 00:45 |
-| 🟢 2.3 | 10 km NNE of Garden City, Texas | 00:45 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 03:15 |
+| 🟢 1.6 | 8 km NW of The Geysers, CA | 03:13 |
+| 🟢 1.1 | 14 km NW of Fillmore, CA | 02:58 |
+| 🟢 2.5 | 114 km N of Yakutat, Alaska | 02:51 |
+| 🟢 1.8 | 42 km WNW of Tatitlek, Alaska | 02:49 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
