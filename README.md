@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2004:40:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-395ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2005:25:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-242ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 13 km ENE of Pāhala, Hawaii | 04:17 |
-| 🟢 2.3 | 91 km NNW of Yakutat, Alaska | 04:13 |
-| 🟢 2.5 | 103 km N of Yakutat, Alaska | 04:09 |
-| 🟢 2.5 | 116 km N of Yakutat, Alaska | 04:06 |
-| 🟢 0.9 | 10 km NW of The Geysers, CA | 04:05 |
-| 🟢 1.7 | 5 km W of Glen Ellen, CA | 04:02 |
-| 🟢 0.3 | 10 km WNW of Cobb, CA | 04:01 |
-| 🟢 1.4 | 5 km NW of The Geysers, CA | 04:00 |
+| 🟢 1.4 | 2 km N of Garden City, Texas | 05:17 |
+| 🟢 2.3 | 54 km S of Whites City, New Mexico | 05:16 |
+| 🟢 1.9 | 54 km S of Whites City, New Mexico | 05:14 |
+| 🟢 2.2 | 3 km SSE of Guánica, Puerto Rico | 05:11 |
+| 🟢 2.2 | 33 km S of Funny River, Alaska | 05:00 |
+| 🟢 2.3 | 15 km ENE of Binger, Oklahoma | 04:54 |
+| 🟢 0.9 | 13 km SW of Searles Valley, CA | 04:54 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
