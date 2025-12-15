@@ -2,22 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2018:32:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-423ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2019:19:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-385ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.3 | 14 km NW of Fillmore, CA | 19:12 |
+| 🟢 1.5 | 9 km NNE of Gonzales, CA | 19:10 |
+| 🟢 1.5 | 25 km NNW of Fillmore, CA | 18:52 |
 | 🟢 1.6 | 12 km ESE of Alum Rock, CA | 18:27 |
 | 🟢 1.4 | 21 km SE of Pinnacles, CA | 18:22 |
 | 🟢 0.8 | 8 km NW of The Geysers, CA | 18:21 |
-| 🟢 2.2 | 61 km NNW of Karluk, Alaska | 18:11 |
-| 🟢 0.7 | 23 km ESE of Little Lake, CA | 18:08 |
-| 🟢 1.6 | 41 km NW of Toyah, Texas | 18:06 |
-| 🟠 5.0 | 41 km SSE of Adak, Alaska | 18:03 |
-| 🟢 2.0 | 13 km SSE of Fern Forest, Hawaii | 18:02 |
-| 🟢 2.0 | 18 km NNW of Stanton, Texas | 17:53 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 17:52 |
-| 🟢 0.9 | 7 km NW of The Geysers, CA | 17:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
