@@ -2,14 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2014:25:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-452ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2015:24:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-305ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 15 km WSW of Ludlow, CA | 13:48 |
-| 🟢 0.2 | 6 km WSW of Anza, CA | 13:40 |
-| 🟢 1.6 | 51 km SSW of Cantwell, Alaska | 13:32 |
+| 🟢 1.1 | 8 km N of Westmorland, CA | 15:18 |
+| 🟢 1.5 | 7 km NNW of Westmorland, CA | 15:17 |
+| 🟢 2.0 | 11 km NW of Sterling, Alaska | 15:15 |
+| 🟢 2.5 | 4 km WSW of Concrete, Washington | 15:06 |
+| 🟢 1.8 | 4 km SSW of Redlands, CA | 15:01 |
+| 🟢 1.1 | 24 km WSW of Ocotillo Wells, CA | 15:01 |
+| 🟢 1.8 | 4 km SSW of Redlands, CA | 14:40 |
+| 🟢 1.1 | 25 km NNW of Fillmore, CA | 14:29 |
+| 🟢 0.2 | 5 km NNW of The Geysers, CA | 14:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
