@@ -2,14 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2016:31:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-247ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2017:24:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-549ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 1 km S of Salcha, Alaska | 16:11 |
-| 🟢 1.1 | 3 km WNW of The Geysers, CA | 15:54 |
-| 🟢 1.4 | 3 km E of San Jacinto, CA | 15:44 |
+| 🟢 1.2 | 9 km N of Garden City, Texas | 17:20 |
+| 🟢 1.1 | 2 km N of The Geysers, CA | 17:10 |
+| 🟢 0.8 | 3 km WSW of Cobb, CA | 17:08 |
+| 🟢 2.4 | 37 km NNE of Chenega, Alaska | 17:05 |
+| 🟢 1.6 | 4 km WSW of Concrete, Washington | 17:01 |
+| 🟢 2.0 | 13 km ENE of Pāhala, Hawaii | 16:59 |
+| 🟢 1.9 | 28 km NW of Fishhook, Alaska | 16:50 |
+| 🟢 1.4 | 8 km SSE of San Juan Bautista, CA | 16:43 |
+| 🟢 0.9 | 9 km WNW of The Geysers, CA | 16:40 |
+| 🟢 1.4 | 16 km WSW of Johannesburg, CA | 16:34 |
+| 🟢 0.3 | 2 km WNW of The Geysers, CA | 16:32 |
+| 🟢 1.4 | 14 km SSW of Searles Valley, CA | 16:31 |
+| 🟢 2.9 | 4 km WSW of Concrete, Washington | 16:29 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
