@@ -2,30 +2,28 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2017:24:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-549ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2018:32:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-423ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 9 km N of Garden City, Texas | 17:20 |
-| 🟢 1.1 | 2 km N of The Geysers, CA | 17:10 |
-| 🟢 0.8 | 3 km WSW of Cobb, CA | 17:08 |
-| 🟢 2.4 | 37 km NNE of Chenega, Alaska | 17:05 |
-| 🟢 1.6 | 4 km WSW of Concrete, Washington | 17:01 |
-| 🟢 2.0 | 13 km ENE of Pāhala, Hawaii | 16:59 |
-| 🟢 1.9 | 28 km NW of Fishhook, Alaska | 16:50 |
-| 🟢 1.4 | 8 km SSE of San Juan Bautista, CA | 16:43 |
-| 🟢 0.9 | 9 km WNW of The Geysers, CA | 16:40 |
-| 🟢 1.4 | 16 km WSW of Johannesburg, CA | 16:34 |
-| 🟢 0.3 | 2 km WNW of The Geysers, CA | 16:32 |
-| 🟢 1.4 | 14 km SSW of Searles Valley, CA | 16:31 |
-| 🟢 2.9 | 4 km WSW of Concrete, Washington | 16:29 |
+| 🟢 1.6 | 12 km ESE of Alum Rock, CA | 18:27 |
+| 🟢 1.4 | 21 km SE of Pinnacles, CA | 18:22 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 18:21 |
+| 🟢 2.2 | 61 km NNW of Karluk, Alaska | 18:11 |
+| 🟢 0.7 | 23 km ESE of Little Lake, CA | 18:08 |
+| 🟢 1.6 | 41 km NW of Toyah, Texas | 18:06 |
+| 🟠 5.0 | 41 km SSE of Adak, Alaska | 18:03 |
+| 🟢 2.0 | 13 km SSE of Fern Forest, Hawaii | 18:02 |
+| 🟢 2.0 | 18 km NNW of Stanton, Texas | 17:53 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 17:52 |
+| 🟢 0.9 | 7 km NW of The Geysers, CA | 17:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
 - ⛈️ **Severe Storms**: [Tropical Cyclone 08P](https://www.metoc.navy.mil/jtwc/products/sh0826.tcw) (Dec 15)
-- ⛈️ **Severe Storms**: [Tropical Cyclone Bakung](https://www.metoc.navy.mil/jtwc/products/sh0726.tcw) (Dec 12)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Bakung](https://www.metoc.navy.mil/jtwc/products/sh0726.tcw) (Dec 15)
 - 🔥 **Wildfires**: [RX Llano 5625 Prescribed Fire, Llano, Texas](https://irwin.doi.gov/observer/incidents/5104c261-c20d-4f98-9075-dea48dded603) (Dec 11)
 - 🔥 **Wildfires**: [RX WINN BU 64 Prescribed Fire, Winn, Louisiana](https://irwin.doi.gov/observer/incidents/60dc5be0-5b6a-42e4-92d5-f455238bad07) (Dec 11)
 - 🔥 **Wildfires**: [APQ Area 12 Rx 1211 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/5a7c223c-10f4-4184-81e3-382aa92aef23) (Dec 11)
