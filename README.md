@@ -2,25 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2021:20:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-391ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2022:20:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-503ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 13 km ESE of Red Rock, Oklahoma | 21:14 |
-| 🟢 2.2 | 62 km S of Whites City, New Mexico | 20:54 |
-| 🟢 1.0 | 18 km N of Borrego Springs, CA | 20:52 |
-| 🟢 2.6 | 0 km SE of Pāhala, Hawaii | 20:48 |
-| 🟢 3.0 | 9 km SSW of Glacier View, Alaska | 20:45 |
-| 🟠 3.7 | 121 km N of Yakutat, Alaska | 20:43 |
-| 🟢 1.8 | 4 km S of Brawley, CA | 20:39 |
-| 🟢 2.2 | 90 km WNW of Yakutat, Alaska | 20:38 |
-| 🟠 3.4 | 26 km SW of Jal, New Mexico | 20:37 |
-| 🟢 1.8 | 49 km W of Anderson, Alaska | 20:37 |
-| 🟢 1.8 | 20 km ENE of Falls City, Texas | 20:37 |
-| 🟢 1.0 | 2 km NNE of The Geysers, CA | 20:37 |
-| 🟢 1.5 | 19 km ENE of Falls City, Texas | 20:37 |
-| 🟢 1.7 | 27 km SW of Jal, New Mexico | 20:34 |
+| 🟢 1.2 | 14 km NW of Fillmore, CA | 22:11 |
+| 🟢 2.2 | 44 km NNW of Los Algodones, B.C., MX | 22:10 |
+| 🟢 1.3 | 15 km NW of Fillmore, CA | 22:09 |
+| 🟢 0.8 | 6 km NW of Lakeside, CA | 21:49 |
+| 🟢 1.8 | 27 km SW of Jal, New Mexico | 21:39 |
+| 🟢 1.6 | 8 km NNE of Bridgeport, California | 21:27 |
+| 🟢 2.1 | 26 km SSW of Trapper Creek, Alaska | 21:26 |
+| 🟢 0.9 | 15 km NE of Little Lake, CA | 21:22 |
+| 🟢 1.1 | 27 km SW of Jal, New Mexico | 21:19 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
