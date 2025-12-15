@@ -2,17 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2009:31:55%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-404ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2010:26:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-388ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 16 km NW of Morongo Valley, CA | 09:11 |
-| 🟠 3.0 | 34 km NNE of Suárez, Puerto Rico | 08:57 |
-| 🟢 1.2 | 15 km SE of Ocotillo, CA | 08:48 |
-| 🟢 1.4 | 15 km SE of Ocotillo, CA | 08:47 |
-| 🟢 2.2 | 56 km ENE of Pedro Bay, Alaska | 08:43 |
-| 🟢 2.0 | 4 km ESE of San Ramon, CA | 08:42 |
+| 🟢 0.8 | 10 km WNW of The Geysers, CA | 10:23 |
+| 🟢 2.6 | 10 km NNE of Garden City, Texas | 10:13 |
+| 🟢 1.1 | 8 km SW of The Geysers, CA | 10:12 |
+| 🟢 1.6 | 15 km SE of Ocotillo, CA | 10:00 |
+| 🟢 0.7 | 3 km WSW of Anderson Springs, CA | 09:57 |
+| 🟢 1.5 | 15 km SE of Ocotillo, CA | 09:51 |
+| 🟢 1.3 | 15 km SE of Ocotillo, CA | 09:48 |
+| 🟢 2.1 | 4 km ESE of San Ramon, CA | 09:43 |
+| 🟢 2.0 | 4 km WNW of Fox River, Alaska | 09:41 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
