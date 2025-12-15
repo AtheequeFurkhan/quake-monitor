@@ -2,18 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2005:25:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-242ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2006:35:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-384ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 2 km N of Garden City, Texas | 05:17 |
-| 🟢 2.3 | 54 km S of Whites City, New Mexico | 05:16 |
-| 🟢 1.9 | 54 km S of Whites City, New Mexico | 05:14 |
-| 🟢 2.2 | 3 km SSE of Guánica, Puerto Rico | 05:11 |
-| 🟢 2.2 | 33 km S of Funny River, Alaska | 05:00 |
-| 🟢 2.3 | 15 km ENE of Binger, Oklahoma | 04:54 |
-| 🟢 0.9 | 13 km SW of Searles Valley, CA | 04:54 |
+| 🟢 1.5 | 10 km NE of Julian, CA | 06:32 |
+| 🟢 2.5 | 94 km SSE of Kokhanok, Alaska | 06:21 |
+| 🟢 2.1 | 8 km S of Volcano, Hawaii | 06:12 |
+| 🟢 0.9 | 8 km NW of The Geysers, CA | 06:06 |
+| 🟢 2.0 | 13 km SSE of Volcano, Hawaii | 06:04 |
+| 🟢 2.7 | 66 km SW of Kaktovik, Alaska | 06:04 |
+| 🟢 1.0 | 26 km N of Yucca Valley, CA | 06:01 |
+| 🟢 0.6 | 3 km SSE of The Geysers, CA | 06:00 |
+| 🟢 1.5 | 5 km SE of San Ramon, CA | 05:54 |
+| 🟢 1.6 | 50 km SSE of Whites City, New Mexico | 05:54 |
+| 🟢 0.8 | 9 km NW of The Geysers, CA | 05:37 |
+| 🟢 1.2 | 25 km SW of Maricopa, CA | 05:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
