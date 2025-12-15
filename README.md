@@ -2,17 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2014%20Dec%202025%2023:18:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-241ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2001:44:59%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-489ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.2 | 5 km WNW of Cobb, CA | 23:14 |
-| 🟢 1.3 | 5 km NW of Huntington Park, CA | 23:09 |
-| 🟠 3.3 | 30 km W of Ester, Alaska | 23:08 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 23:02 |
-| 🟢 1.0 | 13 km ENE of Cloverdale, CA | 22:59 |
-| 🟢 2.3 | 17 km S of Calumet, Oklahoma | 22:19 |
+| 🟢 1.3 | 8 km SW of Corona, CA | 01:41 |
+| 🟢 1.6 | 10 km WSW of Grapevine, CA | 01:28 |
+| 🟢 0.5 | 9 km NW of The Geysers, CA | 01:12 |
+| 🟢 0.9 | 19 km NNW of Borrego Springs, CA | 00:57 |
+| 🟢 1.1 | 3 km NNE of Fox, Alaska | 00:56 |
+| 🟢 1.5 | 8 km NNW of Barstow, Texas | 00:45 |
+| 🟢 2.3 | 10 km NNE of Garden City, Texas | 00:45 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
