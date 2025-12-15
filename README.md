@@ -2,20 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2013:40:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-190ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2014:25:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-452ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.5 | 15 km WSW of Ludlow, CA | 13:48 |
+| 🟢 0.2 | 6 km WSW of Anza, CA | 13:40 |
 | 🟢 1.6 | 51 km SSW of Cantwell, Alaska | 13:32 |
-| 🟢 1.0 | 10 km NW of The Geysers, CA | 13:10 |
-| 🟢 1.8 | 4 km NW of Ridgely, Tennessee | 13:03 |
-| 🟢 2.0 | 9 km E of Gilroy, CA | 13:00 |
-| 🟢 1.5 | 19 km ESE of Anza, CA | 12:51 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
+- ⛈️ **Severe Storms**: [Tropical Cyclone 08P](https://www.metoc.navy.mil/jtwc/products/sh0826.tcw) (Dec 15)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Bakung](https://www.metoc.navy.mil/jtwc/products/sh0726.tcw) (Dec 12)
 - 🔥 **Wildfires**: [RX Llano 5625 Prescribed Fire, Llano, Texas](https://irwin.doi.gov/observer/incidents/5104c261-c20d-4f98-9075-dea48dded603) (Dec 11)
 - 🔥 **Wildfires**: [RX WINN BU 64 Prescribed Fire, Winn, Louisiana](https://irwin.doi.gov/observer/incidents/60dc5be0-5b6a-42e4-92d5-f455238bad07) (Dec 11)
 - 🔥 **Wildfires**: [APQ Area 12 Rx 1211 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/5a7c223c-10f4-4184-81e3-382aa92aef23) (Dec 11)
@@ -24,8 +24,6 @@
 - 🔥 **Wildfires**: [APQ Area 12 Rx 1209 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/452b2d3a-355d-496b-b714-a7b7cf2127cb) (Dec 09)
 - 🔥 **Wildfires**: [SNF Clarktown RX Blk C &amp; D Prescribed Fire, Sabine, Texas](https://irwin.doi.gov/observer/incidents/baf2beaa-b380-446b-ba7c-75ab48316d87) (Dec 09)
 - 🔥 **Wildfires**: [RX CALV BU 237-264 Prescribed Fire, Vernon, Louisiana](https://irwin.doi.gov/observer/incidents/94988e37-a6bc-415a-9acf-ee4e65264c09) (Dec 08)
-- 🌋 **Volcanoes**: [Nyamulagira Volcano, DR Congo](https://volcano.si.edu/volcano.cfm?vn=223020) (Dec 07)
-- 🔥 **Wildfires**: [APQ South Tactical Range Rx 1206 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/c86a2dac-91b8-421d-b16b-fb8f7138d8e7) (Dec 06)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
