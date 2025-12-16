@@ -2,19 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2012:43:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-309ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2013:38:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-418ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.3 | 6 km NW of The Geysers, CA | 13:32 |
+| 🟢 1.0 | 12 km SW of Toms Place, CA | 13:20 |
+| 🟢 1.5 | 58 km S of Whites City, New Mexico | 12:58 |
+| 🟢 1.1 | 10 km W of Forsan, Texas | 12:58 |
+| 🟢 0.7 | 4 km WSW of Anza, CA | 12:52 |
+| 🟢 1.1 | 8 km W of Cobb, CA | 12:50 |
+| 🟢 1.8 | 5 km WSW of San Lorenzo, CA | 12:46 |
 | 🟢 1.3 | 7 km SW of Middletown, CA | 12:40 |
 | 🟢 0.7 | 4 km WSW of Anza, CA | 12:37 |
-| 🟢 1.6 | 59 km S of Whites City, New Mexico | 12:26 |
-| 🟢 0.8 | 14 km NE of Ridgecrest, CA | 12:14 |
-| 🟢 2.4 | 67 km NNE of Petersville, Alaska | 12:06 |
-| 🟢 2.4 | 16 km S of Calumet, Oklahoma | 12:02 |
-| 🟢 1.1 | 7 km NW of The Geysers, CA | 12:00 |
-| 🟠 3.8 | 17 km NW of Ninilchik, Alaska | 11:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
