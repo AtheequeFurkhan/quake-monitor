@@ -2,18 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2022:19:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-838ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2023:19:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-208ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 8 km WNW of The Geysers, CA | 22:06 |
-| 🟢 2.6 | 23 km WSW of Point MacKenzie, Alaska | 22:01 |
-| 🟢 0.9 | 6 km W of Cobb, CA | 21:54 |
-| 🟢 0.9 | 5 km NNW of The Geysers, CA | 21:45 |
-| 🟢 2.2 | 6 km NW of The Geysers, CA | 21:45 |
-| 🟠 3.4 | 153 km SSW of Channel Islands Beach, California | 21:38 |
-| 🟢 0.8 | 3 km SW of Anderson Springs, CA | 21:37 |
+| 🟢 1.2 | 6 km N of Big Bear City, CA | 22:55 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 22:34 |
+| 🟢 1.1 | 2 km E of The Geysers, CA | 22:30 |
+| 🟠 4.5 | 100 km WNW of Tobelo, Indonesia | 22:29 |
+| 🟢 0.6 | 8 km W of Cobb, CA | 22:24 |
+| 🟢 2.0 | 58 km S of Kingston, Nevada | 22:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
