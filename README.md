@@ -2,19 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2015%20Dec%202025%2023:20:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-495ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2001:42:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-3.696s-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.6 | 18 km E of Kalaoa, Hawaii | 23:15 |
-| 🔴 5.8 | 82 km SSE of San Jose Village, Northern Mariana Islands | 23:06 |
-| 🟢 1.8 | 13 km S of Fern Forest, Hawaii | 23:02 |
-| 🟢 0.8 | 6 km W of Cobb, CA | 22:53 |
-| 🟢 1.2 | 14 km NW of Fillmore, CA | 22:46 |
-| 🟢 1.9 | 12 km NE of Pāhala, Hawaii | 22:24 |
-| 🟢 0.8 | 3 km SSE of The Geysers, CA | 22:22 |
-| 🟠 3.3 | 114 km N of Yakutat, Alaska | 22:20 |
+| 🟢 2.1 | 28 km SSW of Trapper Creek, Alaska | 01:31 |
+| 🟢 2.9 | 14 km NW of Fillmore, CA | 01:29 |
+| 🟢 2.0 | 97 km E of McCarthy, Alaska | 01:22 |
+| 🟢 1.7 | 58 km S of Denali National Park, Alaska | 01:13 |
+| 🟢 2.2 | 2 km NNW of Ridgeway, Alaska | 01:06 |
+| 🟢 2.1 | 60 km S of Whites City, New Mexico | 00:57 |
+| 🟢 3.0 | 58 km ENE of Susitna North, Alaska | 00:55 |
+| 🟢 1.4 | 12 km SSW of Tres Pinos, CA | 00:51 |
+| 🟢 1.9 | 13 km S of Fern Forest, Hawaii | 00:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
