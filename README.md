@@ -2,16 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2008:30:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-305ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2009:26:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-422ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 33 km WSW of Ackerly, Texas | 08:02 |
-| 🟢 1.2 | 19 km NW of Stanton, Texas | 07:53 |
-| 🟢 1.0 | 2 km N of Colton, CA | 07:43 |
-| 🟠 4.5 | 28 km ESE of Los Andes, Chile | 07:42 |
-| 🟠 4.4 | Fiji region | 07:32 |
+| 🟢 1.8 | 59 km S of Whites City, New Mexico | 09:22 |
+| 🟢 1.1 | 8 km WNW of Cobb, CA | 09:10 |
+| 🟢 2.7 | 56 km S of Tallaboa, Puerto Rico | 09:04 |
+| 🟢 1.6 | 4 km W of Glen Ellen, CA | 09:03 |
+| 🟢 2.0 | 72 km SE of Denali National Park, Alaska | 08:55 |
+| 🟢 2.5 | 46 km E of Fox River, Alaska | 08:48 |
+| 🟢 0.8 | 1 km WSW of Sylmar, CA | 08:40 |
+| 🟢 1.7 | 8 km S of Pāhala, Hawaii | 08:40 |
+| 🟢 2.9 | 38 km W of Salamatof, Alaska | 08:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
