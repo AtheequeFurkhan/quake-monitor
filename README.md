@@ -2,20 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2009:26:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-422ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2010:25:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-277ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 59 km S of Whites City, New Mexico | 09:22 |
-| 🟢 1.1 | 8 km WNW of Cobb, CA | 09:10 |
-| 🟢 2.7 | 56 km S of Tallaboa, Puerto Rico | 09:04 |
-| 🟢 1.6 | 4 km W of Glen Ellen, CA | 09:03 |
-| 🟢 2.0 | 72 km SE of Denali National Park, Alaska | 08:55 |
-| 🟢 2.5 | 46 km E of Fox River, Alaska | 08:48 |
-| 🟢 0.8 | 1 km WSW of Sylmar, CA | 08:40 |
-| 🟢 1.7 | 8 km S of Pāhala, Hawaii | 08:40 |
-| 🟢 2.9 | 38 km W of Salamatof, Alaska | 08:31 |
+| 🟢 0.9 | 23 km SW of Ocotillo Wells, CA | 10:16 |
+| 🟢 2.1 | 27 km SW of Jal, New Mexico | 10:14 |
+| 🟢 1.4 | 43 km NW of Toyah, Texas | 10:03 |
+| 🟢 1.5 | 13 km SSW of Tres Pinos, CA | 09:57 |
+| 🟢 0.8 | 10 km WNW of The Geysers, CA | 09:55 |
+| 🟢 0.9 | 5 km NW of Fontana, CA | 09:54 |
+| 🟢 2.3 | 83 km NE of Tonopah, Nevada | 09:50 |
+| 🟢 1.6 | 55 km S of Whites City, New Mexico | 09:45 |
+| 🟢 1.0 | 7 km NW of The Geysers, CA | 09:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
