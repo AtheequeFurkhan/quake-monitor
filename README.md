@@ -2,28 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2011:20:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-272ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2012:43:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-309ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 6 km WNW of The Geysers, CA | 11:04 |
-| 🟢 0.8 | 5 km WNW of The Geysers, CA | 11:01 |
-| 🟢 1.3 | 5 km WNW of The Geysers, CA | 11:00 |
-| 🟢 0.6 | 6 km WNW of The Geysers, CA | 10:58 |
-| 🟢 0.3 | 6 km WNW of The Geysers, CA | 10:58 |
-| 🟢 0.8 | 6 km WNW of The Geysers, CA | 10:56 |
-| 🟢 0.8 | 6 km WNW of The Geysers, CA | 10:53 |
-| 🟢 1.3 | 6 km WNW of The Geysers, CA | 10:51 |
-| 🟢 1.1 | 8 km NW of The Geysers, CA | 10:47 |
-| 🟢 2.0 | 79 km W of Karluk, Alaska | 10:46 |
-| 🟢 1.9 | 14 km N of Dixon Lane-Meadow Creek, CA | 10:43 |
+| 🟢 1.3 | 7 km SW of Middletown, CA | 12:40 |
+| 🟢 0.7 | 4 km WSW of Anza, CA | 12:37 |
+| 🟢 1.6 | 59 km S of Whites City, New Mexico | 12:26 |
+| 🟢 0.8 | 14 km NE of Ridgecrest, CA | 12:14 |
+| 🟢 2.4 | 67 km NNE of Petersville, Alaska | 12:06 |
+| 🟢 2.4 | 16 km S of Calumet, Oklahoma | 12:02 |
+| 🟢 1.1 | 7 km NW of The Geysers, CA | 12:00 |
+| 🟠 3.8 | 17 km NW of Ninilchik, Alaska | 11:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
 - ⛈️ **Severe Storms**: [Tropical Cyclone 08P](https://www.metoc.navy.mil/jtwc/products/sh0826.tcw) (Dec 16)
-- ⛈️ **Severe Storms**: [Tropical Cyclone Bakung](https://www.metoc.navy.mil/jtwc/products/sh0726.tcw) (Dec 15)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Bakung](https://www.metoc.navy.mil/jtwc/products/sh0726.tcw) (Dec 16)
 - 🔥 **Wildfires**: [RX Llano 5625 Prescribed Fire, Llano, Texas](https://irwin.doi.gov/observer/incidents/5104c261-c20d-4f98-9075-dea48dded603) (Dec 11)
 - 🔥 **Wildfires**: [RX WINN BU 64 Prescribed Fire, Winn, Louisiana](https://irwin.doi.gov/observer/incidents/60dc5be0-5b6a-42e4-92d5-f455238bad07) (Dec 11)
 - 🔥 **Wildfires**: [APQ Area 12 Rx 1211 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/5a7c223c-10f4-4184-81e3-382aa92aef23) (Dec 11)
