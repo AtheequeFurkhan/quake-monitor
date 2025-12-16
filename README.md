@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2003:24:14%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-412ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2004:35:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-426ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 03:15 |
-| 🟢 0.3 | 2 km NNE of The Geysers, CA | 03:11 |
-| 🟢 2.2 | 14 km NE of Pāhala, Hawaii | 02:54 |
-| 🟢 1.0 | 20 km NW of Stanton, Texas | 02:45 |
-| 🟠 4.6 | 45 km NE of Onagawa Chō, Japan | 02:45 |
-| 🟢 0.3 | 5 km WNW of Cobb, CA | 02:38 |
-| 🟢 1.9 | 64 km SSW of Whites City, New Mexico | 02:36 |
-| 🟢 1.8 | 8 km NNW of Balmorhea, Texas | 02:25 |
+| 🟠 3.2 | 2 km SSE of Cayey, Puerto Rico | 04:13 |
+| 🟢 0.7 | 9 km NE of Indio, CA | 04:09 |
+| 🟢 2.0 | 16 km WSW of Ludlow, CA | 04:01 |
+| 🟢 1.1 | 63 km SSW of Whites City, New Mexico | 03:46 |
+| 🟢 1.9 | 19 km NW of Laytonville, CA | 03:42 |
+| 🟢 1.1 | 0 km S of Corona, CA | 03:42 |
+| 🟢 2.0 | 23 km ENE of Denali Park, Alaska | 03:41 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
