@@ -2,17 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2016:29:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-286ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2017:23:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-381ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.6 | 1 km NE of The Geysers, CA | 16:13 |
-| 🟢 1.4 | 7 km E of Fox, Alaska | 16:12 |
-| 🟢 0.3 | 6 km WNW of Cobb, CA | 16:11 |
-| 🟢 2.0 | 57 km S of Whites City, New Mexico | 15:55 |
-| 🟢 1.2 | 23 km SW of Ocotillo Wells, CA | 15:50 |
-| 🟢 2.1 | 30 km NW of Mentasta Lake, Alaska | 15:49 |
+| 🟢 1.3 | 24 km E of Barstow, CA | 17:11 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 17:10 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 17:10 |
+| 🟢 2.5 | 35 km E of Skwentna, Alaska | 16:50 |
+| 🟢 1.8 | 40 km NW of Ninilchik, Alaska | 16:42 |
+| 🟢 1.6 | 73 km WSW of Cantwell, Alaska | 16:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
