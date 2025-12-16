@@ -2,20 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2001:42:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-3.696s-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2003:24:14%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-412ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 28 km SSW of Trapper Creek, Alaska | 01:31 |
-| 🟢 2.9 | 14 km NW of Fillmore, CA | 01:29 |
-| 🟢 2.0 | 97 km E of McCarthy, Alaska | 01:22 |
-| 🟢 1.7 | 58 km S of Denali National Park, Alaska | 01:13 |
-| 🟢 2.2 | 2 km NNW of Ridgeway, Alaska | 01:06 |
-| 🟢 2.1 | 60 km S of Whites City, New Mexico | 00:57 |
-| 🟢 3.0 | 58 km ENE of Susitna North, Alaska | 00:55 |
-| 🟢 1.4 | 12 km SSW of Tres Pinos, CA | 00:51 |
-| 🟢 1.9 | 13 km S of Fern Forest, Hawaii | 00:47 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 03:15 |
+| 🟢 0.3 | 2 km NNE of The Geysers, CA | 03:11 |
+| 🟢 2.2 | 14 km NE of Pāhala, Hawaii | 02:54 |
+| 🟢 1.0 | 20 km NW of Stanton, Texas | 02:45 |
+| 🟠 4.6 | 45 km NE of Onagawa Chō, Japan | 02:45 |
+| 🟢 0.3 | 5 km WNW of Cobb, CA | 02:38 |
+| 🟢 1.9 | 64 km SSW of Whites City, New Mexico | 02:36 |
+| 🟢 1.8 | 8 km NNW of Balmorhea, Texas | 02:25 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
