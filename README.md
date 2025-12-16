@@ -2,17 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2017:23:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-381ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2018:32:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-342ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 24 km E of Barstow, CA | 17:11 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 17:10 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 17:10 |
-| 🟢 2.5 | 35 km E of Skwentna, Alaska | 16:50 |
-| 🟢 1.8 | 40 km NW of Ninilchik, Alaska | 16:42 |
-| 🟢 1.6 | 73 km WSW of Cantwell, Alaska | 16:36 |
+| 🟢 0.6 | 3 km SW of Warner Springs, CA | 18:19 |
+| 🟢 2.2 | 23 km SE of Chickaloon, Alaska | 18:17 |
+| 🟢 1.3 | 6 km S of Ojai, CA | 18:05 |
+| 🟢 2.1 | 16 km NE of Redway, CA | 17:57 |
+| 🟢 2.0 | 13 km NE of Pāhala, Hawaii | 17:56 |
+| 🟠 3.2 | 28 km E of Mud Bay, Alaska | 17:50 |
+| 🟢 1.0 | 6 km SSW of Ojai, CA | 17:47 |
+| 🟠 3.5 | 47 km SSW of Ugashik, Alaska | 17:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
