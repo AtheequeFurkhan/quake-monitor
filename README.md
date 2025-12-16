@@ -2,21 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2006:33:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-250ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2007:22:55%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-453ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.6 | 25 km SW of Jal, New Mexico | 07:10 |
+| 🟢 1.7 | 55 km S of Whites City, New Mexico | 07:06 |
+| 🟢 2.3 | 4 km SSW of Indios, Puerto Rico | 06:41 |
+| 🟢 1.7 | 9 km ENE of Balmorhea, Texas | 06:37 |
 | 🟢 1.9 | 32 km ENE of San Clemente Is. (SE tip), CA | 06:29 |
 | 🟢 2.1 | 29 km ENE of Knik River, Alaska | 06:28 |
-| 🟢 2.4 | 49 km NNW of Valdez, Alaska | 06:15 |
-| 🟠 4.5 | 26 km SE of Copiapó, Chile | 06:10 |
-| 🟢 1.5 | 56 km S of Whites City, New Mexico | 06:08 |
-| 🟢 1.8 | 55 km S of Whites City, New Mexico | 05:56 |
-| 🟢 2.0 | 4 km NNE of Lancaster, CA | 05:50 |
-| 🟢 1.5 | 1 km WSW of Charter Oak, CA | 05:44 |
-| 🟢 2.2 | 14 km E of Pāhala, Hawaii | 05:39 |
-| 🔴 5.1 | 130 km NE of Kuji, Japan | 05:38 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
