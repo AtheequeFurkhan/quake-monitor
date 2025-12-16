@@ -2,22 +2,26 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2005:22:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-203ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2006:33:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-250ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 15 km NW of Ninilchik, Alaska | 05:18 |
-| 🟢 2.1 | 21 km WNW of Alder Springs, CA | 05:12 |
-| 🟠 4.4 | 22 km SSE of Masachapa, Nicaragua | 04:55 |
-| 🟢 2.0 | 13 km SSW of Clam Gulch, Alaska | 04:46 |
-| 🟢 2.4 | 90 km WNW of Aleneva, Alaska | 04:42 |
-| 🟢 0.2 | 4 km W of Cobb, CA | 04:36 |
+| 🟢 1.9 | 32 km ENE of San Clemente Is. (SE tip), CA | 06:29 |
+| 🟢 2.1 | 29 km ENE of Knik River, Alaska | 06:28 |
+| 🟢 2.4 | 49 km NNW of Valdez, Alaska | 06:15 |
+| 🟠 4.5 | 26 km SE of Copiapó, Chile | 06:10 |
+| 🟢 1.5 | 56 km S of Whites City, New Mexico | 06:08 |
+| 🟢 1.8 | 55 km S of Whites City, New Mexico | 05:56 |
+| 🟢 2.0 | 4 km NNE of Lancaster, CA | 05:50 |
+| 🟢 1.5 | 1 km WSW of Charter Oak, CA | 05:44 |
+| 🟢 2.2 | 14 km E of Pāhala, Hawaii | 05:39 |
+| 🔴 5.1 | 130 km NE of Kuji, Japan | 05:38 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
-- ⛈️ **Severe Storms**: [Tropical Cyclone 08P](https://www.metoc.navy.mil/jtwc/products/sh0826.tcw) (Dec 15)
+- ⛈️ **Severe Storms**: [Tropical Cyclone 08P](https://www.metoc.navy.mil/jtwc/products/sh0826.tcw) (Dec 16)
 - ⛈️ **Severe Storms**: [Tropical Cyclone Bakung](https://www.metoc.navy.mil/jtwc/products/sh0726.tcw) (Dec 15)
 - 🔥 **Wildfires**: [RX Llano 5625 Prescribed Fire, Llano, Texas](https://irwin.doi.gov/observer/incidents/5104c261-c20d-4f98-9075-dea48dded603) (Dec 11)
 - 🔥 **Wildfires**: [RX WINN BU 64 Prescribed Fire, Winn, Louisiana](https://irwin.doi.gov/observer/incidents/60dc5be0-5b6a-42e4-92d5-f455238bad07) (Dec 11)
