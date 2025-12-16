@@ -2,18 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2004:35:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-426ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2005:22:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-203ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟠 3.2 | 2 km SSE of Cayey, Puerto Rico | 04:13 |
-| 🟢 0.7 | 9 km NE of Indio, CA | 04:09 |
-| 🟢 2.0 | 16 km WSW of Ludlow, CA | 04:01 |
-| 🟢 1.1 | 63 km SSW of Whites City, New Mexico | 03:46 |
-| 🟢 1.9 | 19 km NW of Laytonville, CA | 03:42 |
-| 🟢 1.1 | 0 km S of Corona, CA | 03:42 |
-| 🟢 2.0 | 23 km ENE of Denali Park, Alaska | 03:41 |
+| 🟢 2.1 | 15 km NW of Ninilchik, Alaska | 05:18 |
+| 🟢 2.1 | 21 km WNW of Alder Springs, CA | 05:12 |
+| 🟠 4.4 | 22 km SSE of Masachapa, Nicaragua | 04:55 |
+| 🟢 2.0 | 13 km SSW of Clam Gulch, Alaska | 04:46 |
+| 🟢 2.4 | 90 km WNW of Aleneva, Alaska | 04:42 |
+| 🟢 0.2 | 4 km W of Cobb, CA | 04:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
