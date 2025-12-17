@@ -2,20 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2010:24:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-342ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2011:19:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-317ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟠 3.2 | 21 km E of Little Lake, CA | 10:01 |
-| 🟢 1.2 | 9 km WNW of Cobb, CA | 09:57 |
-| 🟢 0.8 | 10 km WNW of Cobb, CA | 09:54 |
-| 🟢 1.5 | 29 km SW of Garden City, Texas | 09:50 |
-| 🟠 5.0 | 99 km SSW of Urakawa, Japan | 09:50 |
-| 🟢 1.8 | 37 km NNE of Paxson, Alaska | 09:37 |
-| 🟢 0.5 | 10 km WNW of The Geysers, CA | 09:35 |
-| 🟢 1.7 | 36 km SSE of Denali National Park, Alaska | 09:26 |
-| 🟢 0.9 | 15 km NW of Fillmore, CA | 09:25 |
+| 🟢 2.4 | 51 km NE of Chenega, Alaska | 11:07 |
+| 🟢 2.1 | 24 km E of Honaunau-Napoopoo, Hawaii | 11:01 |
+| 🟢 1.1 | 14 km W of Johannesburg, CA | 10:41 |
+| 🟠 4.7 | Pagan region, Northern Mariana Islands | 10:30 |
+| 🟢 2.3 | 53 km WNW of Anchor Point, Alaska | 10:27 |
+| 🟢 1.2 | 21 km E of Little Lake, CA | 10:25 |
+| 🟢 0.9 | 19 km ESE of Julian, CA | 10:24 |
+| 🟢 0.6 | 21 km E of Little Lake, CA | 10:20 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
