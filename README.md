@@ -2,18 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2021:20:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-422ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2022:20:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-434ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 24 km E of McKinney Acres, Texas | 21:09 |
-| 🟢 2.0 | 27 km SE of Cantwell, Alaska | 20:57 |
-| 🟢 1.4 | 6 km SSW of Lytle Creek, CA | 20:55 |
-| 🟢 1.8 | 3 km WNW of National City, CA | 20:52 |
-| 🟢 1.9 | 29 km N of Moapa Town, Nevada | 20:38 |
-| 🟢 1.2 | 7 km ENE of Aguanga, CA | 20:34 |
-| 🟢 1.5 | 21 km E of La Pine, Oregon | 20:22 |
+| 🟢 1.1 | 8 km NW of The Geysers, CA | 22:03 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 21:59 |
+| 🟢 2.2 | 8 km NW of The Geysers, CA | 21:59 |
+| 🟢 1.1 | 7 km ENE of Rancho Cucamonga, CA | 21:51 |
+| 🟢 1.9 | 2 km W of Bainbridge Island, Washington | 21:37 |
+| 🟢 1.0 | 6 km NNW of The Geysers, CA | 21:36 |
+| 🟢 1.4 | 2 km SE of Home Gardens, CA | 21:30 |
+| 🟢 1.4 | 8 km W of Templeton, CA | 21:24 |
+| 🟢 1.1 | 27 km N of Searles Valley, CA | 21:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
