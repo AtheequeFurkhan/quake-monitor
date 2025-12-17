@@ -2,17 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2016%20Dec%202025%2023:19:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-208ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2001:28:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-277ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 6 km N of Big Bear City, CA | 22:55 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 22:34 |
-| 🟢 1.1 | 2 km E of The Geysers, CA | 22:30 |
-| 🟠 4.5 | 100 km WNW of Tobelo, Indonesia | 22:29 |
-| 🟢 0.6 | 8 km W of Cobb, CA | 22:24 |
-| 🟢 2.0 | 58 km S of Kingston, Nevada | 22:21 |
+| 🟢 0.6 | 11 km SSE of Corning, CA | 01:06 |
+| 🟢 3.0 | 81 km N of Yakutat, Alaska | 00:45 |
+| 🟢 1.2 | 14 km NW of Fillmore, CA | 00:45 |
+| 🟠 3.8 | 78 km N of Yakutat, Alaska | 00:43 |
+| 🟠 3.2 | 84 km N of Yakutat, Alaska | 00:42 |
+| 🟢 1.6 | 4 km SE of San Ramon, CA | 00:41 |
+| 🟢 2.2 | 59 km S of Whites City, New Mexico | 00:41 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
