@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2022:20:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-434ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2023:19:47%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-423ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 8 km NW of The Geysers, CA | 22:03 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 21:59 |
-| 🟢 2.2 | 8 km NW of The Geysers, CA | 21:59 |
-| 🟢 1.1 | 7 km ENE of Rancho Cucamonga, CA | 21:51 |
-| 🟢 1.9 | 2 km W of Bainbridge Island, Washington | 21:37 |
-| 🟢 1.0 | 6 km NNW of The Geysers, CA | 21:36 |
-| 🟢 1.4 | 2 km SE of Home Gardens, CA | 21:30 |
-| 🟢 1.4 | 8 km W of Templeton, CA | 21:24 |
-| 🟢 1.1 | 27 km N of Searles Valley, CA | 21:23 |
+| 🟢 1.1 | 13 km NE of Ridgecrest, CA | 22:49 |
+| 🟠 5.0 | 84 km SSE of Port-Vila, Vanuatu | 22:30 |
+| 🟢 0.7 | 21 km NW of Parkfield, CA | 22:24 |
+| 🟢 1.3 | 2 km NE of The Geysers, CA | 22:23 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 22:23 |
+| 🟢 2.2 | 31 km NNE of Point Possession, Alaska | 22:22 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
