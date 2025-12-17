@@ -2,22 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2009:27:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-357ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2010:24:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-342ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 11 km W of Burney, CA | 09:21 |
-| 🟠 3.2 | 91 km NNE of Yakutat, Alaska | 09:20 |
-| 🟢 0.7 | 9 km WNW of Cobb, CA | 09:12 |
-| 🟢 1.8 | 15 km SE of Pinnacles, CA | 09:08 |
-| 🟢 1.6 | 14 km W of Johannesburg, CA | 08:57 |
-| 🟢 1.1 | 5 km WNW of Cobb, CA | 08:52 |
-| 🟢 2.2 | 2 km W of Tallaboa, Puerto Rico | 08:52 |
-| 🟢 1.8 | 22 km E of Honaunau-Napoopoo, Hawaii | 08:45 |
-| 🟢 1.3 | 10 km NNE of Morgan Hill, CA | 08:44 |
-| 🟢 1.0 | 14 km NW of Fillmore, CA | 08:41 |
-| 🟢 2.2 | 6 km SSW of Ojai, CA | 08:31 |
+| 🟠 3.2 | 21 km E of Little Lake, CA | 10:01 |
+| 🟢 1.2 | 9 km WNW of Cobb, CA | 09:57 |
+| 🟢 0.8 | 10 km WNW of Cobb, CA | 09:54 |
+| 🟢 1.5 | 29 km SW of Garden City, Texas | 09:50 |
+| 🟠 5.0 | 99 km SSW of Urakawa, Japan | 09:50 |
+| 🟢 1.8 | 37 km NNE of Paxson, Alaska | 09:37 |
+| 🟢 0.5 | 10 km WNW of The Geysers, CA | 09:35 |
+| 🟢 1.7 | 36 km SSE of Denali National Park, Alaska | 09:26 |
+| 🟢 0.9 | 15 km NW of Fillmore, CA | 09:25 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
