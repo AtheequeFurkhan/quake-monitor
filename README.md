@@ -2,26 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2012:43:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-315ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2013:33:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-376ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.9 | 5 km WNW of The Geysers, CA | 13:19 |
+| 🟢 1.8 | 24 km E of Honaunau-Napoopoo, Hawaii | 13:18 |
+| 🟢 1.1 | 8 km WNW of The Geysers, CA | 13:18 |
+| 🟢 1.1 | 7 km NW of The Geysers, CA | 13:15 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 13:11 |
+| 🟢 1.9 | 18 km SE of Susitna North, Alaska | 13:09 |
+| 🟢 1.2 | 2 km ESE of The Geysers, CA | 12:51 |
+| 🟢 2.0 | 55 km NW of Toyah, Texas | 12:39 |
+| 🟢 1.6 | 56 km NW of Toyah, Texas | 12:38 |
 | 🟢 1.6 | 55 km NW of Toyah, Texas | 12:38 |
 | 🟢 1.0 | 13 km ENE of Cloverdale, CA | 12:33 |
-| 🟢 0.5 | 12 km SSE of Anza, CA | 12:31 |
-| 🟢 1.0 | 3 km SW of Anderson Springs, CA | 12:26 |
-| 🟢 0.7 | 14 km N of Ocotillo Wells, CA | 12:23 |
-| 🟢 1.4 | 14 km N of Ocotillo Wells, CA | 12:21 |
-| 🟢 0.7 | 2 km E of Winchester, CA | 12:18 |
-| 🟢 0.4 | 8 km W of Cobb, CA | 12:14 |
-| 🟢 2.7 | 66 km ENE of Punta Cana, Dominican Republic | 12:13 |
-| 🟢 2.5 | 67 km E of Cantwell, Alaska | 12:10 |
-| 🟠 3.3 | 89 km N of Yakutat, Alaska | 12:08 |
-| 🟢 2.1 | 2 km NW of Tallaboa, Puerto Rico | 12:07 |
-| 🟢 1.6 | 10 km N of Garden City, Texas | 12:03 |
-| 🟠 4.3 | Bonin Islands, Japan region | 12:01 |
-| 🟢 1.7 | 102 km NW of Yakutat, Alaska | 11:45 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
