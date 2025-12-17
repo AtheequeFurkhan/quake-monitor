@@ -2,18 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2001:28:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-277ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2003:19:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-188ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.6 | 11 km SSE of Corning, CA | 01:06 |
-| 🟢 3.0 | 81 km N of Yakutat, Alaska | 00:45 |
-| 🟢 1.2 | 14 km NW of Fillmore, CA | 00:45 |
-| 🟠 3.8 | 78 km N of Yakutat, Alaska | 00:43 |
-| 🟠 3.2 | 84 km N of Yakutat, Alaska | 00:42 |
-| 🟢 1.6 | 4 km SE of San Ramon, CA | 00:41 |
-| 🟢 2.2 | 59 km S of Whites City, New Mexico | 00:41 |
+| 🟢 1.2 | 37 km NW of Stanton, Texas | 03:15 |
+| 🟢 1.0 | 7 km NW of The Geysers, CA | 03:13 |
+| 🟢 1.0 | 7 km NW of The Geysers, CA | 03:13 |
+| 🟢 1.4 | 15 km WNW of Anza, CA | 03:13 |
+| 🟢 1.6 | 7 km NW of The Geysers, CA | 03:12 |
+| 🟢 1.9 | 26 km SE of Leilani Estates, Hawaii | 03:02 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 02:53 |
+| 🟢 2.1 | 3 km NE of Puako, Hawaii | 02:49 |
+| 🟠 4.7 | 176 km ESE of Tatsugō, Japan | 02:43 |
+| 🟢 1.9 | 1 km SW of Glen Ellen, CA | 02:27 |
+| 🟢 3.0 | 109 km N of Yakutat, Alaska | 02:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
