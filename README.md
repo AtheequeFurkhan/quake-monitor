@@ -2,19 +2,26 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2011:19:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-317ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2012:43:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-315ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.4 | 51 km NE of Chenega, Alaska | 11:07 |
-| 🟢 2.1 | 24 km E of Honaunau-Napoopoo, Hawaii | 11:01 |
-| 🟢 1.1 | 14 km W of Johannesburg, CA | 10:41 |
-| 🟠 4.7 | Pagan region, Northern Mariana Islands | 10:30 |
-| 🟢 2.3 | 53 km WNW of Anchor Point, Alaska | 10:27 |
-| 🟢 1.2 | 21 km E of Little Lake, CA | 10:25 |
-| 🟢 0.9 | 19 km ESE of Julian, CA | 10:24 |
-| 🟢 0.6 | 21 km E of Little Lake, CA | 10:20 |
+| 🟢 1.6 | 55 km NW of Toyah, Texas | 12:38 |
+| 🟢 1.0 | 13 km ENE of Cloverdale, CA | 12:33 |
+| 🟢 0.5 | 12 km SSE of Anza, CA | 12:31 |
+| 🟢 1.0 | 3 km SW of Anderson Springs, CA | 12:26 |
+| 🟢 0.7 | 14 km N of Ocotillo Wells, CA | 12:23 |
+| 🟢 1.4 | 14 km N of Ocotillo Wells, CA | 12:21 |
+| 🟢 0.7 | 2 km E of Winchester, CA | 12:18 |
+| 🟢 0.4 | 8 km W of Cobb, CA | 12:14 |
+| 🟢 2.7 | 66 km ENE of Punta Cana, Dominican Republic | 12:13 |
+| 🟢 2.5 | 67 km E of Cantwell, Alaska | 12:10 |
+| 🟠 3.3 | 89 km N of Yakutat, Alaska | 12:08 |
+| 🟢 2.1 | 2 km NW of Tallaboa, Puerto Rico | 12:07 |
+| 🟢 1.6 | 10 km N of Garden City, Texas | 12:03 |
+| 🟠 4.3 | Bonin Islands, Japan region | 12:01 |
+| 🟢 1.7 | 102 km NW of Yakutat, Alaska | 11:45 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
@@ -23,7 +30,7 @@
 - ⛈️ **Severe Storms**: [Tropical Cyclone 08P](https://www.metoc.navy.mil/jtwc/products/sh0826.tcw) (Dec 16)
 - 🔥 **Wildfires**: [Cave Mountain Wildfire, Bibb, Alabama](https://irwin.doi.gov/observer/incidents/ecd965da-3ccd-4a55-b7c0-95b763d11d61) (Dec 12)
 - 🔥 **Wildfires**: [RX  FY26 BUFF Buffalo Point Maintenance Prescribed Fire, Marion, Arkansas](https://irwin.doi.gov/observer/incidents/784bad36-ab8b-412f-a173-7d6a5a84088b) (Dec 12)
-- ⛈️ **Severe Storms**: [Tropical Cyclone Bakung](https://www.metoc.navy.mil/jtwc/products/sh0726.tcw) (Dec 16)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Bakung](https://www.metoc.navy.mil/jtwc/products/sh0726.tcw) (Dec 17)
 - 🔥 **Wildfires**: [RX Llano 5625 Prescribed Fire, Llano, Texas](https://irwin.doi.gov/observer/incidents/5104c261-c20d-4f98-9075-dea48dded603) (Dec 11)
 - 🔥 **Wildfires**: [RX WINN BU 64 Prescribed Fire, Winn, Louisiana](https://irwin.doi.gov/observer/incidents/60dc5be0-5b6a-42e4-92d5-f455238bad07) (Dec 11)
 - 🔥 **Wildfires**: [APQ Area 12 Rx 1211 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/5a7c223c-10f4-4184-81e3-382aa92aef23) (Dec 11)
