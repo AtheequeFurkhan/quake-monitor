@@ -2,20 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2006:33:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-274ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2007:22:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-532ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.7 | 9 km WNW of Cobb, CA | 07:09 |
+| 🟢 0.8 | 17 km NNE of Ridgecrest, CA | 06:55 |
+| 🟢 0.9 | 8 km WNW of Cobb, CA | 06:54 |
+| 🟢 1.5 | 13 km N of Pecos, Texas | 06:49 |
+| 🟢 1.5 | 9 km WNW of The Geysers, CA | 06:40 |
+| 🟢 0.4 | 6 km NW of The Geysers, CA | 06:39 |
+| 🟢 0.7 | 9 km WNW of The Geysers, CA | 06:36 |
+| 🟢 1.4 | 11 km SW of Marina del Rey, CA | 06:34 |
 | 🟢 1.5 | 13 km ENE of Cloverdale, CA | 06:29 |
-| 🟢 0.8 | 9 km NW of The Geysers, CA | 06:21 |
-| 🟢 1.6 | 8 km WNW of Cobb, CA | 06:14 |
-| 🟢 2.0 | 25 km W of Petersville, Alaska | 06:11 |
-| 🟠 3.0 | 4 km SE of San Ramon, CA | 06:11 |
-| 🟢 1.7 | 42 km NW of Toyah, Texas | 06:11 |
-| 🟢 1.2 | 1 km ENE of The Geysers, CA | 06:08 |
-| 🟢 1.6 | 15 km NNE of Barstow, CA | 06:07 |
-| 🟢 1.2 | 9 km WNW of The Geysers, CA | 05:41 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
