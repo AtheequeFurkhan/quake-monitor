@@ -2,15 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2005:22:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-556ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2006:33:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-274ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 3 km WNW of Anderson Springs, CA | 04:53 |
-| 🟢 1.0 | 3 km WNW of Anderson Springs, CA | 04:52 |
-| 🟢 0.7 | 4 km SSE of Palomar Observatory, CA | 04:52 |
-| 🟢 1.7 | 65 km WNW of Petersville, Alaska | 04:37 |
+| 🟢 1.5 | 13 km ENE of Cloverdale, CA | 06:29 |
+| 🟢 0.8 | 9 km NW of The Geysers, CA | 06:21 |
+| 🟢 1.6 | 8 km WNW of Cobb, CA | 06:14 |
+| 🟢 2.0 | 25 km W of Petersville, Alaska | 06:11 |
+| 🟠 3.0 | 4 km SE of San Ramon, CA | 06:11 |
+| 🟢 1.7 | 42 km NW of Toyah, Texas | 06:11 |
+| 🟢 1.2 | 1 km ENE of The Geysers, CA | 06:08 |
+| 🟢 1.6 | 15 km NNE of Barstow, CA | 06:07 |
+| 🟢 1.2 | 9 km WNW of The Geysers, CA | 05:41 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
