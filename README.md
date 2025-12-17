@@ -2,20 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2018:32:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-435ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2019:19:31%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-276ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 6 km SSE of Warner Springs, CA | 18:18 |
-| 🟢 0.7 | 10 km WNW of The Geysers, CA | 18:15 |
-| 🟢 1.4 | 2 km ESE of The Geysers, CA | 18:15 |
-| 🟢 1.6 | 55 km NW of Toyah, Texas | 18:14 |
-| 🟢 1.8 | 64 km WNW of Petersville, Alaska | 18:01 |
-| 🟢 1.4 | 3 km S of Hooper, Utah | 17:59 |
-| 🟢 0.5 | 3 km WNW of West Point, Utah | 17:55 |
-| 🟢 1.2 | 7 km WNW of San Francisco Zoo, CA | 17:55 |
-| 🟢 1.7 | 59 km S of Denali National Park, Alaska | 17:55 |
+| 🟢 0.8 | 12 km SSW of Idyllwild, CA | 19:13 |
+| 🟢 1.2 | 2 km ESE of Oakland, CA | 19:06 |
+| 🟢 2.1 | 19 km SSW of Anchor Point, Alaska | 18:54 |
+| 🟢 2.0 | 11 km NNE of Houston, Alaska | 18:46 |
+| 🟢 1.1 | 6 km NW of The Geysers, CA | 18:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
