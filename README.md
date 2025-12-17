@@ -2,25 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2008:30:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-242ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2009:27:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-357ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟠 3.1 | 44 km NW of Tatitlek, Alaska | 08:22 |
-| 🟢 1.2 | 6 km SSW of Ojai, CA | 08:20 |
-| 🟢 0.7 | 8 km WNW of Cobb, CA | 08:14 |
-| 🟢 0.7 | 8 km WNW of Cobb, CA | 08:14 |
-| 🟢 1.3 | 8 km WNW of Cobb, CA | 08:11 |
-| 🟢 0.7 | 9 km NW of The Geysers, CA | 08:10 |
-| 🟢 1.8 | 26 km SSE of Skwentna, Alaska | 07:57 |
-| 🟢 1.1 | 6 km NW of The Geysers, CA | 07:55 |
-| 🟢 0.8 | 16 km ESE of Anza, CA | 07:46 |
-| 🟢 1.6 | 13 km E of Balmorhea, Texas | 07:46 |
-| 🟢 0.5 | 8 km WNW of Cobb, CA | 07:44 |
-| 🟢 0.8 | 8 km WNW of Cobb, CA | 07:43 |
-| 🟢 2.0 | 30 km SSW of Cantwell, Alaska | 07:43 |
-| 🟢 1.0 | 5 km NNW of The Geysers, CA | 07:40 |
+| 🟢 2.2 | 11 km W of Burney, CA | 09:21 |
+| 🟠 3.2 | 91 km NNE of Yakutat, Alaska | 09:20 |
+| 🟢 0.7 | 9 km WNW of Cobb, CA | 09:12 |
+| 🟢 1.8 | 15 km SE of Pinnacles, CA | 09:08 |
+| 🟢 1.6 | 14 km W of Johannesburg, CA | 08:57 |
+| 🟢 1.1 | 5 km WNW of Cobb, CA | 08:52 |
+| 🟢 2.2 | 2 km W of Tallaboa, Puerto Rico | 08:52 |
+| 🟢 1.8 | 22 km E of Honaunau-Napoopoo, Hawaii | 08:45 |
+| 🟢 1.3 | 10 km NNE of Morgan Hill, CA | 08:44 |
+| 🟢 1.0 | 14 km NW of Fillmore, CA | 08:41 |
+| 🟢 2.2 | 6 km SSW of Ojai, CA | 08:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
