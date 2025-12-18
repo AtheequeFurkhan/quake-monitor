@@ -2,16 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2019:17:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-424ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2020:20:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-900ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 2 km E of Big Lake, Alaska | 19:13 |
-| 🟢 2.2 | 53 km ENE of Pedro Bay, Alaska | 18:53 |
-| 🟢 1.2 | 31 km SSE of Minto, Alaska | 18:39 |
-| 🟢 0.8 | 7 km WNW of The Geysers, CA | 18:38 |
-| 🟢 1.9 | 0 km WSW of Pāhala, Hawaii | 18:21 |
+| 🟢 2.1 | 13 km ENE of Pāhala, Hawaii | 20:11 |
+| 🟢 0.6 | 7 km SW of Idyllwild, CA | 20:04 |
+| 🟢 1.7 | 3 km SW of Trapper Creek, Alaska | 20:00 |
+| 🟢 1.5 | 20 km SW of Ocotillo Wells, CA | 19:31 |
+| 🟢 1.7 | 59 km S of Whites City, New Mexico | 19:25 |
+| 🟢 0.9 | 8 km ENE of Coso Junction, CA | 19:25 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
