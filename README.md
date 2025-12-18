@@ -2,20 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2003:20:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-233ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2004:33:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-503ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 19 km SSW of Ocotillo Wells, CA | 03:09 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 03:01 |
-| 🟢 2.0 | 26 km N of Paxson, Alaska | 03:01 |
-| 🟢 1.8 | 27 km SW of Jal, New Mexico | 02:54 |
-| 🟢 1.1 | 8 km W of Cobb, CA | 02:53 |
-| 🟢 1.4 | 10 km N of Garden City, Texas | 02:51 |
-| 🟢 1.9 | 11 km WNW of Mentone, Texas | 02:50 |
-| 🟢 2.7 | 10 km NNE of Garden City, Texas | 02:50 |
-| 🟢 1.1 | 3 km NNW of The Geysers, CA | 02:28 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 04:03 |
+| 🟢 2.7 | 1 km E of Palmas, Puerto Rico | 04:03 |
+| 🟢 1.9 | 30 km NNE of Paxson, Alaska | 04:02 |
+| 🟢 2.0 | 11 km SE of Tennant, CA | 03:57 |
+| 🟢 1.9 | 16 km NNE of Pāhala, Hawaii | 03:51 |
+| 🟢 1.2 | 22 km E of Little Lake, CA | 03:41 |
+| 🟢 0.5 | 40 km NW of Toyah, Texas | 03:40 |
+| 🟢 1.9 | 31 km NNW of Mentone, Texas | 03:38 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
