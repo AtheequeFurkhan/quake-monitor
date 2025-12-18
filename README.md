@@ -2,22 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2013:36:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-277ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2014:22:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-478ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.1 | 6 km WNW of The Geysers, CA | 14:03 |
+| 🟢 1.6 | 18 km NE of Greenhorn, CA | 13:46 |
+| 🟢 0.3 | 7 km NW of The Geysers, CA | 13:34 |
+| 🟢 1.4 | 29 km ESE of West Yellowstone, Montana | 13:28 |
 | 🟢 0.3 | 10 km WNW of The Geysers, CA | 13:24 |
-| 🟢 1.9 | 44 km ENE of Susitna North, Alaska | 13:18 |
-| 🟢 0.4 | 9 km NW of The Geysers, CA | 13:14 |
-| 🟢 1.6 | 25 km WSW of Petersville, Alaska | 13:12 |
-| 🟢 2.7 | 32 km WNW of Susitna, Alaska | 13:02 |
-| 🟢 2.8 | 112 km N of Yakutat, Alaska | 12:58 |
-| 🟢 2.2 | 54 km NE of Chenega, Alaska | 12:53 |
-| 🟢 2.6 | 28 km SW of Jal, New Mexico | 12:50 |
-| 🟢 1.3 | 11 km W of Salcha, Alaska | 12:41 |
-| 🟢 1.3 | 14 km NW of Progreso, B.C., MX | 12:37 |
-| 🔴 5.9 | 72 km E of Petropavlovsk-Kamchatsky, Russia | 12:37 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
