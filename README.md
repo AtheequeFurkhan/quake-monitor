@@ -2,25 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2001:28:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-296ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2003:20:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-233ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.7 | 19 km N of Pāhala, Hawaii | 01:23 |
-| 🟢 1.2 | 8 km NW of The Geysers, CA | 01:22 |
-| 🟢 1.5 | 8 km NW of The Geysers, CA | 01:18 |
-| 🟢 1.1 | 12 km WSW of Stanton, Texas | 01:11 |
-| 🟢 1.9 | 43 km SSE of Whites City, New Mexico | 00:57 |
-| 🟢 1.8 | 25 km SSE of Trona, CA | 00:56 |
-| 🟢 1.9 | 15 km NE of Girdwood, Alaska | 00:56 |
-| 🟢 1.7 | 4 km SSE of Pinnacles, CA | 00:52 |
-| 🟢 1.4 | 6 km SE of Coahoma, Texas | 00:49 |
-| 🟢 0.9 | 6 km NW of The Geysers, CA | 00:47 |
-| 🟢 1.6 | 53 km W of Tyonek, Alaska | 00:44 |
-| 🟢 1.8 | 7 km N of Beaumont, CA | 00:35 |
-| 🟢 1.7 | 9 km ENE of Three Rivers, Texas | 00:34 |
-| 🟢 0.9 | 8 km NW of The Geysers, CA | 00:28 |
+| 🟢 1.7 | 19 km SSW of Ocotillo Wells, CA | 03:09 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 03:01 |
+| 🟢 2.0 | 26 km N of Paxson, Alaska | 03:01 |
+| 🟢 1.8 | 27 km SW of Jal, New Mexico | 02:54 |
+| 🟢 1.1 | 8 km W of Cobb, CA | 02:53 |
+| 🟢 1.4 | 10 km N of Garden City, Texas | 02:51 |
+| 🟢 1.9 | 11 km WNW of Mentone, Texas | 02:50 |
+| 🟢 2.7 | 10 km NNE of Garden City, Texas | 02:50 |
+| 🟢 1.1 | 3 km NNW of The Geysers, CA | 02:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
