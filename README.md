@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2008:29:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-473ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2009:27:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-198ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.4 | 7 km S of Hemet, CA | 08:23 |
-| 🟢 2.2 | 54 km WNW of Happy Valley, Alaska | 08:08 |
-| 🟢 1.5 | 14 km ESE of Stanton, Texas | 08:07 |
-| 🟢 1.9 | 77 km ENE of McCarthy, Alaska | 08:05 |
-| 🟠 3.4 | 87 km NNW of Charlotte Amalie, U.S. Virgin Islands | 08:00 |
-| 🟢 1.9 | 14 km S of Las Flores, CA | 07:58 |
-| 🟢 1.0 | 1 km N of The Geysers, CA | 07:53 |
-| 🟢 1.5 | 4 km ESE of Frazier Park, CA | 07:31 |
+| 🟢 1.8 | 9 km NNW of Chickaloon, Alaska | 09:12 |
+| 🟢 1.1 | 7 km SW of Palomar Observatory, CA | 09:10 |
+| 🟢 0.8 | 10 km SW of Idyllwild, CA | 09:09 |
+| 🟢 0.9 | 13 km N of Cabazon, CA | 08:59 |
+| 🟢 0.2 | 21 km ESE of Little Lake, CA | 08:48 |
+| 🟢 0.6 | 16 km ESE of Julian, CA | 08:46 |
+| 🟢 0.7 | 2 km N of Palomar Observatory, CA | 08:35 |
+| 🟢 1.4 | 56 km E of McCarthy, Alaska | 08:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
