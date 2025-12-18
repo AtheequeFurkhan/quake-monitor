@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2004:33:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-503ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2005:22:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-142ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 04:03 |
-| 🟢 2.7 | 1 km E of Palmas, Puerto Rico | 04:03 |
-| 🟢 1.9 | 30 km NNE of Paxson, Alaska | 04:02 |
-| 🟢 2.0 | 11 km SE of Tennant, CA | 03:57 |
-| 🟢 1.9 | 16 km NNE of Pāhala, Hawaii | 03:51 |
-| 🟢 1.2 | 22 km E of Little Lake, CA | 03:41 |
-| 🟢 0.5 | 40 km NW of Toyah, Texas | 03:40 |
-| 🟢 1.9 | 31 km NNW of Mentone, Texas | 03:38 |
+| 🟢 2.4 | 9 km NNE of Garden City, Texas | 05:08 |
+| 🟢 1.5 | 26 km N of Mentone, Texas | 05:05 |
+| 🟢 1.6 | 16 km N of Stockdale, Texas | 05:04 |
+| 🟢 1.8 | 29 km N of Skwentna, Alaska | 05:02 |
+| 🟢 0.9 | 8 km NW of The Geysers, CA | 04:56 |
+| 🟢 1.3 | 5 km S of Redlands, CA | 04:44 |
+| 🟢 0.7 | 5 km S of Redlands, CA | 04:43 |
+| 🟠 4.3 | 98 km S of Pundong, Indonesia | 04:22 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
