@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2005:22:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-142ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2006:33:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-578ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.4 | 9 km NNE of Garden City, Texas | 05:08 |
-| 🟢 1.5 | 26 km N of Mentone, Texas | 05:05 |
-| 🟢 1.6 | 16 km N of Stockdale, Texas | 05:04 |
-| 🟢 1.8 | 29 km N of Skwentna, Alaska | 05:02 |
-| 🟢 0.9 | 8 km NW of The Geysers, CA | 04:56 |
-| 🟢 1.3 | 5 km S of Redlands, CA | 04:44 |
-| 🟢 0.7 | 5 km S of Redlands, CA | 04:43 |
-| 🟠 4.3 | 98 km S of Pundong, Indonesia | 04:22 |
+| 🟢 0.8 | 4 km NW of The Geysers, CA | 06:21 |
+| 🟢 2.0 | 20 km ESE of Naalehu, Hawaii | 06:17 |
+| 🟢 0.5 | 20 km ESE of Anza, CA | 06:16 |
+| 🟢 0.7 | 15 km SSE of Anza, CA | 06:01 |
+| 🟢 1.2 | 10 km WNW of The Geysers, CA | 05:55 |
+| 🟢 1.5 | 5 km NW of Redwood Valley, CA | 05:37 |
+| 🟢 0.8 | 3 km NW of The Geysers, CA | 05:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
