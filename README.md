@@ -2,20 +2,26 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2014:22:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-478ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2015:22:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-276ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 6 km WNW of The Geysers, CA | 14:03 |
-| 🟢 1.6 | 18 km NE of Greenhorn, CA | 13:46 |
-| 🟢 0.3 | 7 km NW of The Geysers, CA | 13:34 |
-| 🟢 1.4 | 29 km ESE of West Yellowstone, Montana | 13:28 |
-| 🟢 0.3 | 10 km WNW of The Geysers, CA | 13:24 |
+| 🟠 3.5 | 48 km ENE of Trona, CA | 15:13 |
+| 🟢 1.7 | 80 km E of Cantwell, Alaska | 15:10 |
+| 🟢 0.7 | 6 km NW of The Geysers, CA | 15:05 |
+| 🟢 0.8 | 3 km NE of The Geysers, CA | 14:54 |
+| 🟢 1.9 | 41 km NNW of Chase, Alaska | 14:54 |
+| 🟢 2.3 | 3 km SSW of Cobb, CA | 14:48 |
+| 🟢 1.6 | 20 km ENE of Coachella, CA | 14:32 |
+| 🟢 1.8 | 20 km ENE of Coachella, CA | 14:31 |
+| 🟢 0.6 | 4 km NW of The Geysers, CA | 14:25 |
+| 🟢 0.4 | 9 km WNW of Cobb, CA | 14:22 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
+- ⛈️ **Severe Storms**: [Tropical Cyclone 09S](https://www.metoc.navy.mil/jtwc/products/sh0926.tcw) (Dec 18)
 - 🔥 **Wildfires**: [RX Optimus North Prescribed Fire, Stone, Arkansas](https://irwin.doi.gov/observer/incidents/6fa2952d-ef68-478e-b97e-bc3e45a866b5) (Dec 15)
 - ⛈️ **Severe Storms**: [Tropical Cyclone 08P](https://www.metoc.navy.mil/jtwc/products/sh0826.tcw) (Dec 16)
 - 🔥 **Wildfires**: [Cave Mountain Wildfire, Bibb, Alabama](https://irwin.doi.gov/observer/incidents/ecd965da-3ccd-4a55-b7c0-95b763d11d61) (Dec 12)
@@ -25,7 +31,6 @@
 - 🔥 **Wildfires**: [RX WINN BU 64 Prescribed Fire, Winn, Louisiana](https://irwin.doi.gov/observer/incidents/60dc5be0-5b6a-42e4-92d5-f455238bad07) (Dec 11)
 - 🔥 **Wildfires**: [APQ Area 12 Rx 1211 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/5a7c223c-10f4-4184-81e3-382aa92aef23) (Dec 11)
 - 🔥 **Wildfires**: [RX CRCC South Prescribed Fire, Murray, Oklahoma](https://irwin.doi.gov/observer/incidents/bf234461-aa98-4fe3-80e6-3a02d597b72e) (Dec 10)
-- 🔥 **Wildfires**: [APQ Recreation Area 12 Rx 1210 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/6b1dbff0-1cb0-4059-9fda-90b502b70bd7) (Dec 10)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
