@@ -2,17 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2016:29:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-295ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2017:23:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-400ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 22 km WSW of Malibu, CA | 15:59 |
-| 🟢 1.3 | 3 km NE of The Geysers, CA | 15:59 |
-| 🟢 1.0 | 85 km NNW of Karluk, Alaska | 15:54 |
-| 🟢 0.8 | 3 km W of Cobb, CA | 15:54 |
-| 🟢 2.2 | 10 km W of Susitna North, Alaska | 15:52 |
-| 🟢 1.6 | 31 km N of Four Mile Road, Alaska | 15:31 |
+| 🟢 1.6 | 16 km NNW of Toyah, Texas | 16:54 |
+| 🟢 0.2 | 7 km WNW of Cobb, CA | 16:54 |
+| 🟢 1.5 | 2 km NW of Sheridan, Oregon | 16:53 |
+| 🟢 1.9 | 35 km WSW of Mentone, Texas | 16:42 |
+| 🟢 2.0 | 4 km SE of San Ramon, CA | 16:37 |
+| 🟢 2.4 | 2 km N of Indios, Puerto Rico | 16:36 |
+| 🟢 1.4 | 13 km ESE of Coalinga, CA | 16:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
