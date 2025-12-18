@@ -2,17 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2017%20Dec%202025%2023:19:47%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-423ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2001:28:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-296ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 13 km NE of Ridgecrest, CA | 22:49 |
-| 🟠 5.0 | 84 km SSE of Port-Vila, Vanuatu | 22:30 |
-| 🟢 0.7 | 21 km NW of Parkfield, CA | 22:24 |
-| 🟢 1.3 | 2 km NE of The Geysers, CA | 22:23 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 22:23 |
-| 🟢 2.2 | 31 km NNE of Point Possession, Alaska | 22:22 |
+| 🟢 2.7 | 19 km N of Pāhala, Hawaii | 01:23 |
+| 🟢 1.2 | 8 km NW of The Geysers, CA | 01:22 |
+| 🟢 1.5 | 8 km NW of The Geysers, CA | 01:18 |
+| 🟢 1.1 | 12 km WSW of Stanton, Texas | 01:11 |
+| 🟢 1.9 | 43 km SSE of Whites City, New Mexico | 00:57 |
+| 🟢 1.8 | 25 km SSE of Trona, CA | 00:56 |
+| 🟢 1.9 | 15 km NE of Girdwood, Alaska | 00:56 |
+| 🟢 1.7 | 4 km SSE of Pinnacles, CA | 00:52 |
+| 🟢 1.4 | 6 km SE of Coahoma, Texas | 00:49 |
+| 🟢 0.9 | 6 km NW of The Geysers, CA | 00:47 |
+| 🟢 1.6 | 53 km W of Tyonek, Alaska | 00:44 |
+| 🟢 1.8 | 7 km N of Beaumont, CA | 00:35 |
+| 🟢 1.7 | 9 km ENE of Three Rivers, Texas | 00:34 |
+| 🟢 0.9 | 8 km NW of The Geysers, CA | 00:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
