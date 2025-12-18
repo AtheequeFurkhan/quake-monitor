@@ -2,18 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2006:33:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-578ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2007:21:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-399ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 4 km NW of The Geysers, CA | 06:21 |
-| 🟢 2.0 | 20 km ESE of Naalehu, Hawaii | 06:17 |
-| 🟢 0.5 | 20 km ESE of Anza, CA | 06:16 |
-| 🟢 0.7 | 15 km SSE of Anza, CA | 06:01 |
-| 🟢 1.2 | 10 km WNW of The Geysers, CA | 05:55 |
-| 🟢 1.5 | 5 km NW of Redwood Valley, CA | 05:37 |
-| 🟢 0.8 | 3 km NW of The Geysers, CA | 05:36 |
+| 🟢 2.3 | 52 km N of Valdez, Alaska | 07:18 |
+| 🟢 1.5 | 9 km E of Gilroy, CA | 07:14 |
+| 🟢 0.4 | 8 km NW of The Geysers, CA | 07:12 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 07:09 |
+| 🟢 1.7 | 43 km SE of Naalehu, Hawaii | 06:50 |
+| 🟢 1.2 | 11 km W of Forsan, Texas | 06:49 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
