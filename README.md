@@ -2,21 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2015:22:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-276ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2016:29:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-295ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟠 3.5 | 48 km ENE of Trona, CA | 15:13 |
-| 🟢 1.7 | 80 km E of Cantwell, Alaska | 15:10 |
-| 🟢 0.7 | 6 km NW of The Geysers, CA | 15:05 |
-| 🟢 0.8 | 3 km NE of The Geysers, CA | 14:54 |
-| 🟢 1.9 | 41 km NNW of Chase, Alaska | 14:54 |
-| 🟢 2.3 | 3 km SSW of Cobb, CA | 14:48 |
-| 🟢 1.6 | 20 km ENE of Coachella, CA | 14:32 |
-| 🟢 1.8 | 20 km ENE of Coachella, CA | 14:31 |
-| 🟢 0.6 | 4 km NW of The Geysers, CA | 14:25 |
-| 🟢 0.4 | 9 km WNW of Cobb, CA | 14:22 |
+| 🟢 2.2 | 22 km WSW of Malibu, CA | 15:59 |
+| 🟢 1.3 | 3 km NE of The Geysers, CA | 15:59 |
+| 🟢 1.0 | 85 km NNW of Karluk, Alaska | 15:54 |
+| 🟢 0.8 | 3 km W of Cobb, CA | 15:54 |
+| 🟢 2.2 | 10 km W of Susitna North, Alaska | 15:52 |
+| 🟢 1.6 | 31 km N of Four Mile Road, Alaska | 15:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
