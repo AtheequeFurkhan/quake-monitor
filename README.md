@@ -2,18 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2017:23:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-400ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2018:31:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-316ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 16 km NNW of Toyah, Texas | 16:54 |
-| 🟢 0.2 | 7 km WNW of Cobb, CA | 16:54 |
-| 🟢 1.5 | 2 km NW of Sheridan, Oregon | 16:53 |
-| 🟢 1.9 | 35 km WSW of Mentone, Texas | 16:42 |
-| 🟢 2.0 | 4 km SE of San Ramon, CA | 16:37 |
-| 🟢 2.4 | 2 km N of Indios, Puerto Rico | 16:36 |
-| 🟢 1.4 | 13 km ESE of Coalinga, CA | 16:36 |
+| 🟢 1.9 | 0 km WSW of Pāhala, Hawaii | 18:21 |
+| 🟢 1.9 | 26 km W of Salamatof, Alaska | 18:07 |
+| 🟢 0.6 | 7 km WNW of Cobb, CA | 18:07 |
+| 🟠 3.3 | 31 km SSE of Minto, Alaska | 18:02 |
+| 🟢 0.8 | 8 km W of Cobb, CA | 17:59 |
+| 🟢 2.0 | 28 km SSW of Anchorage, Alaska | 17:51 |
+| 🟠 3.2 | 9 km WSW of Esperanza, Puerto Rico | 17:49 |
+| 🟢 1.0 | 12 km WNW of The Geysers, CA | 17:47 |
+| 🟢 1.1 | 7 km NW of The Geysers, CA | 17:44 |
+| 🟢 2.5 | 8 km WNW of Harding-Birch Lakes, Alaska | 17:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
