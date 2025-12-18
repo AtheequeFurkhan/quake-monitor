@@ -2,21 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2011:19:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-174ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2012:42:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-579ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 4 km SW of Borrego Springs, CA | 11:13 |
-| 🟢 2.1 | 92 km NNW of Yakutat, Alaska | 10:48 |
-| 🟢 1.9 | 33 km WNW of Ninilchik, Alaska | 10:42 |
-| 🟢 0.7 | 7 km WNW of Cobb, CA | 10:31 |
-| 🟢 1.3 | 24 km N of Searles Valley, CA | 10:26 |
-| 🟢 2.2 | 66 km N of Yakutat, Alaska | 10:24 |
-| 🟢 2.1 | 59 km S of Whites City, New Mexico | 10:24 |
-| 🟢 2.2 | 15 km E of Ocotillo Wells, CA | 10:23 |
-| 🟢 1.8 | 6 km W of Pāhala, Hawaii | 10:21 |
-| 🟢 1.6 | 8 km NW of The Geysers, CA | 10:20 |
+| 🟢 1.3 | 14 km NW of Progreso, B.C., MX | 12:37 |
+| 🟢 2.8 | 5 km SW of Millville, CA | 12:34 |
+| 🟢 1.1 | 10 km WSW of Morongo Valley, CA | 12:11 |
+| 🟢 0.9 | 7 km S of Pearblossom, CA | 11:49 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
