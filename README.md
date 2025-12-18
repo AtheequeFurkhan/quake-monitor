@@ -2,26 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2010:23:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-476ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2018%20Dec%202025%2011:19:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-174ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 6 km WNW of Calimesa, CA | 10:07 |
-| 🟢 1.1 | 6 km NW of The Geysers, CA | 10:05 |
-| 🟢 2.4 | 92 km NNE of Yakutat, Alaska | 10:00 |
-| 🟢 0.8 | 8 km SSE of San Juan Bautista, CA | 09:59 |
-| 🟢 1.6 | 10 km SSE of San Juan Bautista, CA | 09:59 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 09:54 |
-| 🟢 2.1 | 10 km SSE of San Juan Bautista, CA | 09:53 |
-| 🟢 2.8 | 10 km SSE of San Juan Bautista, CA | 09:52 |
-| 🟢 1.6 | 57 km S of Whites City, New Mexico | 09:48 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 09:46 |
-| 🟢 0.7 | 4 km NNW of The Geysers, CA | 09:39 |
-| 🟢 0.8 | 8 km W of Cobb, CA | 09:38 |
-| 🟢 1.5 | 50 km SSE of Whites City, New Mexico | 09:38 |
-| 🟢 0.6 | 8 km NW of The Geysers, CA | 09:32 |
-| 🟢 2.2 | 52 km NNE of Ruby, Alaska | 09:24 |
+| 🟢 0.9 | 4 km SW of Borrego Springs, CA | 11:13 |
+| 🟢 2.1 | 92 km NNW of Yakutat, Alaska | 10:48 |
+| 🟢 1.9 | 33 km WNW of Ninilchik, Alaska | 10:42 |
+| 🟢 0.7 | 7 km WNW of Cobb, CA | 10:31 |
+| 🟢 1.3 | 24 km N of Searles Valley, CA | 10:26 |
+| 🟢 2.2 | 66 km N of Yakutat, Alaska | 10:24 |
+| 🟢 2.1 | 59 km S of Whites City, New Mexico | 10:24 |
+| 🟢 2.2 | 15 km E of Ocotillo Wells, CA | 10:23 |
+| 🟢 1.8 | 6 km W of Pāhala, Hawaii | 10:21 |
+| 🟢 1.6 | 8 km NW of The Geysers, CA | 10:20 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
