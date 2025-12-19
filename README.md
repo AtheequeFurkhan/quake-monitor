@@ -2,21 +2,14 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2010:23:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-144ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2011:18:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-579ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.3 | 5 km NW of The Geysers, CA | 11:06 |
+| 🟢 1.8 | 13 km SSE of Fowlerton, Texas | 10:24 |
 | 🟢 0.7 | 8 km WNW of Cobb, CA | 10:18 |
-| 🟢 2.2 | 6 km SSW of Pāhala, Hawaii | 10:16 |
-| 🟢 1.1 | 3 km W of Cobb, CA | 10:13 |
-| 🟢 2.0 | 6 km SSW of Pāhala, Hawaii | 10:03 |
-| 🟢 1.2 | 29 km SE of Midland, Texas | 09:58 |
-| 🟢 2.0 | 6 km SW of Idyllwild, CA | 09:49 |
-| 🟢 0.5 | 19 km E of Julian, CA | 09:48 |
-| 🟢 0.8 | 5 km NNW of The Geysers, CA | 09:46 |
-| 🟢 2.8 | 23 km NNW of Camuy, Puerto Rico | 09:45 |
-| 🟢 1.1 | 6 km NW of The Geysers, CA | 09:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
