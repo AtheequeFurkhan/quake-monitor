@@ -2,18 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2013:32:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-246ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2014:20:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-194ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.7 | 9 km E of Palomar Observatory, CA | 14:15 |
+| 🟢 1.5 | 54 km WNW of Beatty, Nevada | 14:11 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 14:09 |
+| 🟢 1.8 | 0 km SSW of Pāhala, Hawaii | 13:59 |
+| 🟢 1.7 | 0 km WNW of Pāhala, Hawaii | 13:56 |
+| 🟢 2.0 | 57 km NNE of Chenega, Alaska | 13:54 |
+| 🟢 2.2 | 2 km ESE of Pāhala, Hawaii | 13:53 |
+| 🟢 1.2 | 32 km ENE of Manley Hot Springs, Alaska | 13:50 |
+| 🟢 1.1 | 7 km NE of Banning, CA | 13:40 |
+| 🟢 2.3 | 56 km SSW of Mākena, Hawaii | 13:37 |
 | 🟢 1.8 | 13 km SW of Big Pine, California | 13:28 |
-| 🟢 0.5 | 9 km WNW of The Geysers, CA | 13:15 |
-| 🟢 1.0 | 10 km NE of Indio, CA | 13:12 |
-| 🟢 1.1 | 8 km ENE of Coso Junction, CA | 13:06 |
-| 🟠 4.6 | 276 km SSE of Shimoda, Japan | 12:54 |
-| 🟢 2.0 | 15 km SSW of Calumet, Oklahoma | 12:50 |
-| 🟢 1.1 | 3 km SE of Loma Linda, CA | 12:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
