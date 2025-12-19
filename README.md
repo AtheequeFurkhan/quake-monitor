@@ -2,24 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2015:22:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-199ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2016:27:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-1.379s-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 25 km SW of Ackerly, Texas | 14:59 |
-| 🟢 0.9 | 20 km ESE of Anza, CA | 14:58 |
-| 🟢 0.9 | 19 km ESE of Anza, CA | 14:54 |
-| 🟢 2.4 | 20 km ESE of Anza, CA | 14:53 |
-| 🟠 3.4 | 19 km ESE of Anza, CA | 14:52 |
-| 🟢 2.4 | 19 km ESE of Anza, CA | 14:52 |
-| 🟢 0.5 | 20 km ESE of Anza, CA | 14:51 |
-| 🟢 0.8 | 20 km ESE of Anza, CA | 14:50 |
-| 🟢 2.0 | 31 km N of Paxson, Alaska | 14:50 |
-| 🟢 0.6 | 20 km ESE of Anza, CA | 14:50 |
-| 🟢 1.5 | 20 km ESE of Anza, CA | 14:49 |
-| 🟢 1.2 | 19 km ESE of Anza, CA | 14:49 |
-| 🟢 1.2 | 8 km ENE of Coso Junction, CA | 14:35 |
+| 🟢 1.5 | 47 km NW of Toyah, Texas | 16:19 |
+| 🟢 1.6 | 101 km SE of McCarthy, Alaska | 16:01 |
+| 🟢 2.3 | 58 km S of Whites City, New Mexico | 15:45 |
+| 🟢 0.8 | 5 km NNW of The Geysers, CA | 15:40 |
+| 🟢 1.1 | 5 km NNW of The Geysers, CA | 15:38 |
+| 🟢 0.5 | 22 km ESE of Anza, CA | 15:37 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
