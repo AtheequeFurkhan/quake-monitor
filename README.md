@@ -2,22 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2008:29:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-442ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2009:24:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-443ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 19 km ESE of Anza, CA | 08:24 |
-| 🟢 0.4 | 7 km NW of The Geysers, CA | 08:23 |
-| 🟢 2.8 | 8 km NW of Healdton, Oklahoma | 08:14 |
-| 🟢 2.0 | 4 km WSW of Alamo, CA | 08:14 |
-| 🟢 2.0 | 4 km SE of San Ramon, CA | 08:13 |
-| 🟢 1.8 | 3 km WNW of Point Possession, Alaska | 08:10 |
-| 🟢 2.0 | 7 km S of Volcano, Hawaii | 08:05 |
-| 🟢 2.5 | 3 km NE of Fontana, CA | 07:54 |
-| 🟢 2.2 | 4 km WSW of Guánica, Puerto Rico | 07:51 |
-| 🟢 0.8 | 5 km NW of The Geysers, CA | 07:35 |
-| 🟢 0.6 | 10 km NE of Borrego Springs, CA | 07:31 |
+| 🟢 0.7 | 9 km SW of Idyllwild, CA | 09:16 |
+| 🟢 0.9 | 4 km WSW of Alamo, CA | 09:04 |
+| 🟢 1.0 | 4 km W of Cobb, CA | 08:49 |
+| 🟢 2.0 | 3 km SE of San Ramon, CA | 08:37 |
+| 🟢 0.9 | 9 km WNW of Cobb, CA | 08:30 |
+| 🟢 1.6 | 6 km SSE of Big Lake, Alaska | 08:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
