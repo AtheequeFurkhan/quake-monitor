@@ -2,20 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2003:23:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-284ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2004:33:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-493ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 03:11 |
-| 🟢 1.6 | 20 km ESE of Lindsay, Texas | 03:10 |
-| 🟢 1.5 | 13 km WSW of Karnes City, Texas | 03:04 |
-| 🟢 2.6 | 27 km WNW of Elfin Cove, Alaska | 02:49 |
-| 🟢 2.2 | 14 km ESE of Balmorhea, Texas | 02:33 |
-| 🟢 2.6 | 17 km SE of Coahoma, Texas | 02:32 |
-| 🟢 1.7 | 15 km W of Johannesburg, CA | 02:32 |
-| 🟢 1.5 | 98 km NW of Yakutat, Alaska | 02:30 |
-| 🟢 1.2 | 6 km NE of Alamo, CA | 02:26 |
+| 🟢 0.5 | 85 km NNW of Karluk, Alaska | 04:26 |
+| 🟢 1.2 | 23 km SW of Ocotillo Wells, CA | 04:25 |
+| 🟢 1.5 | 10 km S of Searles Valley, CA | 04:09 |
+| 🔴 5.1 | 55 km ENE of Hinatuan, Philippines | 04:02 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 03:51 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
