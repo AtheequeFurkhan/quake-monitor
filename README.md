@@ -2,19 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2007:21:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-200ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2008:29:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-442ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.4 | 9 km NW of The Geysers, CA | 07:09 |
-| 🟢 1.6 | 1 km E of The Geysers, CA | 07:02 |
-| 🟢 1.6 | 2 km ESE of The Geysers, CA | 07:01 |
-| 🟢 1.1 | 2 km ESE of The Geysers, CA | 06:59 |
-| 🟢 1.6 | 11 km SSE of Lindsay, Texas | 06:58 |
-| 🟢 2.1 | 14 km NNE of Nikiski, Alaska | 06:53 |
-| 🟢 0.3 | 61 km ENE of Pedro Bay, Alaska | 06:32 |
-| 🟢 0.8 | 10 km SSW of Idyllwild, CA | 06:27 |
+| 🟢 1.1 | 19 km ESE of Anza, CA | 08:24 |
+| 🟢 0.4 | 7 km NW of The Geysers, CA | 08:23 |
+| 🟢 2.8 | 8 km NW of Healdton, Oklahoma | 08:14 |
+| 🟢 2.0 | 4 km WSW of Alamo, CA | 08:14 |
+| 🟢 2.0 | 4 km SE of San Ramon, CA | 08:13 |
+| 🟢 1.8 | 3 km WNW of Point Possession, Alaska | 08:10 |
+| 🟢 2.0 | 7 km S of Volcano, Hawaii | 08:05 |
+| 🟢 2.5 | 3 km NE of Fontana, CA | 07:54 |
+| 🟢 2.2 | 4 km WSW of Guánica, Puerto Rico | 07:51 |
+| 🟢 0.8 | 5 km NW of The Geysers, CA | 07:35 |
+| 🟢 0.6 | 10 km NE of Borrego Springs, CA | 07:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
