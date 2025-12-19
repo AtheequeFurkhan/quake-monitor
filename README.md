@@ -2,20 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2018:29:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-575ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2019:16:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-188ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.5 | 13 km NW of Susitna, Alaska | 19:09 |
+| 🟢 2.3 | 18 km NW of Puerto Real, Puerto Rico | 19:00 |
+| 🟢 1.7 | 19 km ESE of Anza, CA | 18:57 |
+| 🟢 1.7 | 18 km N of Cantwell, Alaska | 18:56 |
+| 🟢 0.6 | 5 km WNW of Cobb, CA | 18:49 |
+| 🟢 2.0 | 63 km N of Chickaloon, Alaska | 18:36 |
 | 🟢 1.9 | 66 km WNW of Anchor Point, Alaska | 18:16 |
-| 🟢 2.0 | 36 km N of Eagle, Alaska | 18:10 |
-| 🟢 3.0 | 13 km WNW of Happy Valley, Alaska | 18:04 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 17:53 |
-| 🟢 1.5 | 69 km WSW of Cantwell, Alaska | 17:44 |
-| 🟢 2.0 | 19 km ESE of Anza, CA | 17:44 |
-| 🟢 1.8 | 56 km S of Whites City, New Mexico | 17:42 |
-| 🟢 1.9 | 18 km SE of Pāhala, Hawaii | 17:35 |
-| 🟢 2.0 | 58 km S of Whites City, New Mexico | 17:29 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
