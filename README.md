@@ -2,17 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2001:41:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-553ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2003:23:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-284ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 3 km ENE of Colton, CA | 01:33 |
-| 🟢 0.9 | 10 km NE of Coso Junction, CA | 01:24 |
-| 🟢 0.8 | 13 km ENE of Ridgecrest, CA | 01:14 |
-| 🟢 1.2 | 12 km WSW of Forsan, Texas | 01:12 |
-| 🟠 4.0 | 36 km W of Elfin Cove, Alaska | 00:54 |
-| 🟢 2.2 | 11 km ESE of Pāhala, Hawaii | 00:47 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 03:11 |
+| 🟢 1.6 | 20 km ESE of Lindsay, Texas | 03:10 |
+| 🟢 1.5 | 13 km WSW of Karnes City, Texas | 03:04 |
+| 🟢 2.6 | 27 km WNW of Elfin Cove, Alaska | 02:49 |
+| 🟢 2.2 | 14 km ESE of Balmorhea, Texas | 02:33 |
+| 🟢 2.6 | 17 km SE of Coahoma, Texas | 02:32 |
+| 🟢 1.7 | 15 km W of Johannesburg, CA | 02:32 |
+| 🟢 1.5 | 98 km NW of Yakutat, Alaska | 02:30 |
+| 🟢 1.2 | 6 km NE of Alamo, CA | 02:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
