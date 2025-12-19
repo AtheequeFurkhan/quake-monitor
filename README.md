@@ -2,20 +2,14 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2021:18:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-182ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2022:20:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-216ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 7 km S of Calistoga, CA | 21:14 |
-| 🟢 0.9 | 8 km SSE of Palomar Observatory, CA | 21:10 |
-| 🟢 1.2 | 7 km N of Beaumont, CA | 21:09 |
-| 🟢 1.3 | 12 km ESE of Ferry, Alaska | 21:04 |
-| 🟢 1.0 | 15 km S of Salton City, CA | 21:03 |
-| 🟢 2.6 | 49 km W of Mentone, Texas | 20:56 |
-| 🟢 2.7 | 49 km W of Mentone, Texas | 20:56 |
-| 🟢 2.1 | 20 km NE of Nikiski, Alaska | 20:44 |
-| 🟢 2.0 | 18 km SSW of Skwentna, Alaska | 20:30 |
+| 🟢 1.6 | 26 km SW of Maricopa, CA | 22:00 |
+| 🔴 5.1 | 31 km NW of Archidona, Ecuador | 21:59 |
+| 🟢 1.2 | 4 km SW of Alamo, CA | 21:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
