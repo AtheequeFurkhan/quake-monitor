@@ -2,14 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2011:18:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-579ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2012:41:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-405ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.3 | 5 km NW of The Geysers, CA | 11:06 |
-| 🟢 1.8 | 13 km SSE of Fowlerton, Texas | 10:24 |
-| 🟢 0.7 | 8 km WNW of Cobb, CA | 10:18 |
+| 🟢 1.1 | 3 km SE of Loma Linda, CA | 12:33 |
+| 🟢 2.3 | 72 km SSW of Nanwalek, Alaska | 12:21 |
+| 🟢 2.0 | 30 km NNE of Skwentna, Alaska | 12:18 |
+| 🟢 1.5 | 6 km N of Sutton-Alpine, Alaska | 12:10 |
+| 🟢 0.9 | 5 km W of Cobb, CA | 11:55 |
+| 🟢 1.6 | 7 km S of Ojai, CA | 11:54 |
+| 🟢 0.8 | 6 km W of Cobb, CA | 11:53 |
+| 🟢 0.8 | 8 km W of Cobb, CA | 11:49 |
+| 🟢 2.6 | 76 km ENE of Port Alsworth, Alaska | 11:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
