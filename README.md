@@ -2,18 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2019:16:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-188ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2020:22:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-538ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.5 | 13 km NW of Susitna, Alaska | 19:09 |
-| 🟢 2.3 | 18 km NW of Puerto Real, Puerto Rico | 19:00 |
-| 🟢 1.7 | 19 km ESE of Anza, CA | 18:57 |
-| 🟢 1.7 | 18 km N of Cantwell, Alaska | 18:56 |
-| 🟢 0.6 | 5 km WNW of Cobb, CA | 18:49 |
-| 🟢 2.0 | 63 km N of Chickaloon, Alaska | 18:36 |
-| 🟢 1.9 | 66 km WNW of Anchor Point, Alaska | 18:16 |
+| 🟢 1.8 | 14 km S of Fern Forest, Hawaii | 20:14 |
+| 🟢 0.8 | 10 km NE of Borrego Springs, CA | 20:10 |
+| 🟢 1.2 | 13 km SE of Tehachapi, CA | 20:08 |
+| 🟢 1.1 | 12 km ENE of Fox, Alaska | 20:07 |
+| 🟢 0.6 | 19 km ESE of Anza, CA | 20:06 |
+| 🟠 4.5 | 144 km NW of Hihifo, Tonga | 19:49 |
+| 🟢 1.3 | 5 km W of Four Mile Road, Alaska | 19:37 |
+| 🟢 1.8 | 9 km S of Volcano, Hawaii | 19:27 |
+| 🟢 1.1 | 8 km WNW of Cobb, CA | 19:24 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
