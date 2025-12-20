@@ -2,20 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2019:15:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-229ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2020:20:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-527ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 24 km SSW of Westbrook, Texas | 19:09 |
-| 🟢 2.1 | 5 km SE of San Ramon, CA | 19:06 |
-| 🟢 2.1 | 66 km E of Port Alsworth, Alaska | 18:46 |
-| 🟢 1.6 | 10 km E of Toyah, Texas | 18:44 |
-| 🟢 1.2 | 10 km WSW of Stanton, Texas | 18:37 |
-| 🟢 0.3 | 9 km WNW of The Geysers, CA | 18:26 |
-| 🟢 0.7 | 9 km NW of The Geysers, CA | 18:25 |
-| 🟢 1.5 | 9 km WNW of The Geysers, CA | 18:24 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 18:20 |
+| 🟢 0.9 | 9 km SW of Idyllwild, CA | 20:06 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 20:02 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 20:01 |
+| 🟢 0.6 | 9 km WNW of The Geysers, CA | 19:48 |
+| 🟢 0.8 | 9 km WNW of The Geysers, CA | 19:44 |
+| 🟢 1.8 | 9 km WNW of The Geysers, CA | 19:44 |
+| 🟢 2.4 | 9 km WNW of The Geysers, CA | 19:43 |
+| 🟢 1.1 | 3 km E of The Geysers, CA | 19:35 |
+| 🟢 1.6 | 3 km E of The Geysers, CA | 19:34 |
+| 🟢 1.3 | 64 km ESE of Cantwell, Alaska | 19:34 |
+| 🟢 1.8 | 62 km NNE of Petersville, Alaska | 19:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
