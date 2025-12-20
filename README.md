@@ -2,17 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2005:20:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-422ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2006:30:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-533ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 21 km ESE of Naalehu, Hawaii | 05:09 |
-| 🟢 1.7 | 4 km SE of San Ramon, CA | 04:52 |
-| 🟢 2.3 | 5 km SE of San Ramon, CA | 04:51 |
-| 🟢 0.6 | 17 km ESE of Julian, CA | 04:43 |
-| 🟢 2.1 | 5 km SE of San Ramon, CA | 04:36 |
-| 🟢 1.2 | 19 km ESE of Julian, CA | 04:28 |
+| 🟢 1.9 | 52 km N of Chase, Alaska | 06:19 |
+| 🟢 1.6 | 42 km NW of Toyah, Texas | 06:18 |
+| 🟢 1.8 | 7 km NNW of Healy, Alaska | 06:15 |
+| 🟢 1.5 | 50 km NW of Toyah, Texas | 06:15 |
+| 🟢 1.5 | 24 km NW of Tatitlek, Alaska | 06:13 |
+| 🟢 1.4 | 10 km WNW of Imperial, CA | 06:10 |
+| 🟢 1.4 | 52 km NE of Whittier, Alaska | 06:03 |
+| 🟢 1.5 | 56 km S of Whites City, New Mexico | 06:02 |
+| 🟢 2.0 | 5 km SE of San Ramon, CA | 06:01 |
+| 🟢 2.1 | 5 km N of Dublin, CA | 05:55 |
+| 🟢 1.8 | 48 km WNW of Tatitlek, Alaska | 05:54 |
+| 🟠 4.6 | 22 km NNE of Santa Monica, Philippines | 05:52 |
+| 🟢 1.5 | 3 km SE of San Ramon, CA | 05:47 |
+| 🟢 2.0 | 12 km SSW of Honoka‘a, Hawaii | 05:41 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
@@ -20,7 +28,7 @@
 - 🔥 **Wildfires**: [CR L Wildfire, Yuma, Colorado](https://irwin.doi.gov/observer/incidents/36bf5e21-134c-4543-9cea-b379e6bc1c6c) (Dec 18)
 - 🔥 **Wildfires**: [33 Wildfire, Yuma, Colorado](https://irwin.doi.gov/observer/incidents/3c182aca-b92b-4b39-85be-ac8382c0bec8) (Dec 18)
 - 🔥 **Wildfires**: [Terry Ranch Wildfire, Laramie, Wyoming](https://irwin.doi.gov/observer/incidents/358c6e78-82af-438f-9d9d-32bf895fc7ab) (Dec 18)
-- ⛈️ **Severe Storms**: [Tropical Cyclone 09S](https://www.metoc.navy.mil/jtwc/products/sh0926.tcw) (Dec 19)
+- ⛈️ **Severe Storms**: [Tropical Cyclone 09S](https://www.metoc.navy.mil/jtwc/products/sh0926.tcw) (Dec 20)
 - 🔥 **Wildfires**: [RX Cook Road Prescribed Fire, Baxter, Arkansas](https://irwin.doi.gov/observer/incidents/0b3bcf66-5b22-485b-bf94-752fb42add7a) (Dec 16)
 - 🔥 **Wildfires**: [RX Optimus North Prescribed Fire, Stone, Arkansas](https://irwin.doi.gov/observer/incidents/6fa2952d-ef68-478e-b97e-bc3e45a866b5) (Dec 15)
 - ⛈️ **Severe Storms**: [Tropical Cyclone 08P](https://www.metoc.navy.mil/jtwc/products/sh0826.tcw) (Dec 16)
