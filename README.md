@@ -2,19 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2019%20Dec%202025%2023:19:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-299ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2001:27:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-353ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 8 km SW of Idyllwild, CA | 23:14 |
-| 🟢 1.8 | 10 km NW of The Geysers, CA | 22:52 |
-| 🟢 2.0 | 10 km NW of The Geysers, CA | 22:52 |
-| 🟢 2.5 | 3 km SE of Round Valley, CA | 22:35 |
-| 🟢 2.1 | 4 km SE of Round Valley, CA | 22:25 |
-| 🟢 3.0 | 61 km N of Petersville, Alaska | 22:23 |
-| 🟢 1.8 | 23 km SSW of Mammoth, Wyoming | 22:20 |
-| 🟢 1.1 | 7 km WNW of Cobb, CA | 22:19 |
+| 🟢 0.8 | 6 km ENE of Cabazon, CA | 01:04 |
+| 🟢 1.5 | 5 km SSW of Banning, CA | 00:55 |
+| 🟢 1.3 | 5 km SSW of Banning, CA | 00:54 |
+| 🟢 1.7 | 55 km E of Pedro Bay, Alaska | 00:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
