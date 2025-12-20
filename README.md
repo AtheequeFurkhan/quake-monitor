@@ -2,18 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2015:18:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-533ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2016:23:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-496ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 65 km WNW of Toyah, Texas | 15:11 |
-| 🟢 1.6 | 37 km W of Tyonek, Alaska | 15:06 |
-| 🟢 1.1 | 2 km E of The Geysers, CA | 15:02 |
-| 🟢 1.6 | 47 km ENE of Trona, CA | 14:51 |
-| 🟢 2.0 | 12 km SSE of Guánica, Puerto Rico | 14:46 |
-| 🟢 1.4 | 53 km W of Cantwell, Alaska | 14:32 |
-| 🟢 0.7 | 4 km SSE of Redlands, CA | 14:23 |
+| 🟢 2.6 | 5 km SE of San Ramon, CA | 16:10 |
+| 🟢 2.4 | 10 km SSW of Lake Nacimiento, CA | 16:09 |
+| 🟢 0.8 | 3 km NNW of The Geysers, CA | 16:05 |
+| 🟢 1.8 | 37 km WSW of Mentone, Texas | 15:54 |
+| 🟢 1.4 | 7 km S of Ojai, CA | 15:52 |
+| 🟢 1.7 | 4 km SE of San Ramon, CA | 15:49 |
+| 🟢 0.8 | 16 km N of Borrego Springs, CA | 15:45 |
+| 🟢 1.3 | 59 km S of Denali National Park, Alaska | 15:44 |
+| 🟢 1.0 | 69 km WNW of Tyonek, Alaska | 15:34 |
+| 🟢 1.3 | 17 km WSW of Johannesburg, CA | 15:34 |
+| 🟢 2.0 | 29 km NNE of Paxson, Alaska | 15:25 |
+| 🟢 1.0 | 20 km E of Little Lake, CA | 15:24 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
