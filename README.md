@@ -2,20 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2007:18:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-1.285s-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2008:25:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-511ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 16 km N of Borrego Springs, CA | 07:06 |
-| 🟢 2.3 | 72 km S of Kokhanok, Alaska | 06:59 |
-| 🔴 5.6 | Balleny Islands region | 06:57 |
-| 🟢 1.8 | 4 km SE of San Ramon, CA | 06:55 |
-| 🟢 1.7 | 27 km NNW of Petersville, Alaska | 06:49 |
-| 🟠 4.7 | 58 km NE of Calingasta, Argentina | 06:29 |
-| 🟢 1.0 | 10 km WNW of The Geysers, CA | 06:28 |
-| 🟢 1.9 | 52 km N of Chase, Alaska | 06:19 |
-| 🟢 1.6 | 42 km NW of Toyah, Texas | 06:18 |
+| 🟢 0.7 | 9 km NW of The Geysers, CA | 08:14 |
+| 🟢 0.9 | 13 km NE of Coso Junction, CA | 08:01 |
+| 🟢 1.0 | 14 km NE of Coso Junction, CA | 08:01 |
+| 🟢 1.6 | 11 km NW of Progreso, B.C., MX | 07:57 |
+| 🟠 3.4 | 21 km NE of San Lucas, CA | 07:51 |
+| 🟢 0.3 | 6 km NNE of Anza, CA | 07:42 |
+| 🟢 1.7 | 38 km WSW of Denali Park, Alaska | 07:37 |
+| 🟢 0.6 | 10 km NE of Julian, CA | 07:35 |
+| 🟢 2.2 | 17 km E of Hinton, Oklahoma | 07:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
