@@ -2,17 +2,31 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2003:15:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-385ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2004:26:31%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-419ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.9 | 54 km ENE of Ferry, Alaska | 02:59 |
-| 🟢 0.9 | 3 km ENE of Colton, CA | 02:53 |
-| 🟢 2.1 | 58 km WNW of Happy Valley, Alaska | 02:47 |
-| 🟢 0.9 | 22 km E of Little Lake, CA | 02:42 |
-| 🟢 1.3 | 22 km ENE of Minto, Alaska | 02:37 |
-| 🟢 1.3 | 96 km S of McCarthy, Alaska | 02:30 |
+| 🟢 2.3 | 5 km SE of San Ramon, CA | 04:15 |
+| 🟢 1.6 | 4 km SE of San Ramon, CA | 04:15 |
+| 🟢 2.9 | 4 km SE of San Ramon, CA | 04:10 |
+| 🟢 1.4 | 4 km SE of San Ramon, CA | 04:08 |
+| 🟢 2.0 | 13 km SSE of Tennant, CA | 04:07 |
+| 🟢 2.1 | 5 km SE of San Ramon, CA | 04:06 |
+| 🟢 1.6 | 5 km SE of San Ramon, CA | 04:06 |
+| 🟢 1.9 | 9 km SE of La Parguera, Puerto Rico | 04:04 |
+| 🟢 1.8 | 5 km SE of San Ramon, CA | 04:04 |
+| 🟢 1.7 | 5 km SE of San Ramon, CA | 03:59 |
+| 🟢 2.2 | 3 km SSW of San Ramon, CA | 03:58 |
+| 🟠 3.1 | 4 km SE of San Ramon, CA | 03:57 |
+| 🟠 4.0 | 5 km SE of San Ramon, CA | 03:56 |
+| 🟢 1.9 | 4 km SE of San Ramon, CA | 03:54 |
+| 🟠 3.8 | 4 km SE of San Ramon, CA | 03:49 |
+| 🟠 4.0 | 5 km SE of San Ramon, CA | 03:49 |
+| 🟢 0.5 | 2 km SSW of Fox, Alaska | 03:47 |
+| 🟢 2.5 | 5 km SE of San Ramon, CA | 03:41 |
+| 🟢 1.7 | 52 km NW of Tatitlek, Alaska | 03:34 |
+| 🟢 1.7 | 3 km WNW of Cabazon, CA | 03:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
