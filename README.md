@@ -2,20 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2008:25:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-511ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2009:19:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-385ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 9 km NW of The Geysers, CA | 08:14 |
-| 🟢 0.9 | 13 km NE of Coso Junction, CA | 08:01 |
-| 🟢 1.0 | 14 km NE of Coso Junction, CA | 08:01 |
-| 🟢 1.6 | 11 km NW of Progreso, B.C., MX | 07:57 |
-| 🟠 3.4 | 21 km NE of San Lucas, CA | 07:51 |
-| 🟢 0.3 | 6 km NNE of Anza, CA | 07:42 |
-| 🟢 1.7 | 38 km WSW of Denali Park, Alaska | 07:37 |
-| 🟢 0.6 | 10 km NE of Julian, CA | 07:35 |
-| 🟢 2.2 | 17 km E of Hinton, Oklahoma | 07:26 |
+| 🟢 1.6 | 9 km SW of Idyllwild, CA | 08:53 |
+| 🟢 2.0 | 63 km E of Denali Park, Alaska | 08:47 |
+| 🟢 1.6 | 3 km SE of San Ramon, CA | 08:46 |
+| 🟢 2.9 | 25 km WSW of Petrolia, CA | 08:28 |
+| 🟢 2.6 | 132 km W of Ferndale, California | 08:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
