@@ -2,22 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2012:37:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-266ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2013:27:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-308ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.5 | 18 km WNW of Silver Peak, Nevada | 13:16 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 13:16 |
+| 🟢 1.7 | 6 km SSW of Pāhala, Hawaii | 13:07 |
+| 🟢 0.4 | 9 km SW of Idyllwild, CA | 13:04 |
+| 🔴 5.2 | 74 km SSE of Nemuro, Japan | 12:58 |
+| 🟢 2.8 | 7 km S of Ojai, CA | 12:47 |
+| 🟢 2.4 | 6 km S of Ojai, CA | 12:44 |
 | 🟢 0.6 | 7 km WNW of Borrego Springs, CA | 12:32 |
-| 🟢 0.7 | 20 km E of Little Lake, CA | 12:10 |
-| 🟢 1.8 | 25 km SSE of Waimea, Hawaii | 12:06 |
-| 🟢 2.3 | 36 km WNW of Anchor Point, Alaska | 12:05 |
-| 🟢 1.8 | 1 km N of Pāhala, Hawaii | 12:01 |
-| 🟢 1.9 | 16 km SW of Lakeport, CA | 11:57 |
-| 🟢 0.6 | 23 km NW of Parkfield, CA | 11:56 |
-| 🟢 1.9 | 58 km E of Pedro Bay, Alaska | 11:51 |
-| 🟢 0.9 | 6 km WNW of The Geysers, CA | 11:42 |
-| 🟢 2.0 | 103 km NW of Yakutat, Alaska | 11:41 |
-| 🟢 1.5 | 6 km NW of Bayview-Montalvin, CA | 11:37 |
+| 🔴 5.3 | 73 km SSE of Nemuro, Japan | 12:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
