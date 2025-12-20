@@ -2,25 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2006:30:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-533ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2007:18:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-1.285s-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.8 | 16 km N of Borrego Springs, CA | 07:06 |
+| 🟢 2.3 | 72 km S of Kokhanok, Alaska | 06:59 |
+| 🔴 5.6 | Balleny Islands region | 06:57 |
+| 🟢 1.8 | 4 km SE of San Ramon, CA | 06:55 |
+| 🟢 1.7 | 27 km NNW of Petersville, Alaska | 06:49 |
+| 🟠 4.7 | 58 km NE of Calingasta, Argentina | 06:29 |
+| 🟢 1.0 | 10 km WNW of The Geysers, CA | 06:28 |
 | 🟢 1.9 | 52 km N of Chase, Alaska | 06:19 |
 | 🟢 1.6 | 42 km NW of Toyah, Texas | 06:18 |
-| 🟢 1.8 | 7 km NNW of Healy, Alaska | 06:15 |
-| 🟢 1.5 | 50 km NW of Toyah, Texas | 06:15 |
-| 🟢 1.5 | 24 km NW of Tatitlek, Alaska | 06:13 |
-| 🟢 1.4 | 10 km WNW of Imperial, CA | 06:10 |
-| 🟢 1.4 | 52 km NE of Whittier, Alaska | 06:03 |
-| 🟢 1.5 | 56 km S of Whites City, New Mexico | 06:02 |
-| 🟢 2.0 | 5 km SE of San Ramon, CA | 06:01 |
-| 🟢 2.1 | 5 km N of Dublin, CA | 05:55 |
-| 🟢 1.8 | 48 km WNW of Tatitlek, Alaska | 05:54 |
-| 🟠 4.6 | 22 km NNE of Santa Monica, Philippines | 05:52 |
-| 🟢 1.5 | 3 km SE of San Ramon, CA | 05:47 |
-| 🟢 2.0 | 12 km SSW of Honoka‘a, Hawaii | 05:41 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
