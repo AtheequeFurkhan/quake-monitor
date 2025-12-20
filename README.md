@@ -2,17 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2021:16:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-216ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2022:18:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-262ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.6 | 59 km WSW of Anchor Point, Alaska | 20:57 |
-| 🟢 1.5 | 9 km WNW of The Geysers, CA | 20:46 |
-| 🟢 1.0 | 15 km NNE of Borrego Springs, CA | 20:36 |
-| 🔴 5.2 | 112 km SSE of Colchane, Chile | 20:30 |
-| 🟢 1.5 | 21 km ENE of Coachella, CA | 20:27 |
-| 🟢 1.8 | 15 km SE of Eureka Roadhouse, Alaska | 20:21 |
+| 🟢 1.7 | 49 km NW of Tatitlek, Alaska | 22:12 |
+| 🟢 2.5 | 17 km NW of Kalaoa, Hawaii | 22:04 |
+| 🟢 1.5 | 66 km ESE of Cantwell, Alaska | 21:36 |
+| 🟢 2.5 | 8 km SW of Guánica, Puerto Rico | 21:23 |
+| 🟢 0.5 | 6 km NW of Cobb, CA | 21:18 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
