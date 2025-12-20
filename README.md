@@ -2,22 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2020:20:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-527ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2021:16:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-216ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 9 km SW of Idyllwild, CA | 20:06 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 20:02 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 20:01 |
-| 🟢 0.6 | 9 km WNW of The Geysers, CA | 19:48 |
-| 🟢 0.8 | 9 km WNW of The Geysers, CA | 19:44 |
-| 🟢 1.8 | 9 km WNW of The Geysers, CA | 19:44 |
-| 🟢 2.4 | 9 km WNW of The Geysers, CA | 19:43 |
-| 🟢 1.1 | 3 km E of The Geysers, CA | 19:35 |
-| 🟢 1.6 | 3 km E of The Geysers, CA | 19:34 |
-| 🟢 1.3 | 64 km ESE of Cantwell, Alaska | 19:34 |
-| 🟢 1.8 | 62 km NNE of Petersville, Alaska | 19:31 |
+| 🟢 2.6 | 59 km WSW of Anchor Point, Alaska | 20:57 |
+| 🟢 1.5 | 9 km WNW of The Geysers, CA | 20:46 |
+| 🟢 1.0 | 15 km NNE of Borrego Springs, CA | 20:36 |
+| 🔴 5.2 | 112 km SSE of Colchane, Chile | 20:30 |
+| 🟢 1.5 | 21 km ENE of Coachella, CA | 20:27 |
+| 🟢 1.8 | 15 km SE of Eureka Roadhouse, Alaska | 20:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
