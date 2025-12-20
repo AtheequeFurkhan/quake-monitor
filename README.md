@@ -2,21 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2014:17:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-212ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2015:18:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-533ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 3.0 | 6 km S of Ojai, CA | 14:01 |
-| 🟢 0.9 | 13 km NE of Yucaipa, CA | 14:01 |
-| 🟢 0.2 | 6 km NNE of Lake Henshaw, CA | 13:47 |
-| 🟢 0.6 | 14 km WSW of Searles Valley, CA | 13:44 |
-| 🟢 0.4 | 8 km SSW of Idyllwild, CA | 13:43 |
-| 🟢 1.3 | 4 km SE of San Ramon, CA | 13:38 |
-| 🟢 1.3 | 4 km SE of San Ramon, CA | 13:37 |
-| 🟢 0.6 | 12 km WNW of The Geysers, CA | 13:32 |
-| 🟢 1.9 | 1 km N of Guayanilla, Puerto Rico | 13:27 |
-| 🟢 1.2 | 22 km WSW of Glacier View, Alaska | 13:26 |
+| 🟢 1.6 | 65 km WNW of Toyah, Texas | 15:11 |
+| 🟢 1.6 | 37 km W of Tyonek, Alaska | 15:06 |
+| 🟢 1.1 | 2 km E of The Geysers, CA | 15:02 |
+| 🟢 1.6 | 47 km ENE of Trona, CA | 14:51 |
+| 🟢 2.0 | 12 km SSE of Guánica, Puerto Rico | 14:46 |
+| 🟢 1.4 | 53 km W of Cantwell, Alaska | 14:32 |
+| 🟢 0.7 | 4 km SSE of Redlands, CA | 14:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
