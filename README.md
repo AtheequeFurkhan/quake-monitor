@@ -2,16 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2009:19:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-385ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2010:19:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-422ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 9 km SW of Idyllwild, CA | 08:53 |
-| 🟢 2.0 | 63 km E of Denali Park, Alaska | 08:47 |
-| 🟢 1.6 | 3 km SE of San Ramon, CA | 08:46 |
-| 🟢 2.9 | 25 km WSW of Petrolia, CA | 08:28 |
-| 🟢 2.6 | 132 km W of Ferndale, California | 08:28 |
+| 🟢 1.8 | 13 km S of Volcano, Hawaii | 10:13 |
+| 🟢 1.1 | 9 km NE of Julian, CA | 10:10 |
+| 🟢 1.7 | 4 km SE of San Ramon, CA | 09:59 |
+| 🟢 0.8 | 9 km NW of The Geysers, CA | 09:46 |
+| 🟢 0.7 | 5 km S of Redlands, CA | 09:45 |
+| 🟠 3.4 | 114 km N of Yakutat, Alaska | 09:39 |
+| 🟢 1.1 | 7 km NW of The Geysers, CA | 09:34 |
+| 🟢 1.1 | 5 km NNW of The Geysers, CA | 09:30 |
+| 🟢 0.8 | 9 km SW of Idyllwild, CA | 09:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
