@@ -2,20 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2010:19:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-422ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2020%20Dec%202025%2011:15:55%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-335ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 13 km S of Volcano, Hawaii | 10:13 |
-| 🟢 1.1 | 9 km NE of Julian, CA | 10:10 |
-| 🟢 1.7 | 4 km SE of San Ramon, CA | 09:59 |
-| 🟢 0.8 | 9 km NW of The Geysers, CA | 09:46 |
-| 🟢 0.7 | 5 km S of Redlands, CA | 09:45 |
-| 🟠 3.4 | 114 km N of Yakutat, Alaska | 09:39 |
-| 🟢 1.1 | 7 km NW of The Geysers, CA | 09:34 |
-| 🟢 1.1 | 5 km NNW of The Geysers, CA | 09:30 |
-| 🟢 0.8 | 9 km SW of Idyllwild, CA | 09:28 |
+| 🟢 1.3 | 40 km NNW of Chickaloon, Alaska | 11:07 |
+| 🟢 1.3 | 15 km WSW of Johannesburg, CA | 11:06 |
+| 🟢 2.8 | 16 km SW of Lakeport, CA | 10:56 |
+| 🟢 1.7 | 96 km NW of Yakutat, Alaska | 10:50 |
+| 🟢 1.9 | 3 km SW of Pāhala, Hawaii | 10:44 |
+| 🟢 2.4 | 21 km SE of Big Pine, California | 10:34 |
+| 🟠 5.0 | 130 km W of Gorontalo, Indonesia | 10:33 |
+| 🔴 5.3 | Balleny Islands region | 10:25 |
+| 🟢 1.1 | 21 km ENE of Minto, Alaska | 10:24 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
