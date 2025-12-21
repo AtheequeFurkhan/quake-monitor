@@ -2,18 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2015:18:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-202ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2016:23:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-415ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 7 km NW of The Geysers, CA | 15:11 |
-| 🟢 1.5 | 8 km W of Templeton, CA | 15:04 |
-| 🟢 0.6 | 9 km N of Borrego Springs, CA | 14:58 |
-| 🟢 1.0 | 20 km NW of Stanton, Texas | 14:48 |
-| 🟢 1.2 | 2 km NE of The Geysers, CA | 14:32 |
-| 🟢 2.1 | 2 km NE of The Geysers, CA | 14:24 |
-| 🟠 4.9 | 150 km SSW of Kokopo, Papua New Guinea | 14:23 |
+| 🟢 1.2 | 7 km NW of The Geysers, CA | 16:12 |
+| 🟢 0.4 | 9 km NW of The Geysers, CA | 16:08 |
+| 🟢 1.9 | 21 km W of Volcano, Hawaii | 15:59 |
+| 🟢 1.7 | 11 km ESE of Tatitlek, Alaska | 15:51 |
+| 🟢 1.2 | 42 km SW of Cantwell, Alaska | 15:48 |
+| 🟢 0.9 | 3 km NW of The Geysers, CA | 15:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
