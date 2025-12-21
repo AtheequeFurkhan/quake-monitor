@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2021:18:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-530ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2022:19:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-291ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 8 km E of Santa Clarita, CA | 20:54 |
-| 🟢 1.4 | 5 km SW of Ridgemark, CA | 20:51 |
-| 🟢 1.9 | 5 km SW of Ridgemark, CA | 20:50 |
-| 🟢 1.3 | 3 km SE of San Ramon, CA | 20:45 |
-| 🟠 3.5 | 5 km SW of Ridgemark, CA | 20:40 |
-| 🟢 1.6 | 2 km SE of San Ramon, CA | 20:39 |
-| 🟢 1.3 | 13 km WNW of Calipatria, CA | 20:37 |
-| 🟢 1.2 | 5 km S of Highland, CA | 20:25 |
+| 🟢 2.5 | 23 km SSW of Westbrook, Texas | 22:14 |
+| 🟢 2.1 | 5 km SW of Ridgemark, CA | 22:05 |
+| 🟢 1.0 | 15 km WSW of Ludlow, CA | 22:01 |
+| 🟢 1.4 | 6 km WSW of Devore, CA | 21:54 |
+| 🟢 1.1 | 7 km S of Olancha, CA | 21:38 |
+| 🟢 1.8 | 5 km SW of Ridgemark, CA | 21:35 |
+| 🟢 1.1 | 9 km WNW of Cobb, CA | 21:22 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
