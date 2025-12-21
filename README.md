@@ -2,15 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2013:27:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-375ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2014:18:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-399ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 13 km NW of The Geysers, CA | 13:17 |
-| 🟢 2.9 | 57 km S of Whites City, New Mexico | 13:11 |
-| 🟠 4.2 | 42 km WNW of Ollagüe, Chile | 12:47 |
-| 🟢 1.3 | 6 km N of Valle Vista, CA | 12:36 |
+| 🟢 1.1 | 11 km WNW of The Geysers, CA | 14:13 |
+| 🟢 0.8 | 4 km SE of Loma Linda, CA | 14:09 |
+| 🟢 0.8 | 1 km N of Palomar Observatory, CA | 13:59 |
+| 🟢 0.6 | 17 km NE of Pine Valley, CA | 13:50 |
+| 🟢 1.0 | 2 km ESE of Loma Linda, CA | 13:47 |
+| 🟢 0.5 | 10 km NE of Julian, CA | 13:47 |
+| 🟢 0.4 | 9 km ESE of Ocotillo Wells, CA | 13:36 |
+| 🟠 3.5 | 110 km NE of Punta Cana, Dominican Republic | 13:18 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
