@@ -2,18 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2022:19:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-291ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2023:18:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-401ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.5 | 23 km SSW of Westbrook, Texas | 22:14 |
-| 🟢 2.1 | 5 km SW of Ridgemark, CA | 22:05 |
-| 🟢 1.0 | 15 km WSW of Ludlow, CA | 22:01 |
-| 🟢 1.4 | 6 km WSW of Devore, CA | 21:54 |
-| 🟢 1.1 | 7 km S of Olancha, CA | 21:38 |
-| 🟢 1.8 | 5 km SW of Ridgemark, CA | 21:35 |
-| 🟢 1.1 | 9 km WNW of Cobb, CA | 21:22 |
+| 🟢 1.3 | 15 km SSE of Livermore, CA | 23:06 |
+| 🟢 2.6 | 5 km SW of Ridgemark, CA | 23:03 |
+| 🟢 2.3 | 7 km S of Ojai, CA | 23:02 |
+| 🟢 1.8 | 18 km W of Searles Valley, CA | 22:58 |
+| 🟢 1.8 | 3 km N of Pinnacles, CA | 22:52 |
+| 🟢 1.1 | 21 km ENE of Coachella, CA | 22:50 |
+| 🟢 2.4 | 4 km SE of San Ramon, CA | 22:36 |
+| 🟢 2.6 | 10 km WSW of Stratford, CA | 22:26 |
+| 🟢 1.9 | 5 km SE of San Ramon, CA | 22:26 |
+| 🟢 1.6 | 37 km WSW of Manley Hot Springs, Alaska | 22:22 |
+| 🟢 1.2 | 7 km NW of The Geysers, CA | 22:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
