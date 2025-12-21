@@ -2,21 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2020:21:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-495ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2021:18:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-530ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 15 km SSW of Big Spring, Texas | 19:53 |
-| 🟢 0.9 | 11 km E of Cloverdale, CA | 19:52 |
-| 🟢 2.1 | 4 km SE of San Ramon, CA | 19:51 |
-| 🟢 1.0 | 21 km ESE of Anza, CA | 19:48 |
-| 🟢 1.5 | 11 km W of Niland, CA | 19:48 |
-| 🟢 2.1 | 65 km NNE of Van Horn, Texas | 19:45 |
-| 🟢 1.4 | 10 km WNW of Cobb, CA | 19:38 |
-| 🟠 4.3 | 109 km S of Honchō, Japan | 19:32 |
-| 🟢 1.9 | 2 km WSW of Indios, Puerto Rico | 19:31 |
-| 🟢 2.0 | 4 km SW of Sunol, CA | 19:22 |
+| 🟢 2.0 | 8 km E of Santa Clarita, CA | 20:54 |
+| 🟢 1.4 | 5 km SW of Ridgemark, CA | 20:51 |
+| 🟢 1.9 | 5 km SW of Ridgemark, CA | 20:50 |
+| 🟢 1.3 | 3 km SE of San Ramon, CA | 20:45 |
+| 🟠 3.5 | 5 km SW of Ridgemark, CA | 20:40 |
+| 🟢 1.6 | 2 km SE of San Ramon, CA | 20:39 |
+| 🟢 1.3 | 13 km WNW of Calipatria, CA | 20:37 |
+| 🟢 1.2 | 5 km S of Highland, CA | 20:25 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
