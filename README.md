@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2014:18:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-399ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2015:18:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-202ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 11 km WNW of The Geysers, CA | 14:13 |
-| 🟢 0.8 | 4 km SE of Loma Linda, CA | 14:09 |
-| 🟢 0.8 | 1 km N of Palomar Observatory, CA | 13:59 |
-| 🟢 0.6 | 17 km NE of Pine Valley, CA | 13:50 |
-| 🟢 1.0 | 2 km ESE of Loma Linda, CA | 13:47 |
-| 🟢 0.5 | 10 km NE of Julian, CA | 13:47 |
-| 🟢 0.4 | 9 km ESE of Ocotillo Wells, CA | 13:36 |
-| 🟠 3.5 | 110 km NE of Punta Cana, Dominican Republic | 13:18 |
+| 🟢 0.9 | 7 km NW of The Geysers, CA | 15:11 |
+| 🟢 1.5 | 8 km W of Templeton, CA | 15:04 |
+| 🟢 0.6 | 9 km N of Borrego Springs, CA | 14:58 |
+| 🟢 1.0 | 20 km NW of Stanton, Texas | 14:48 |
+| 🟢 1.2 | 2 km NE of The Geysers, CA | 14:32 |
+| 🟢 2.1 | 2 km NE of The Geysers, CA | 14:24 |
+| 🟠 4.9 | 150 km SSW of Kokopo, Papua New Guinea | 14:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
