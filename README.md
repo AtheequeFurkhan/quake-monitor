@@ -2,18 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2010:20:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-538ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2011:16:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-1.249s-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟠 4.5 | 281 km WNW of Bandon, Oregon | 09:57 |
-| 🟢 2.5 | 6 km ESE of Talmage, CA | 09:55 |
-| 🟢 1.4 | 13 km N of Pine Mountain Club, CA | 09:43 |
-| 🟠 4.4 | Izu Islands, Japan region | 09:36 |
-| 🟢 0.7 | 12 km NNE of Cabazon, CA | 09:30 |
-| 🟢 1.0 | 6 km NE of Cabazon, CA | 09:26 |
-| 🟢 0.7 | 11 km SSE of Big Bear City, CA | 09:21 |
+| 🟢 1.5 | 2 km SE of San Ramon, CA | 10:58 |
+| 🟢 0.7 | 19 km ESE of Anza, CA | 10:53 |
+| 🟢 0.7 | 6 km SSW of Idyllwild, CA | 10:50 |
+| 🟢 2.0 | 13 km WNW of Mountain View, Hawaii | 10:42 |
+| 🟢 0.5 | 12 km SW of Searles Valley, CA | 10:25 |
+| 🟢 1.9 | 1 km WSW of Trapper Creek, Alaska | 10:24 |
+| 🟢 1.4 | 6 km S of Ojai, CA | 10:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
