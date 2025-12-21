@@ -2,18 +2,13 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2011:16:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-1.249s-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2012:38:52%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-403ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 2 km SE of San Ramon, CA | 10:58 |
-| 🟢 0.7 | 19 km ESE of Anza, CA | 10:53 |
-| 🟢 0.7 | 6 km SSW of Idyllwild, CA | 10:50 |
-| 🟢 2.0 | 13 km WNW of Mountain View, Hawaii | 10:42 |
-| 🟢 0.5 | 12 km SW of Searles Valley, CA | 10:25 |
-| 🟢 1.9 | 1 km WSW of Trapper Creek, Alaska | 10:24 |
-| 🟢 1.4 | 6 km S of Ojai, CA | 10:23 |
+| 🟢 1.1 | 9 km W of The Geysers, CA | 11:44 |
+| 🟢 2.4 | 23 km NNE of Chenega, Alaska | 11:38 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
@@ -24,10 +19,10 @@
 - ⛈️ **Severe Storms**: [Tropical Cyclone 09S](https://www.metoc.navy.mil/jtwc/products/sh0926.tcw) (Dec 21)
 - 🔥 **Wildfires**: [RX Cook Road Prescribed Fire, Baxter, Arkansas](https://irwin.doi.gov/observer/incidents/0b3bcf66-5b22-485b-bf94-752fb42add7a) (Dec 16)
 - 🔥 **Wildfires**: [RX Optimus North Prescribed Fire, Stone, Arkansas](https://irwin.doi.gov/observer/incidents/6fa2952d-ef68-478e-b97e-bc3e45a866b5) (Dec 15)
-- ⛈️ **Severe Storms**: [Tropical Cyclone 08P](https://www.metoc.navy.mil/jtwc/products/sh0826.tcw) (Dec 16)
 - 🔥 **Wildfires**: [Cave Mountain Wildfire, Bibb, Alabama](https://irwin.doi.gov/observer/incidents/ecd965da-3ccd-4a55-b7c0-95b763d11d61) (Dec 12)
 - 🔥 **Wildfires**: [RX  FY26 BUFF Buffalo Point Maintenance Prescribed Fire, Marion, Arkansas](https://irwin.doi.gov/observer/incidents/784bad36-ab8b-412f-a173-7d6a5a84088b) (Dec 12)
 - ⛈️ **Severe Storms**: [Tropical Cyclone Bakung](https://www.metoc.navy.mil/jtwc/products/sh0726.tcw) (Dec 17)
+- 🔥 **Wildfires**: [RX Llano 5625 Prescribed Fire, Llano, Texas](https://irwin.doi.gov/observer/incidents/5104c261-c20d-4f98-9075-dea48dded603) (Dec 11)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
