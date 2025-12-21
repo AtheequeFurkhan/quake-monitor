@@ -2,21 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2001:46:31%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-507ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2003:38:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-665ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 1 km NNE of Loma Linda, CA | 01:42 |
-| 🟢 2.0 | 14 km E of Ocotillo Wells, CA | 01:34 |
-| 🟢 1.1 | 8 km ENE of Pinnacles, CA | 01:30 |
-| 🔴 5.4 | 59 km ENE of Hachinohe, Japan | 01:29 |
-| 🟢 1.4 | 10 km S of Ojai, CA | 01:21 |
-| 🟢 0.3 | 4 km NW of The Geysers, CA | 01:16 |
-| 🟢 1.1 | 7 km NW of The Geysers, CA | 00:58 |
-| 🟢 1.7 | 2 km NE of Lluveras, Puerto Rico | 00:55 |
-| 🟢 0.9 | 7 km ESE of Yucaipa, CA | 00:51 |
-| 🟢 2.2 | 8 km ESE of Yucaipa, CA | 00:48 |
+| 🟢 1.5 | 3 km SSE of San Ramon, CA | 03:23 |
+| 🟢 2.1 | 6 km NW of The Geysers, CA | 03:17 |
+| 🟢 1.4 | 5 km SE of San Ramon, CA | 03:08 |
+| 🟢 1.3 | 24 km SW of Ocotillo Wells, CA | 03:00 |
+| 🟢 3.0 | 4 km SE of San Ramon, CA | 02:53 |
+| 🟢 1.2 | 8 km NE of Rosarito, B.C., MX | 02:45 |
+| 🟢 1.8 | 3 km SE of San Ramon, CA | 02:41 |
+| 🟢 0.4 | 9 km SW of Idyllwild, CA | 02:40 |
+| 🟢 1.7 | 3 km SE of San Ramon, CA | 02:38 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
