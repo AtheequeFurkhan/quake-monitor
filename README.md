@@ -2,16 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2017:17:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-396ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2018:28:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-282ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟠 3.2 | 16 km NNW of Stanley, Idaho | 17:01 |
-| 🟢 2.1 | 4 km ESE of San Ramon, CA | 16:48 |
-| 🟢 2.1 | 103 km WNW of Yakutat, Alaska | 16:46 |
-| 🟢 2.2 | 6 km ENE of Naranjito, Puerto Rico | 16:34 |
-| 🟢 1.5 | 13 km W of Avenal, CA | 16:28 |
+| 🟢 1.4 | 14 km W of Toms Place, CA | 18:08 |
+| 🟢 2.3 | 13 km ESE of Hinton, Oklahoma | 18:00 |
+| 🟢 2.5 | 98 km WNW of Yakutat, Alaska | 17:55 |
+| 🔴 5.7 | 136 km E of Barcelona, Philippines | 17:53 |
+| 🟢 1.3 | 3 km S of Cobb, CA | 17:46 |
+| 🟢 2.1 | 4 km SE of San Ramon, CA | 17:35 |
+| 🟢 1.3 | 15 km W of Forsan, Texas | 17:31 |
+| 🟢 2.2 | 4 km S of Maricao, Puerto Rico | 17:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
