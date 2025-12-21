@@ -2,24 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2004:36:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-204ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2005:20:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-553ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟠 3.2 | 30 km WNW of Elfin Cove, Alaska | 04:46 |
+| 🟢 0.7 | 11 km E of Borrego Springs, CA | 04:46 |
+| 🟢 2.1 | 5 km S of San Juan Bautista, CA | 04:45 |
 | 🟢 2.0 | 4 km SE of San Ramon, CA | 04:21 |
-| 🟢 1.1 | 6 km NW of The Geysers, CA | 04:16 |
-| 🟠 3.8 | 108 km N of Yakutat, Alaska | 04:10 |
-| 🔴 5.1 | 114 km ESE of Shikotan, Russia | 04:03 |
-| 🟠 4.3 | 106 km N of Yakutat, Alaska | 04:02 |
-| 🔴 5.1 | 209 km SW of Tual, Indonesia | 04:02 |
-| 🟢 0.8 | 9 km WNW of The Geysers, CA | 03:58 |
-| 🟢 1.7 | 41 km NNE of Chase, Alaska | 03:53 |
-| 🟢 0.7 | 6 km ESE of Valle Vista, CA | 03:48 |
-| 🟢 1.1 | 4 km W of Cobb, CA | 03:48 |
-| 🔴 5.2 | 110 km ESE of Shikotan, Russia | 03:47 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 03:45 |
-| 🟢 0.4 | 24 km ESE of Anza, CA | 03:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
