@@ -2,18 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2020:22:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-477ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2021:18:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-356ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 3 km NNE of The Geysers, CA | 20:13 |
-| 🟢 1.0 | 30 km SE of Bodfish, CA | 20:11 |
-| 🟢 1.2 | 8 km SSW of Mojave, CA | 20:01 |
-| 🟠 3.5 | 22 km N of Brenas, Puerto Rico | 19:56 |
-| 🟢 1.0 | 2 km ESE of The Geysers, CA | 19:50 |
-| 🟢 1.6 | 4 km SE of San Ramon, CA | 19:43 |
-| 🟠 3.2 | 200 km W of Bandon, Oregon | 19:28 |
+| 🟢 2.2 | 22 km ESE of Skwentna, Alaska | 21:13 |
+| 🟢 0.2 | 7 km WNW of Cobb, CA | 21:03 |
+| 🟢 1.5 | 4 km WSW of Cobb, CA | 21:01 |
+| 🟢 0.8 | 9 km WNW of The Geysers, CA | 20:59 |
+| 🟢 1.9 | 6 km SSW of Indios, Puerto Rico | 20:47 |
+| 🟢 1.4 | 14 km N of Fillmore, CA | 20:42 |
+| 🟢 2.6 | 3 km SE of Wilkerson, CA | 20:38 |
+| 🟢 1.5 | 3 km SSW of Salcha, Alaska | 20:34 |
+| 🟢 1.4 | 2 km ENE of San Jacinto, CA | 20:28 |
+| 🟢 0.7 | 20 km NNW of Borrego Springs, CA | 20:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
