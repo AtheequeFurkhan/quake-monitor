@@ -2,19 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2015:22:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-723ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2016:26:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-535ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 5 km SSW of Pāhala, Hawaii | 15:08 |
-| 🟠 4.6 | 110 km N of Yakutat, Alaska | 14:59 |
-| 🟢 0.4 | 7 km NE of Lake Henshaw, CA | 14:51 |
-| 🟢 1.2 | 8 km NW of The Geysers, CA | 14:47 |
-| 🟢 2.4 | 39 km NE of Whittier, Alaska | 14:34 |
-| 🟢 1.7 | 2 km SE of North Hollywood, CA | 14:34 |
-| 🟢 1.4 | 4 km SSW of San Lucas, CA | 14:34 |
-| 🟢 2.1 | 49 km N of Valdez, Alaska | 14:24 |
+| 🟢 1.3 | 15 km ENE of Fox, Alaska | 16:15 |
+| 🟢 2.0 | 58 km S of Whites City, New Mexico | 16:14 |
+| 🟠 4.8 | 270 km W of Houma, Tonga | 16:02 |
+| 🟢 1.0 | 8 km WNW of Cobb, CA | 16:00 |
+| 🟢 1.7 | 24 km S of Westbrook, Texas | 15:48 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
