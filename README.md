@@ -2,20 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2019:17:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-198ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2020:22:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-477ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 44 km NW of Toyah, Texas | 19:13 |
-| 🟢 1.1 | 3 km ENE of The Geysers, CA | 18:59 |
-| 🟢 1.4 | 3 km ENE of The Geysers, CA | 18:59 |
-| 🟠 4.7 | 228 km NNE of Palu, Indonesia | 18:45 |
-| 🟢 1.0 | 14 km ESE of Anza, CA | 18:33 |
+| 🟢 1.1 | 3 km NNE of The Geysers, CA | 20:13 |
+| 🟢 1.0 | 30 km SE of Bodfish, CA | 20:11 |
+| 🟢 1.2 | 8 km SSW of Mojave, CA | 20:01 |
+| 🟠 3.5 | 22 km N of Brenas, Puerto Rico | 19:56 |
+| 🟢 1.0 | 2 km ESE of The Geysers, CA | 19:50 |
+| 🟢 1.6 | 4 km SE of San Ramon, CA | 19:43 |
+| 🟠 3.2 | 200 km W of Bandon, Oregon | 19:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
+- 🔥 **Wildfires**: [Sassafras Fire Wildfire, Latimer, Oklahoma](https://irwin.doi.gov/observer/incidents/9e5ca387-8a35-48c9-ac66-efd0ea9203b0) (Dec 21)
+- 🔥 **Wildfires**: [Salt Creek Wildfire, Blaine, Oklahoma](https://irwin.doi.gov/observer/incidents/bcd81a6b-c82e-404d-86d4-b9ad45cd37dd) (Dec 19)
 - 🔥 **Wildfires**: [CR L Wildfire, Yuma, Colorado](https://irwin.doi.gov/observer/incidents/36bf5e21-134c-4543-9cea-b379e6bc1c6c) (Dec 18)
 - 🔥 **Wildfires**: [33 Wildfire, Yuma, Colorado](https://irwin.doi.gov/observer/incidents/3c182aca-b92b-4b39-85be-ac8382c0bec8) (Dec 18)
 - 🔥 **Wildfires**: [Terry Ranch Wildfire, Laramie, Wyoming](https://irwin.doi.gov/observer/incidents/358c6e78-82af-438f-9d9d-32bf895fc7ab) (Dec 18)
@@ -24,8 +28,6 @@
 - 🔥 **Wildfires**: [RX Optimus North Prescribed Fire, Stone, Arkansas](https://irwin.doi.gov/observer/incidents/6fa2952d-ef68-478e-b97e-bc3e45a866b5) (Dec 15)
 - 🔥 **Wildfires**: [Cave Mountain Wildfire, Bibb, Alabama](https://irwin.doi.gov/observer/incidents/ecd965da-3ccd-4a55-b7c0-95b763d11d61) (Dec 12)
 - 🔥 **Wildfires**: [RX  FY26 BUFF Buffalo Point Maintenance Prescribed Fire, Marion, Arkansas](https://irwin.doi.gov/observer/incidents/784bad36-ab8b-412f-a173-7d6a5a84088b) (Dec 12)
-- ⛈️ **Severe Storms**: [Tropical Cyclone Bakung](https://www.metoc.navy.mil/jtwc/products/sh0726.tcw) (Dec 17)
-- 🔥 **Wildfires**: [RX Llano 5625 Prescribed Fire, Llano, Texas](https://irwin.doi.gov/observer/incidents/5104c261-c20d-4f98-9075-dea48dded603) (Dec 11)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
