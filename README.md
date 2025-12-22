@@ -2,18 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2017:18:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-395ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2018:31:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-533ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 24 km NNW of Susitna, Alaska | 17:03 |
-| 🟢 1.5 | 76 km ENE of McCarthy, Alaska | 16:58 |
-| 🟢 1.1 | 8 km ESE of Soledad, CA | 16:57 |
-| 🟢 2.0 | 50 km E of Healy, Alaska | 16:57 |
-| 🟢 1.1 | 8 km NNE of Little Lake, CA | 16:44 |
-| 🟢 0.8 | 9 km WNW of The Geysers, CA | 16:38 |
-| 🟢 1.8 | 5 km SSW of Pāhala, Hawaii | 16:34 |
+| 🟠 4.6 | 51 km W of Kandrian, Papua New Guinea | 18:03 |
+| 🟢 2.2 | 5 km SE of San Ramon, CA | 18:03 |
+| 🟠 4.3 | 74 km WSW of San Juan del Sur, Nicaragua | 17:53 |
+| 🟢 1.1 | 22 km SW of Harding-Birch Lakes, Alaska | 17:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
