@@ -2,21 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2013:34:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-412ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2014:21:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-601ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.1 | 8 km W of Cobb, CA | 14:19 |
+| 🟢 1.9 | 51 km SSE of Nelchina, Alaska | 14:11 |
+| 🟢 2.1 | 24 km S of Westbrook, Texas | 14:08 |
+| 🟢 0.8 | 8 km W of Cobb, CA | 14:04 |
+| 🟢 0.6 | 10 km NNE of Julian, CA | 14:00 |
+| 🟢 1.2 | 1 km NW of Universal City, CA | 13:56 |
+| 🟢 2.5 | 17 km SW of Charlotte, Texas | 13:50 |
+| 🟢 2.1 | 65 km N of Petersville, Alaska | 13:49 |
+| 🟢 1.4 | 2 km NNW of Universal City, CA | 13:48 |
+| 🟢 1.2 | 2 km WNW of Hollywood, CA | 13:47 |
+| 🟢 1.7 | 12 km SE of Lindsay, Texas | 13:46 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 13:39 |
+| 🟢 2.1 | 13 km W of Susitna North, Alaska | 13:36 |
 | 🟢 0.7 | 8 km NW of The Geysers, CA | 13:26 |
-| 🟢 2.0 | 65 km W of Cantwell, Alaska | 13:16 |
-| 🟢 1.8 | 30 km S of Malibu, CA | 13:16 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 13:13 |
-| 🟢 1.0 | 12 km SW of Searles Valley, CA | 12:55 |
-| 🟢 2.3 | 6 km NE of Houston, Alaska | 12:55 |
-| 🟢 1.6 | 55 km S of Whites City, New Mexico | 12:48 |
-| 🟢 1.1 | 8 km NW of The Geysers, CA | 12:43 |
-| 🟢 2.8 | 4 km SSE of Cayey, Puerto Rico | 12:39 |
-| 🟠 4.9 | 154 km NNE of Hirara, Japan | 12:38 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
