@@ -2,21 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2004:39:52%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-408ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2005:24:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-355ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 23 km WNW of Inyokern, CA | 04:12 |
-| 🟢 0.8 | 4 km SE of Aromas, CA | 04:04 |
-| 🟢 0.5 | 9 km NE of Julian, CA | 04:01 |
-| 🟢 1.3 | 9 km WNW of The Geysers, CA | 04:01 |
-| 🟢 1.8 | 9 km NNE of Julian, CA | 03:59 |
-| 🟢 0.5 | 10 km SSW of Idyllwild, CA | 03:58 |
-| 🟢 1.9 | 9 km NNE of Julian, CA | 03:50 |
-| 🟢 1.2 | 4 km NW of The Geysers, CA | 03:49 |
-| 🟢 1.9 | 36 km SSW of Glacier View, Alaska | 03:46 |
-| 🟢 1.8 | 1 km NE of Loma Linda, CA | 03:39 |
+| 🟢 0.9 | 9 km NE of Julian, CA | 05:08 |
+| 🟢 1.6 | 21 km SE of Livermore, CA | 04:57 |
+| 🟢 2.1 | 8 km SSW of Guánica, Puerto Rico | 04:52 |
+| 🟢 2.3 | 4 km SE of San Ramon, CA | 04:51 |
+| 🟢 1.2 | 9 km N of Big Spring, Texas | 04:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
