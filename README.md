@@ -2,17 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2010:22:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-368ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2011:18:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-343ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 3 km NE of Pecos, Texas | 10:10 |
-| 🟢 2.6 | 23 km SSW of Westbrook, Texas | 10:08 |
-| 🟢 1.9 | 14 km S of Fern Forest, Hawaii | 10:05 |
-| 🟢 2.2 | 12 km NE of Pāhala, Hawaii | 09:48 |
-| 🟢 0.7 | 6 km SSW of Diamond Bar, CA | 09:40 |
-| 🟢 1.2 | 9 km W of Templeton, CA | 09:37 |
+| 🟢 2.8 | 53 km NNW of Petersville, Alaska | 11:07 |
+| 🟢 0.8 | 2 km WNW of Pasadena, CA | 11:03 |
+| 🟢 1.5 | 50 km WNW of Tatitlek, Alaska | 11:03 |
+| 🟢 2.8 | 78 km ENE of Port Alsworth, Alaska | 10:53 |
+| 🟢 1.2 | 7 km WNW of The Geysers, CA | 10:51 |
+| 🟢 2.1 | 39 km S of Skwentna, Alaska | 10:50 |
+| 🟢 0.8 | 9 km WNW of The Geysers, CA | 10:47 |
+| 🟢 2.0 | 49 km NE of Chenega, Alaska | 10:42 |
+| 🟢 2.4 | 100 km E of Cordova, Alaska | 10:35 |
+| 🔴 6.5 | 42 km NNE of Goroka, Papua New Guinea | 10:31 |
+| 🟢 1.6 | 4 km SSE of Pecos, Texas | 10:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
