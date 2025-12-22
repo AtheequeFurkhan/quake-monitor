@@ -2,22 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2003:42:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-323ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2004:39:52%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-408ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 1 km NE of Loma Linda, CA | 03:39 |
-| 🟢 1.6 | 55 km NW of Toyah, Texas | 03:35 |
-| 🟢 2.5 | 29 km NNW of Beluga, Alaska | 03:30 |
-| 🟢 1.7 | 53 km WNW of Tatitlek, Alaska | 03:28 |
-| 🟢 1.4 | 11 km W of Round Valley, CA | 03:21 |
-| 🟢 1.5 | 10 km WSW of Midland, Texas | 03:16 |
-| 🟢 2.0 | 58 km S of Whites City, New Mexico | 03:14 |
-| 🟢 1.4 | 8 km NW of The Geysers, CA | 03:03 |
-| 🟢 2.1 | 8 km NW of The Geysers, CA | 03:03 |
-| 🟢 2.4 | 73 km ENE of Tonopah, Nevada | 02:45 |
-| 🟢 1.3 | 2 km E of The Geysers, CA | 02:42 |
+| 🟢 1.1 | 23 km WNW of Inyokern, CA | 04:12 |
+| 🟢 0.8 | 4 km SE of Aromas, CA | 04:04 |
+| 🟢 0.5 | 9 km NE of Julian, CA | 04:01 |
+| 🟢 1.3 | 9 km WNW of The Geysers, CA | 04:01 |
+| 🟢 1.8 | 9 km NNE of Julian, CA | 03:59 |
+| 🟢 0.5 | 10 km SSW of Idyllwild, CA | 03:58 |
+| 🟢 1.9 | 9 km NNE of Julian, CA | 03:50 |
+| 🟢 1.2 | 4 km NW of The Geysers, CA | 03:49 |
+| 🟢 1.9 | 36 km SSW of Glacier View, Alaska | 03:46 |
+| 🟢 1.8 | 1 km NE of Loma Linda, CA | 03:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
