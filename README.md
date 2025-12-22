@@ -2,21 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2021:18:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-356ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2022:20:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-437ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 22 km ESE of Skwentna, Alaska | 21:13 |
-| 🟢 0.2 | 7 km WNW of Cobb, CA | 21:03 |
-| 🟢 1.5 | 4 km WSW of Cobb, CA | 21:01 |
-| 🟢 0.8 | 9 km WNW of The Geysers, CA | 20:59 |
-| 🟢 1.9 | 6 km SSW of Indios, Puerto Rico | 20:47 |
-| 🟢 1.4 | 14 km N of Fillmore, CA | 20:42 |
-| 🟢 2.6 | 3 km SE of Wilkerson, CA | 20:38 |
-| 🟢 1.5 | 3 km SSW of Salcha, Alaska | 20:34 |
-| 🟢 1.4 | 2 km ENE of San Jacinto, CA | 20:28 |
-| 🟢 0.7 | 20 km NNW of Borrego Springs, CA | 20:27 |
+| 🟢 1.9 | 23 km SSW of Willow Creek, CA | 22:17 |
+| 🟢 2.7 | 29 km SE of Knik River, Alaska | 22:14 |
+| 🟢 1.1 | 19 km ESE of Julian, CA | 22:11 |
+| 🟢 0.6 | 10 km S of Idyllwild, CA | 22:00 |
+| 🟢 0.6 | 5 km SW of Idyllwild, CA | 21:50 |
+| 🟢 1.7 | 56 km S of Whites City, New Mexico | 21:46 |
+| 🟢 2.2 | 5 km ESE of San Ramon, CA | 21:41 |
+| 🟢 0.9 | 7 km NE of Banning, CA | 21:39 |
+| 🟢 1.0 | 9 km N of Borrego Springs, CA | 21:34 |
+| 🟢 1.5 | 4 km SE of San Ramon, CA | 21:31 |
+| 🟢 1.0 | 3 km NNW of Azusa, CA | 21:28 |
+| 🟢 1.0 | 14 km W of Mojave, CA | 21:24 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
