@@ -2,24 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2008:30:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-281ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2009:28:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-184ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 2 km NNW of Universal City, CA | 08:27 |
-| 🟢 2.9 | 81 km W of Petrolia, CA | 08:22 |
-| 🟢 0.7 | 7 km SSW of Idyllwild, CA | 08:14 |
-| 🟢 1.0 | 6 km NNW of The Geysers, CA | 08:11 |
-| 🟢 2.0 | 24 km SSW of Westbrook, Texas | 08:07 |
-| 🟢 1.6 | 37 km SE of Balmorhea, Texas | 08:07 |
-| 🟢 2.8 | 23 km SSW of Westbrook, Texas | 08:05 |
-| 🟢 2.3 | 31 km ESE of Lowell Point, Alaska | 07:52 |
-| 🟢 1.7 | 13 km SE of Pāhala, Hawaii | 07:52 |
-| 🟢 1.3 | 3 km W of Anderson Springs, CA | 07:51 |
-| 🟢 1.0 | 2 km SSE of North Hollywood, CA | 07:43 |
-| 🟢 2.9 | 78 km W of Salamatof, Alaska | 07:35 |
-| 🟢 1.1 | 7 km SW of Niland, CA | 07:34 |
+| 🟢 1.0 | 12 km ENE of Cloverdale, CA | 09:00 |
+| 🟢 0.7 | 10 km NNW of Anza, CA | 08:57 |
+| 🟢 0.7 | 16 km NNE of Pine Valley, CA | 08:56 |
+| 🟢 1.3 | 7 km NW of The Geysers, CA | 08:55 |
+| 🟢 1.4 | 36 km N of Glacier View, Alaska | 08:49 |
+| 🟢 1.5 | 27 km SSE of Whites City, New Mexico | 08:47 |
+| 🟢 2.2 | 18 km W of Mentone, Texas | 08:45 |
+| 🟠 3.4 | 24 km SSW of Westbrook, Texas | 08:45 |
+| 🟢 1.5 | 6 km W of Cobb, CA | 08:43 |
+| 🟢 0.7 | 2 km S of North Hollywood, CA | 08:40 |
+| 🟢 0.7 | 2 km SSE of North Hollywood, CA | 08:37 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
