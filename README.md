@@ -2,22 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2021%20Dec%202025%2023:18:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-401ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2001:46:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-3.248s-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 15 km SSE of Livermore, CA | 23:06 |
-| 🟢 2.6 | 5 km SW of Ridgemark, CA | 23:03 |
-| 🟢 2.3 | 7 km S of Ojai, CA | 23:02 |
-| 🟢 1.8 | 18 km W of Searles Valley, CA | 22:58 |
-| 🟢 1.8 | 3 km N of Pinnacles, CA | 22:52 |
-| 🟢 1.1 | 21 km ENE of Coachella, CA | 22:50 |
-| 🟢 2.4 | 4 km SE of San Ramon, CA | 22:36 |
-| 🟢 2.6 | 10 km WSW of Stratford, CA | 22:26 |
-| 🟢 1.9 | 5 km SE of San Ramon, CA | 22:26 |
-| 🟢 1.6 | 37 km WSW of Manley Hot Springs, Alaska | 22:22 |
-| 🟢 1.2 | 7 km NW of The Geysers, CA | 22:21 |
+| 🟢 1.2 | 29 km S of Minto, Alaska | 01:40 |
+| 🟢 1.2 | 9 km ENE of Balmorhea, Texas | 01:35 |
+| 🟢 1.7 | 82 km NW of Yakutat, Alaska | 01:20 |
+| 🟠 4.6 | 144 km E of Barcelona, Philippines | 01:14 |
+| 🟢 2.9 | 11 km S of Ferndale, CA | 01:06 |
+| 🟢 1.8 | 41 km E of Chase, Alaska | 01:00 |
+| 🟢 1.2 | 16 km NNW of Cantwell, Alaska | 00:50 |
+| 🟢 0.6 | 1 km SW of Parkfield, CA | 00:50 |
+| 🟢 1.8 | 2 km N of Pāhala, Hawaii | 00:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
