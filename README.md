@@ -2,22 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2006:35:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-269ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2007:23:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-188ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 4 km ENE of Lindsay, Texas | 06:31 |
+| 🟢 1.6 | 5 km SW of Ridgemark, CA | 07:03 |
+| 🟢 1.1 | 9 km NNW of Big Bear City, CA | 07:01 |
+| 🟢 1.7 | 12 km SE of O'Donnell, Texas | 06:50 |
+| 🟢 1.7 | 3 km WNW of Cotati, CA | 06:46 |
+| 🟢 1.1 | 6 km NNW of The Geysers, CA | 06:40 |
+| 🟢 1.6 | 3 km S of Pecos, Texas | 06:31 |
 | 🟢 2.1 | 13 km SSW of Benton, California | 06:26 |
-| 🟢 1.8 | 6 km WNW of Westbrook, Texas | 06:19 |
-| 🟢 1.8 | 55 km NW of Toyah, Texas | 06:16 |
-| 🟢 1.4 | 5 km SW of Ridgemark, CA | 05:57 |
-| 🟢 2.0 | 32 km NW of Toyah, Texas | 05:54 |
-| 🟢 0.6 | 3 km NE of Ocotillo Wells, CA | 05:42 |
-| 🟢 2.2 | 20 km E of Pāhala, Hawaii | 05:40 |
-| 🟢 1.8 | 22 km E of Pāhala, Hawaii | 05:39 |
-| 🟢 1.0 | 20 km NW of Stanton, Texas | 05:38 |
-| 🟢 0.8 | 2 km NNW of The Geysers, CA | 05:37 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
