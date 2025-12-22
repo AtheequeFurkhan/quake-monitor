@@ -2,22 +2,14 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2011:18:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-343ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2012:42:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-426ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.8 | 53 km NNW of Petersville, Alaska | 11:07 |
-| 🟢 0.8 | 2 km WNW of Pasadena, CA | 11:03 |
-| 🟢 1.5 | 50 km WNW of Tatitlek, Alaska | 11:03 |
-| 🟢 2.8 | 78 km ENE of Port Alsworth, Alaska | 10:53 |
-| 🟢 1.2 | 7 km WNW of The Geysers, CA | 10:51 |
-| 🟢 2.1 | 39 km S of Skwentna, Alaska | 10:50 |
-| 🟢 0.8 | 9 km WNW of The Geysers, CA | 10:47 |
-| 🟢 2.0 | 49 km NE of Chenega, Alaska | 10:42 |
-| 🟢 2.4 | 100 km E of Cordova, Alaska | 10:35 |
-| 🔴 6.5 | 42 km NNE of Goroka, Papua New Guinea | 10:31 |
-| 🟢 1.6 | 4 km SSE of Pecos, Texas | 10:28 |
+| 🟢 1.1 | 11 km N of Four Mile Road, Alaska | 12:07 |
+| 🟢 1.0 | 23 km ESE of Little Lake, CA | 12:00 |
+| 🟢 1.9 | 48 km ESE of Naalehu, Hawaii | 11:56 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
