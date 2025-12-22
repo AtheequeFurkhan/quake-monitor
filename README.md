@@ -2,22 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2009:28:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-184ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2010:22:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-368ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 12 km ENE of Cloverdale, CA | 09:00 |
-| 🟢 0.7 | 10 km NNW of Anza, CA | 08:57 |
-| 🟢 0.7 | 16 km NNE of Pine Valley, CA | 08:56 |
-| 🟢 1.3 | 7 km NW of The Geysers, CA | 08:55 |
-| 🟢 1.4 | 36 km N of Glacier View, Alaska | 08:49 |
-| 🟢 1.5 | 27 km SSE of Whites City, New Mexico | 08:47 |
-| 🟢 2.2 | 18 km W of Mentone, Texas | 08:45 |
-| 🟠 3.4 | 24 km SSW of Westbrook, Texas | 08:45 |
-| 🟢 1.5 | 6 km W of Cobb, CA | 08:43 |
-| 🟢 0.7 | 2 km S of North Hollywood, CA | 08:40 |
-| 🟢 0.7 | 2 km SSE of North Hollywood, CA | 08:37 |
+| 🟢 1.7 | 3 km NE of Pecos, Texas | 10:10 |
+| 🟢 2.6 | 23 km SSW of Westbrook, Texas | 10:08 |
+| 🟢 1.9 | 14 km S of Fern Forest, Hawaii | 10:05 |
+| 🟢 2.2 | 12 km NE of Pāhala, Hawaii | 09:48 |
+| 🟢 0.7 | 6 km SSW of Diamond Bar, CA | 09:40 |
+| 🟢 1.2 | 9 km W of Templeton, CA | 09:37 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
