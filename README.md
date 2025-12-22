@@ -2,20 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2001:46:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-3.248s-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2003:42:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-323ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 29 km S of Minto, Alaska | 01:40 |
-| 🟢 1.2 | 9 km ENE of Balmorhea, Texas | 01:35 |
-| 🟢 1.7 | 82 km NW of Yakutat, Alaska | 01:20 |
-| 🟠 4.6 | 144 km E of Barcelona, Philippines | 01:14 |
-| 🟢 2.9 | 11 km S of Ferndale, CA | 01:06 |
-| 🟢 1.8 | 41 km E of Chase, Alaska | 01:00 |
-| 🟢 1.2 | 16 km NNW of Cantwell, Alaska | 00:50 |
-| 🟢 0.6 | 1 km SW of Parkfield, CA | 00:50 |
-| 🟢 1.8 | 2 km N of Pāhala, Hawaii | 00:47 |
+| 🟢 1.9 | 1 km NE of Loma Linda, CA | 03:39 |
+| 🟢 1.6 | 55 km NW of Toyah, Texas | 03:35 |
+| 🟢 2.5 | 29 km NNW of Beluga, Alaska | 03:30 |
+| 🟢 1.7 | 53 km WNW of Tatitlek, Alaska | 03:28 |
+| 🟢 1.4 | 11 km W of Round Valley, CA | 03:21 |
+| 🟢 1.5 | 10 km WSW of Midland, Texas | 03:16 |
+| 🟢 2.0 | 58 km S of Whites City, New Mexico | 03:14 |
+| 🟢 1.4 | 8 km NW of The Geysers, CA | 03:03 |
+| 🟢 2.1 | 8 km NW of The Geysers, CA | 03:03 |
+| 🟢 2.4 | 73 km ENE of Tonopah, Nevada | 02:45 |
+| 🟢 1.3 | 2 km E of The Geysers, CA | 02:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
