@@ -2,14 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2012:42:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-426ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2013:34:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-412ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 11 km N of Four Mile Road, Alaska | 12:07 |
-| 🟢 1.0 | 23 km ESE of Little Lake, CA | 12:00 |
-| 🟢 1.9 | 48 km ESE of Naalehu, Hawaii | 11:56 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 13:26 |
+| 🟢 2.0 | 65 km W of Cantwell, Alaska | 13:16 |
+| 🟢 1.8 | 30 km S of Malibu, CA | 13:16 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 13:13 |
+| 🟢 1.0 | 12 km SW of Searles Valley, CA | 12:55 |
+| 🟢 2.3 | 6 km NE of Houston, Alaska | 12:55 |
+| 🟢 1.6 | 55 km S of Whites City, New Mexico | 12:48 |
+| 🟢 1.1 | 8 km NW of The Geysers, CA | 12:43 |
+| 🟢 2.8 | 4 km SSE of Cayey, Puerto Rico | 12:39 |
+| 🟠 4.9 | 154 km NNE of Hirara, Japan | 12:38 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
