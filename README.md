@@ -2,20 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2008:29:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-264ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2009:25:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-270ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 4 km SE of San Ramon, CA | 08:23 |
-| 🟢 2.6 | 9 km WNW of Lake Davis, CA | 08:11 |
-| 🟢 2.7 | 5 km SE of San Ramon, CA | 08:11 |
-| 🟢 0.8 | 8 km W of Cobb, CA | 07:53 |
-| 🟢 1.6 | 53 km NW of Tatitlek, Alaska | 07:50 |
-| 🟠 4.9 | 25 km S of Hualien City, Taiwan | 07:46 |
-| 🟢 0.8 | 4 km NW of The Geysers, CA | 07:41 |
-| 🟢 1.0 | 17 km WSW of Johannesburg, CA | 07:38 |
-| 🟢 2.6 | 51 km W of Anchor Point, Alaska | 07:36 |
+| 🟢 1.9 | 10 km SW of Idyllwild, CA | 09:18 |
+| 🟢 0.3 | 7 km SSW of Idyllwild, CA | 08:54 |
+| 🟢 1.8 | 33 km SE of Waikoloa, Hawaii | 08:49 |
+| 🟢 1.0 | 23 km SW of Ocotillo Wells, CA | 08:44 |
+| 🟢 0.7 | 16 km ESE of Julian, CA | 08:38 |
+| 🟢 1.7 | 19 km WSW of Tecopa, California | 08:33 |
+| 🟢 2.9 | 9 km SSW of Big Bear Lake, CA | 08:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
