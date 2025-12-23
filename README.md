@@ -2,18 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2009:25:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-270ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2010:23:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-460ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 10 km SW of Idyllwild, CA | 09:18 |
-| 🟢 0.3 | 7 km SSW of Idyllwild, CA | 08:54 |
-| 🟢 1.8 | 33 km SE of Waikoloa, Hawaii | 08:49 |
-| 🟢 1.0 | 23 km SW of Ocotillo Wells, CA | 08:44 |
-| 🟢 0.7 | 16 km ESE of Julian, CA | 08:38 |
-| 🟢 1.7 | 19 km WSW of Tecopa, California | 08:33 |
-| 🟢 2.9 | 9 km SSW of Big Bear Lake, CA | 08:32 |
+| 🟢 1.6 | 20 km N of Fishhook, Alaska | 09:57 |
+| 🟠 3.3 | 3 km S of Pāhala, Hawaii | 09:56 |
+| 🔴 5.2 | 119 km NNW of Finschhafen, Papua New Guinea | 09:54 |
+| 🟢 0.7 | 14 km N of Ocotillo Wells, CA | 09:54 |
+| 🔴 5.2 | 163 km S of Ōyama, Japan | 09:44 |
+| 🟠 3.4 | 107 km NW of Yakutat, Alaska | 09:32 |
+| 🟢 0.8 | 13 km NW of The Geysers, CA | 09:31 |
+| 🟢 2.4 | 73 km E of Cantwell, Alaska | 09:31 |
+| 🟢 1.2 | 0 km NNE of Century City, CA | 09:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
