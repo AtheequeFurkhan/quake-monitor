@@ -2,18 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2013:35:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-397ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2014:21:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-597ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.8 | 3 km NW of The Geysers, CA | 14:13 |
+| 🟢 2.3 | 32 km W of Salamatof, Alaska | 14:11 |
+| 🟢 1.8 | 50 km W of Cantwell, Alaska | 13:58 |
+| 🟢 1.6 | 5 km SW of Ridgemark, CA | 13:56 |
+| 🟢 2.4 | 3 km SSW of Pāhala, Hawaii | 13:34 |
 | 🟢 0.4 | 2 km W of Orinda, CA | 13:22 |
-| 🟢 0.4 | 12 km SSE of Anza, CA | 13:13 |
-| 🟢 1.1 | 8 km W of Cobb, CA | 12:58 |
-| 🟢 0.7 | 8 km SSE of Palomar Observatory, CA | 12:52 |
-| 🟢 2.3 | 66 km ESE of Pedro Bay, Alaska | 12:51 |
-| 🟢 1.8 | 10 km NNE of Pāhala, Hawaii | 12:44 |
-| 🟢 2.0 | 18 km SW of Toms Place, CA | 12:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
