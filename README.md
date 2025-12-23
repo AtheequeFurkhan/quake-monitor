@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2011:18:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-382ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2012:43:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-458ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 14 km N of Ocotillo Wells, CA | 10:58 |
-| 🟢 1.6 | 49 km WNW of Tatitlek, Alaska | 10:48 |
-| 🟢 2.2 | 64 km NW of Aleneva, Alaska | 10:45 |
-| 🟢 1.9 | 14 km NE of Point Possession, Alaska | 10:39 |
-| 🟢 2.2 | 12 km WSW of Rio Dell, CA | 10:38 |
-| 🟢 1.5 | 15 km WSW of Johannesburg, CA | 10:38 |
-| 🟢 2.2 | 23 km N of Pāhala, Hawaii | 10:32 |
-| 🟢 2.4 | 108 km NW of Yakutat, Alaska | 10:27 |
-| 🟢 0.7 | 9 km NW of The Geysers, CA | 10:24 |
+| 🟢 2.0 | 18 km SW of Toms Place, CA | 12:39 |
+| 🟢 1.8 | 51 km E of Denali National Park, Alaska | 12:33 |
+| 🟢 1.6 | 49 km W of Cantwell, Alaska | 12:28 |
+| 🟠 4.9 | South Sandwich Islands region | 12:16 |
+| 🟢 0.6 | 14 km N of Borrego Springs, CA | 12:13 |
+| 🟢 0.7 | 7 km WNW of Cobb, CA | 12:07 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
