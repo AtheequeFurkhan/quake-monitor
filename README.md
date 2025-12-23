@@ -2,15 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2022%20Dec%202025%2023:19:47%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2001:41:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-236ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 5 km SE of San Ramon, CA | 23:00 |
-| 🟠 3.3 | 8 km SE of Point Possession, Alaska | 22:45 |
-| 🟢 2.3 | 56 km WNW of Nikiski, Alaska | 22:28 |
-| 🟢 1.7 | 57 km S of Kingston, Nevada | 22:21 |
+| 🟢 2.2 | 88 km WSW of Karluk, Alaska | 01:26 |
+| 🟢 2.1 | 77 km WNW of Ninilchik, Alaska | 01:23 |
+| 🟢 0.8 | 10 km NW of The Geysers, CA | 01:12 |
+| 🟠 3.3 | 107 km ESE of Chignik, Alaska | 01:08 |
+| 🟢 1.7 | 33 km NE of Skwentna, Alaska | 00:59 |
+| 🟢 1.2 | 12 km ENE of Cloverdale, CA | 00:56 |
+| 🟢 1.3 | 12 km ENE of Cloverdale, CA | 00:55 |
+| 🟢 1.9 | 14 km SSW of Honoka‘a, Hawaii | 00:53 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
