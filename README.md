@@ -2,19 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2001:41:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-236ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2003:26:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-429ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 88 km WSW of Karluk, Alaska | 01:26 |
-| 🟢 2.1 | 77 km WNW of Ninilchik, Alaska | 01:23 |
-| 🟢 0.8 | 10 km NW of The Geysers, CA | 01:12 |
-| 🟠 3.3 | 107 km ESE of Chignik, Alaska | 01:08 |
-| 🟢 1.7 | 33 km NE of Skwentna, Alaska | 00:59 |
-| 🟢 1.2 | 12 km ENE of Cloverdale, CA | 00:56 |
-| 🟢 1.3 | 12 km ENE of Cloverdale, CA | 00:55 |
-| 🟢 1.9 | 14 km SSW of Honoka‘a, Hawaii | 00:53 |
+| 🟢 1.9 | 5 km SW of Ridgemark, CA | 03:19 |
+| 🟢 2.8 | 24 km SSE of Pope-Vannoy Landing, Alaska | 03:13 |
+| 🟢 0.9 | 8 km NW of The Geysers, CA | 03:11 |
+| 🟢 2.1 | 3 km S of Pāhala, Hawaii | 03:04 |
+| 🟢 3.0 | 67 km NNE of San Juan, Puerto Rico | 02:38 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 02:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
