@@ -2,18 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2004:37:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-248ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2005:24:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-417ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.5 | 22 km E of Julian, CA | 05:15 |
+| 🟢 1.0 | 15 km WSW of Johannesburg, CA | 05:14 |
+| 🟢 1.2 | 15 km WSW of Johannesburg, CA | 05:04 |
+| 🟢 0.7 | 12 km SSE of Corona, CA | 04:54 |
+| 🟢 0.6 | 19 km SW of La Quinta, CA | 04:50 |
+| 🟢 1.6 | 91 km N of Karluk, Alaska | 04:49 |
+| 🔴 5.1 | 120 km E of Pirallahı, Azerbaijan | 04:32 |
+| 🟠 4.9 | West Chile Rise | 04:31 |
 | 🟠 3.6 | 171 km W of Pistol River, Oregon | 04:26 |
 | 🟢 1.9 | 17 km SSE of Bodie, CA | 04:25 |
 | 🟢 0.6 | 5 km SSW of Redlands, CA | 04:24 |
-| 🟢 1.6 | 62 km S of Glacier View, Alaska | 04:16 |
-| 🟠 4.4 | 54 km NNE of Sape, Indonesia | 04:10 |
-| 🟠 4.7 | Kermadec Islands region | 03:54 |
-| 🟢 1.7 | 5 km SW of Ridgemark, CA | 03:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
