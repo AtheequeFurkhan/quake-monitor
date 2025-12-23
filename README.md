@@ -2,20 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2022:19:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-237ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2023:19:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-510ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 3 km NNE of Point MacKenzie, Alaska | 22:00 |
-| 🟢 1.7 | 24 km W of Volcano, Hawaii | 21:51 |
-| 🟢 1.4 | 25 km NW of Skwentna, Alaska | 21:48 |
-| 🟢 0.5 | 36 km SE of West Yellowstone, Montana | 21:47 |
-| 🟢 1.7 | 72 km E of Cantwell, Alaska | 21:43 |
-| 🟢 1.8 | 59 km S of Whites City, New Mexico | 21:38 |
-| 🟢 1.6 | 8 km SE of Enumclaw, Washington | 21:30 |
-| 🟢 1.7 | 56 km SSW of Whites City, New Mexico | 21:29 |
-| 🟢 1.4 | 14 km SE of Tehachapi, CA | 21:19 |
+| 🟢 1.8 | 4 km SSW of Pāhala, Hawaii | 23:07 |
+| 🟢 1.0 | 11 km E of Cloverdale, CA | 23:03 |
+| 🟢 1.2 | 11 km WSW of Stanton, Texas | 23:03 |
+| 🟠 4.2 | 110 km SE of Bushehr, Iran | 22:43 |
+| 🟢 0.6 | 18 km NW of Parkfield, CA | 22:36 |
+| 🟢 2.6 | 42 km WNW of Happy Valley, Alaska | 22:28 |
+| 🟢 0.7 | 18 km NW of Parkfield, CA | 22:24 |
+| 🟢 1.8 | 37 km S of Naalehu, Hawaii | 22:22 |
+| 🟢 1.3 | 18 km NW of Parkfield, CA | 22:22 |
+| 🟢 1.6 | 52 km NE of Alta, Wyoming | 22:19 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
