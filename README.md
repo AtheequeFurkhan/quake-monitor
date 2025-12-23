@@ -2,16 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2006:34:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-426ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2007:23:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-196ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.0 | 18 km WSW of Johannesburg, CA | 06:48 |
+| 🟢 1.9 | 2 km NNE of Malibu, CA | 06:46 |
 | 🟢 0.3 | 9 km SW of Idyllwild, CA | 06:26 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 06:20 |
-| 🟢 0.6 | 7 km S of Idyllwild, CA | 06:10 |
-| 🟢 0.6 | 17 km W of Johannesburg, CA | 05:59 |
-| 🟢 0.6 | 11 km SW of Anza, CA | 05:57 |
+| 🟠 4.3 | 280 km E of Levuka, Fiji | 06:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
