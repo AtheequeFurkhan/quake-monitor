@@ -2,15 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2007:23:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-196ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2008:29:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-264ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 18 km WSW of Johannesburg, CA | 06:48 |
-| 🟢 1.9 | 2 km NNE of Malibu, CA | 06:46 |
-| 🟢 0.3 | 9 km SW of Idyllwild, CA | 06:26 |
-| 🟠 4.3 | 280 km E of Levuka, Fiji | 06:26 |
+| 🟢 2.1 | 4 km SE of San Ramon, CA | 08:23 |
+| 🟢 2.6 | 9 km WNW of Lake Davis, CA | 08:11 |
+| 🟢 2.7 | 5 km SE of San Ramon, CA | 08:11 |
+| 🟢 0.8 | 8 km W of Cobb, CA | 07:53 |
+| 🟢 1.6 | 53 km NW of Tatitlek, Alaska | 07:50 |
+| 🟠 4.9 | 25 km S of Hualien City, Taiwan | 07:46 |
+| 🟢 0.8 | 4 km NW of The Geysers, CA | 07:41 |
+| 🟢 1.0 | 17 km WSW of Johannesburg, CA | 07:38 |
+| 🟢 2.6 | 51 km W of Anchor Point, Alaska | 07:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
