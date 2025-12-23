@@ -2,20 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2020:22:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-268ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2021:19:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-365ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 2 km NW of Four Mile Road, Alaska | 20:06 |
-| 🟢 1.9 | 2 km SSW of Happy Valley, Alaska | 20:04 |
-| 🟢 0.6 | 14 km NE of Warner Springs, CA | 19:45 |
-| 🟢 1.3 | 2 km E of Salcha, Alaska | 19:41 |
-| 🟢 1.8 | 6 km SSE of Nikolaevsk, Alaska | 19:38 |
-| 🟢 0.3 | 7 km W of Cobb, CA | 19:37 |
-| 🟢 1.5 | 16 km ENE of Pinnacles, CA | 19:37 |
-| 🟢 0.7 | 44 km W of Happy Valley, Alaska | 19:23 |
-| 🟢 0.6 | 7 km NW of The Geysers, CA | 19:22 |
+| 🟢 2.0 | 62 km SE of Denali National Park, Alaska | 21:11 |
+| 🟢 1.5 | 10 km ESE of Lake Pillsbury, CA | 21:09 |
+| 🟢 0.6 | 19 km SW of Ocotillo Wells, CA | 21:08 |
+| 🟢 0.7 | 8 km SW of Idyllwild, CA | 20:57 |
+| 🟢 2.2 | 83 km N of Yakutat, Alaska | 20:57 |
+| 🟢 2.7 | 52 km SSW of Whites City, New Mexico | 20:53 |
+| 🔴 5.6 | 38 km NNE of Port-Olry, Vanuatu | 20:41 |
+| 🟢 1.1 | 2 km SE of Home Gardens, CA | 20:31 |
+| 🟢 2.6 | 114 km N of Yakutat, Alaska | 20:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
