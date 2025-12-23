@@ -2,15 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2019:17:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-343ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2020:22:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-268ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 57 km S of Whites City, New Mexico | 19:11 |
-| 🟢 1.3 | 7 km WSW of Pala, CA | 19:06 |
-| 🟢 2.7 | 91 km ESE of Chalkyitsik, Alaska | 18:34 |
-| 🟢 1.9 | 53 km SSW of Cantwell, Alaska | 18:26 |
+| 🟢 1.3 | 2 km NW of Four Mile Road, Alaska | 20:06 |
+| 🟢 1.9 | 2 km SSW of Happy Valley, Alaska | 20:04 |
+| 🟢 0.6 | 14 km NE of Warner Springs, CA | 19:45 |
+| 🟢 1.3 | 2 km E of Salcha, Alaska | 19:41 |
+| 🟢 1.8 | 6 km SSE of Nikolaevsk, Alaska | 19:38 |
+| 🟢 0.3 | 7 km W of Cobb, CA | 19:37 |
+| 🟢 1.5 | 16 km ENE of Pinnacles, CA | 19:37 |
+| 🟢 0.7 | 44 km W of Happy Valley, Alaska | 19:23 |
+| 🟢 0.6 | 7 km NW of The Geysers, CA | 19:22 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
