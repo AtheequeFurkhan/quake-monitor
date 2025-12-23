@@ -2,17 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2017:20:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-399ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2018:30:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-302ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.4 | 5 km SE of Maria Antonia, Puerto Rico | 16:54 |
-| 🟢 0.9 | 10 km NE of Coso Junction, CA | 16:54 |
-| 🟢 1.1 | 32 km SSE of Minto, Alaska | 16:46 |
-| 🟢 0.9 | 85 km NW of Karluk, Alaska | 16:44 |
-| 🟢 0.4 | 17 km S of Carbonado, Washington | 16:41 |
-| 🟢 2.0 | 14 km ESE of Clam Gulch, Alaska | 16:32 |
+| 🟢 1.9 | 53 km SSW of Cantwell, Alaska | 18:26 |
+| 🟢 0.6 | 10 km ENE of Palomar Observatory, CA | 18:08 |
+| 🟢 0.7 | 7 km WNW of Cobb, CA | 17:56 |
+| 🟢 1.8 | 3 km S of Pāhala, Hawaii | 17:35 |
+| 🟢 0.9 | 10 km WNW of The Geysers, CA | 17:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
