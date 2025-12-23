@@ -2,17 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2003:26:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-429ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2004:37:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-248ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 5 km SW of Ridgemark, CA | 03:19 |
-| 🟢 2.8 | 24 km SSE of Pope-Vannoy Landing, Alaska | 03:13 |
-| 🟢 0.9 | 8 km NW of The Geysers, CA | 03:11 |
-| 🟢 2.1 | 3 km S of Pāhala, Hawaii | 03:04 |
-| 🟢 3.0 | 67 km NNE of San Juan, Puerto Rico | 02:38 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 02:32 |
+| 🟠 3.6 | 171 km W of Pistol River, Oregon | 04:26 |
+| 🟢 1.9 | 17 km SSE of Bodie, CA | 04:25 |
+| 🟢 0.6 | 5 km SSW of Redlands, CA | 04:24 |
+| 🟢 1.6 | 62 km S of Glacier View, Alaska | 04:16 |
+| 🟠 4.4 | 54 km NNE of Sape, Indonesia | 04:10 |
+| 🟠 4.7 | Kermadec Islands region | 03:54 |
+| 🟢 1.7 | 5 km SW of Ridgemark, CA | 03:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
