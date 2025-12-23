@@ -2,22 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2005:24:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-417ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2006:34:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-426ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 22 km E of Julian, CA | 05:15 |
-| 🟢 1.0 | 15 km WSW of Johannesburg, CA | 05:14 |
-| 🟢 1.2 | 15 km WSW of Johannesburg, CA | 05:04 |
-| 🟢 0.7 | 12 km SSE of Corona, CA | 04:54 |
-| 🟢 0.6 | 19 km SW of La Quinta, CA | 04:50 |
-| 🟢 1.6 | 91 km N of Karluk, Alaska | 04:49 |
-| 🔴 5.1 | 120 km E of Pirallahı, Azerbaijan | 04:32 |
-| 🟠 4.9 | West Chile Rise | 04:31 |
-| 🟠 3.6 | 171 km W of Pistol River, Oregon | 04:26 |
-| 🟢 1.9 | 17 km SSE of Bodie, CA | 04:25 |
-| 🟢 0.6 | 5 km SSW of Redlands, CA | 04:24 |
+| 🟢 0.3 | 9 km SW of Idyllwild, CA | 06:26 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 06:20 |
+| 🟢 0.6 | 7 km S of Idyllwild, CA | 06:10 |
+| 🟢 0.6 | 17 km W of Johannesburg, CA | 05:59 |
+| 🟢 0.6 | 11 km SW of Anza, CA | 05:57 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
@@ -27,7 +21,7 @@
 - 🔥 **Wildfires**: [CR L Wildfire, Yuma, Colorado](https://irwin.doi.gov/observer/incidents/36bf5e21-134c-4543-9cea-b379e6bc1c6c) (Dec 18)
 - 🔥 **Wildfires**: [33 Wildfire, Yuma, Colorado](https://irwin.doi.gov/observer/incidents/3c182aca-b92b-4b39-85be-ac8382c0bec8) (Dec 18)
 - 🔥 **Wildfires**: [Terry Ranch Wildfire, Laramie, Wyoming](https://irwin.doi.gov/observer/incidents/358c6e78-82af-438f-9d9d-32bf895fc7ab) (Dec 18)
-- ⛈️ **Severe Storms**: [Tropical Cyclone 09S](https://www.metoc.navy.mil/jtwc/products/sh0926.tcw) (Dec 22)
+- ⛈️ **Severe Storms**: [Tropical Cyclone 09S](https://www.metoc.navy.mil/jtwc/products/sh0926.tcw) (Dec 23)
 - 🔥 **Wildfires**: [RX Cook Road Prescribed Fire, Baxter, Arkansas](https://irwin.doi.gov/observer/incidents/0b3bcf66-5b22-485b-bf94-752fb42add7a) (Dec 16)
 - 🔥 **Wildfires**: [RX Optimus North Prescribed Fire, Stone, Arkansas](https://irwin.doi.gov/observer/incidents/6fa2952d-ef68-478e-b97e-bc3e45a866b5) (Dec 15)
 - 🔥 **Wildfires**: [Cave Mountain Wildfire, Bibb, Alabama](https://irwin.doi.gov/observer/incidents/ecd965da-3ccd-4a55-b7c0-95b763d11d61) (Dec 12)
