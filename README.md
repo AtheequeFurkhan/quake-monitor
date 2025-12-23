@@ -2,17 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2012:43:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-458ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2013:35:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-397ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.4 | 2 km W of Orinda, CA | 13:22 |
+| 🟢 0.4 | 12 km SSE of Anza, CA | 13:13 |
+| 🟢 1.1 | 8 km W of Cobb, CA | 12:58 |
+| 🟢 0.7 | 8 km SSE of Palomar Observatory, CA | 12:52 |
+| 🟢 2.3 | 66 km ESE of Pedro Bay, Alaska | 12:51 |
+| 🟢 1.8 | 10 km NNE of Pāhala, Hawaii | 12:44 |
 | 🟢 2.0 | 18 km SW of Toms Place, CA | 12:39 |
-| 🟢 1.8 | 51 km E of Denali National Park, Alaska | 12:33 |
-| 🟢 1.6 | 49 km W of Cantwell, Alaska | 12:28 |
-| 🟠 4.9 | South Sandwich Islands region | 12:16 |
-| 🟢 0.6 | 14 km N of Borrego Springs, CA | 12:13 |
-| 🟢 0.7 | 7 km WNW of Cobb, CA | 12:07 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
