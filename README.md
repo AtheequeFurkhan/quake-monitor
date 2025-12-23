@@ -2,20 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2021:19:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-365ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2022:19:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-237ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 62 km SE of Denali National Park, Alaska | 21:11 |
-| 🟢 1.5 | 10 km ESE of Lake Pillsbury, CA | 21:09 |
-| 🟢 0.6 | 19 km SW of Ocotillo Wells, CA | 21:08 |
-| 🟢 0.7 | 8 km SW of Idyllwild, CA | 20:57 |
-| 🟢 2.2 | 83 km N of Yakutat, Alaska | 20:57 |
-| 🟢 2.7 | 52 km SSW of Whites City, New Mexico | 20:53 |
-| 🔴 5.6 | 38 km NNE of Port-Olry, Vanuatu | 20:41 |
-| 🟢 1.1 | 2 km SE of Home Gardens, CA | 20:31 |
-| 🟢 2.6 | 114 km N of Yakutat, Alaska | 20:21 |
+| 🟢 2.1 | 3 km NNE of Point MacKenzie, Alaska | 22:00 |
+| 🟢 1.7 | 24 km W of Volcano, Hawaii | 21:51 |
+| 🟢 1.4 | 25 km NW of Skwentna, Alaska | 21:48 |
+| 🟢 0.5 | 36 km SE of West Yellowstone, Montana | 21:47 |
+| 🟢 1.7 | 72 km E of Cantwell, Alaska | 21:43 |
+| 🟢 1.8 | 59 km S of Whites City, New Mexico | 21:38 |
+| 🟢 1.6 | 8 km SE of Enumclaw, Washington | 21:30 |
+| 🟢 1.7 | 56 km SSW of Whites City, New Mexico | 21:29 |
+| 🟢 1.4 | 14 km SE of Tehachapi, CA | 21:19 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
