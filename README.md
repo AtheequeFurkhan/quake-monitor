@@ -2,20 +2,13 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2014:19:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-280ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2015:21:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-270ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 15 km NE of Coalinga, CA | 14:10 |
-| 🟢 1.4 | 9 km SW of Niland, CA | 14:05 |
-| 🟢 1.6 | 7 km NE of Beaumont, CA | 14:05 |
-| 🟢 1.4 | 7 km WNW of Cobb, CA | 14:01 |
-| 🟢 1.5 | 23 km ESE of Denali National Park, Alaska | 13:59 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 13:52 |
-| 🟠 5.0 | 24 km S of Merizo Village, Guam | 13:33 |
-| 🟢 1.1 | 2 km N of The Geysers, CA | 13:33 |
-| 🟢 1.0 | 2 km N of The Geysers, CA | 13:25 |
+| 🔴 5.7 | 218 km SW of Merizo Village, Guam | 15:00 |
+| 🟢 2.4 | 11 km E of Pāhala, Hawaii | 14:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
