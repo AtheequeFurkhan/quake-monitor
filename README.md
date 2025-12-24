@@ -2,15 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2021:18:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-279ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2022:19:52%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-408ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 2 km NNW of The Geysers, CA | 21:13 |
-| 🟢 0.9 | 10 km S of Idyllwild, CA | 20:45 |
-| 🟢 2.2 | 7 km WSW of Grapevine, CA | 20:30 |
-| 🟢 1.9 | 6 km SW of Pāhala, Hawaii | 20:26 |
+| 🟢 0.7 | 4 km NW of The Geysers, CA | 22:16 |
+| 🟢 1.5 | 32 km NNE of Petersville, Alaska | 22:12 |
+| 🟢 1.5 | 8 km SW of Corona, CA | 22:00 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 21:53 |
+| 🟠 4.4 | Norwegian Sea | 21:44 |
+| 🟢 1.6 | 57 km S of Whites City, New Mexico | 21:41 |
+| 🟠 4.9 | Reykjanes Ridge | 21:37 |
+| 🟢 1.6 | 57 km S of Whites City, New Mexico | 21:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
