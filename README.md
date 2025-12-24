@@ -2,18 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2012:42:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-484ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2013:31:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-185ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.0 | 2 km N of The Geysers, CA | 13:25 |
+| 🟢 2.4 | 20 km SE of Pinnacles, CA | 13:16 |
+| 🟢 0.8 | 7 km WNW of Cobb, CA | 13:16 |
+| 🟢 1.0 | 7 km WNW of Cobb, CA | 13:10 |
+| 🟢 2.0 | 7 km WNW of Cobb, CA | 13:09 |
+| 🟢 1.5 | 53 km NW of Tatitlek, Alaska | 12:48 |
+| 🟢 0.8 | 9 km S of Salcha, Alaska | 12:40 |
+| 🟠 3.3 | 100 km NE of Cruz Bay, U.S. Virgin Islands | 12:33 |
 | 🟢 2.5 | 6 km SW of Ridgemark, CA | 12:31 |
-| 🟢 1.8 | 87 km NNW of Yakutat, Alaska | 12:19 |
-| 🟢 2.5 | 3 km SSE of Indios, Puerto Rico | 12:19 |
-| 🟢 2.3 | 22 km WSW of Ackerly, Texas | 12:19 |
-| 🟠 4.4 | 177 km W of Neiafu, Tonga | 12:12 |
-| 🟠 3.9 | 80 km SW of Atka, Alaska | 11:49 |
-| 🟢 1.4 | 17 km ESE of Julian, CA | 11:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
