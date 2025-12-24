@@ -2,21 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2023%20Dec%202025%2023:19:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-510ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2001:40:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-382ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 4 km SSW of Pāhala, Hawaii | 23:07 |
-| 🟢 1.0 | 11 km E of Cloverdale, CA | 23:03 |
-| 🟢 1.2 | 11 km WSW of Stanton, Texas | 23:03 |
-| 🟠 4.2 | 110 km SE of Bushehr, Iran | 22:43 |
-| 🟢 0.6 | 18 km NW of Parkfield, CA | 22:36 |
-| 🟢 2.6 | 42 km WNW of Happy Valley, Alaska | 22:28 |
-| 🟢 0.7 | 18 km NW of Parkfield, CA | 22:24 |
-| 🟢 1.8 | 37 km S of Naalehu, Hawaii | 22:22 |
-| 🟢 1.3 | 18 km NW of Parkfield, CA | 22:22 |
-| 🟢 1.6 | 52 km NE of Alta, Wyoming | 22:19 |
+| 🟢 2.0 | 18 km SSE of Bodie, CA | 01:37 |
+| 🟢 0.7 | 9 km NE of Julian, CA | 01:35 |
+| 🟠 3.4 | 41 km NNW of Skwentna, Alaska | 01:26 |
+| 🟢 1.9 | 57 km S of Whites City, New Mexico | 01:23 |
+| 🟢 0.6 | 15 km N of Warner Springs, CA | 01:16 |
+| 🟠 4.5 | 20 km WNW of La Ligua, Chile | 01:05 |
+| 🟢 2.0 | 6 km SW of Guánica, Puerto Rico | 00:58 |
+| 🟢 2.6 | 40 km WNW of Nanwalek, Alaska | 00:50 |
+| 🟢 1.6 | 58 km S of Glacier View, Alaska | 00:49 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
