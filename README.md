@@ -2,14 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2019:16:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-167ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2020:22:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-498ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 3 km E of The Geysers, CA | 19:04 |
-| 🟢 1.4 | 7 km SE of Winchester, CA | 18:46 |
-| 🟢 0.8 | 7 km E of Fox, Alaska | 18:20 |
+| 🟢 1.9 | 5 km WNW of Cobb, CA | 20:16 |
+| 🟢 0.3 | 6 km WNW of Cobb, CA | 20:13 |
+| 🟢 1.1 | 8 km NW of The Geysers, CA | 20:11 |
+| 🟢 1.1 | 9 km SE of Valle Vista, CA | 20:09 |
+| 🟢 3.0 | 9 km N of Cabazon, CA | 20:03 |
+| 🟢 1.7 | 27 km E of Excursion Inlet, Alaska | 19:56 |
+| 🟢 1.1 | 92 km S of McCarthy, Alaska | 19:43 |
+| 🟠 4.3 | 81 km ESE of Yujing, Taiwan | 19:41 |
+| 🟠 3.1 | 5 km SE of San Ramon, CA | 19:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
