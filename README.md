@@ -2,20 +2,14 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2001:40:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-382ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2003:23:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-307ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 18 km SSE of Bodie, CA | 01:37 |
-| 🟢 0.7 | 9 km NE of Julian, CA | 01:35 |
-| 🟠 3.4 | 41 km NNW of Skwentna, Alaska | 01:26 |
-| 🟢 1.9 | 57 km S of Whites City, New Mexico | 01:23 |
-| 🟢 0.6 | 15 km N of Warner Springs, CA | 01:16 |
-| 🟠 4.5 | 20 km WNW of La Ligua, Chile | 01:05 |
-| 🟢 2.0 | 6 km SW of Guánica, Puerto Rico | 00:58 |
-| 🟢 2.6 | 40 km WNW of Nanwalek, Alaska | 00:50 |
-| 🟢 1.6 | 58 km S of Glacier View, Alaska | 00:49 |
+| 🟢 2.1 | 42 km WNW of Valdez, Alaska | 03:07 |
+| 🟢 1.8 | 1 km WSW of Pāhala, Hawaii | 02:47 |
+| 🟠 4.4 | Fiji region | 02:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
