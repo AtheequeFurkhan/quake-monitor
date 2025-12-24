@@ -2,25 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2006:33:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-488ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2007:23:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-326ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.8 | 40 km SSW of Nanwalek, Alaska | 07:00 |
+| 🟢 2.0 | 66 km WNW of Ninilchik, Alaska | 06:58 |
+| 🟢 1.5 | 35 km SSW of Los Ybanez, Texas | 06:53 |
+| 🟢 0.5 | 18 km ESE of Julian, CA | 06:48 |
 | 🟢 1.4 | 11 km ESE of Chickaloon, Alaska | 06:30 |
 | 🟢 1.4 | 5 km W of Mira Loma, CA | 06:29 |
-| 🟢 0.5 | 10 km SSW of Idyllwild, CA | 06:20 |
-| 🟢 1.1 | 10 km N of Idyllwild, CA | 06:17 |
-| 🟢 2.1 | 1 km SW of Pāhala, Hawaii | 06:16 |
-| 🟢 2.4 | 51 km WSW of Denali Park, Alaska | 06:14 |
-| 🟢 1.8 | 24 km S of Naalehu, Hawaii | 06:11 |
-| 🟢 2.1 | 47 km WNW of Petersville, Alaska | 06:04 |
-| 🟢 1.6 | 36 km WNW of Tatitlek, Alaska | 06:03 |
-| 🟢 1.8 | 33 km SE of Malaga, New Mexico | 05:47 |
-| 🟢 1.8 | 10 km NE of Pāhala, Hawaii | 05:44 |
-| 🟢 0.8 | 85 km NNW of Karluk, Alaska | 05:41 |
-| 🟢 1.5 | 14 km NE of Napa, CA | 05:39 |
-| 🟢 2.3 | 70 km ESE of Ugashik, Alaska | 05:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
