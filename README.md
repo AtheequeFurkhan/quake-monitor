@@ -2,20 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2013:31:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-185ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2014:19:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-280ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.9 | 15 km NE of Coalinga, CA | 14:10 |
+| 🟢 1.4 | 9 km SW of Niland, CA | 14:05 |
+| 🟢 1.6 | 7 km NE of Beaumont, CA | 14:05 |
+| 🟢 1.4 | 7 km WNW of Cobb, CA | 14:01 |
+| 🟢 1.5 | 23 km ESE of Denali National Park, Alaska | 13:59 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 13:52 |
+| 🟠 5.0 | 24 km S of Merizo Village, Guam | 13:33 |
+| 🟢 1.1 | 2 km N of The Geysers, CA | 13:33 |
 | 🟢 1.0 | 2 km N of The Geysers, CA | 13:25 |
-| 🟢 2.4 | 20 km SE of Pinnacles, CA | 13:16 |
-| 🟢 0.8 | 7 km WNW of Cobb, CA | 13:16 |
-| 🟢 1.0 | 7 km WNW of Cobb, CA | 13:10 |
-| 🟢 2.0 | 7 km WNW of Cobb, CA | 13:09 |
-| 🟢 1.5 | 53 km NW of Tatitlek, Alaska | 12:48 |
-| 🟢 0.8 | 9 km S of Salcha, Alaska | 12:40 |
-| 🟠 3.3 | 100 km NE of Cruz Bay, U.S. Virgin Islands | 12:33 |
-| 🟢 2.5 | 6 km SW of Ridgemark, CA | 12:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
