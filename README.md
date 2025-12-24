@@ -2,20 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2020:22:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-498ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2021:18:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-279ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 5 km WNW of Cobb, CA | 20:16 |
-| 🟢 0.3 | 6 km WNW of Cobb, CA | 20:13 |
-| 🟢 1.1 | 8 km NW of The Geysers, CA | 20:11 |
-| 🟢 1.1 | 9 km SE of Valle Vista, CA | 20:09 |
-| 🟢 3.0 | 9 km N of Cabazon, CA | 20:03 |
-| 🟢 1.7 | 27 km E of Excursion Inlet, Alaska | 19:56 |
-| 🟢 1.1 | 92 km S of McCarthy, Alaska | 19:43 |
-| 🟠 4.3 | 81 km ESE of Yujing, Taiwan | 19:41 |
-| 🟠 3.1 | 5 km SE of San Ramon, CA | 19:36 |
+| 🟢 0.8 | 2 km NNW of The Geysers, CA | 21:13 |
+| 🟢 0.9 | 10 km S of Idyllwild, CA | 20:45 |
+| 🟢 2.2 | 7 km WSW of Grapevine, CA | 20:30 |
+| 🟢 1.9 | 6 km SW of Pāhala, Hawaii | 20:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
