@@ -2,17 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2017:17:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-428ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2018:30:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-257ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.6 | 9 km W of Malibu, CA | 17:08 |
-| 🟢 0.8 | 75 km NNW of Karluk, Alaska | 17:04 |
-| 🟢 1.9 | 57 km WSW of Nanwalek, Alaska | 16:33 |
-| 🟢 0.9 | 10 km NW of The Geysers, CA | 16:28 |
-| 🟢 1.2 | 2 km NW of The Geysers, CA | 16:27 |
-| 🟢 1.5 | 3 km NW of Banning, CA | 16:20 |
+| 🟢 0.8 | 7 km E of Fox, Alaska | 18:20 |
+| 🟢 1.5 | 5 km SW of Ridgemark, CA | 18:11 |
+| 🟢 1.1 | 5 km WNW of Cobb, CA | 18:04 |
+| 🟢 2.1 | 9 km NE of Pāhala, Hawaii | 17:58 |
+| 🟢 1.5 | 44 km N of Chickaloon, Alaska | 17:50 |
+| 🟢 0.2 | 6 km WNW of Cobb, CA | 17:49 |
+| 🟢 1.8 | 31 km SSE of Volcano, Hawaii | 17:40 |
+| 🟢 1.0 | 8 km N of Idyllwild, CA | 17:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
