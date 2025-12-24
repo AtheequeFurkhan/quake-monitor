@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2010:21:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-481ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2011:18:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-265ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 9 km NNE of Julian, CA | 10:17 |
-| 🟢 1.4 | 9 km NNE of Julian, CA | 10:15 |
-| 🟢 1.8 | 60 km SE of Pope-Vannoy Landing, Alaska | 10:09 |
-| 🟢 0.7 | 9 km E of Palomar Observatory, CA | 10:07 |
-| 🟢 0.3 | 6 km NNW of Aguanga, CA | 10:02 |
-| 🟢 2.0 | 5 km SW of Pāhala, Hawaii | 09:47 |
-| 🔴 6.0 | 82 km ESE of Yujing, Taiwan | 09:47 |
+| 🟢 1.8 | 8 km W of Cobb, CA | 11:12 |
+| 🟠 4.8 | 100 km SSW of Atka, Alaska | 10:57 |
+| 🟢 1.4 | 9 km NW of The Geysers, CA | 10:42 |
+| 🟢 2.4 | 15 km W of Anchorage, Alaska | 10:42 |
+| 🟢 1.1 | 2 km WNW of Orinda, CA | 10:33 |
+| 🟢 0.5 | 15 km N of Warner Springs, CA | 10:29 |
+| 🟢 0.5 | 9 km E of Palomar Observatory, CA | 10:20 |
+| 🟢 1.6 | 7 km NNW of Willow, Alaska | 10:19 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
