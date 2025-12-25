@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2021:18:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-199ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2022:19:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-336ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 8 km WNW of Cobb, CA | 21:16 |
-| 🟢 1.6 | 56 km S of Whites City, New Mexico | 21:14 |
-| 🟢 2.0 | 2 km SSE of Nikiski, Alaska | 21:01 |
-| 🟢 2.7 | 6 km SE of Maria Antonia, Puerto Rico | 20:33 |
-| 🟠 4.5 | 105 km WNW of Waisai, Indonesia | 20:26 |
-| 🟢 1.8 | 2 km N of The Geysers, CA | 20:23 |
-| 🟢 1.1 | 15 km SSE of Stanton, Texas | 20:22 |
+| 🟢 1.6 | 14 km SSW of Joshua Tree, CA | 22:16 |
+| 🟢 1.8 | 85 km NW of Karluk, Alaska | 22:05 |
+| 🟢 1.1 | 29 km SSE of Midland, Texas | 22:04 |
+| 🟢 1.4 | 4 km S of Anderson Springs, CA | 21:59 |
+| 🟢 1.6 | 37 km WSW of Mentone, Texas | 21:47 |
+| 🟢 2.6 | 56 km S of Whites City, New Mexico | 21:46 |
+| 🟢 1.8 | 23 km SW of Trapper Creek, Alaska | 21:33 |
+| 🟢 1.5 | 12 km WSW of Trapper Creek, Alaska | 21:20 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
