@@ -2,28 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2020:23:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-204ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2021:18:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-199ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 6 km WSW of Idyllwild, CA | 20:18 |
-| 🟢 1.0 | 36 km WSW of McCarthy, Alaska | 20:17 |
-| 🟢 0.8 | 2 km N of The Geysers, CA | 20:16 |
-| 🟢 1.8 | 56 km S of Whites City, New Mexico | 20:09 |
-| 🟢 1.8 | 65 km ESE of Pedro Bay, Alaska | 20:08 |
-| 🟢 1.7 | 55 km S of Whites City, New Mexico | 20:07 |
-| 🟢 2.7 | 56 km S of Whites City, New Mexico | 19:53 |
-| 🟢 1.6 | 69 km ENE of Pedro Bay, Alaska | 19:50 |
-| 🟢 1.1 | 2 km ESE of The Geysers, CA | 19:45 |
-| 🟢 2.6 | 56 km S of Whites City, New Mexico | 19:44 |
-| 🟢 2.2 | 8 km W of Houston, Alaska | 19:44 |
-| 🟠 4.9 | 177 km W of Tigil’, Russia | 19:39 |
-| 🟢 2.0 | 9 km SW of Lindsay, Texas | 19:31 |
-| 🟠 4.5 | off the east coast of the Kamchatka Peninsula, Russia | 19:30 |
-| 🟢 1.5 | 26 km S of Lindsay, Texas | 19:23 |
-| 🟢 2.1 | 57 km S of Whites City, New Mexico | 19:23 |
-| 🟢 1.9 | 56 km S of Whites City, New Mexico | 19:22 |
+| 🟢 1.0 | 8 km WNW of Cobb, CA | 21:16 |
+| 🟢 1.6 | 56 km S of Whites City, New Mexico | 21:14 |
+| 🟢 2.0 | 2 km SSE of Nikiski, Alaska | 21:01 |
+| 🟢 2.7 | 6 km SE of Maria Antonia, Puerto Rico | 20:33 |
+| 🟠 4.5 | 105 km WNW of Waisai, Indonesia | 20:26 |
+| 🟢 1.8 | 2 km N of The Geysers, CA | 20:23 |
+| 🟢 1.1 | 15 km SSE of Stanton, Texas | 20:22 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
