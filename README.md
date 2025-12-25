@@ -2,17 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2010:21:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-523ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2011:17:52%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-400ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 10 km SSW of Pearsall, Texas | 10:11 |
-| 🔴 5.2 | south of the Fiji Islands | 09:57 |
-| 🟢 1.0 | 3 km ENE of Berkeley, CA | 09:52 |
-| 🟢 2.2 | 23 km S of Westbrook, Texas | 09:52 |
-| 🟢 2.4 | 2 km ENE of Berkeley, CA | 09:51 |
-| 🟠 3.9 | 136 km N of Yakutat, Alaska | 09:34 |
+| 🟢 1.1 | 14 km SW of Searles Valley, CA | 10:58 |
+| 🟢 1.8 | 14 km ESE of Pāhala, Hawaii | 10:54 |
+| 🟢 1.8 | 7 km ESE of Pāhala, Hawaii | 10:47 |
+| 🟢 1.8 | 4 km SE of Pāhala, Hawaii | 10:44 |
+| 🟢 1.4 | 87 km W of Karluk, Alaska | 10:32 |
+| 🟢 2.1 | 55 km NW of Toyah, Texas | 10:18 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
