@@ -2,21 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2016:25:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-287ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2017:18:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-290ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 11 km ESE of Anza, CA | 16:08 |
-| 🟢 1.6 | 12 km ESE of Tyonek, Alaska | 16:06 |
-| 🟢 1.9 | 56 km SE of Naalehu, Hawaii | 16:03 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 15:55 |
-| 🟢 2.0 | 18 km W of Volcano, Hawaii | 15:51 |
-| 🟢 1.1 | 6 km NNE of Yorba Linda, CA | 15:45 |
-| 🟢 1.4 | 69 km ESE of Denali National Park, Alaska | 15:41 |
-| 🟢 1.7 | 61 km S of Whites City, New Mexico | 15:40 |
-| 🟠 3.1 | 98 km N of Yakutat, Alaska | 15:38 |
-| 🟢 1.4 | 12 km NE of Little Lake, CA | 15:35 |
+| 🟢 2.0 | 56 km NNE of Van Horn, Texas | 17:11 |
+| 🟢 1.6 | 41 km NW of Toyah, Texas | 16:31 |
+| 🟢 1.6 | 2 km N of The Geysers, CA | 16:28 |
+| 🟢 0.9 | 12 km WSW of Salton City, CA | 16:27 |
+| 🟠 4.6 | 94 km E of Mutsu, Japan | 16:25 |
+| 🟢 1.2 | 2 km N of The Geysers, CA | 16:25 |
+| 🔴 5.6 | 99 km E of Yokohama, Japan | 16:17 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
