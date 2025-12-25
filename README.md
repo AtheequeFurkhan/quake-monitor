@@ -2,18 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2015:20:22%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-347ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2016:25:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-287ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 14 km NW of Fillmore, CA | 15:00 |
-| 🟢 1.2 | 30 km ENE of Knik River, Alaska | 14:56 |
-| 🟢 1.7 | 10 km NNW of Tanaina, Alaska | 14:54 |
-| 🟢 2.8 | 40 km NNW of Karluk, Alaska | 14:52 |
-| 🟢 1.7 | 8 km NNW of Petersville, Alaska | 14:47 |
-| 🟢 1.8 | 14 km S of Tres Pinos, CA | 14:44 |
-| 🟢 0.6 | 10 km ESE of Anza, CA | 14:34 |
+| 🟢 0.7 | 11 km ESE of Anza, CA | 16:08 |
+| 🟢 1.6 | 12 km ESE of Tyonek, Alaska | 16:06 |
+| 🟢 1.9 | 56 km SE of Naalehu, Hawaii | 16:03 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 15:55 |
+| 🟢 2.0 | 18 km W of Volcano, Hawaii | 15:51 |
+| 🟢 1.1 | 6 km NNE of Yorba Linda, CA | 15:45 |
+| 🟢 1.4 | 69 km ESE of Denali National Park, Alaska | 15:41 |
+| 🟢 1.7 | 61 km S of Whites City, New Mexico | 15:40 |
+| 🟠 3.1 | 98 km N of Yakutat, Alaska | 15:38 |
+| 🟢 1.4 | 12 km NE of Little Lake, CA | 15:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
