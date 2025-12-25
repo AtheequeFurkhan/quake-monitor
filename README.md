@@ -2,15 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2008:28:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-498ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2009:23:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-433ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.8 | 4 km W of Gorst, Washington | 07:58 |
-| 🟢 0.9 | 20 km SW of Ocotillo Wells, CA | 07:47 |
-| 🟢 1.1 | 55 km NNE of Pleasant Valley, Alaska | 07:47 |
-| 🟢 2.9 | 83 km NW of Yakutat, Alaska | 07:42 |
+| 🟢 1.4 | 29 km SSW of Petersville, Alaska | 09:03 |
+| 🟢 1.7 | 32 km SSW of Manley Hot Springs, Alaska | 08:56 |
+| 🟢 0.8 | 9 km SW of Idyllwild, CA | 08:49 |
+| 🟢 1.8 | 6 km NNW of Hollister, CA | 08:48 |
+| 🟢 2.6 | 5 km NNW of Coamo, Puerto Rico | 08:48 |
+| 🟢 1.0 | 11 km WSW of Stanton, Texas | 08:33 |
+| 🟢 1.7 | 4 km S of Pāhala, Hawaii | 08:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
