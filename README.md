@@ -2,18 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2007:21:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-349ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2008:28:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-498ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 16 km N of Fishhook, Alaska | 07:09 |
-| 🟢 1.6 | 117 km NW of Yakutat, Alaska | 07:02 |
-| 🟢 1.0 | 17 km E of Julian, CA | 06:36 |
-| 🟢 1.6 | 36 km SSE of Denali National Park, Alaska | 06:35 |
-| 🟢 1.9 | 3 km NNW of Piedmont, CA | 06:30 |
-| 🟢 1.2 | 8 km NW of The Geysers, CA | 06:28 |
-| 🟢 2.5 | 121 km N of Yakutat, Alaska | 06:25 |
+| 🟢 2.8 | 4 km W of Gorst, Washington | 07:58 |
+| 🟢 0.9 | 20 km SW of Ocotillo Wells, CA | 07:47 |
+| 🟢 1.1 | 55 km NNE of Pleasant Valley, Alaska | 07:47 |
+| 🟢 2.9 | 83 km NW of Yakutat, Alaska | 07:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
