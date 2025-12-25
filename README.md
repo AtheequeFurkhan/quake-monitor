@@ -2,15 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2004:37:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-596ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2005:24:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-188ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.0 | 17 km WNW of Union City, Oklahoma | 04:56 |
+| 🟢 1.5 | 57 km S of Whites City, New Mexico | 04:56 |
+| 🟠 3.2 | 21 km WNW of Skwentna, Alaska | 04:53 |
+| 🟢 1.9 | 2 km N of The Geysers, CA | 04:52 |
+| 🟢 1.9 | 11 km SSW of Valencia, CA | 04:48 |
+| 🟢 1.4 | 23 km N of Borrego Springs, CA | 04:41 |
+| 🟠 4.3 | south of the Fiji Islands | 04:29 |
 | 🟢 1.6 | 2 km N of The Geysers, CA | 04:28 |
-| 🟢 1.4 | 3 km WSW of Anderson Springs, CA | 04:19 |
-| 🟢 2.0 | 7 km NW of The Geysers, CA | 04:15 |
-| 🟢 1.1 | 20 km SW of Ocotillo Wells, CA | 03:46 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
