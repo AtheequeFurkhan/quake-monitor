@@ -2,18 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2009:23:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-433ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2010:21:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-523ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 29 km SSW of Petersville, Alaska | 09:03 |
-| 🟢 1.7 | 32 km SSW of Manley Hot Springs, Alaska | 08:56 |
-| 🟢 0.8 | 9 km SW of Idyllwild, CA | 08:49 |
-| 🟢 1.8 | 6 km NNW of Hollister, CA | 08:48 |
-| 🟢 2.6 | 5 km NNW of Coamo, Puerto Rico | 08:48 |
-| 🟢 1.0 | 11 km WSW of Stanton, Texas | 08:33 |
-| 🟢 1.7 | 4 km S of Pāhala, Hawaii | 08:33 |
+| 🟢 1.8 | 10 km SSW of Pearsall, Texas | 10:11 |
+| 🔴 5.2 | south of the Fiji Islands | 09:57 |
+| 🟢 1.0 | 3 km ENE of Berkeley, CA | 09:52 |
+| 🟢 2.2 | 23 km S of Westbrook, Texas | 09:52 |
+| 🟢 2.4 | 2 km ENE of Berkeley, CA | 09:51 |
+| 🟠 3.9 | 136 km N of Yakutat, Alaska | 09:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
