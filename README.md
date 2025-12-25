@@ -2,19 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2022:19:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-336ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2023:19:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-414ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 14 km SSW of Joshua Tree, CA | 22:16 |
-| 🟢 1.8 | 85 km NW of Karluk, Alaska | 22:05 |
-| 🟢 1.1 | 29 km SSE of Midland, Texas | 22:04 |
-| 🟢 1.4 | 4 km S of Anderson Springs, CA | 21:59 |
-| 🟢 1.6 | 37 km WSW of Mentone, Texas | 21:47 |
-| 🟢 2.6 | 56 km S of Whites City, New Mexico | 21:46 |
-| 🟢 1.8 | 23 km SW of Trapper Creek, Alaska | 21:33 |
-| 🟢 1.5 | 12 km WSW of Trapper Creek, Alaska | 21:20 |
+| 🟢 2.6 | 40 km NE of Tanana, Alaska | 23:05 |
+| 🟢 1.9 | 45 km NW of Tatitlek, Alaska | 22:47 |
+| 🟢 2.5 | 10 km SSW of Valencia, CA | 22:45 |
+| 🟠 4.8 | 194 km N of Sola, Vanuatu | 22:29 |
+| 🟢 1.9 | 30 km E of Skwentna, Alaska | 22:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
