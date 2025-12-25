@@ -2,23 +2,14 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2024%20Dec%202025%2023:19:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-948ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2001:42:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-472ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 58 km S of Whites City, New Mexico | 23:09 |
-| 🟠 4.9 | 107 km ESE of Shikotan, Russia | 23:00 |
-| 🟢 1.1 | 0 km NNW of The Geysers, CA | 22:56 |
-| 🟢 2.3 | 10 km SW of Hilo, Hawaii | 22:45 |
-| 🔴 5.1 | 226 km SW of Merizo Village, Guam | 22:37 |
-| 🔴 5.1 | Norwegian Sea | 22:37 |
-| 🟢 1.4 | 39 km SE of Cantwell, Alaska | 22:37 |
-| 🟢 1.3 | 11 km SSW of Valencia, CA | 22:36 |
-| 🟢 1.1 | 10 km WNW of The Geysers, CA | 22:36 |
-| 🟢 1.6 | 9 km E of Balmorhea, Texas | 22:29 |
-| 🟢 1.2 | 20 km SW of Ocotillo Wells, CA | 22:21 |
-| 🟢 1.3 | 50 km WNW of Tatitlek, Alaska | 22:20 |
+| 🟢 0.6 | 7 km W of Cobb, CA | 01:29 |
+| 🟢 1.1 | 7 km SSE of Redlands, CA | 00:55 |
+| 🟢 0.7 | 0 km NW of The Geysers, CA | 00:46 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
