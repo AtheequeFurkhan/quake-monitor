@@ -2,18 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2017:18:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-290ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2018:29:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-343ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 56 km NNE of Van Horn, Texas | 17:11 |
-| 🟢 1.6 | 41 km NW of Toyah, Texas | 16:31 |
-| 🟢 1.6 | 2 km N of The Geysers, CA | 16:28 |
-| 🟢 0.9 | 12 km WSW of Salton City, CA | 16:27 |
-| 🟠 4.6 | 94 km E of Mutsu, Japan | 16:25 |
-| 🟢 1.2 | 2 km N of The Geysers, CA | 16:25 |
-| 🔴 5.6 | 99 km E of Yokohama, Japan | 16:17 |
+| 🟢 1.5 | 7 km NNW of Willow, Alaska | 18:25 |
+| 🟢 1.1 | 6 km S of Palomar Observatory, CA | 18:24 |
+| 🟢 1.6 | 21 km E of Nikiski, Alaska | 18:19 |
+| 🟢 1.8 | 73 km SE of Denali National Park, Alaska | 18:14 |
+| 🟢 2.4 | 86 km ESE of Ugashik, Alaska | 17:51 |
+| 🟢 1.7 | 52 km NNE of Petersville, Alaska | 17:49 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
