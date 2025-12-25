@@ -2,17 +2,30 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2018:29:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-343ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2019:16:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-354ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.4 | 5 km SW of Morongo Valley, CA | 19:01 |
+| 🟢 1.1 | 2 km N of The Geysers, CA | 18:58 |
+| 🟢 0.7 | 12 km ENE of Cloverdale, CA | 18:55 |
+| 🟢 1.8 | 57 km S of Whites City, New Mexico | 18:53 |
+| 🟢 1.5 | 25 km NNE of Beluga, Alaska | 18:51 |
+| 🟢 2.3 | 36 km SSE of Malaga, New Mexico | 18:51 |
+| 🟠 3.5 | 55 km S of Whites City, New Mexico | 18:50 |
+| 🟢 2.5 | 59 km S of Whites City, New Mexico | 18:46 |
+| 🟢 1.2 | 6 km WNW of Cobb, CA | 18:44 |
+| 🟢 1.6 | 82 km N of Karluk, Alaska | 18:41 |
+| 🟢 1.9 | 57 km S of Whites City, New Mexico | 18:41 |
+| 🟢 0.9 | 18 km W of Searles Valley, CA | 18:38 |
+| 🟢 1.3 | 7 km NW of The Geysers, CA | 18:31 |
+| 🟢 2.3 | 57 km S of Whites City, New Mexico | 18:29 |
+| 🟠 3.3 | 56 km S of Whites City, New Mexico | 18:26 |
 | 🟢 1.5 | 7 km NNW of Willow, Alaska | 18:25 |
 | 🟢 1.1 | 6 km S of Palomar Observatory, CA | 18:24 |
 | 🟢 1.6 | 21 km E of Nikiski, Alaska | 18:19 |
-| 🟢 1.8 | 73 km SE of Denali National Park, Alaska | 18:14 |
-| 🟢 2.4 | 86 km ESE of Ugashik, Alaska | 17:51 |
-| 🟢 1.7 | 52 km NNE of Petersville, Alaska | 17:49 |
+| 🟠 4.5 | 25 km NNW of Castlepoint, New Zealand | 18:16 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
