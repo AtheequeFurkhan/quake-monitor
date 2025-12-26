@@ -2,16 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2010:22:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-567ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2011:18:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-252ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 5 km SW of Ridgemark, CA | 09:54 |
-| 🟢 1.0 | 7 km WNW of Four Mile Road, Alaska | 09:43 |
-| 🟢 1.6 | 39 km NNW of Mentone, Texas | 09:36 |
-| 🟢 1.5 | 114 km S of McCarthy, Alaska | 09:35 |
-| 🟢 2.0 | 82 km NW of Yakutat, Alaska | 09:34 |
+| 🟢 1.3 | 23 km ENE of Thermal, CA | 11:13 |
+| 🟢 1.2 | 4 km SSW of Banning, CA | 11:04 |
+| 🟢 0.7 | 3 km NW of The Geysers, CA | 11:00 |
+| 🟢 1.7 | 82 km NNW of Karluk, Alaska | 10:34 |
+| 🟢 1.3 | 90 km N of Karluk, Alaska | 10:32 |
+| 🟢 1.7 | 38 km SSE of Denali National Park, Alaska | 10:23 |
+| 🟢 0.7 | 3 km N of San Jacinto, CA | 10:19 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
