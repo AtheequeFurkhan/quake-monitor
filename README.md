@@ -2,16 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2018:29:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2019:16:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-233ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 22 km ENE of Chase, Alaska | 18:15 |
-| 🟢 0.7 | 19 km ESE of Anza, CA | 17:56 |
-| 🟢 2.7 | 109 km W of Akhiok, Alaska | 17:46 |
-| 🟢 2.1 | 14 km S of Fern Forest, Hawaii | 17:44 |
-| 🟢 1.8 | 55 km WNW of Happy Valley, Alaska | 17:33 |
+| 🟢 1.2 | 7 km NW of The Geysers, CA | 19:06 |
+| 🟢 1.3 | 92 km N of Karluk, Alaska | 19:01 |
+| 🟢 0.7 | 6 km NW of The Geysers, CA | 18:57 |
+| 🟢 1.7 | 26 km SSW of Westbrook, Texas | 18:56 |
+| 🟢 1.4 | 6 km NW of The Geysers, CA | 18:52 |
+| 🟢 1.4 | 6 km NW of The Geysers, CA | 18:46 |
+| 🟢 2.0 | 17 km S of San Pedro, CA | 18:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
