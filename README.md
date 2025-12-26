@@ -2,17 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2016:24:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-437ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2017:17:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-413ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.3 | 10 km SSW of Valencia, CA | 17:02 |
+| 🟢 2.7 | 0 km SSW of Ainaloa, Hawaii | 16:54 |
+| 🟢 1.6 | 62 km S of Whites City, New Mexico | 16:54 |
+| 🟠 4.8 | south of the Fiji Islands | 16:41 |
+| 🟢 1.0 | 15 km ENE of Indio, CA | 16:35 |
+| 🟢 1.7 | 3 km S of Pāhala, Hawaii | 16:34 |
+| 🟠 4.8 | 42 km W of Campo Verde, Peru | 16:31 |
+| 🟢 0.9 | 14 km W of Johannesburg, CA | 16:22 |
 | 🟢 2.1 | 38 km NNW of Valdez, Alaska | 16:18 |
-| 🟢 1.0 | 8 km NNE of Borrego Springs, CA | 16:13 |
-| 🟢 1.7 | 7 km ESE of San Diego Country Estates, CA | 16:09 |
-| 🟢 1.2 | 84 km NNW of Karluk, Alaska | 15:41 |
-| 🟢 3.0 | 10 km NNE of Brenas, Puerto Rico | 15:26 |
-| 🟢 0.9 | 83 km NNW of Karluk, Alaska | 15:25 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
