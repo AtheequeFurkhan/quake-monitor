@@ -2,16 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2021:18:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-178ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2022:19:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-208ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 34 km N of Karluk, Alaska | 21:06 |
-| 🟢 1.8 | 7 km NW of The Geysers, CA | 20:54 |
-| 🟢 1.5 | 9 km WNW of Cobb, CA | 20:43 |
-| 🟢 1.4 | 9 km WNW of Cobb, CA | 20:40 |
-| 🟢 1.1 | 8 km NW of The Geysers, CA | 20:33 |
+| 🟢 1.7 | 52 km W of Tyonek, Alaska | 22:14 |
+| 🟢 1.4 | 8 km NW of The Geysers, CA | 22:11 |
+| 🟢 1.9 | 13 km S of Fern Forest, Hawaii | 22:01 |
+| 🟢 0.6 | 15 km ESE of Anza, CA | 21:57 |
+| 🟢 2.3 | 10 km NNW of Avenal, CA | 21:55 |
+| 🟢 1.4 | 5 km SE of Portola Valley, CA | 21:54 |
+| 🟢 0.7 | 24 km ESE of Anza, CA | 21:53 |
+| 🟢 1.6 | 8 km NW of The Geysers, CA | 21:38 |
+| 🟢 0.9 | 12 km E of Anza, CA | 21:30 |
+| 🟢 1.0 | 15 km ESE of Anza, CA | 21:20 |
+| 🟢 1.4 | 9 km WNW of Cobb, CA | 21:20 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
