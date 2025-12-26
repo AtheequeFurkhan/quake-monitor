@@ -2,16 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2025%20Dec%202025%2023:19:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-414ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2001:41:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-251ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.6 | 40 km NE of Tanana, Alaska | 23:05 |
-| 🟢 1.9 | 45 km NW of Tatitlek, Alaska | 22:47 |
-| 🟢 2.5 | 10 km SSW of Valencia, CA | 22:45 |
-| 🟠 4.8 | 194 km N of Sola, Vanuatu | 22:29 |
-| 🟢 1.9 | 30 km E of Skwentna, Alaska | 22:23 |
+| 🟢 1.9 | 2 km ESE of Big Lake, Alaska | 01:38 |
+| 🟢 1.0 | 21 km NNW of Midland, Texas | 01:33 |
+| 🟠 3.2 | 28 km W of Empire, Nevada | 01:23 |
+| 🟢 1.7 | 6 km SW of Volcano, Hawaii | 01:23 |
+| 🟢 1.8 | 5 km S of Pāhala, Hawaii | 01:15 |
+| 🟢 2.0 | 32 km NW of Toyah, Texas | 01:15 |
+| 🟢 1.3 | 32 km NW of Toyah, Texas | 01:09 |
+| 🟢 1.5 | 53 km W of Cantwell, Alaska | 01:09 |
+| 🟢 1.5 | 20 km SW of Ocotillo Wells, CA | 00:48 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
