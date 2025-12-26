@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2015:20:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-267ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2016:24:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-437ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 7 km NNE of San Jacinto, CA | 15:13 |
-| 🟢 1.8 | 12 km WSW of Searles Valley, CA | 15:08 |
-| 🟢 0.8 | 21 km ESE of Little Lake, CA | 15:06 |
-| 🟢 2.2 | 11 km NE of Pāhala, Hawaii | 15:04 |
-| 🟢 1.2 | 3 km NNW of Frazier Park, CA | 14:59 |
-| 🟢 1.9 | 7 km NNW of Round Valley, CA | 14:47 |
-| 🟢 1.2 | 58 km S of Whites City, New Mexico | 14:44 |
-| 🟢 1.3 | 42 km SSW of Cantwell, Alaska | 14:35 |
-| 🟢 2.5 | 2 km SSW of Cayey, Puerto Rico | 14:26 |
+| 🟢 2.1 | 38 km NNW of Valdez, Alaska | 16:18 |
+| 🟢 1.0 | 8 km NNE of Borrego Springs, CA | 16:13 |
+| 🟢 1.7 | 7 km ESE of San Diego Country Estates, CA | 16:09 |
+| 🟢 1.2 | 84 km NNW of Karluk, Alaska | 15:41 |
+| 🟢 3.0 | 10 km NNE of Brenas, Puerto Rico | 15:26 |
+| 🟢 0.9 | 83 km NNW of Karluk, Alaska | 15:25 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
