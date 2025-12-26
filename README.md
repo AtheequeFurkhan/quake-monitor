@@ -2,17 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2014:20:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-175ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2015:20:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-267ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 21 km SE of Pāhala, Hawaii | 14:14 |
-| 🟢 1.6 | 20 km WSW of Trapper Creek, Alaska | 14:07 |
-| 🟢 1.9 | 16 km WNW of Anchor Point, Alaska | 14:03 |
-| 🟢 1.1 | 23 km SW of Ocotillo Wells, CA | 14:01 |
-| 🟢 1.5 | 7 km WNW of The Geysers, CA | 13:39 |
-| 🟢 1.7 | 10 km SE of Pinnacles, CA | 13:34 |
+| 🟢 0.8 | 7 km NNE of San Jacinto, CA | 15:13 |
+| 🟢 1.8 | 12 km WSW of Searles Valley, CA | 15:08 |
+| 🟢 0.8 | 21 km ESE of Little Lake, CA | 15:06 |
+| 🟢 2.2 | 11 km NE of Pāhala, Hawaii | 15:04 |
+| 🟢 1.2 | 3 km NNW of Frazier Park, CA | 14:59 |
+| 🟢 1.9 | 7 km NNW of Round Valley, CA | 14:47 |
+| 🟢 1.2 | 58 km S of Whites City, New Mexico | 14:44 |
+| 🟢 1.3 | 42 km SSW of Cantwell, Alaska | 14:35 |
+| 🟢 2.5 | 2 km SSW of Cayey, Puerto Rico | 14:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
