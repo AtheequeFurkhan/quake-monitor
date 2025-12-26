@@ -2,18 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2019:16:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-233ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2020:21:52%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-195ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 7 km NW of The Geysers, CA | 19:06 |
-| 🟢 1.3 | 92 km N of Karluk, Alaska | 19:01 |
-| 🟢 0.7 | 6 km NW of The Geysers, CA | 18:57 |
-| 🟢 1.7 | 26 km SSW of Westbrook, Texas | 18:56 |
-| 🟢 1.4 | 6 km NW of The Geysers, CA | 18:52 |
-| 🟢 1.4 | 6 km NW of The Geysers, CA | 18:46 |
-| 🟢 2.0 | 17 km S of San Pedro, CA | 18:44 |
+| 🟢 0.9 | 11 km N of Borrego Springs, CA | 20:09 |
+| 🟢 1.2 | 5 km W of Cobb, CA | 19:59 |
+| 🟢 1.2 | 13 km NNE of Four Mile Road, Alaska | 19:45 |
+| 🟢 1.0 | 28 km SSW of Los Ybanez, Texas | 19:44 |
+| 🟢 0.6 | 86 km NNW of Karluk, Alaska | 19:42 |
+| 🟢 1.4 | 11 km SSW of Valencia, CA | 19:41 |
+| 🟢 1.9 | 22 km E of Forsan, Texas | 19:40 |
+| 🟢 1.5 | 66 km S of Whites City, New Mexico | 19:29 |
+| 🟠 4.6 | Fiji region | 19:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
