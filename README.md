@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2013:32:31%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-381ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2014:20:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-175ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 19 km N of Borrego Springs, CA | 13:15 |
-| 🟢 2.5 | 23 km SSE of Pāhala, Hawaii | 13:15 |
-| 🟢 0.7 | 85 km NNW of Karluk, Alaska | 13:05 |
-| 🟢 0.9 | 8 km SW of Idyllwild, CA | 13:03 |
-| 🟢 1.1 | 6 km WNW of Cobb, CA | 12:47 |
-| 🟢 1.4 | 12 km NW of The Geysers, CA | 12:45 |
-| 🟢 2.9 | 5 km S of Carpinteria, CA | 12:39 |
-| 🟢 2.2 | 62 km W of Tyonek, Alaska | 12:36 |
-| 🟢 2.4 | 25 km ESE of Naalehu, Hawaii | 12:36 |
+| 🟢 1.8 | 21 km SE of Pāhala, Hawaii | 14:14 |
+| 🟢 1.6 | 20 km WSW of Trapper Creek, Alaska | 14:07 |
+| 🟢 1.9 | 16 km WNW of Anchor Point, Alaska | 14:03 |
+| 🟢 1.1 | 23 km SW of Ocotillo Wells, CA | 14:01 |
+| 🟢 1.5 | 7 km WNW of The Geysers, CA | 13:39 |
+| 🟢 1.7 | 10 km SE of Pinnacles, CA | 13:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
