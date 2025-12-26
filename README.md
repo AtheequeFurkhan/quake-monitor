@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2001:41:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-251ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2003:24:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-379ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 2 km ESE of Big Lake, Alaska | 01:38 |
-| 🟢 1.0 | 21 km NNW of Midland, Texas | 01:33 |
-| 🟠 3.2 | 28 km W of Empire, Nevada | 01:23 |
-| 🟢 1.7 | 6 km SW of Volcano, Hawaii | 01:23 |
-| 🟢 1.8 | 5 km S of Pāhala, Hawaii | 01:15 |
-| 🟢 2.0 | 32 km NW of Toyah, Texas | 01:15 |
-| 🟢 1.3 | 32 km NW of Toyah, Texas | 01:09 |
-| 🟢 1.5 | 53 km W of Cantwell, Alaska | 01:09 |
-| 🟢 1.5 | 20 km SW of Ocotillo Wells, CA | 00:48 |
+| 🟢 1.1 | 38 km NW of Stanton, Texas | 03:16 |
+| 🟢 1.2 | 8 km W of Cobb, CA | 03:06 |
+| 🟢 2.1 | 21 km W of Petersville, Alaska | 02:45 |
+| 🟢 2.5 | 114 km N of Yakutat, Alaska | 02:36 |
+| 🟢 1.1 | 6 km NW of The Geysers, CA | 02:32 |
+| 🟢 1.4 | 29 km WSW of Ackerly, Texas | 02:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
