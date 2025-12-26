@@ -2,16 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2004:34:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-475ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2005:21:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-413ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.7 | 122 km NW of Yakutat, Alaska | 05:16 |
+| 🟢 2.7 | 32 km NW of Toyah, Texas | 05:10 |
+| 🟠 4.2 | 63 km NE of San Pedro de Atacama, Chile | 04:55 |
+| 🟢 1.6 | 33 km NW of Toyah, Texas | 04:44 |
+| 🔴 5.1 | Drake Passage | 04:44 |
+| 🟢 2.0 | 4 km SSW of Pāhala, Hawaii | 04:40 |
 | 🟢 2.2 | 15 km SSW of Tyonek, Alaska | 04:31 |
+| 🟢 2.0 | 12 km NE of Pāhala, Hawaii | 04:31 |
 | 🟢 1.9 | 32 km NW of Toyah, Texas | 04:27 |
 | 🟢 1.6 | 32 km NW of Toyah, Texas | 04:23 |
 | 🟢 2.3 | 18 km S of Susitna North, Alaska | 04:22 |
-| 🟢 1.2 | 21 km NNW of Midland, Texas | 04:02 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
