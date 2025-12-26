@@ -2,19 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2006:32:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-788ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2007:21:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-208ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 7 km SSW of Anderson Springs, CA | 06:16 |
-| 🟢 1.4 | 8 km NW of The Geysers, CA | 06:12 |
-| 🟢 2.1 | 24 km WSW of Susitna, Alaska | 06:11 |
-| 🟢 2.4 | 4 km NE of Chautauqua, Kansas | 06:06 |
-| 🟢 1.6 | 63 km SSW of Whites City, New Mexico | 06:02 |
-| 🟢 1.2 | 35 km SSE of Midland, Texas | 05:53 |
-| 🟢 1.8 | 45 km ENE of Pedro Bay, Alaska | 05:50 |
-| 🟢 1.4 | 11 km SSW of Valencia, CA | 05:41 |
+| 🟢 1.3 | 3 km W of Cobb, CA | 07:12 |
+| 🟢 2.5 | 77 km N of Arctic Village, Alaska | 07:00 |
+| 🟢 1.9 | 31 km W of Salamatof, Alaska | 06:55 |
+| 🟢 1.8 | 6 km S of Ojai, CA | 06:43 |
+| 🟢 1.9 | 4 km S of Pāhala, Hawaii | 06:39 |
+| 🟠 3.8 | 75 km ESE of Adak, Alaska | 06:22 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
