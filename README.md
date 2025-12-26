@@ -2,20 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2017:17:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-413ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2018:29:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 10 km SSW of Valencia, CA | 17:02 |
-| 🟢 2.7 | 0 km SSW of Ainaloa, Hawaii | 16:54 |
-| 🟢 1.6 | 62 km S of Whites City, New Mexico | 16:54 |
-| 🟠 4.8 | south of the Fiji Islands | 16:41 |
-| 🟢 1.0 | 15 km ENE of Indio, CA | 16:35 |
-| 🟢 1.7 | 3 km S of Pāhala, Hawaii | 16:34 |
-| 🟠 4.8 | 42 km W of Campo Verde, Peru | 16:31 |
-| 🟢 0.9 | 14 km W of Johannesburg, CA | 16:22 |
-| 🟢 2.1 | 38 km NNW of Valdez, Alaska | 16:18 |
+| 🟢 2.2 | 22 km ENE of Chase, Alaska | 18:15 |
+| 🟢 0.7 | 19 km ESE of Anza, CA | 17:56 |
+| 🟢 2.7 | 109 km W of Akhiok, Alaska | 17:46 |
+| 🟢 2.1 | 14 km S of Fern Forest, Hawaii | 17:44 |
+| 🟢 1.8 | 55 km WNW of Happy Valley, Alaska | 17:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
