@@ -2,21 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2027%20Dec%202025%2012:39:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-201ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2027%20Dec%202025%2013:28:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-424ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.9 | 49 km NE of Chase, Alaska | 13:12 |
+| 🟢 2.3 | 57 km S of Whites City, New Mexico | 13:06 |
+| 🟢 2.8 | 9 km ESE of Loco, Oklahoma | 13:05 |
+| 🟢 1.6 | 67 km ESE of Cantwell, Alaska | 13:01 |
+| 🟢 2.9 | 6 km NE of Pleasant Hill, Louisiana | 12:47 |
 | 🟢 1.9 | 57 km WNW of Happy Valley, Alaska | 12:33 |
 | 🟢 1.7 | 2 km SE of North Hollywood, CA | 12:30 |
-| 🟢 1.6 | 2 km N of Universal City, CA | 12:23 |
-| 🟢 1.8 | 5 km SW of Ridgemark, CA | 12:14 |
-| 🟢 1.4 | 5 km SW of Ridgemark, CA | 12:11 |
-| 🟢 1.7 | 56 km WNW of Tatitlek, Alaska | 12:07 |
-| 🟢 1.1 | 3 km W of Cobb, CA | 11:58 |
-| 🟢 1.3 | 1 km SE of Granada Hills, CA | 11:56 |
-| 🟢 1.1 | 11 km N of Westmorland, CA | 11:53 |
-| 🟢 1.1 | 74 km NW of Karluk, Alaska | 11:45 |
+| 🟢 2.1 | 8 km SSE of Guánica, Puerto Rico | 12:29 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
