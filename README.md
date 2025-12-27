@@ -2,17 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2027%20Dec%202025%2022:18:59%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-424ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2027%20Dec%202025%2023:19:14%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-339ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 12 km S of Fern Forest, Hawaii | 22:11 |
-| 🟢 1.5 | 42 km NW of Toyah, Texas | 22:01 |
-| 🟢 2.2 | 18 km NNW of New Idria, CA | 21:53 |
-| 🟢 1.4 | 25 km N of Tehachapi, CA | 21:45 |
-| 🟢 1.1 | 11 km N of Borrego Springs, CA | 21:31 |
-| 🟢 0.3 | 12 km WNW of The Geysers, CA | 21:22 |
+| 🟢 0.9 | 3 km ENE of Moreno Valley, CA | 23:02 |
+| 🟢 1.7 | 10 km SSW of Brownfield, Texas | 23:01 |
+| 🟢 1.9 | 14 km NE of Pāhala, Hawaii | 22:50 |
+| 🟢 2.6 | 11 km E of Pāhala, Hawaii | 22:48 |
+| 🟢 1.9 | 14 km ESE of Pāhala, Hawaii | 22:45 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
