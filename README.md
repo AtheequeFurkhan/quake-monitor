@@ -2,21 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2027%20Dec%202025%2014:18:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-239ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2027%20Dec%202025%2015:18:47%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-158ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 14:11 |
-| 🟢 0.7 | 5 km NNW of The Geysers, CA | 14:05 |
-| 🟢 1.7 | 50 km SSW of Manley Hot Springs, Alaska | 14:00 |
-| 🟢 1.5 | 12 km NNE of Aguanga, CA | 13:56 |
-| 🟢 1.6 | 12 km NNE of Aguanga, CA | 13:56 |
-| 🟢 2.4 | 3 km S of Pāhala, Hawaii | 13:43 |
-| 🟢 1.0 | 14 km NE of Borrego Springs, CA | 13:42 |
-| 🟢 1.5 | 5 km WNW of San Juan Bautista, CA | 13:33 |
-| 🟢 1.8 | 8 km ENE of Balmorhea, Texas | 13:31 |
-| 🟢 1.4 | 60 km SSW of Whites City, New Mexico | 13:18 |
+| 🔴 6.7 | 35 km E of Yilan, Taiwan | 15:05 |
+| 🟢 2.0 | 10 km E of Pāhala, Hawaii | 14:55 |
+| 🟢 1.1 | 70 km WNW of Tyonek, Alaska | 14:53 |
+| 🟢 0.9 | 13 km ENE of Cloverdale, CA | 14:49 |
+| 🟢 1.4 | 11 km SSW of Valencia, CA | 14:49 |
+| 🟢 0.5 | 18 km ESE of Julian, CA | 14:46 |
+| 🟢 2.5 | 10 km SSW of Valencia, CA | 14:34 |
+| 🟢 2.3 | 57 km ESE of Pedro Bay, Alaska | 14:34 |
+| 🟢 2.3 | 20 km SSE of Susitna, Alaska | 14:28 |
+| 🟢 2.7 | 10 km SSW of Valencia, CA | 14:25 |
+| 🟢 1.7 | 1 km WNW of Guayanilla, Puerto Rico | 14:23 |
+| 🟢 1.7 | 10 km SE of Lindsay, Texas | 14:23 |
+| 🟢 2.2 | 61 km SSW of Whites City, New Mexico | 14:23 |
+| 🟢 0.8 | 24 km ESE of Anza, CA | 14:19 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
