@@ -2,17 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2027%20Dec%202025%2004:32:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-412ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2027%20Dec%202025%2005:21:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-290ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 11 km E of Puebla, B.C., MX | 04:09 |
-| 🟢 2.0 | 11 km E of Puebla, B.C., MX | 03:54 |
-| 🟢 1.7 | 11 km E of Puebla, B.C., MX | 03:51 |
-| 🟢 1.7 | 5 km SSW of Pāhala, Hawaii | 03:46 |
-| 🟢 1.9 | 58 km NW of Toyah, Texas | 03:38 |
-| 🟢 2.6 | 10 km NNW of Avenal, CA | 03:33 |
+| 🟢 1.8 | 6 km NNW of Inverness, CA | 05:05 |
+| 🟢 1.8 | 5 km SW of Ridgemark, CA | 05:03 |
+| 🟢 1.7 | 78 km NW of Yakutat, Alaska | 04:54 |
+| 🟢 1.1 | 11 km WSW of Stanton, Texas | 04:40 |
+| 🟢 1.1 | 6 km NW of The Geysers, CA | 04:37 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
