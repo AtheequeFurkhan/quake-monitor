@@ -2,17 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2026%20Dec%202025%2023:19:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-427ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2027%20Dec%202025%2001:39:38%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-419ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 8 km S of Carpinteria, CA | 23:10 |
-| 🟢 1.1 | 20 km NNW of Stanton, Texas | 22:45 |
-| 🟢 2.3 | 10 km E of Puebla, B.C., MX | 22:44 |
-| 🟢 2.2 | 10 km E of Puebla, B.C., MX | 22:44 |
-| 🟢 2.6 | 9 km NW of Pinnacles, CA | 22:35 |
-| 🟢 1.0 | 4 km NW of The Geysers, CA | 22:28 |
+| 🟢 1.0 | 3 km WNW of Orinda, CA | 01:28 |
+| 🟢 1.5 | 33 km WNW of Toyah, Texas | 01:24 |
+| 🔴 5.2 | 189 km S of Bengkulu, Indonesia | 01:10 |
+| 🟠 3.3 | 12 km NNW of Kermit, Texas | 01:00 |
+| 🟢 1.7 | 13 km ESE of Balmorhea, Texas | 00:59 |
+| 🟢 1.6 | 79 km ENE of McCarthy, Alaska | 00:56 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
