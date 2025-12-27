@@ -2,15 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2027%20Dec%202025%2019:15:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-409ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2027%20Dec%202025%2020:21:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-283ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 3 km NNW of The Geysers, CA | 18:29 |
-| 🟢 2.6 | 117 km N of Yakutat, Alaska | 18:28 |
-| 🟠 4.7 | 9 km NNE of Mambog, Philippines | 18:26 |
-| 🟢 2.7 | 6 km WSW of Funny River, Alaska | 18:22 |
+| 🟢 1.7 | 8 km S of Progreso, B.C., MX | 20:11 |
+| 🟢 2.1 | 14 km S of Hanna, Oklahoma | 20:08 |
+| 🟢 0.9 | 15 km ESE of Anza, CA | 19:52 |
+| 🟢 1.8 | 35 km SE of Odessa, Texas | 19:52 |
+| 🟢 1.9 | 23 km SSE of Denali National Park, Alaska | 19:35 |
+| 🟢 1.6 | 13 km WNW of Mentone, Texas | 19:31 |
+| 🟢 1.0 | 2 km NNW of The Geysers, CA | 19:24 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
