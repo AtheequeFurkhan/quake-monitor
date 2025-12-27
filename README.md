@@ -2,19 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2027%20Dec%202025%2013:28:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-424ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2027%20Dec%202025%2014:18:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-239ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 49 km NE of Chase, Alaska | 13:12 |
-| 🟢 2.3 | 57 km S of Whites City, New Mexico | 13:06 |
-| 🟢 2.8 | 9 km ESE of Loco, Oklahoma | 13:05 |
-| 🟢 1.6 | 67 km ESE of Cantwell, Alaska | 13:01 |
-| 🟢 2.9 | 6 km NE of Pleasant Hill, Louisiana | 12:47 |
-| 🟢 1.9 | 57 km WNW of Happy Valley, Alaska | 12:33 |
-| 🟢 1.7 | 2 km SE of North Hollywood, CA | 12:30 |
-| 🟢 2.1 | 8 km SSE of Guánica, Puerto Rico | 12:29 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 14:11 |
+| 🟢 0.7 | 5 km NNW of The Geysers, CA | 14:05 |
+| 🟢 1.7 | 50 km SSW of Manley Hot Springs, Alaska | 14:00 |
+| 🟢 1.5 | 12 km NNE of Aguanga, CA | 13:56 |
+| 🟢 1.6 | 12 km NNE of Aguanga, CA | 13:56 |
+| 🟢 2.4 | 3 km S of Pāhala, Hawaii | 13:43 |
+| 🟢 1.0 | 14 km NE of Borrego Springs, CA | 13:42 |
+| 🟢 1.5 | 5 km WNW of San Juan Bautista, CA | 13:33 |
+| 🟢 1.8 | 8 km ENE of Balmorhea, Texas | 13:31 |
+| 🟢 1.4 | 60 km SSW of Whites City, New Mexico | 13:18 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
