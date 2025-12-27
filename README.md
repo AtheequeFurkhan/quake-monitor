@@ -2,17 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2027%20Dec%202025%2017:17:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-138ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2027%20Dec%202025%2018:28:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-441ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 5 km SE of San Ramon, CA | 17:07 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 17:04 |
-| 🟢 1.7 | 15 km WSW of Garden City, Texas | 16:59 |
-| 🟢 1.2 | 10 km NW of The Geysers, CA | 16:43 |
-| 🟢 1.9 | 17 km WSW of Anchorage, Alaska | 16:39 |
-| 🟢 0.7 | 2 km NNW of Banning, CA | 16:21 |
+| 🟢 2.7 | 6 km WSW of Funny River, Alaska | 18:22 |
+| 🟢 2.2 | 26 km WNW of Nikiski, Alaska | 18:07 |
+| 🟢 0.8 | 6 km S of Idyllwild, CA | 18:02 |
+| 🟢 1.9 | 19 km SE of Toyah, Texas | 18:00 |
+| 🔴 5.1 | Izu Islands, Japan region | 17:44 |
+| 🟢 0.6 | 5 km NW of Anza, CA | 17:42 |
+| 🟢 2.8 | 19 km SE of Pāhala, Hawaii | 17:37 |
+| 🟢 2.1 | 15 km WSW of Ludlow, CA | 17:35 |
+| 🟢 0.9 | 6 km ESE of Valle Vista, CA | 17:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
