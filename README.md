@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2027%20Dec%202025%2016:24:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-213ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2027%20Dec%202025%2017:17:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-138ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.5 | 22 km ESE of Panaca, Nevada | 16:12 |
-| 🟢 0.2 | 2 km NW of The Geysers, CA | 16:08 |
-| 🟢 0.9 | 9 km WNW of The Geysers, CA | 16:01 |
-| 🟢 0.8 | 9 km WNW of The Geysers, CA | 16:01 |
-| 🟢 0.9 | 8 km NW of The Geysers, CA | 15:58 |
-| 🟢 1.0 | 24 km NNW of Borrego Springs, CA | 15:46 |
-| 🟢 1.7 | 119 km NW of Yakutat, Alaska | 15:44 |
-| 🟢 1.4 | 18 km WSW of Johannesburg, CA | 15:39 |
-| 🟠 3.1 | 8 km SSW of Pāhala, Hawaii | 15:34 |
+| 🟢 1.8 | 5 km SE of San Ramon, CA | 17:07 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 17:04 |
+| 🟢 1.7 | 15 km WSW of Garden City, Texas | 16:59 |
+| 🟢 1.2 | 10 km NW of The Geysers, CA | 16:43 |
+| 🟢 1.9 | 17 km WSW of Anchorage, Alaska | 16:39 |
+| 🟢 0.7 | 2 km NNW of Banning, CA | 16:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
