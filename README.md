@@ -2,15 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2014:19:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-336ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2015:19:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-246ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 92 km SE of Kokhanok, Alaska | 13:52 |
-| 🟠 4.6 | 153 km S of Severo-Kuril’sk, Russia | 13:40 |
-| 🟢 1.9 | 11 km ESE of Hidden Valley Lake, CA | 13:21 |
-| 🟢 2.6 | 4 km ESE of San Ramon, CA | 13:18 |
+| 🟢 2.4 | 4 km ESE of San Ramon, CA | 15:16 |
+| 🟢 2.2 | 58 km WNW of Rachel, Nevada | 14:47 |
+| 🟢 2.2 | 58 km WSW of Cantwell, Alaska | 14:47 |
+| 🟢 1.3 | 80 km NNW of Karluk, Alaska | 14:41 |
+| 🟢 0.7 | 8 km W of Cobb, CA | 14:40 |
+| 🟢 3.0 | 119 km SW of Akhiok, Alaska | 14:29 |
+| 🟢 1.7 | 5 km S of San Juan Bautista, CA | 14:26 |
+| 🟢 1.5 | 24 km NNE of El Sauzal, B.C., MX | 14:25 |
+| 🟢 2.4 | 50 km S of Goldfield, Nevada | 14:24 |
+| 🟢 0.9 | 11 km WSW of Pine Valley, CA | 14:19 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
