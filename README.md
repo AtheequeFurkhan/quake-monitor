@@ -2,18 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2020:22:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-347ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2021:18:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-149ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.3 | 4 km SE of San Ramon, CA | 20:05 |
-| 🟢 2.8 | 5 km SE of San Ramon, CA | 19:56 |
-| 🟢 2.1 | 123 km NW of Yakutat, Alaska | 19:51 |
-| 🟢 1.0 | 7 km N of Running Springs, CA | 19:40 |
-| 🟢 1.1 | 7 km N of Running Springs, CA | 19:35 |
-| 🟢 2.3 | 13 km N of Cantwell, Alaska | 19:30 |
-| 🟠 3.5 | 42 km NW of San Antonio, Puerto Rico | 19:23 |
+| 🟢 1.3 | 2 km NE of The Geysers, CA | 21:14 |
+| 🟢 1.1 | 3 km NW of The Geysers, CA | 21:10 |
+| 🟢 1.0 | 7 km N of Running Springs, CA | 21:02 |
+| 🟢 2.2 | 5 km SE of San Ramon, CA | 20:50 |
+| 🟢 2.4 | 8 km W of Frazier Park, CA | 20:47 |
+| 🟢 2.0 | 6 km WSW of Kenwood, CA | 20:45 |
+| 🟢 0.6 | 3 km ESE of Lake Henshaw, CA | 20:41 |
+| 🟢 2.0 | 2 km ESE of Lake Henshaw, CA | 20:39 |
+| 🟢 1.7 | 4 km S of Salcha, Alaska | 20:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
