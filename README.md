@@ -2,19 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2011:17:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-359ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2012:39:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-328ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 21 km NNE of Arvin, CA | 11:13 |
-| 🟢 1.9 | 5 km NNW of Knik, Alaska | 10:55 |
-| 🟢 2.1 | 14 km S of Fern Forest, Hawaii | 10:49 |
-| 🟢 2.7 | 27 km WNW of Happy Valley, Alaska | 10:46 |
-| 🟢 0.8 | 2 km NNE of The Geysers, CA | 10:32 |
-| 🟢 1.1 | 0 km NW of The Geysers, CA | 10:25 |
-| 🟢 2.1 | 16 km WNW of Willow, Alaska | 10:22 |
-| 🟢 1.1 | 3 km E of The Geysers, CA | 10:19 |
+| 🟢 0.4 | 23 km SSW of La Quinta, CA | 12:26 |
+| 🟢 1.9 | 26 km NNW of Pāhala, Hawaii | 12:08 |
+| 🟢 2.1 | 93 km SE of Kokhanok, Alaska | 11:46 |
+| 🟢 3.0 | 6 km S of Seldovia, Alaska | 11:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
