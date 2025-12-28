@@ -2,20 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2021:18:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-149ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2022:19:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-218ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 2 km NE of The Geysers, CA | 21:14 |
-| 🟢 1.1 | 3 km NW of The Geysers, CA | 21:10 |
-| 🟢 1.0 | 7 km N of Running Springs, CA | 21:02 |
-| 🟢 2.2 | 5 km SE of San Ramon, CA | 20:50 |
-| 🟢 2.4 | 8 km W of Frazier Park, CA | 20:47 |
-| 🟢 2.0 | 6 km WSW of Kenwood, CA | 20:45 |
-| 🟢 0.6 | 3 km ESE of Lake Henshaw, CA | 20:41 |
-| 🟢 2.0 | 2 km ESE of Lake Henshaw, CA | 20:39 |
-| 🟢 1.7 | 4 km S of Salcha, Alaska | 20:21 |
+| 🟢 1.5 | 6 km W of Balmorhea, Texas | 22:06 |
+| 🟢 2.7 | 51 km WNW of Nanwalek, Alaska | 21:42 |
+| 🟢 1.9 | 9 km SSE of Hope, Alaska | 21:34 |
+| 🟢 1.5 | 18 km NW of Parkfield, CA | 21:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
