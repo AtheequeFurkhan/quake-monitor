@@ -2,25 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2019:16:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-198ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2020:22:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-347ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 3 km NW of The Geysers, CA | 19:13 |
-| 🟢 1.3 | 7 km WNW of Cobb, CA | 19:12 |
-| 🟢 1.4 | 2 km NNE of The Geysers, CA | 19:06 |
-| 🟠 3.3 | 39 km E of Lee Vining, CA | 19:02 |
-| 🟢 2.4 | 55 km WNW of Anchor Point, Alaska | 18:54 |
-| 🟢 1.1 | 8 km ENE of Ridgecrest, CA | 18:54 |
-| 🟢 1.1 | 10 km S of Searles Valley, CA | 18:53 |
-| 🟠 4.3 | 105 km N of Yakutat, Alaska | 18:50 |
-| 🟢 1.3 | 21 km ESE of Anza, CA | 18:50 |
-| 🟢 1.8 | 13 km S of Fern Forest, Hawaii | 18:43 |
-| 🟢 0.8 | 9 km S of Searles Valley, CA | 18:27 |
-| 🟢 1.2 | 9 km NNW of Foothill Ranch, CA | 18:25 |
-| 🟢 0.2 | 8 km WNW of The Geysers, CA | 18:24 |
-| 🟢 0.8 | 3 km E of The Geysers, CA | 18:15 |
+| 🟢 2.3 | 4 km SE of San Ramon, CA | 20:05 |
+| 🟢 2.8 | 5 km SE of San Ramon, CA | 19:56 |
+| 🟢 2.1 | 123 km NW of Yakutat, Alaska | 19:51 |
+| 🟢 1.0 | 7 km N of Running Springs, CA | 19:40 |
+| 🟢 1.1 | 7 km N of Running Springs, CA | 19:35 |
+| 🟢 2.3 | 13 km N of Cantwell, Alaska | 19:30 |
+| 🟠 3.5 | 42 km NW of San Antonio, Puerto Rico | 19:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
