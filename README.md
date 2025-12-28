@@ -2,18 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2006:31:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-366ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2007:19:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-334ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 11 km WSW of Pine Valley, CA | 06:07 |
-| 🟢 1.1 | 3 km NNW of The Geysers, CA | 06:06 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 06:03 |
-| 🟢 1.1 | 7 km WNW of Cobb, CA | 05:56 |
-| 🟢 1.8 | 3 km SSE of Pāhala, Hawaii | 05:55 |
-| 🟢 1.4 | 5 km SSE of Huron, CA | 05:46 |
-| 🟢 1.1 | 5 km NNW of The Geysers, CA | 05:34 |
+| 🟢 1.0 | 10 km NE of Coso Junction, CA | 06:49 |
+| 🟢 0.8 | 8 km SE of Julian, CA | 06:45 |
+| 🟢 1.3 | 8 km NW of The Geysers, CA | 06:45 |
+| 🟢 0.8 | 17 km NE of Pine Valley, CA | 06:44 |
+| 🟢 0.9 | 7 km N of Fontana, CA | 06:38 |
+| 🟢 1.8 | 11 km NE of Pāhala, Hawaii | 06:34 |
+| 🟢 1.7 | 11 km SSE of Pāhala, Hawaii | 06:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
