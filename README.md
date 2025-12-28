@@ -2,11 +2,13 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2013:28:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-292ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2014:19:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-336ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.0 | 92 km SE of Kokhanok, Alaska | 13:52 |
+| 🟠 4.6 | 153 km S of Severo-Kuril’sk, Russia | 13:40 |
 | 🟢 1.9 | 11 km ESE of Hidden Valley Lake, CA | 13:21 |
 | 🟢 2.6 | 4 km ESE of San Ramon, CA | 13:18 |
 
