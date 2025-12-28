@@ -2,22 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2018:29:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-188ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2019:16:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-198ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 10 km SSW of Trona, CA | 18:27 |
+| 🟢 0.8 | 3 km NW of The Geysers, CA | 19:13 |
+| 🟢 1.3 | 7 km WNW of Cobb, CA | 19:12 |
+| 🟢 1.4 | 2 km NNE of The Geysers, CA | 19:06 |
+| 🟠 3.3 | 39 km E of Lee Vining, CA | 19:02 |
+| 🟢 2.4 | 55 km WNW of Anchor Point, Alaska | 18:54 |
+| 🟢 1.1 | 8 km ENE of Ridgecrest, CA | 18:54 |
+| 🟢 1.1 | 10 km S of Searles Valley, CA | 18:53 |
+| 🟠 4.3 | 105 km N of Yakutat, Alaska | 18:50 |
+| 🟢 1.3 | 21 km ESE of Anza, CA | 18:50 |
+| 🟢 1.8 | 13 km S of Fern Forest, Hawaii | 18:43 |
+| 🟢 0.8 | 9 km S of Searles Valley, CA | 18:27 |
 | 🟢 1.2 | 9 km NNW of Foothill Ranch, CA | 18:25 |
 | 🟢 0.2 | 8 km WNW of The Geysers, CA | 18:24 |
 | 🟢 0.8 | 3 km E of The Geysers, CA | 18:15 |
-| 🟢 2.1 | 14 km SW of Cantua Creek, CA | 18:05 |
-| 🟠 4.6 | 115 km S of Hihifo, Tonga | 18:03 |
-| 🟢 2.0 | 11 km ENE of Naalehu, Hawaii | 18:03 |
-| 🟢 1.8 | 44 km SSE of Denali National Park, Alaska | 18:00 |
-| 🟢 1.8 | 97 km NW of Yakutat, Alaska | 17:59 |
-| 🟢 2.0 | 93 km SE of Kokhanok, Alaska | 17:51 |
-| 🟠 3.1 | 11 km ENE of Lancaster, Kentucky | 17:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
