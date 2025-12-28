@@ -2,15 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2017:17:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-394ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2018:29:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-188ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 16 km W of Johannesburg, CA | 17:06 |
-| 🟢 1.1 | 2 km N of The Geysers, CA | 16:50 |
-| 🟢 1.3 | 3 km NW of Anderson Springs, CA | 16:40 |
-| 🟢 0.6 | 6 km WNW of Cobb, CA | 16:18 |
+| 🟢 1.1 | 10 km SSW of Trona, CA | 18:27 |
+| 🟢 1.2 | 9 km NNW of Foothill Ranch, CA | 18:25 |
+| 🟢 0.2 | 8 km WNW of The Geysers, CA | 18:24 |
+| 🟢 0.8 | 3 km E of The Geysers, CA | 18:15 |
+| 🟢 2.1 | 14 km SW of Cantua Creek, CA | 18:05 |
+| 🟠 4.6 | 115 km S of Hihifo, Tonga | 18:03 |
+| 🟢 2.0 | 11 km ENE of Naalehu, Hawaii | 18:03 |
+| 🟢 1.8 | 44 km SSE of Denali National Park, Alaska | 18:00 |
+| 🟢 1.8 | 97 km NW of Yakutat, Alaska | 17:59 |
+| 🟢 2.0 | 93 km SE of Kokhanok, Alaska | 17:51 |
+| 🟠 3.1 | 11 km ENE of Lancaster, Kentucky | 17:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
