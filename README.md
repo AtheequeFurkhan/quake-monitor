@@ -2,15 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2004:43:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-241ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2028%20Dec%202025%2005:23:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-229ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.7 | 11 km W of Pine Valley, CA | 05:07 |
+| 🟢 2.0 | 56 km S of Manley Hot Springs, Alaska | 05:04 |
+| 🟢 1.1 | 18 km WSW of Johannesburg, CA | 05:00 |
+| 🟠 4.4 | 50 km ESE of Boca de Yuma, Dominican Republic | 04:59 |
+| 🟢 1.1 | 93 km NNW of Karluk, Alaska | 04:57 |
+| 🟢 1.8 | 7 km SW of Meadow Lakes, Alaska | 04:51 |
+| 🟢 1.6 | 3 km S of Salcha, Alaska | 04:42 |
+| 🔴 5.1 | South Sandwich Islands region | 04:36 |
 | 🟢 1.1 | 3 km WSW of Anderson Springs, CA | 04:27 |
-| 🟢 0.9 | 5 km WNW of Borrego Springs, CA | 04:07 |
-| 🟢 0.6 | 12 km NNE of Ocotillo Wells, CA | 03:55 |
-| 🟠 4.0 | 122 km N of Yakutat, Alaska | 03:54 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
