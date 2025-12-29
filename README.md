@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2029%20Dec%202025%2022:19:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-146ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2029%20Dec%202025%2023:19:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-415ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 5 km WSW of Ridgemark, CA | 22:15 |
-| 🟢 2.3 | 84 km WNW of Eagle, Alaska | 22:08 |
-| 🟢 0.9 | 3 km ESE of Lake Henshaw, CA | 21:54 |
-| 🟠 5.0 | Fiji region | 21:50 |
-| 🟢 1.6 | 5 km ESE of San Ramon, CA | 21:42 |
-| 🟢 1.4 | 23 km NNW of Westbrook, Texas | 21:41 |
-| 🟢 0.4 | 3 km WSW of Cobb, CA | 21:26 |
-| 🟢 1.6 | 34 km SE of Malaga, New Mexico | 21:24 |
-| 🟢 2.3 | 52 km NW of Ninilchik, Alaska | 21:22 |
+| 🟢 2.0 | 7 km NNE of Cloverdale, CA | 22:55 |
+| 🟢 0.8 | 4 km W of Cobb, CA | 22:55 |
+| 🟢 1.2 | 8 km S of Gilroy, CA | 22:43 |
+| 🟢 0.8 | 10 km WNW of The Geysers, CA | 22:42 |
+| 🟢 1.9 | 9 km WSW of Petrolia, CA | 22:34 |
+| 🟢 2.4 | 23 km N of Sutton-Alpine, Alaska | 22:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
