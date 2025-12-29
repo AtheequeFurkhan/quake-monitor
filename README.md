@@ -2,24 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2029%20Dec%202025%2006:35:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-353ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2029%20Dec%202025%2007:25:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-612ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 19 km SE of Pāhala, Hawaii | 06:23 |
-| 🟢 2.3 | 15 km NNW of Susanville, CA | 06:08 |
-| 🟢 0.8 | 2 km NW of Loma Linda, CA | 06:07 |
-| 🟢 2.0 | 23 km SSE of Pāhala, Hawaii | 06:07 |
-| 🟢 1.4 | 15 km W of Johannesburg, CA | 05:52 |
-| 🟢 2.0 | 26 km SW of Trapper Creek, Alaska | 05:47 |
-| 🟢 2.1 | 2 km ESE of San Ramon, CA | 05:45 |
-| 🟢 2.5 | 26 km SW of Trapper Creek, Alaska | 05:45 |
-| 🟢 1.8 | 10 km NE of Mexicali, B.C., MX | 05:44 |
-| 🟠 4.7 | 167 km SE of Petropavlovsk-Kamchatsky, Russia | 05:39 |
-| 🟢 1.7 | 10 km ENE of Mexicali, B.C., MX | 05:37 |
-| 🟢 1.6 | 58 km S of Whites City, New Mexico | 05:37 |
-| 🟢 1.9 | 9 km ENE of Mexicali, B.C., MX | 05:35 |
+| 🟢 1.0 | 7 km NNE of Fontana, CA | 07:12 |
+| 🟢 2.4 | 52 km WNW of Nanwalek, Alaska | 07:01 |
+| 🟢 1.9 | 16 km W of Johannesburg, CA | 06:57 |
+| 🟢 1.6 | 34 km E of Barstow, CA | 06:43 |
+| 🟢 1.5 | 3 km SSW of Baldwin Hills, CA | 06:42 |
+| 🟢 2.0 | 16 km WNW of Nikiski, Alaska | 06:38 |
+| 🟢 1.6 | 3 km SSW of Baldwin Hills, CA | 06:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
