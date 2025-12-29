@@ -2,18 +2,10 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2029%20Dec%202025%2010:23:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-290ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2029%20Dec%202025%2011:19:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-131ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
-| Mag | Location | Time (UTC) |
-|:---:|:---|:---|
-| 🟢 1.8 | 30 km SE of Mina, Nevada | 10:17 |
-| 🟢 1.3 | 3 km SSW of Baldwin Hills, CA | 10:16 |
-| 🟢 1.6 | 15 km WSW of Ludlow, CA | 10:12 |
-| 🟢 1.6 | 42 km NW of Toyah, Texas | 10:01 |
-| 🟢 2.0 | 20 km WSW of Volcano, Hawaii | 09:59 |
-| 🟢 1.2 | 2 km NE of The Geysers, CA | 09:24 |
-| 🟢 1.9 | 13 km ESE of Hawthorne, Nevada | 09:22 |
+✅ *No significant seismic activity recorded in the past hour.*
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
