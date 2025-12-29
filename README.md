@@ -2,15 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2029%20Dec%202025%2015:22:22%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-404ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2029%20Dec%202025%2016:26:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-515ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 6 km W of Cobb, CA | 15:11 |
-| 🟢 1.1 | 2 km NW of The Geysers, CA | 15:04 |
-| 🟢 2.3 | 12 km E of Naalehu, Hawaii | 14:57 |
-| 🟢 1.1 | 16 km W of Johannesburg, CA | 14:41 |
+| 🟢 1.0 | 5 km SSW of Idyllwild, CA | 16:20 |
+| 🟢 2.3 | 3 km SSW of Baldwin Hills, CA | 15:57 |
+| 🟢 1.8 | 54 km S of Whites City, New Mexico | 15:53 |
+| 🟢 1.2 | 2 km WNW of Stanton, Texas | 15:52 |
+| 🟢 2.2 | 12 km E of Pāhala, Hawaii | 15:45 |
+| 🟢 2.2 | 12 km ENE of Pāhala, Hawaii | 15:45 |
+| 🟢 0.7 | 18 km SSW of Ocotillo Wells, CA | 15:42 |
+| 🟢 0.9 | 16 km E of Little Lake, CA | 15:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
