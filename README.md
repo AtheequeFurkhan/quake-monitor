@@ -2,19 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2029%20Dec%202025%2019:16:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-403ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2029%20Dec%202025%2020:24:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-243ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 58 km S of Whites City, New Mexico | 19:12 |
-| 🟢 1.9 | 14 km W of Johannesburg, CA | 18:50 |
-| 🟢 1.7 | 14 km E of Pāhala, Hawaii | 18:40 |
-| 🟢 2.5 | 54 km E of Shaktoolik, Alaska | 18:39 |
-| 🟢 1.8 | 5 km SE of San Ramon, CA | 18:34 |
-| 🟢 2.2 | 5 km SE of San Ramon, CA | 18:32 |
-| 🟢 1.1 | 0 km N of The Geysers, CA | 18:27 |
-| 🟢 1.3 | 4 km ENE of Ocotillo Wells, CA | 18:24 |
+| 🟢 0.7 | 6 km NW of The Geysers, CA | 20:15 |
+| 🟢 1.1 | 6 km NW of The Geysers, CA | 20:05 |
+| 🟢 2.3 | 19 km SE of Pāhala, Hawaii | 19:51 |
+| 🟢 2.2 | 43 km W of Anchor Point, Alaska | 19:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
