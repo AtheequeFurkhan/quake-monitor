@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2029%20Dec%202025%2001:50:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-422ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2029%20Dec%202025%2003:49:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-208ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.6 | 44 km ESE of Fox River, Alaska | 01:30 |
-| 🟢 2.5 | 15 km NNW of Susanville, CA | 01:16 |
-| 🟢 1.4 | 7 km W of Cobb, CA | 01:01 |
-| 🟢 1.7 | 14 km SE of Cantwell, Alaska | 01:00 |
-| 🟢 1.7 | 4 km SE of San Ramon, CA | 00:57 |
-| 🟢 1.4 | 4 km SSE of San Ramon, CA | 00:54 |
-| 🟢 1.6 | 13 km SE of Ocotillo, CA | 00:52 |
-| 🟢 2.2 | 4 km SE of San Ramon, CA | 00:52 |
+| 🟢 0.9 | 11 km NW of Julian, CA | 03:36 |
+| 🟢 0.6 | 9 km E of Palomar Observatory, CA | 03:36 |
+| 🟢 1.1 | 3 km NW of The Geysers, CA | 03:26 |
+| 🟢 2.8 | 31 km W of Nikiski, Alaska | 03:18 |
+| 🟠 3.5 | 69 km W of Petrolia, CA | 03:00 |
+| 🟢 2.4 | 2 km S of Guánica, Puerto Rico | 02:54 |
+| 🟢 0.9 | 6 km SE of Loma Linda, CA | 02:53 |
+| 🟢 1.6 | 2 km NW of The Geysers, CA | 02:51 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
