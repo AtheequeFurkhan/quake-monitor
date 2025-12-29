@@ -2,19 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2029%20Dec%202025%2016:26:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-515ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2029%20Dec%202025%2017:18:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-356ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.2 | 16 km SSW of Searles Valley, CA | 16:54 |
+| 🟢 2.9 | 2 km E of Magas Arriba, Puerto Rico | 16:43 |
+| 🟢 0.5 | 10 km SSW of Anza, CA | 16:33 |
 | 🟢 1.0 | 5 km SSW of Idyllwild, CA | 16:20 |
-| 🟢 2.3 | 3 km SSW of Baldwin Hills, CA | 15:57 |
-| 🟢 1.8 | 54 km S of Whites City, New Mexico | 15:53 |
-| 🟢 1.2 | 2 km WNW of Stanton, Texas | 15:52 |
-| 🟢 2.2 | 12 km E of Pāhala, Hawaii | 15:45 |
-| 🟢 2.2 | 12 km ENE of Pāhala, Hawaii | 15:45 |
-| 🟢 0.7 | 18 km SSW of Ocotillo Wells, CA | 15:42 |
-| 🟢 0.9 | 16 km E of Little Lake, CA | 15:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
