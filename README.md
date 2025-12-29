@@ -2,15 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2029%20Dec%202025%2017:18:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-356ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2029%20Dec%202025%2018:30:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-3.943s-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 16 km SSW of Searles Valley, CA | 16:54 |
-| 🟢 2.9 | 2 km E of Magas Arriba, Puerto Rico | 16:43 |
-| 🟢 0.5 | 10 km SSW of Anza, CA | 16:33 |
-| 🟢 1.0 | 5 km SSW of Idyllwild, CA | 16:20 |
+| 🟢 1.3 | 4 km ENE of Ocotillo Wells, CA | 18:24 |
+| 🟢 1.3 | 13 km W of Johannesburg, CA | 18:14 |
+| 🟢 2.2 | 11 km NW of Point MacKenzie, Alaska | 18:10 |
+| 🟢 1.9 | 20 km WNW of Sunnyside-Tahoe City, CA | 18:08 |
+| 🟢 1.3 | 18 km ESE of Nenana, Alaska | 17:59 |
+| 🟢 1.9 | 4 km W of Newport Beach, CA | 17:40 |
+| 🟢 1.8 | 13 km SE of Pāhala, Hawaii | 17:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
