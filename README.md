@@ -2,17 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2011:19:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-409ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2012:43:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-513ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 2 km NW of Anderson Springs, CA | 11:11 |
-| 🟠 3.2 | 90 km N of Yakutat, Alaska | 11:05 |
-| 🟢 0.6 | 15 km N of Warner Springs, CA | 11:05 |
-| 🟠 4.6 | 256 km E of Levuka, Fiji | 10:58 |
-| 🟢 1.0 | 60 km SSE of McCarthy, Alaska | 10:35 |
-| 🟢 0.8 | 9 km W of The Geysers, CA | 10:23 |
+| 🟢 2.0 | 11 km S of Volcano, Hawaii | 12:33 |
+| 🟢 2.2 | 16 km ESE of Pāhala, Hawaii | 12:24 |
+| 🟢 0.7 | 3 km ESE of Lake Henshaw, CA | 12:22 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 12:03 |
+| 🟢 2.2 | 64 km SE of Denali National Park, Alaska | 12:01 |
+| 🟢 0.7 | 6 km NW of The Geysers, CA | 11:50 |
+| 🟢 2.8 | 27 km NNW of Pāhala, Hawaii | 11:49 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
