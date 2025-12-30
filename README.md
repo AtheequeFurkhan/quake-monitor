@@ -2,18 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2009:25:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-404ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2010:23:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-188ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 20 km ESE of Little Lake, CA | 09:18 |
-| 🟢 1.1 | 20 km ESE of Little Lake, CA | 09:16 |
-| 🟢 1.0 | 26 km WNW of Inyokern, CA | 09:01 |
-| 🟢 0.9 | 90 km NNW of Karluk, Alaska | 08:43 |
-| 🟢 0.8 | 3 km NW of The Geysers, CA | 08:30 |
-| 🟢 2.4 | 73 km NNE of Petersville, Alaska | 08:29 |
-| 🟢 0.7 | 2 km ESE of The Geysers, CA | 08:29 |
+| 🟠 5.0 | 90 km N of Yakutat, Alaska | 10:17 |
+| 🟢 0.7 | 12 km E of Yucaipa, CA | 10:13 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 10:08 |
+| 🟢 2.2 | 29 km NNW of Glacier View, Alaska | 10:08 |
+| 🟢 1.0 | 2 km N of The Geysers, CA | 10:05 |
+| 🟢 2.0 | 37 km SE of Funny River, Alaska | 10:02 |
+| 🟢 2.1 | 2 km N of The Geysers, CA | 10:00 |
+| 🟢 0.4 | 8 km WNW of Cobb, CA | 09:58 |
+| 🟢 1.8 | 6 km SSW of Encino, CA | 09:51 |
+| 🟢 0.9 | 20 km ESE of Little Lake, CA | 09:41 |
+| 🟢 0.8 | 20 km ESE of Little Lake, CA | 09:30 |
+| 🟢 2.3 | 0 km WNW of Pāhala, Hawaii | 09:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
