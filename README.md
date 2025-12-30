@@ -2,13 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2016:27:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-141ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2017:20:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-197ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.4 | 14 km SW of Petrolia, CA | 16:17 |
-| 🟢 0.7 | 12 km ENE of Cloverdale, CA | 15:33 |
+| 🟢 2.3 | 64 km SE of Denali National Park, Alaska | 17:17 |
+| 🟢 1.4 | 12 km WSW of Stanton, Texas | 17:13 |
+| 🟢 2.1 | 36 km WNW of Beluga, Alaska | 17:13 |
+| 🟢 2.4 | 14 km N of Susanville, CA | 16:42 |
+| 🟢 1.2 | 15 km NE of Borrego Springs, CA | 16:40 |
+| 🟢 0.9 | 16 km NE of Borrego Springs, CA | 16:40 |
+| 🟢 0.9 | 16 km NE of Borrego Springs, CA | 16:40 |
+| 🟢 1.1 | 2 km W of Concord, CA | 16:38 |
+| 🟢 1.6 | 15 km NE of Borrego Springs, CA | 16:38 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
