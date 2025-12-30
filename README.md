@@ -2,20 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2005:23:55%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-208ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2006:33:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-257ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 51 km WNW of Petersville, Alaska | 05:20 |
-| 🟢 1.8 | 6 km WNW of Cobb, CA | 05:11 |
-| 🟢 0.7 | 7 km NW of The Geysers, CA | 05:07 |
-| 🟢 0.7 | 7 km NW of The Geysers, CA | 04:42 |
-| 🟢 1.4 | 24 km SSW of Frazier Park, CA | 04:40 |
-| 🟢 2.1 | 71 km N of Petersville, Alaska | 04:30 |
-| 🟢 1.0 | 88 km NNW of Karluk, Alaska | 04:30 |
-| 🟢 1.7 | 21 km SSW of Silver Peak, Nevada | 04:28 |
-| 🟢 1.9 | 7 km SW of Girdwood, Alaska | 04:25 |
+| 🟢 0.8 | 5 km NW of The Geysers, CA | 06:15 |
+| 🟠 4.6 | 242 km E of Levuka, Fiji | 06:08 |
+| 🟠 3.9 | 29 km WNW of Elfin Cove, Alaska | 06:00 |
+| 🟢 2.3 | 18 km SSW of Searles Valley, CA | 06:00 |
+| 🟢 1.7 | 15 km NNW of Wai‘ōhinu, Hawaii | 05:46 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
@@ -25,7 +21,7 @@
 - 🔥 **Wildfires**: [CR L Wildfire, Yuma, Colorado](https://irwin.doi.gov/observer/incidents/36bf5e21-134c-4543-9cea-b379e6bc1c6c) (Dec 18)
 - 🔥 **Wildfires**: [33 Wildfire, Yuma, Colorado](https://irwin.doi.gov/observer/incidents/3c182aca-b92b-4b39-85be-ac8382c0bec8) (Dec 18)
 - 🔥 **Wildfires**: [Terry Ranch Wildfire, Laramie, Wyoming](https://irwin.doi.gov/observer/incidents/358c6e78-82af-438f-9d9d-32bf895fc7ab) (Dec 18)
-- ⛈️ **Severe Storms**: [Tropical Cyclone Grant](https://www.metoc.navy.mil/jtwc/products/sh0926.tcw) (Dec 29)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Grant](https://www.metoc.navy.mil/jtwc/products/sh0926.tcw) (Dec 30)
 - 🔥 **Wildfires**: [RX Cook Road Prescribed Fire, Baxter, Arkansas](https://irwin.doi.gov/observer/incidents/0b3bcf66-5b22-485b-bf94-752fb42add7a) (Dec 16)
 - 🔥 **Wildfires**: [RX Optimus North Prescribed Fire, Stone, Arkansas](https://irwin.doi.gov/observer/incidents/6fa2952d-ef68-478e-b97e-bc3e45a866b5) (Dec 15)
 - 🔥 **Wildfires**: [Cave Mountain Wildfire, Bibb, Alabama](https://irwin.doi.gov/observer/incidents/ecd965da-3ccd-4a55-b7c0-95b763d11d61) (Dec 12)
