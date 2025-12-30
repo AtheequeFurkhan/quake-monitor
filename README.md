@@ -2,19 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2020:23:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-180ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2021:19:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-280ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 3 km WNW of Anderson Springs, CA | 20:07 |
-| 🟢 2.4 | 39 km NNE of Chenega, Alaska | 20:06 |
-| 🟢 1.4 | 9 km NE of Gilroy, CA | 20:05 |
-| 🟢 1.9 | 6 km S of Volcano, Hawaii | 20:04 |
-| 🟢 1.9 | 16 km WSW of Ludlow, CA | 20:01 |
-| 🟢 1.8 | 21 km SE of Chickaloon, Alaska | 20:00 |
-| 🟢 2.1 | 16 km WSW of Ludlow, CA | 19:57 |
-| 🟢 1.8 | 43 km E of Fort Bidwell, California | 19:29 |
+| 🟢 1.5 | 39 km SSE of Fort Irwin, CA | 20:58 |
+| 🟢 1.9 | 16 km WNW of Willow, Alaska | 20:56 |
+| 🟢 2.4 | 20 km WNW of Sunnyside-Tahoe City, CA | 20:32 |
+| 🔴 5.3 | 31 km SE of Boyuibe, Bolivia | 20:26 |
+| 🟢 1.8 | 47 km NE of Valmy, Nevada | 20:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
