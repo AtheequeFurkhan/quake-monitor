@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2013:36:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-240ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2014:20:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-544ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.8 | 3 km S of Redlands, CA | 14:08 |
+| 🟢 2.1 | 27 km E of Honaunau-Napoopoo, Hawaii | 14:02 |
+| 🟢 2.0 | 100 km NW of Yakutat, Alaska | 13:51 |
+| 🟢 2.0 | 100 km NW of Yakutat, Alaska | 13:47 |
+| 🟢 0.9 | 2 km WNW of Anderson Springs, CA | 13:38 |
+| 🟢 2.2 | 44 km WNW of Happy Valley, Alaska | 13:36 |
 | 🟢 1.9 | 11 km NE of Pāhala, Hawaii | 13:22 |
-| 🟢 1.2 | 16 km W of Johannesburg, CA | 13:18 |
-| 🟢 1.0 | 23 km ENE of San Lucas, CA | 13:10 |
-| 🟢 0.7 | 23 km SSW of New Idria, CA | 13:07 |
-| 🟢 0.4 | 3 km ESE of Lake Henshaw, CA | 12:43 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 12:41 |
-| 🟢 1.4 | 6 km SSE of Wrightwood, CA | 12:40 |
-| 🟢 2.5 | 28 km E of Honaunau-Napoopoo, Hawaii | 12:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
