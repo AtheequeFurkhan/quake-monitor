@@ -2,15 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2003:27:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-233ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2004:39:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-196ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 35 km SSE of Eureka Roadhouse, Alaska | 03:22 |
-| 🟢 2.2 | 4 km SW of Pāhala, Hawaii | 03:04 |
-| 🟢 1.4 | 2 km SSW of Cobb, CA | 02:55 |
-| 🟢 2.2 | 3 km SSW of Cobb, CA | 02:36 |
+| 🟢 2.1 | 71 km N of Petersville, Alaska | 04:30 |
+| 🟢 1.0 | 88 km NNW of Karluk, Alaska | 04:30 |
+| 🟢 1.7 | 21 km SSW of Silver Peak, Nevada | 04:28 |
+| 🟢 1.9 | 7 km SW of Girdwood, Alaska | 04:25 |
+| 🟢 1.9 | 9 km SSE of Girdwood, Alaska | 04:21 |
+| 🟢 1.1 | 4 km W of Hollister, CA | 04:17 |
+| 🟠 5.0 | Mid-Indian Ridge | 04:16 |
+| 🟢 1.9 | 13 km S of Fern Forest, Hawaii | 04:15 |
+| 🟢 1.1 | 2 km S of Loma Linda, CA | 03:57 |
+| 🟠 4.6 | Pagan region, Northern Mariana Islands | 03:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
