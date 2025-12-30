@@ -2,18 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2008:29:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-154ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2009:25:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-404ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🔴 5.5 | 20 km NNE of Wadomari, Japan | 08:12 |
-| 🟢 0.9 | 3 km SW of Anderson Springs, CA | 08:06 |
-| 🟢 1.8 | 5 km NNE of Clam Gulch, Alaska | 08:02 |
-| 🟢 2.6 | 11 km NNE of Garden City, Texas | 08:01 |
-| 🟢 1.9 | 6 km N of Lofall, Washington | 08:00 |
-| 🟢 0.7 | 9 km WNW of Cobb, CA | 08:00 |
-| 🟢 1.4 | 81 km NNW of Karluk, Alaska | 07:44 |
+| 🟢 0.8 | 20 km ESE of Little Lake, CA | 09:18 |
+| 🟢 1.1 | 20 km ESE of Little Lake, CA | 09:16 |
+| 🟢 1.0 | 26 km WNW of Inyokern, CA | 09:01 |
+| 🟢 0.9 | 90 km NNW of Karluk, Alaska | 08:43 |
+| 🟢 0.8 | 3 km NW of The Geysers, CA | 08:30 |
+| 🟢 2.4 | 73 km NNE of Petersville, Alaska | 08:29 |
+| 🟢 0.7 | 2 km ESE of The Geysers, CA | 08:29 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
