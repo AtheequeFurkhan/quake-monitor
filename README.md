@@ -2,23 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2010:23:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-188ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2011:19:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-409ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟠 5.0 | 90 km N of Yakutat, Alaska | 10:17 |
-| 🟢 0.7 | 12 km E of Yucaipa, CA | 10:13 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 10:08 |
-| 🟢 2.2 | 29 km NNW of Glacier View, Alaska | 10:08 |
-| 🟢 1.0 | 2 km N of The Geysers, CA | 10:05 |
-| 🟢 2.0 | 37 km SE of Funny River, Alaska | 10:02 |
-| 🟢 2.1 | 2 km N of The Geysers, CA | 10:00 |
-| 🟢 0.4 | 8 km WNW of Cobb, CA | 09:58 |
-| 🟢 1.8 | 6 km SSW of Encino, CA | 09:51 |
-| 🟢 0.9 | 20 km ESE of Little Lake, CA | 09:41 |
-| 🟢 0.8 | 20 km ESE of Little Lake, CA | 09:30 |
-| 🟢 2.3 | 0 km WNW of Pāhala, Hawaii | 09:28 |
+| 🟢 1.1 | 2 km NW of Anderson Springs, CA | 11:11 |
+| 🟠 3.2 | 90 km N of Yakutat, Alaska | 11:05 |
+| 🟢 0.6 | 15 km N of Warner Springs, CA | 11:05 |
+| 🟠 4.6 | 256 km E of Levuka, Fiji | 10:58 |
+| 🟢 1.0 | 60 km SSE of McCarthy, Alaska | 10:35 |
+| 🟢 0.8 | 9 km W of The Geysers, CA | 10:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
