@@ -2,17 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2018:31:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-369ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2019:17:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-321ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.0 | 10 km S of Forsan, Texas | 19:10 |
+| 🟢 0.4 | 5 km S of Idyllwild, CA | 19:03 |
+| 🟢 1.3 | 3 km SW of Baldwin Hills, CA | 18:46 |
+| 🟢 1.7 | 59 km S of Whites City, New Mexico | 18:42 |
+| 🟢 0.9 | 71 km E of Port Alsworth, Alaska | 18:41 |
+| 🟢 1.4 | 15 km WSW of Ludlow, CA | 18:41 |
+| 🟢 2.3 | 16 km WSW of Ludlow, CA | 18:34 |
+| 🟢 2.1 | 15 km WSW of Ludlow, CA | 18:32 |
 | 🟢 1.3 | 10 km WSW of Pine Valley, CA | 18:24 |
-| 🟢 2.8 | 15 km NNW of Susanville, CA | 18:03 |
-| 🟢 1.1 | 1 km ENE of The Geysers, CA | 18:00 |
-| 🟢 1.7 | 56 km WNW of Happy Valley, Alaska | 17:47 |
-| 🟢 0.7 | 4 km SSW of Idyllwild, CA | 17:45 |
-| 🟢 2.8 | 5 km NNW of Susitna North, Alaska | 17:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
