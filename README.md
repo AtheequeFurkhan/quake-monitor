@@ -2,21 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2007:22:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-285ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2030%20Dec%202025%2008:29:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-154ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 20 km ESE of Little Lake, CA | 07:15 |
-| 🟢 2.5 | 34 km W of Seward, Alaska | 07:13 |
-| 🟢 1.7 | 15 km WSW of Ludlow, CA | 07:12 |
-| 🟢 2.9 | 10 km NNE of Garden City, Texas | 07:12 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 07:07 |
-| 🟢 2.6 | 10 km NNE of Garden City, Texas | 07:03 |
-| 🟢 1.3 | 23 km SSW of New Idria, CA | 06:45 |
-| 🟢 1.6 | 46 km NW of Toyah, Texas | 06:38 |
-| 🟢 0.6 | 22 km SSW of Ocotillo Wells, CA | 06:37 |
-| 🟠 3.3 | 64 km NW of San Antonio, Puerto Rico | 06:24 |
+| 🔴 5.5 | 20 km NNE of Wadomari, Japan | 08:12 |
+| 🟢 0.9 | 3 km SW of Anderson Springs, CA | 08:06 |
+| 🟢 1.8 | 5 km NNE of Clam Gulch, Alaska | 08:02 |
+| 🟢 2.6 | 11 km NNE of Garden City, Texas | 08:01 |
+| 🟢 1.9 | 6 km N of Lofall, Washington | 08:00 |
+| 🟢 0.7 | 9 km WNW of Cobb, CA | 08:00 |
+| 🟢 1.4 | 81 km NNW of Karluk, Alaska | 07:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
