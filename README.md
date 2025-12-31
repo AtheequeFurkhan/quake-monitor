@@ -2,23 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2007:23:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-216ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2008:29:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-184ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 13 km NW of The Geysers, CA | 07:15 |
-| 🟢 2.1 | 13 km N of Susanville, CA | 07:14 |
-| 🟢 2.5 | 26 km NW of Nanwalek, Alaska | 07:10 |
-| 🟢 0.8 | 7 km W of Cobb, CA | 07:09 |
-| 🟢 0.2 | 8 km W of Cobb, CA | 07:04 |
-| 🟢 2.1 | 34 km NNW of Toyah, Texas | 07:03 |
-| 🟢 1.9 | 33 km NNW of Toyah, Texas | 07:00 |
-| 🟢 2.6 | 6 km SW of Las Marías, Puerto Rico | 06:55 |
-| 🟢 1.1 | 7 km NW of The Geysers, CA | 06:54 |
-| 🟢 0.6 | 20 km ESE of Little Lake, CA | 06:45 |
-| 🟢 1.1 | 6 km NW of Foothill Ranch, CA | 06:35 |
-| 🟢 0.7 | 10 km NW of The Geysers, CA | 06:23 |
+| 🟢 2.0 | 12 km N of Susanville, CA | 08:25 |
+| 🟢 0.9 | 3 km ESE of Lake Henshaw, CA | 08:24 |
+| 🟢 1.0 | 11 km WSW of Stanton, Texas | 08:16 |
+| 🟢 0.7 | 10 km NE of Julian, CA | 08:06 |
+| 🟢 2.1 | 14 km N of Susanville, CA | 07:51 |
+| 🟢 0.4 | 9 km S of Idyllwild, CA | 07:34 |
+| 🟢 1.9 | 2 km NW of Houston, Alaska | 07:34 |
+| 🟢 2.2 | 14 km N of Susanville, CA | 07:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
