@@ -2,22 +2,35 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2015:20:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-397ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2016:26:31%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-387ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 2 km SW of Pāhala, Hawaii | 15:16 |
-| 🟢 0.7 | 20 km ESE of Little Lake, CA | 15:02 |
-| 🟢 1.0 | 12 km WSW of Stanton, Texas | 14:59 |
-| 🟢 1.6 | 16 km NW of Balmorhea, Texas | 14:49 |
-| 🟢 1.6 | 11 km WSW of Stanton, Texas | 14:49 |
-| 🟢 1.4 | 10 km NNE of Banning, CA | 14:47 |
-| 🟢 0.3 | 15 km SE of Anza, CA | 14:33 |
-| 🟢 0.3 | 15 km SE of Anza, CA | 14:33 |
-| 🟢 1.9 | 8 km SE of Eden Roc, Hawaii | 14:31 |
-| 🟢 1.6 | 7 km N of Beaumont, CA | 14:27 |
-| 🔴 6.0 | 91 km E of Noda, Japan | 14:26 |
+| 🟢 1.0 | 8 km NW of The Geysers, CA | 16:18 |
+| 🟢 1.3 | 8 km NW of The Geysers, CA | 16:00 |
+| 🟢 2.2 | 49 km ENE of Pedro Bay, Alaska | 15:56 |
+| 🟢 2.7 | 7 km SSW of Pāhala, Hawaii | 15:56 |
+| 🟢 2.4 | 7 km SSW of Pāhala, Hawaii | 15:55 |
+| 🟢 1.6 | 8 km NW of The Geysers, CA | 15:51 |
+| 🟢 1.1 | 4 km W of Cobb, CA | 15:45 |
+| 🟢 2.7 | 4 km ESE of Jagual, Puerto Rico | 15:42 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 15:39 |
+| 🟢 0.6 | 9 km WNW of Cobb, CA | 15:35 |
+| 🟢 0.8 | 7 km WNW of Cobb, CA | 15:35 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 15:33 |
+| 🟢 2.3 | 1 km SSW of Pāhala, Hawaii | 15:33 |
+| 🟢 1.1 | 8 km NW of The Geysers, CA | 15:33 |
+| 🟢 1.0 | 8 km NW of The Geysers, CA | 15:32 |
+| 🟢 1.0 | 7 km W of Cobb, CA | 15:31 |
+| 🟢 0.5 | 8 km NW of The Geysers, CA | 15:30 |
+| 🟢 1.5 | 8 km NW of The Geysers, CA | 15:30 |
+| 🟢 1.0 | 7 km W of Cobb, CA | 15:30 |
+| 🟢 1.6 | 8 km NW of The Geysers, CA | 15:30 |
+| 🟢 0.2 | 8 km WNW of Cobb, CA | 15:29 |
+| 🟢 0.6 | 8 km NW of The Geysers, CA | 15:29 |
+| 🟢 3.0 | 8 km NW of The Geysers, CA | 15:28 |
+| 🟢 1.3 | 2 km WNW of The Geysers, CA | 15:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
