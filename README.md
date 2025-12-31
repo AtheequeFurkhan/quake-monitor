@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2009:25:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-408ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2010:22:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-431ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.3 | 5 km W of Lake Henshaw, CA | 09:16 |
-| 🟢 2.2 | 90 km NNW of Yakutat, Alaska | 09:09 |
-| 🟢 1.0 | 14 km NE of Ridgecrest, CA | 09:04 |
-| 🟢 0.8 | 14 km N of Ocotillo Wells, CA | 08:58 |
-| 🟢 2.0 | 52 km WNW of Happy Valley, Alaska | 08:53 |
-| 🟢 1.1 | 21 km E of Little Lake, CA | 08:32 |
-| 🟢 1.5 | 3 km NE of The Geysers, CA | 08:28 |
-| 🟢 2.0 | 12 km N of Susanville, CA | 08:25 |
-| 🟢 0.9 | 3 km ESE of Lake Henshaw, CA | 08:24 |
+| 🟢 3.0 | 89 km E of McCarthy, Alaska | 10:19 |
+| 🟢 1.8 | 27 km E of Honaunau-Napoopoo, Hawaii | 10:07 |
+| 🟢 2.0 | 39 km W of Tyonek, Alaska | 09:49 |
+| 🟢 2.6 | 6 km WSW of Westbrook, Texas | 09:42 |
+| 🟢 1.7 | 62 km S of Whites City, New Mexico | 09:30 |
+| 🟢 1.2 | 9 km NE of Gardendale, Texas | 09:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
