@@ -2,19 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2008:29:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-184ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2009:25:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-408ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.3 | 5 km W of Lake Henshaw, CA | 09:16 |
+| 🟢 2.2 | 90 km NNW of Yakutat, Alaska | 09:09 |
+| 🟢 1.0 | 14 km NE of Ridgecrest, CA | 09:04 |
+| 🟢 0.8 | 14 km N of Ocotillo Wells, CA | 08:58 |
+| 🟢 2.0 | 52 km WNW of Happy Valley, Alaska | 08:53 |
+| 🟢 1.1 | 21 km E of Little Lake, CA | 08:32 |
+| 🟢 1.5 | 3 km NE of The Geysers, CA | 08:28 |
 | 🟢 2.0 | 12 km N of Susanville, CA | 08:25 |
 | 🟢 0.9 | 3 km ESE of Lake Henshaw, CA | 08:24 |
-| 🟢 1.0 | 11 km WSW of Stanton, Texas | 08:16 |
-| 🟢 0.7 | 10 km NE of Julian, CA | 08:06 |
-| 🟢 2.1 | 14 km N of Susanville, CA | 07:51 |
-| 🟢 0.4 | 9 km S of Idyllwild, CA | 07:34 |
-| 🟢 1.9 | 2 km NW of Houston, Alaska | 07:34 |
-| 🟢 2.2 | 14 km N of Susanville, CA | 07:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
