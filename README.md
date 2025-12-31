@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2021:18:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-302ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2022:20:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 27 km SSW of Trapper Creek, Alaska | 21:05 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 21:02 |
-| 🟢 2.4 | 67 km WNW of Aleneva, Alaska | 20:49 |
-| 🟢 2.0 | 16 km N of Willow, Alaska | 20:44 |
-| 🟢 2.6 | 33 km E of West Yellowstone, Montana | 20:44 |
-| 🟢 1.1 | 8 km W of Cobb, CA | 20:42 |
-| 🟠 4.0 | 59 km W of Happy Valley, Alaska | 20:36 |
-| 🟢 1.8 | 15 km S of Fern Forest, Hawaii | 20:34 |
-| 🟠 4.8 | 165 km SSE of Vilyuchinsk, Russia | 20:27 |
+| 🟢 2.6 | 75 km WNW of Karluk, Alaska | 22:08 |
+| 🟢 1.5 | 11 km SSW of Valencia, CA | 21:50 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 21:41 |
+| 🟢 2.0 | 16 km ENE of Pāhala, Hawaii | 21:35 |
+| 🟢 1.0 | 7 km NW of The Geysers, CA | 21:24 |
+| 🟢 0.8 | 2 km NNW of The Geysers, CA | 21:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
