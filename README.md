@@ -2,17 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2001:43:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-425ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2003:26:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-300ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟠 3.2 | 43 km WNW of Nanwalek, Alaska | 01:31 |
-| 🟢 1.2 | 15 km ENE of Yucaipa, CA | 01:11 |
-| 🟢 0.7 | 9 km WNW of Cobb, CA | 01:06 |
-| 🟢 1.2 | 17 km N of Four Mile Road, Alaska | 01:00 |
-| 🟢 0.5 | 13 km NW of Parkfield, CA | 00:55 |
-| 🟢 1.9 | 17 km NNW of Skwentna, Alaska | 00:48 |
+| 🟢 0.7 | 11 km NE of Pine Valley, CA | 03:05 |
+| 🟢 2.3 | 90 km WNW of Yakutat, Alaska | 02:52 |
+| 🟢 1.7 | 9 km NNE of Garden City, Texas | 02:48 |
+| 🟢 2.5 | 62 km WNW of Happy Valley, Alaska | 02:44 |
+| 🟢 2.1 | 89 km E of McCarthy, Alaska | 02:38 |
+| 🟢 0.9 | 20 km ESE of Little Lake, CA | 02:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
