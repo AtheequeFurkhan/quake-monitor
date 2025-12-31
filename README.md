@@ -2,17 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2022:20:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2023:19:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-393ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.6 | 75 km WNW of Karluk, Alaska | 22:08 |
-| 🟢 1.5 | 11 km SSW of Valencia, CA | 21:50 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 21:41 |
-| 🟢 2.0 | 16 km ENE of Pāhala, Hawaii | 21:35 |
-| 🟢 1.0 | 7 km NW of The Geysers, CA | 21:24 |
-| 🟢 0.8 | 2 km NNW of The Geysers, CA | 21:21 |
+| 🟢 1.6 | 7 km WSW of Atascadero, CA | 23:12 |
+| 🟢 1.3 | 4 km ENE of Calimesa, CA | 22:44 |
+| 🟢 1.8 | 48 km SSW of Manley Hot Springs, Alaska | 22:40 |
+| 🟢 1.9 | 55 km S of Kingston, Nevada | 22:39 |
+| 🟢 2.9 | 33 km WSW of Petrolia, CA | 22:39 |
+| 🟢 0.6 | 2 km E of The Geysers, CA | 22:37 |
+| 🟢 1.1 | 5 km WNW of The Geysers, CA | 22:36 |
+| 🟢 1.7 | 20 km NW of Stanton, Texas | 22:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
