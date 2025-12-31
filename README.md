@@ -2,18 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2018:29:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-475ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2019:16:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-292ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.5 | 9 km WNW of The Geysers, CA | 19:07 |
+| 🟢 1.1 | 8 km NW of The Geysers, CA | 19:00 |
+| 🟢 0.5 | 3 km NW of The Geysers, CA | 18:58 |
+| 🟢 0.6 | 7 km W of Cobb, CA | 18:55 |
+| 🟠 3.3 | 39 km N of Culebra, Puerto Rico | 18:42 |
+| 🟢 1.9 | 3 km E of The Geysers, CA | 18:33 |
 | 🟢 1.7 | 7 km NW of The Geysers, CA | 18:24 |
 | 🟢 1.6 | 7 km WNW of Rotan, Texas | 18:24 |
 | 🟢 0.8 | 8 km NW of The Geysers, CA | 18:18 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 17:59 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 17:49 |
-| 🟢 1.1 | 8 km NW of The Geysers, CA | 17:48 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 17:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
