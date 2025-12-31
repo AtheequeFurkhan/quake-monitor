@@ -2,20 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2019:16:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-292ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2020:22:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-417ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 9 km WNW of The Geysers, CA | 19:07 |
-| 🟢 1.1 | 8 km NW of The Geysers, CA | 19:00 |
-| 🟢 0.5 | 3 km NW of The Geysers, CA | 18:58 |
-| 🟢 0.6 | 7 km W of Cobb, CA | 18:55 |
-| 🟠 3.3 | 39 km N of Culebra, Puerto Rico | 18:42 |
-| 🟢 1.9 | 3 km E of The Geysers, CA | 18:33 |
-| 🟢 1.7 | 7 km NW of The Geysers, CA | 18:24 |
-| 🟢 1.6 | 7 km WNW of Rotan, Texas | 18:24 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 18:18 |
+| 🟢 1.6 | 16 km WSW of Ludlow, CA | 20:17 |
+| 🟢 1.6 | 16 km WSW of Ludlow, CA | 20:14 |
+| 🟢 1.8 | 43 km SE of Pāhala, Hawaii | 20:12 |
+| 🟢 1.2 | 11 km SSW of Forsan, Texas | 20:12 |
+| 🟢 2.1 | 25 km ENE of Cantwell, Alaska | 20:04 |
+| 🟢 2.0 | 24 km W of Cantwell, Alaska | 20:01 |
+| 🟢 0.8 | 12 km WNW of The Geysers, CA | 19:45 |
+| 🟢 1.1 | 8 km NW of The Geysers, CA | 19:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
