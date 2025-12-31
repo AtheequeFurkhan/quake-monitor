@@ -2,20 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2005:24:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-687ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2006:33:59%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-135ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 44 km N of Sutton-Alpine, Alaska | 05:12 |
-| 🟢 1.5 | 8 km N of Balmorhea, Texas | 05:00 |
-| 🟠 4.6 | 41 km SE of Iztapa, Guatemala | 04:42 |
-| 🟢 0.9 | 5 km WNW of The Geysers, CA | 04:41 |
-| 🟢 2.8 | 100 km N of Yakutat, Alaska | 04:35 |
-| 🟢 0.7 | 5 km WSW of Anza, CA | 04:33 |
-| 🟠 4.4 | 158 km NNW of Kendari, Indonesia | 04:30 |
-| 🟢 0.7 | 7 km NW of The Geysers, CA | 04:28 |
-| 🟢 2.3 | 10 km WSW of Rotan, Texas | 04:26 |
+| 🟢 0.7 | 10 km NW of The Geysers, CA | 06:23 |
+| 🟢 2.1 | 14 km N of Susanville, CA | 06:07 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 06:00 |
+| 🟢 2.5 | 13 km N of Susanville, CA | 05:59 |
+| 🔴 5.3 | 14 km NNW of Susanville, CA | 05:49 |
+| 🟢 2.2 | 7 km NW of The Geysers, CA | 05:48 |
+| 🟢 1.0 | 7 km NW of The Geysers, CA | 05:39 |
+| 🟢 1.7 | 4 km SE of Midland, Texas | 05:35 |
+| 🟢 1.1 | 15 km WSW of Ludlow, CA | 05:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
@@ -27,7 +27,7 @@
 - 🔥 **Wildfires**: [CR L Wildfire, Yuma, Colorado](https://irwin.doi.gov/observer/incidents/36bf5e21-134c-4543-9cea-b379e6bc1c6c) (Dec 18)
 - 🔥 **Wildfires**: [33 Wildfire, Yuma, Colorado](https://irwin.doi.gov/observer/incidents/3c182aca-b92b-4b39-85be-ac8382c0bec8) (Dec 18)
 - 🔥 **Wildfires**: [Terry Ranch Wildfire, Laramie, Wyoming](https://irwin.doi.gov/observer/incidents/358c6e78-82af-438f-9d9d-32bf895fc7ab) (Dec 18)
-- ⛈️ **Severe Storms**: [Tropical Cyclone Grant](https://www.metoc.navy.mil/jtwc/products/sh0926.tcw) (Dec 30)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Grant](https://www.metoc.navy.mil/jtwc/products/sh0926.tcw) (Dec 31)
 - 🔥 **Wildfires**: [RX Cook Road Prescribed Fire, Baxter, Arkansas](https://irwin.doi.gov/observer/incidents/0b3bcf66-5b22-485b-bf94-752fb42add7a) (Dec 16)
 - 🔥 **Wildfires**: [RX Optimus North Prescribed Fire, Stone, Arkansas](https://irwin.doi.gov/observer/incidents/6fa2952d-ef68-478e-b97e-bc3e45a866b5) (Dec 15)
 
