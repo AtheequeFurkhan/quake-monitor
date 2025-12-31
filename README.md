@@ -2,20 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2011:19:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-344ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2012:42:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-418ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 14 km W of Johannesburg, CA | 11:14 |
-| 🟢 2.4 | 16 km W of Willow, Alaska | 11:07 |
-| 🟢 1.8 | 0 km WNW of Pāhala, Hawaii | 11:02 |
-| 🟢 1.0 | 5 km WNW of The Geysers, CA | 10:57 |
-| 🟢 1.6 | 33 km NE of Amboy, Washington | 10:50 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 10:48 |
-| 🟢 1.1 | 6 km NW of The Geysers, CA | 10:43 |
-| 🟢 1.8 | 53 km ENE of Susitna North, Alaska | 10:32 |
-| 🟠 3.3 | 96 km E of McCarthy, Alaska | 10:19 |
+| 🟢 0.2 | 16 km SSW of La Quinta, CA | 12:26 |
+| 🟢 2.2 | 2 km N of The Geysers, CA | 12:21 |
+| 🟢 0.7 | 7 km WSW of Palm Springs, CA | 12:02 |
+| 🟢 0.5 | 12 km WNW of Anza, CA | 11:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
