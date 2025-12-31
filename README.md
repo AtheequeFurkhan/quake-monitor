@@ -2,17 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2003:26:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-300ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2031%20Dec%202025%2004:38:22%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-278ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 11 km NE of Pine Valley, CA | 03:05 |
-| 🟢 2.3 | 90 km WNW of Yakutat, Alaska | 02:52 |
-| 🟢 1.7 | 9 km NNE of Garden City, Texas | 02:48 |
-| 🟢 2.5 | 62 km WNW of Happy Valley, Alaska | 02:44 |
-| 🟢 2.1 | 89 km E of McCarthy, Alaska | 02:38 |
-| 🟢 0.9 | 20 km ESE of Little Lake, CA | 02:32 |
+| 🟢 0.7 | 5 km WSW of Anza, CA | 04:33 |
+| 🟢 0.7 | 7 km NW of The Geysers, CA | 04:28 |
+| 🟢 2.3 | 10 km WSW of Rotan, Texas | 04:26 |
+| 🟢 1.2 | 7 km N of Upland, CA | 04:23 |
+| 🟢 2.6 | 84 km NNW of Yakutat, Alaska | 04:04 |
+| 🔴 5.2 | west of Macquarie Island | 04:00 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 03:53 |
+| 🟢 0.9 | 6 km WSW of Lytle Creek, CA | 03:45 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
