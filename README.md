@@ -2,17 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2012:42:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-345ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2013:33:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-510ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 88 km E of McCarthy, Alaska | 12:31 |
-| 🟢 1.8 | 52 km S of Denali National Park, Alaska | 12:11 |
-| 🟢 2.2 | 5 km NW of The Geysers, CA | 12:08 |
-| 🟢 1.7 | 13 km SSE of Volcano, Hawaii | 12:03 |
-| 🟠 3.7 | 109 km N of Yakutat, Alaska | 12:00 |
-| 🟢 1.9 | 1 km ENE of Fuig, Puerto Rico | 11:49 |
+| 🟢 0.5 | 5 km WSW of Anza, CA | 13:25 |
+| 🟢 1.5 | 58 km N of Karluk, Alaska | 13:24 |
+| 🟢 2.3 | 29 km NNE of Skwentna, Alaska | 13:02 |
+| 🟢 2.2 | 24 km SW of Anchor Point, Alaska | 12:54 |
+| 🟠 3.7 | 111 km N of Yakutat, Alaska | 12:52 |
+| 🟢 2.0 | 68 km WNW of Karluk, Alaska | 12:46 |
+| 🟠 4.6 | 28 km WSW of La Concepción, Venezuela | 12:37 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
