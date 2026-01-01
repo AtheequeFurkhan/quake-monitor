@@ -2,22 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2008:29:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-242ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2009:24:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-218ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.7 | 53 km SW of Denali National Park, Alaska | 09:19 |
+| 🟢 3.0 | 111 km NNW of Yakutat, Alaska | 08:48 |
+| 🟢 2.9 | 101 km N of Yakutat, Alaska | 08:43 |
+| 🟢 2.0 | 16 km WNW of Skokomish, Washington | 08:43 |
+| 🟠 3.4 | 103 km NNW of San Antonio, Puerto Rico | 08:31 |
+| 🟢 1.2 | 11 km W of Pine Valley, CA | 08:28 |
+| 🟠 3.1 | 110 km NNW of Yakutat, Alaska | 08:26 |
 | 🟢 1.8 | 125 km SE of McCarthy, Alaska | 08:24 |
-| 🟢 2.9 | 103 km NNW of Yakutat, Alaska | 08:17 |
-| 🟢 2.6 | 113 km NNW of Yakutat, Alaska | 08:15 |
-| 🟢 0.7 | 23 km ESE of Anza, CA | 08:10 |
-| 🟢 1.5 | 6 km S of Chino, CA | 08:03 |
-| 🟢 1.0 | 2 km ESE of Covina, CA | 08:02 |
-| 🟢 0.7 | 10 km NNW of Borrego Springs, CA | 07:58 |
-| 🟠 3.2 | 101 km NNW of Yakutat, Alaska | 07:54 |
-| 🟢 3.0 | 110 km NNW of Yakutat, Alaska | 07:52 |
-| 🟢 1.1 | 18 km S of Trona, CA | 07:42 |
-| 🟠 3.3 | 103 km N of Yakutat, Alaska | 07:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
