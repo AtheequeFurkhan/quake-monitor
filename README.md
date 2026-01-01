@@ -2,19 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2010:22:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-540ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2011:18:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-181ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.8 | 33 km SW of Nanwalek, Alaska | 10:06 |
-| 🟢 1.9 | 11 km NE of Pāhala, Hawaii | 09:49 |
-| 🟢 1.4 | 80 km N of Karluk, Alaska | 09:36 |
-| 🟢 1.0 | 3 km NNW of Fontana, CA | 09:34 |
-| 🟢 0.7 | 9 km NW of The Geysers, CA | 09:34 |
-| 🟢 0.9 | 21 km E of Little Lake, CA | 09:31 |
-| 🟢 2.1 | 60 km ENE of Pedro Bay, Alaska | 09:26 |
-| 🟢 1.0 | 3 km NNW of Fontana, CA | 09:23 |
+| 🟢 1.7 | 19 km SSE of Fern Forest, Hawaii | 10:50 |
+| 🟠 5.0 | 25 km ENE of Kinablangan, Philippines | 10:46 |
+| 🟢 2.8 | 15 km NNW of Whites City, New Mexico | 10:36 |
+| 🟢 0.3 | 8 km SE of Winchester, CA | 10:35 |
+| 🟢 2.7 | 115 km NNW of Yakutat, Alaska | 10:20 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
