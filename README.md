@@ -2,21 +2,14 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2022:20:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-204ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2023:20:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-599ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 42 km ENE of San Clemente Is. (SE tip), CA | 22:10 |
-| 🟢 1.3 | 51 km SSW of Whites City, New Mexico | 21:53 |
-| 🟢 0.8 | 20 km E of Little Lake, CA | 21:51 |
-| 🟢 2.2 | 11 km ENE of Willow, Alaska | 21:47 |
-| 🟢 0.8 | 5 km WNW of The Geysers, CA | 21:46 |
-| 🟢 0.8 | 10 km WNW of The Geysers, CA | 21:39 |
-| 🟢 1.7 | 15 km SW of Hope, Alaska | 21:36 |
-| 🔴 5.2 | 107 km NNW of Isangel, Vanuatu | 21:35 |
-| 🟢 1.7 | 15 km ENE of Borrego Springs, CA | 21:33 |
-| 🟢 2.6 | 26 km E of Honaunau-Napoopoo, Hawaii | 21:22 |
+| 🟢 1.2 | 40 km NW of Toyah, Texas | 23:15 |
+| 🟢 2.2 | 26 km NW of Beluga, Alaska | 22:56 |
+| 🟢 1.9 | 64 km E of Port Alsworth, Alaska | 22:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
