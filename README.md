@@ -2,24 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2007:22:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-293ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2008:29:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-242ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 6 km W of Cobb, CA | 07:12 |
-| 🟢 1.9 | 11 km WNW of Bridgeport, California | 07:11 |
-| 🟢 1.8 | 17 km NE of Tres Pinos, CA | 07:09 |
-| 🟠 3.2 | 111 km NNW of Yakutat, Alaska | 07:08 |
-| 🟢 1.7 | 5 km SE of San Ramon, CA | 06:59 |
-| 🔴 5.3 | 108 km NNW of Yakutat, Alaska | 06:54 |
-| 🟢 1.9 | 40 km NE of Laupāhoehoe, Hawaii | 06:54 |
-| 🟢 1.3 | 2 km WNW of The Geysers, CA | 06:54 |
-| 🟠 4.8 | 109 km N of Yakutat, Alaska | 06:51 |
-| 🟠 4.4 | 112 km N of Yakutat, Alaska | 06:49 |
-| 🔴 5.7 | 105 km NNW of Yakutat, Alaska | 06:46 |
-| 🟢 0.8 | 2 km NNW of The Geysers, CA | 06:38 |
-| 🟢 0.4 | 9 km NW of The Geysers, CA | 06:28 |
+| 🟢 1.8 | 125 km SE of McCarthy, Alaska | 08:24 |
+| 🟢 2.9 | 103 km NNW of Yakutat, Alaska | 08:17 |
+| 🟢 2.6 | 113 km NNW of Yakutat, Alaska | 08:15 |
+| 🟢 0.7 | 23 km ESE of Anza, CA | 08:10 |
+| 🟢 1.5 | 6 km S of Chino, CA | 08:03 |
+| 🟢 1.0 | 2 km ESE of Covina, CA | 08:02 |
+| 🟢 0.7 | 10 km NNW of Borrego Springs, CA | 07:58 |
+| 🟠 3.2 | 101 km NNW of Yakutat, Alaska | 07:54 |
+| 🟢 3.0 | 110 km NNW of Yakutat, Alaska | 07:52 |
+| 🟢 1.1 | 18 km S of Trona, CA | 07:42 |
+| 🟠 3.3 | 103 km N of Yakutat, Alaska | 07:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
