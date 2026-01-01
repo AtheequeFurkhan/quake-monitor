@@ -2,10 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2005:27:22%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-418ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2006:33:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-468ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
-✅ *No significant seismic activity recorded in the past hour.*
+| Mag | Location | Time (UTC) |
+|:---:|:---|:---|
+| 🟢 0.4 | 9 km NW of The Geysers, CA | 06:28 |
+| 🟠 4.3 | 44 km NE of Jurm, Afghanistan | 06:14 |
+| 🟠 5.0 | 148 km NNE of Agats, Indonesia | 06:01 |
+| 🟢 0.5 | 6 km ENE of Aguanga, CA | 05:56 |
+| 🟢 0.8 | 10 km NW of The Geysers, CA | 05:48 |
+| 🟠 4.9 | 188 km SSE of Vilyuchinsk, Russia | 05:47 |
+| 🟢 2.5 | 4 km SSE of Indios, Puerto Rico | 05:42 |
+| 🟢 2.1 | 19 km NE of Maricopa, CA | 05:38 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
@@ -17,7 +26,7 @@
 - 🔥 **Wildfires**: [CR L Wildfire, Yuma, Colorado](https://irwin.doi.gov/observer/incidents/36bf5e21-134c-4543-9cea-b379e6bc1c6c) (Dec 18)
 - 🔥 **Wildfires**: [33 Wildfire, Yuma, Colorado](https://irwin.doi.gov/observer/incidents/3c182aca-b92b-4b39-85be-ac8382c0bec8) (Dec 18)
 - 🔥 **Wildfires**: [Terry Ranch Wildfire, Laramie, Wyoming](https://irwin.doi.gov/observer/incidents/358c6e78-82af-438f-9d9d-32bf895fc7ab) (Dec 18)
-- ⛈️ **Severe Storms**: [Tropical Cyclone Grant](https://www.metoc.navy.mil/jtwc/products/sh0926.tcw) (Dec 31)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Grant](https://www.metoc.navy.mil/jtwc/products/sh0926.tcw) (Jan 01)
 - 🔥 **Wildfires**: [RX Cook Road Prescribed Fire, Baxter, Arkansas](https://irwin.doi.gov/observer/incidents/0b3bcf66-5b22-485b-bf94-752fb42add7a) (Dec 16)
 - 🔥 **Wildfires**: [RX Optimus North Prescribed Fire, Stone, Arkansas](https://irwin.doi.gov/observer/incidents/6fa2952d-ef68-478e-b97e-bc3e45a866b5) (Dec 15)
 
