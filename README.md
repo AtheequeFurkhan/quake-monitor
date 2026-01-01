@@ -2,17 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2019:16:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-150ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2020:23:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-465ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 12 km ESE of Naalehu, Hawaii | 19:11 |
-| 🟢 0.8 | 12 km SE of Coalinga, CA | 18:58 |
-| 🟢 2.1 | 38 km WNW of Anchor Point, Alaska | 18:46 |
-| 🟢 2.0 | 10 km ESE of Pāhala, Hawaii | 18:45 |
-| 🟢 1.1 | 1 km NNW of The Geysers, CA | 18:45 |
-| 🟢 2.2 | 32 km E of Pedro Bay, Alaska | 18:21 |
+| 🟢 1.6 | 72 km W of Karluk, Alaska | 20:19 |
+| 🟢 1.4 | 10 km WNW of The Geysers, CA | 20:17 |
+| 🟢 1.2 | 4 km W of Cobb, CA | 20:06 |
+| 🟢 0.7 | 9 km WNW of Cobb, CA | 20:04 |
+| 🟢 1.9 | 80 km NW of Yakutat, Alaska | 20:01 |
+| 🟢 2.7 | 58 km S of Whites City, New Mexico | 19:52 |
+| 🟢 1.8 | 22 km NNW of Tatitlek, Alaska | 19:51 |
+| 🟢 1.9 | 15 km S of Tres Pinos, CA | 19:39 |
+| 🟢 1.6 | 2 km NE of The Geysers, CA | 19:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
