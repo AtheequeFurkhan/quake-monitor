@@ -2,20 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2014:19:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-198ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2015:21:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-221ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 11 km SSE of Anza, CA | 14:17 |
-| 🟢 0.6 | 1 km NNE of The Geysers, CA | 14:16 |
-| 🟢 2.3 | 27 km WNW of Clam Gulch, Alaska | 14:15 |
-| 🟢 2.4 | 50 km W of Karluk, Alaska | 14:12 |
-| 🟢 2.5 | 48 km W of Karluk, Alaska | 14:12 |
-| 🟢 1.5 | 6 km WNW of Cobb, CA | 13:45 |
-| 🟠 4.4 | 12 km E of Lota, Chile | 13:25 |
-| 🟢 0.5 | 5 km WSW of Anza, CA | 13:25 |
-| 🟢 1.5 | 58 km N of Karluk, Alaska | 13:24 |
+| 🟢 2.3 | 10 km W of Susitna North, Alaska | 15:14 |
+| 🟢 0.7 | 23 km ESE of Ridgecrest, CA | 15:03 |
+| 🟢 2.2 | 30 km NNE of Karluk, Alaska | 14:57 |
+| 🟢 1.5 | 6 km N of Big Bear Lake, CA | 14:54 |
+| 🟢 0.5 | 20 km NNE of Ridgecrest, CA | 14:53 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
