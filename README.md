@@ -2,21 +2,14 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2003:50:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-509ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2004:48:22%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-498ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 2 km N of The Geysers, CA | 03:39 |
-| 🟢 1.1 | 2 km N of The Geysers, CA | 03:38 |
-| 🟢 0.8 | 12 km NE of Little Lake, CA | 03:31 |
-| 🟢 1.9 | 12 km SSW of Alder, Washington | 03:30 |
-| 🟢 0.4 | 6 km ESE of Valle Vista, CA | 03:21 |
-| 🟢 1.0 | 1 km NNE of The Geysers, CA | 03:11 |
-| 🟢 2.5 | 2 km NNW of Las Marias, Puerto Rico | 03:08 |
-| 🔴 5.4 | Banda Sea | 03:05 |
-| 🟢 1.3 | 15 km N of Warner Springs, CA | 02:58 |
-| 🟠 5.0 | 207 km SE of Pondaguitan, Philippines | 02:56 |
+| 🟢 1.6 | 16 km WSW of Ludlow, CA | 04:18 |
+| 🟢 2.4 | 50 km N of Chickaloon, Alaska | 04:13 |
+| 🟢 1.1 | 16 km WSW of Ludlow, CA | 03:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
