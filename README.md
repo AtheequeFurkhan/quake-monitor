@@ -2,21 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2021:19:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-472ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2022:20:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-204ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.6 | 4 km NNW of Julian, CA | 21:14 |
-| 🟢 1.6 | 15 km E of Seven Trees, CA | 21:14 |
-| 🟢 1.6 | 8 km SW of Grapeview, Washington | 20:57 |
-| 🟢 1.9 | 9 km SW of Grapeview, Washington | 20:55 |
-| 🟢 0.7 | 2 km NW of The Geysers, CA | 20:49 |
-| 🟢 1.8 | 58 km WSW of Alamo, Nevada | 20:44 |
-| 🟢 0.9 | 1 km ENE of Cabazon, CA | 20:25 |
-| 🟢 1.9 | 31 km WSW of Kahaluu-Keauhou, Hawaii | 20:22 |
-| 🟢 2.1 | 85 km NW of Yakutat, Alaska | 20:22 |
-| 🟢 1.6 | 72 km W of Karluk, Alaska | 20:19 |
+| 🟢 1.8 | 42 km ENE of San Clemente Is. (SE tip), CA | 22:10 |
+| 🟢 1.3 | 51 km SSW of Whites City, New Mexico | 21:53 |
+| 🟢 0.8 | 20 km E of Little Lake, CA | 21:51 |
+| 🟢 2.2 | 11 km ENE of Willow, Alaska | 21:47 |
+| 🟢 0.8 | 5 km WNW of The Geysers, CA | 21:46 |
+| 🟢 0.8 | 10 km WNW of The Geysers, CA | 21:39 |
+| 🟢 1.7 | 15 km SW of Hope, Alaska | 21:36 |
+| 🔴 5.2 | 107 km NNW of Isangel, Vanuatu | 21:35 |
+| 🟢 1.7 | 15 km ENE of Borrego Springs, CA | 21:33 |
+| 🟢 2.6 | 26 km E of Honaunau-Napoopoo, Hawaii | 21:22 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
