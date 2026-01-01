@@ -2,16 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2015:21:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-221ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2016:27:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-183ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.3 | 10 km W of Susitna North, Alaska | 15:14 |
-| 🟢 0.7 | 23 km ESE of Ridgecrest, CA | 15:03 |
-| 🟢 2.2 | 30 km NNE of Karluk, Alaska | 14:57 |
-| 🟢 1.5 | 6 km N of Big Bear Lake, CA | 14:54 |
-| 🟢 0.5 | 20 km NNE of Ridgecrest, CA | 14:53 |
+| 🟢 2.0 | 5 km NNE of Castaic, CA | 16:18 |
+| 🟢 2.2 | 56 km WNW of Nanwalek, Alaska | 16:13 |
+| 🟢 2.2 | 2 km NNW of Guayanilla, Puerto Rico | 16:09 |
+| 🟢 3.0 | 15 km SSW of Larsen Bay, Alaska | 16:09 |
+| 🟢 1.1 | 10 km NE of San Martin, CA | 15:58 |
+| 🟢 2.7 | 107 km N of Yakutat, Alaska | 15:56 |
+| 🟢 1.2 | 8 km NW of The Geysers, CA | 15:48 |
+| 🟠 3.1 | 122 km NNW of Yakutat, Alaska | 15:48 |
+| 🟢 2.7 | 106 km N of Yakutat, Alaska | 15:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
