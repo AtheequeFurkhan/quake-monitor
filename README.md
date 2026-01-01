@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2009:24:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-218ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2001%20Jan%202026%2010:22:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-540ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 53 km SW of Denali National Park, Alaska | 09:19 |
-| 🟢 3.0 | 111 km NNW of Yakutat, Alaska | 08:48 |
-| 🟢 2.9 | 101 km N of Yakutat, Alaska | 08:43 |
-| 🟢 2.0 | 16 km WNW of Skokomish, Washington | 08:43 |
-| 🟠 3.4 | 103 km NNW of San Antonio, Puerto Rico | 08:31 |
-| 🟢 1.2 | 11 km W of Pine Valley, CA | 08:28 |
-| 🟠 3.1 | 110 km NNW of Yakutat, Alaska | 08:26 |
-| 🟢 1.8 | 125 km SE of McCarthy, Alaska | 08:24 |
+| 🟢 2.8 | 33 km SW of Nanwalek, Alaska | 10:06 |
+| 🟢 1.9 | 11 km NE of Pāhala, Hawaii | 09:49 |
+| 🟢 1.4 | 80 km N of Karluk, Alaska | 09:36 |
+| 🟢 1.0 | 3 km NNW of Fontana, CA | 09:34 |
+| 🟢 0.7 | 9 km NW of The Geysers, CA | 09:34 |
+| 🟢 0.9 | 21 km E of Little Lake, CA | 09:31 |
+| 🟢 2.1 | 60 km ENE of Pedro Bay, Alaska | 09:26 |
+| 🟢 1.0 | 3 km NNW of Fontana, CA | 09:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
