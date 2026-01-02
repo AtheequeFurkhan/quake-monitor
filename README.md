@@ -2,14 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2002%20Jan%202026%2010:21:31%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-484ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2002%20Jan%202026%2011:18:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-175ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 86 km N of Karluk, Alaska | 10:18 |
-| 🟢 1.7 | 42 km NW of Petersville, Alaska | 10:00 |
-| 🟢 0.7 | 14 km W of Johannesburg, CA | 09:40 |
+| 🟢 1.8 | 11 km WSW of Stanton, Texas | 11:08 |
+| 🟢 1.4 | 37 km NW of Toyah, Texas | 11:01 |
+| 🟢 0.9 | 14 km W of Johannesburg, CA | 10:59 |
+| 🟢 1.6 | 23 km ENE of Minto, Alaska | 10:49 |
+| 🟢 0.2 | 9 km S of Idyllwild, CA | 10:35 |
+| 🟢 1.1 | 3 km SSE of Brawley, CA | 10:32 |
+| 🟢 0.5 | 9 km SW of Idyllwild, CA | 10:32 |
+| 🟢 0.9 | 22 km S of Trona, CA | 10:28 |
+| 🟢 1.3 | 54 km NNW of Karluk, Alaska | 10:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
