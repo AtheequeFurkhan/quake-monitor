@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2002%20Jan%202026%2013:32:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-217ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2002%20Jan%202026%2014:20:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-377ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 42 km NW of Toyah, Texas | 13:10 |
-| 🟢 2.2 | 55 km SSE of Whites City, New Mexico | 13:03 |
-| 🟢 1.2 | 4 km N of Mira Loma, CA | 12:56 |
-| 🟢 1.6 | 21 km ESE of Denali National Park, Alaska | 12:44 |
-| 🟢 1.4 | 10 km NW of Avenal, CA | 12:32 |
+| 🔴 6.5 | 4 km NNW of Rancho Viejo, Mexico | 13:58 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
+- ⛈️ **Severe Storms**: [Tropical Cyclone Iggy](https://www.metoc.navy.mil/jtwc/products/sh1126.tcw) (Jan 02)
 - 🔥 **Wildfires**: [Addington Wildfire, Cherokee, Oklahoma](https://irwin.doi.gov/observer/incidents/e1ad637f-6723-4f32-8d3a-689bb90a4850) (Dec 23)
 - 🔥 **Wildfires**: [Sassafras Fire Wildfire, Latimer, Oklahoma](https://irwin.doi.gov/observer/incidents/9e5ca387-8a35-48c9-ac66-efd0ea9203b0) (Dec 21)
 - 🔥 **Wildfires**: [Salt Creek Wildfire, Blaine, Oklahoma](https://irwin.doi.gov/observer/incidents/bcd81a6b-c82e-404d-86d4-b9ad45cd37dd) (Dec 19)
@@ -25,7 +22,6 @@
 - 🔥 **Wildfires**: [Terry Ranch Wildfire, Laramie, Wyoming](https://irwin.doi.gov/observer/incidents/358c6e78-82af-438f-9d9d-32bf895fc7ab) (Dec 18)
 - ⛈️ **Severe Storms**: [Tropical Cyclone Grant](https://www.metoc.navy.mil/jtwc/products/sh0926.tcw) (Jan 02)
 - 🔥 **Wildfires**: [RX Cook Road Prescribed Fire, Baxter, Arkansas](https://irwin.doi.gov/observer/incidents/0b3bcf66-5b22-485b-bf94-752fb42add7a) (Dec 16)
-- 🔥 **Wildfires**: [RX Optimus North Prescribed Fire, Stone, Arkansas](https://irwin.doi.gov/observer/incidents/6fa2952d-ef68-478e-b97e-bc3e45a866b5) (Dec 15)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
