@@ -2,15 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2002%20Jan%202026%2008:29:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-169ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2002%20Jan%202026%2009:24:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-483ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 52 km N of Chickaloon, Alaska | 08:05 |
-| 🟠 3.3 | 11 km E of Pāhala, Hawaii | 08:00 |
-| 🟢 1.5 | 24 km SSE of Midland, Texas | 07:52 |
-| 🟢 2.2 | 19 km NNW of Fillmore, CA | 07:40 |
+| 🟢 1.7 | 27 km ENE of Chase, Alaska | 09:19 |
+| 🟢 2.3 | 11 km WSW of Stanton, Texas | 09:07 |
+| 🟢 2.2 | 11 km WSW of Stanton, Texas | 09:07 |
+| 🟢 2.5 | 74 km ESE of Ugashik, Alaska | 08:59 |
+| 🟢 2.9 | 44 km NW of Ninilchik, Alaska | 08:49 |
+| 🟢 1.5 | 35 km SSE of Mina, Nevada | 08:39 |
+| 🟢 1.5 | 51 km WNW of Toyah, Texas | 08:26 |
+| 🟠 3.1 | 114 km N of Yakutat, Alaska | 08:24 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
