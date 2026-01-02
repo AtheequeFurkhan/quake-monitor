@@ -2,15 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2002%20Jan%202026%2019:14:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-510ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2002%20Jan%202026%2020:22:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-192ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 2 km ENE of Berkeley, CA | 18:52 |
-| 🟢 1.2 | 26 km SSW of Ocotillo Wells, CA | 18:49 |
-| 🟠 4.9 | 126 km WNW of Tual, Indonesia | 18:29 |
-| 🟢 1.4 | 16 km ESE of Julian, CA | 18:13 |
+| 🟢 3.0 | 108 km WNW of Yakutat, Alaska | 20:13 |
+| 🟢 1.4 | 57 km W of Karluk, Alaska | 20:13 |
+| 🟢 2.0 | 45 km S of Port Graham, Alaska | 19:53 |
+| 🟠 4.2 | 66 km E of Nikolski, Alaska | 19:45 |
+| 🟢 1.7 | 75 km W of Karluk, Alaska | 19:34 |
+| 🟢 1.5 | 73 km NW of Rachel, Nevada | 19:32 |
+| 🟢 2.1 | 46 km W of Cantwell, Alaska | 19:27 |
+| 🟢 1.9 | 43 km ENE of Susitna North, Alaska | 19:25 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
