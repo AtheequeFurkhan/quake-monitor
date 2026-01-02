@@ -2,19 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2002%20Jan%202026%2020:22:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-192ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2002%20Jan%202026%2021:16:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-402ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 3.0 | 108 km WNW of Yakutat, Alaska | 20:13 |
-| 🟢 1.4 | 57 km W of Karluk, Alaska | 20:13 |
-| 🟢 2.0 | 45 km S of Port Graham, Alaska | 19:53 |
-| 🟠 4.2 | 66 km E of Nikolski, Alaska | 19:45 |
-| 🟢 1.7 | 75 km W of Karluk, Alaska | 19:34 |
-| 🟢 1.5 | 73 km NW of Rachel, Nevada | 19:32 |
-| 🟢 2.1 | 46 km W of Cantwell, Alaska | 19:27 |
-| 🟢 1.9 | 43 km ENE of Susitna North, Alaska | 19:25 |
+| 🟢 1.4 | 87 km W of Karluk, Alaska | 20:55 |
+| 🟢 2.3 | 61 km SW of Cantwell, Alaska | 20:47 |
+| 🟢 1.9 | 38 km SSE of Naalehu, Hawaii | 20:44 |
+| 🟢 1.5 | 54 km ESE of Denali Park, Alaska | 20:37 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
