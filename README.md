@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2003%20Jan%202026%2018:28:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-208ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2003%20Jan%202026%2019:15:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-349ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.3 | 8 km ENE of North Tustin, CA | 19:10 |
+| 🟢 0.8 | 7 km SSE of Redlands, CA | 18:36 |
+| 🟢 2.0 | 14 km N of Susanville, CA | 18:35 |
+| 🟢 1.5 | 14 km NW of Coyanosa, Texas | 18:31 |
+| 🟢 2.2 | 16 km NW of Stanton, Texas | 18:30 |
+| 🟢 2.0 | 16 km NW of Stanton, Texas | 18:29 |
 | 🟢 1.1 | 2 km SW of Cobb, CA | 18:16 |
-| 🟢 1.7 | 14 km NNW of Susanville, CA | 18:13 |
-| 🟢 1.6 | 114 km NW of Yakutat, Alaska | 18:06 |
-| 🟢 1.7 | 10 km ENE of Naalehu, Hawaii | 18:00 |
-| 🟢 1.6 | 1 km S of Salcha, Alaska | 17:57 |
-| 🟢 1.3 | 4 km W of Cobb, CA | 17:42 |
-| 🟢 2.4 | 41 km WSW of Karluk, Alaska | 17:32 |
-| 🟢 -0.1 | 10 km SE of Winchester, CA | 17:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
