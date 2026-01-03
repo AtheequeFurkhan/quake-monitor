@@ -2,23 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2003%20Jan%202026%2010:20:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-354ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2003%20Jan%202026%2011:17:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-490ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 21 km E of Little Lake, CA | 10:15 |
-| 🟢 2.3 | 22 km SE of Burney, CA | 10:14 |
-| 🟢 2.7 | 52 km SE of Chignik, Alaska | 10:10 |
-| 🟢 0.6 | 3 km SW of Ocotillo, CA | 10:08 |
-| 🟢 2.7 | 60 km WNW of Elfin Cove, Alaska | 10:04 |
-| 🟢 1.8 | 14 km NNW of Four Mile Road, Alaska | 10:02 |
-| 🟢 2.1 | 104 km W of Skwentna, Alaska | 10:00 |
-| 🟢 0.3 | 11 km WSW of Anza, CA | 09:57 |
-| 🟢 1.7 | 77 km NW of Yakutat, Alaska | 09:55 |
-| 🟢 1.9 | 55 km SSW of Whites City, New Mexico | 09:43 |
-| 🟢 1.6 | 23 km SSW of Westbrook, Texas | 09:25 |
-| 🟢 2.1 | 41 km NW of Ninilchik, Alaska | 09:21 |
+| 🟢 1.7 | 44 km SSE of Nelchina, Alaska | 11:10 |
+| 🟢 0.3 | 9 km SSW of Idyllwild, CA | 11:07 |
+| 🟢 0.8 | 13 km SSW of Borrego Springs, CA | 10:44 |
+| 🟢 0.5 | 21 km E of Little Lake, CA | 10:35 |
+| 🟢 1.0 | 2 km NW of The Geysers, CA | 10:27 |
+| 🟢 1.1 | 17 km WSW of Johannesburg, CA | 10:18 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
