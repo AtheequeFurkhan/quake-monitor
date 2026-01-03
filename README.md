@@ -2,18 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2003%20Jan%202026%2005:21:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-228ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2003%20Jan%202026%2006:31:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-282ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 8 km W of Cobb, CA | 05:07 |
-| 🟢 1.8 | 72 km N of Petersville, Alaska | 05:05 |
-| 🟢 2.0 | 50 km W of Nanwalek, Alaska | 04:58 |
-| 🟢 2.0 | 47 km SSE of Denali National Park, Alaska | 04:32 |
-| 🟢 1.9 | 25 km SSE of Trona, CA | 04:32 |
-| 🟢 0.6 | 13 km NE of Ridgecrest, CA | 04:31 |
-| 🟢 2.9 | 28 km ENE of Beluga, Alaska | 04:22 |
+| 🟢 0.9 | 14 km W of Johannesburg, CA | 06:09 |
+| 🟢 1.8 | 15 km WNW of Volcano, Hawaii | 06:08 |
+| 🟢 2.1 | 7 km NW of The Geysers, CA | 06:03 |
+| 🟢 2.0 | 54 km NNW of Petersville, Alaska | 06:01 |
+| 🟢 0.5 | 84 km NNW of Karluk, Alaska | 05:49 |
+| 🟠 3.5 | 112 km NNW of Yakutat, Alaska | 05:48 |
+| 🟢 0.9 | 7 km ENE of Ridgecrest, CA | 05:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
@@ -26,7 +26,7 @@
 - 🔥 **Wildfires**: [CR L Wildfire, Yuma, Colorado](https://irwin.doi.gov/observer/incidents/36bf5e21-134c-4543-9cea-b379e6bc1c6c) (Dec 18)
 - 🔥 **Wildfires**: [33 Wildfire, Yuma, Colorado](https://irwin.doi.gov/observer/incidents/3c182aca-b92b-4b39-85be-ac8382c0bec8) (Dec 18)
 - 🔥 **Wildfires**: [Terry Ranch Wildfire, Laramie, Wyoming](https://irwin.doi.gov/observer/incidents/358c6e78-82af-438f-9d9d-32bf895fc7ab) (Dec 18)
-- ⛈️ **Severe Storms**: [Tropical Cyclone Grant](https://www.metoc.navy.mil/jtwc/products/sh0926.tcw) (Jan 02)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Grant](https://www.metoc.navy.mil/jtwc/products/sh0926.tcw) (Jan 03)
 - 🔥 **Wildfires**: [RX Cook Road Prescribed Fire, Baxter, Arkansas](https://irwin.doi.gov/observer/incidents/0b3bcf66-5b22-485b-bf94-752fb42add7a) (Dec 16)
 
 ---
