@@ -2,17 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2003%20Jan%202026%2008:26:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-465ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2003%20Jan%202026%2009:20:22%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-231ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.7 | 8 km SSE of South Van Horn, Alaska | 08:20 |
-| 🟢 0.2 | 5 km WSW of Anza, CA | 08:18 |
-| 🟢 2.2 | 6 km WNW of Rotan, Texas | 08:05 |
-| 🟢 2.0 | 18 km WSW of Johannesburg, CA | 07:43 |
-| 🟢 0.5 | 9 km SW of Idyllwild, CA | 07:39 |
-| 🟢 2.6 | 135 km E of Chignik, Alaska | 07:34 |
+| 🟢 1.0 | 3 km NNE of Ocotillo Wells, CA | 09:08 |
+| 🟢 2.1 | 50 km W of Tyonek, Alaska | 09:03 |
+| 🟢 1.9 | 14 km WSW of Big Lake, Alaska | 08:50 |
+| 🟠 4.5 | 29 km SSE of San Miguel, Ecuador | 08:46 |
+| 🟢 1.7 | 14 km S of Fern Forest, Hawaii | 08:43 |
+| 🟢 0.6 | 9 km SW of Idyllwild, CA | 08:40 |
+| 🟢 1.7 | 7 km NNE of Pāhala, Hawaii | 08:37 |
+| 🟢 2.7 | 96 km SW of Akhiok, Alaska | 08:36 |
+| 🟢 2.0 | 72 km W of Karluk, Alaska | 08:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
