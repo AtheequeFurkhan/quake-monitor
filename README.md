@@ -2,17 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2003%20Jan%202026%2011:17:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-490ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2003%20Jan%202026%2012:39:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-517ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 44 km SSE of Nelchina, Alaska | 11:10 |
-| 🟢 0.3 | 9 km SSW of Idyllwild, CA | 11:07 |
-| 🟢 0.8 | 13 km SSW of Borrego Springs, CA | 10:44 |
-| 🟢 0.5 | 21 km E of Little Lake, CA | 10:35 |
-| 🟢 1.0 | 2 km NW of The Geysers, CA | 10:27 |
-| 🟢 1.1 | 17 km WSW of Johannesburg, CA | 10:18 |
+| 🟢 0.3 | 6 km SW of Idyllwild, CA | 12:35 |
+| 🟢 2.0 | 66 km ESE of Egegik, Alaska | 12:26 |
+| 🟢 1.1 | 26 km ENE of McKinney Acres, Texas | 12:01 |
+| 🟢 2.3 | 7 km NNW of Nikolaevsk, Alaska | 11:48 |
+| 🟢 1.7 | 24 km NW of Eureka Roadhouse, Alaska | 11:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
