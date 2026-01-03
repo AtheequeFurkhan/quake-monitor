@@ -2,14 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2002%20Jan%202026%2023:19:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-529ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2003%20Jan%202026%2001:38:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-492ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 34 km WNW of Nikiski, Alaska | 23:10 |
-| 🟢 1.6 | 74 km ENE of Tonopah, Nevada | 22:49 |
-| 🟢 2.5 | 47 km SSE of Denali National Park, Alaska | 22:46 |
+| 🟢 2.0 | 27 km WNW of Central, Alaska | 01:35 |
+| 🟢 1.8 | 22 km NNE of Karluk, Alaska | 01:34 |
+| 🟢 0.8 | 17 km WSW of Ester, Alaska | 01:34 |
+| 🟢 1.8 | 47 km E of Pedro Bay, Alaska | 01:28 |
+| 🟢 0.2 | 61 km WNW of Happy Valley, Alaska | 01:21 |
+| 🟢 2.3 | 102 km SSE of Ugashik, Alaska | 01:14 |
+| 🟢 0.5 | 72 km WNW of Happy Valley, Alaska | 01:04 |
+| 🟢 1.6 | 54 km W of Nanwalek, Alaska | 00:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
