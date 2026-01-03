@@ -2,18 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2003%20Jan%202026%2019:15:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-349ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2003%20Jan%202026%2020:22:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-431ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 8 km ENE of North Tustin, CA | 19:10 |
-| 🟢 0.8 | 7 km SSE of Redlands, CA | 18:36 |
-| 🟢 2.0 | 14 km N of Susanville, CA | 18:35 |
-| 🟢 1.5 | 14 km NW of Coyanosa, Texas | 18:31 |
-| 🟢 2.2 | 16 km NW of Stanton, Texas | 18:30 |
-| 🟢 2.0 | 16 km NW of Stanton, Texas | 18:29 |
-| 🟢 1.1 | 2 km SW of Cobb, CA | 18:16 |
+| 🟢 1.6 | 17 km SSE of Stanton, Texas | 20:00 |
+| 🟢 2.0 | 37 km NW of Kalaoa, Hawaii | 19:49 |
+| 🟢 1.2 | 8 km ESE of Valle Vista, CA | 19:48 |
+| 🟢 1.9 | 51 km W of Karluk, Alaska | 19:38 |
+| 🟢 1.9 | 14 km W of Arbuckle, CA | 19:22 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
