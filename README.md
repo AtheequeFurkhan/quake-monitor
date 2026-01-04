@@ -2,18 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2004%20Jan%202026%2015:19:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-10.001s-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2004%20Jan%202026%2016:24:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-10.01s-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.6 | 9 km WNW of The Geysers, CA | 15:15 |
-| 🟢 0.5 | 12 km SSE of Anza, CA | 15:09 |
-| 🟠 4.4 | 37 km NW of Camiña, Chile | 14:50 |
-| 🟢 2.1 | 111 km SE of McCarthy, Alaska | 14:29 |
-| 🟢 1.4 | 122 km S of McCarthy, Alaska | 14:28 |
-| 🟢 0.6 | 13 km SSE of Anza, CA | 14:20 |
-| 🟠 4.8 | 38 km WSW of Jiquilillo, Nicaragua | 14:20 |
+| 🟢 1.0 | 6 km WNW of Cobb, CA | 16:07 |
+| 🟢 1.2 | 83 km NW of Karluk, Alaska | 16:04 |
+| 🟢 0.9 | 14 km ENE of Ridgecrest, CA | 15:59 |
+| 🟢 2.0 | 6 km E of Susitna North, Alaska | 15:55 |
+| 🟢 0.7 | 83 km NW of Karluk, Alaska | 15:48 |
+| 🟢 0.9 | 2 km ENE of Loma Linda, CA | 15:47 |
+| 🟢 1.4 | 56 km SSE of Whites City, New Mexico | 15:36 |
+| 🟢 2.8 | 24 km SW of Big Water, Utah | 15:35 |
+| 🟢 1.8 | 16 km NNE of Pāhala, Hawaii | 15:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
