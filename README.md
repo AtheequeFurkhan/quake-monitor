@@ -2,15 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2004%20Jan%202026%2013:29:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-484ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2004%20Jan%202026%2014:18:31%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-492ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.3 | 6 km W of Cobb, CA | 13:58 |
+| 🟢 0.9 | 9 km S of Idyllwild, CA | 13:45 |
+| 🟢 1.5 | 42 km NNW of Karluk, Alaska | 13:33 |
 | 🟢 2.8 | 32 km ENE of Igiugig, Alaska | 13:26 |
-| 🔴 5.8 | Prince Edward Islands region | 13:07 |
-| 🟢 1.9 | 18 km NNE of Beluga, Alaska | 12:44 |
-| 🟢 1.3 | 8 km NW of The Geysers, CA | 12:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
