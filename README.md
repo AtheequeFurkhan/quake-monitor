@@ -2,14 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2005%20Jan%202026%2022:20:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-568ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2005%20Jan%202026%2023:20:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-596ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 55 km SE of Cantwell, Alaska | 22:01 |
-| 🟢 2.6 | 23 km SW of Trapper Creek, Alaska | 21:32 |
-| 🟢 0.7 | 6 km WSW of Anza, CA | 21:22 |
+| 🟢 1.8 | 6 km SSE of Pāhala, Hawaii | 23:03 |
+| 🟢 2.3 | 53 km NW of Tatitlek, Alaska | 22:49 |
+| 🟢 2.8 | 1 km SW of Guayanilla, Puerto Rico | 22:34 |
+| 🔴 5.2 | northwest of the Kuril Islands | 22:32 |
+| 🟢 1.5 | 4 km SSW of Anderson Springs, CA | 22:25 |
+| 🟢 1.3 | 6 km WNW of Cobb, CA | 22:21 |
+| 🟢 1.2 | 2 km WNW of Cabazon, CA | 22:20 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
