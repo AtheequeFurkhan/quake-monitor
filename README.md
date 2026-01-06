@@ -2,19 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2005:24:47%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-476ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2006:34:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-271ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 5 km NNW of The Geysers, CA | 05:17 |
-| 🟢 2.1 | 66 km S of Glacier View, Alaska | 05:16 |
-| 🟢 1.6 | 24 km ENE of San Ardo, CA | 05:10 |
-| 🟢 1.8 | 62 km S of Glacier View, Alaska | 05:08 |
-| 🟢 2.9 | 49 km WNW of Anchor Point, Alaska | 05:04 |
-| 🟢 2.6 | 2 km ENE of Madison, Ohio | 04:50 |
-| 🟠 4.9 | Bonin Islands, Japan region | 04:31 |
-| 🟢 1.7 | 21 km E of Little Lake, CA | 04:26 |
+| 🟢 1.4 | 8 km NNW of Ventura, CA | 06:27 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 06:24 |
+| 🟢 2.9 | 38 km WSW of Nanwalek, Alaska | 06:17 |
+| 🟢 2.6 | 24 km ENE of Honaunau-Napoopoo, Hawaii | 06:16 |
+| 🟢 2.0 | 69 km W of Tyonek, Alaska | 06:07 |
+| 🟠 3.0 | 74 km N of San Juan, Puerto Rico | 05:41 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
