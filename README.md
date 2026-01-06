@@ -2,23 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2007:25:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-214ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2008:31:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-521ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 6 km NW of The Geysers, CA | 07:12 |
-| 🟢 1.8 | 6 km NW of The Geysers, CA | 07:10 |
-| 🟢 1.7 | 60 km S of Whites City, New Mexico | 07:07 |
-| 🔴 5.2 | 182 km SSW of Merizo Village, Guam | 07:01 |
-| 🟢 0.8 | 8 km S of Olancha, CA | 06:59 |
-| 🟠 3.1 | 68 km N of Tierras Nuevas Poniente, Puerto Rico | 06:54 |
-| 🔴 5.1 | south of the Kermadec Islands | 06:52 |
-| 🟠 3.1 | 74 km N of Tierras Nuevas Poniente, Puerto Rico | 06:47 |
-| 🟠 3.1 | 70 km N of Tierras Nuevas Poniente, Puerto Rico | 06:28 |
-| 🟢 1.4 | 8 km NNW of Ventura, CA | 06:27 |
-| 🟢 2.7 | 72 km N of Tierras Nuevas Poniente, Puerto Rico | 06:26 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 06:24 |
+| 🟢 2.3 | 17 km W of Anchorage, Alaska | 08:16 |
+| 🟠 4.5 | 34 km ENE of Port Alsworth, Alaska | 08:08 |
+| 🟢 1.5 | 79 km NNW of Karluk, Alaska | 07:50 |
+| 🟢 1.1 | 1 km NNW of The Geysers, CA | 07:48 |
+| 🟢 0.9 | 11 km ESE of Running Springs, CA | 07:47 |
+| 🟢 2.5 | 28 km ESE of Susitna North, Alaska | 07:41 |
+| 🟢 0.7 | 15 km ENE of Ridgecrest, CA | 07:36 |
+| 🟢 1.9 | 5 km N of Huron, CA | 07:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
