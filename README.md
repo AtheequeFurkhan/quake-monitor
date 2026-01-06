@@ -2,19 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2001:44:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-342ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2003:38:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-351ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 7 km N of Fontana, CA | 01:36 |
-| 🟠 5.0 | 14 km S of Matsue, Japan | 01:28 |
-| 🔴 5.8 | 14 km SSE of Yasugichō, Japan | 01:18 |
-| 🟢 2.2 | 9 km E of Willow, Alaska | 01:13 |
-| 🟢 0.8 | 4 km SSW of Idyllwild, CA | 01:03 |
-| 🟢 1.6 | 87 km SE of McCarthy, Alaska | 01:00 |
-| 🟢 2.7 | 111 km N of Yakutat, Alaska | 01:00 |
-| 🟢 2.3 | 6 km SSE of Point MacKenzie, Alaska | 00:46 |
+| 🟢 2.6 | 6 km WNW of Bayview-Montalvin, CA | 03:18 |
+| 🟠 5.0 | 260 km N of Saipan, Northern Mariana Islands | 03:14 |
+| 🟢 1.7 | 15 km W of Johannesburg, CA | 03:08 |
+| 🟠 4.8 | 217 km E of Levuka, Fiji | 02:58 |
+| 🟢 2.5 | 8 km SE of Sparks, Oklahoma | 02:53 |
+| 🟢 1.3 | 84 km NNW of Karluk, Alaska | 02:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
