@@ -2,25 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2011:18:59%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-620ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2012:43:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-231ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 24 km N of Tehachapi, CA | 11:15 |
-| 🟢 0.8 | 3 km NNE of Fontana, CA | 11:13 |
-| 🟢 0.7 | 14 km ENE of Little Lake, CA | 10:57 |
-| 🟠 4.8 | Rat Islands, Aleutian Islands, Alaska | 10:57 |
-| 🟢 0.8 | 2 km NNW of The Geysers, CA | 10:54 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 10:46 |
-| 🟢 0.7 | 8 km W of Cobb, CA | 10:44 |
-| 🟢 1.9 | 44 km SE of Denali National Park, Alaska | 10:39 |
-| 🟢 1.5 | 3 km WSW of Anderson Springs, CA | 10:36 |
-| 🟢 0.7 | 13 km SW of Searles Valley, CA | 10:33 |
-| 🟢 0.4 | 6 km WSW of Anza, CA | 10:32 |
-| 🟢 0.9 | 20 km E of Little Lake, CA | 10:32 |
-| 🟢 1.8 | 11 km SSE of Pāhala, Hawaii | 10:28 |
-| 🟢 1.7 | 7 km ESE of Pāhala, Hawaii | 10:24 |
+| 🟢 1.8 | 15 km NE of Chase, Alaska | 12:25 |
+| 🟢 1.8 | 59 km S of Whites City, New Mexico | 12:16 |
+| 🟢 2.1 | 24 km S of Westbrook, Texas | 12:15 |
+| 🟢 2.3 | 10 km SSE of Laytonville, CA | 12:07 |
+| 🟢 1.1 | 7 km WNW of The Geysers, CA | 12:00 |
+| 🟢 2.3 | 3 km SW of Indios, Puerto Rico | 11:57 |
+| 🟢 1.5 | 41 km NW of Toyah, Texas | 11:54 |
+| 🟢 2.0 | 79 km ENE of McCarthy, Alaska | 11:54 |
+| 🟢 1.7 | 14 km E of Pāhala, Hawaii | 11:48 |
+| 🟢 1.7 | 24 km S of Westbrook, Texas | 11:45 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
