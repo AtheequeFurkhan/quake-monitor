@@ -2,21 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2012:43:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-231ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2013:37:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-238ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 15 km NE of Chase, Alaska | 12:25 |
-| 🟢 1.8 | 59 km S of Whites City, New Mexico | 12:16 |
-| 🟢 2.1 | 24 km S of Westbrook, Texas | 12:15 |
-| 🟢 2.3 | 10 km SSE of Laytonville, CA | 12:07 |
-| 🟢 1.1 | 7 km WNW of The Geysers, CA | 12:00 |
-| 🟢 2.3 | 3 km SW of Indios, Puerto Rico | 11:57 |
-| 🟢 1.5 | 41 km NW of Toyah, Texas | 11:54 |
-| 🟢 2.0 | 79 km ENE of McCarthy, Alaska | 11:54 |
-| 🟢 1.7 | 14 km E of Pāhala, Hawaii | 11:48 |
-| 🟢 1.7 | 24 km S of Westbrook, Texas | 11:45 |
+| 🟢 2.4 | 8 km WNW of Garnet, CA | 13:33 |
+| 🟢 0.9 | 3 km NNW of Fontana, CA | 13:22 |
+| 🟢 1.7 | 14 km NW of Parkfield, CA | 13:06 |
+| 🟢 1.1 | 19 km S of Maricopa, CA | 13:05 |
+| 🟠 3.1 | 66 km N of Tierras Nuevas Poniente, Puerto Rico | 12:58 |
+| 🟠 3.2 | 59 km N of Tierras Nuevas Poniente, Puerto Rico | 12:54 |
+| 🟢 3.0 | 67 km N of Tierras Nuevas Poniente, Puerto Rico | 12:53 |
+| 🟢 1.6 | 56 km S of Manley Hot Springs, Alaska | 12:46 |
+| 🟢 1.1 | 9 km N of San Diego Country Estates, CA | 12:45 |
+| 🟢 2.1 | 25 km ENE of Pine Valley, CA | 12:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
