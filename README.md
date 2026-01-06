@@ -2,23 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2019:16:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-323ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2020:24:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-182ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.6 | 2 km W of Anderson Springs, CA | 19:15 |
-| 🟢 1.5 | 7 km WNW of Rotan, Texas | 18:59 |
-| 🟢 0.8 | 5 km W of The Geysers, CA | 18:47 |
-| 🟢 3.0 | 62 km N of Tierras Nuevas Poniente, Puerto Rico | 18:46 |
-| 🟢 0.7 | 1 km N of Banning, CA | 18:45 |
-| 🟢 1.2 | 34 km E of McKinney Acres, Texas | 18:43 |
-| 🟢 1.1 | 34 km E of McKinney Acres, Texas | 18:43 |
-| 🟢 1.9 | 8 km SSW of Pāhala, Hawaii | 18:35 |
-| 🟠 3.2 | 69 km N of Tierras Nuevas Poniente, Puerto Rico | 18:35 |
-| 🟢 2.0 | 21 km NNE of Hala‘ula, Hawaii | 18:30 |
-| 🔴 5.2 | 154 km SE of Vilyuchinsk, Russia | 18:18 |
-| 🟢 2.9 | 69 km N of Tierras Nuevas Poniente, Puerto Rico | 18:18 |
+| 🟢 3.0 | 96 km ENE of Ouzinkie, Alaska | 20:19 |
+| 🟢 1.2 | 3 km NNE of Four Mile Road, Alaska | 20:17 |
+| 🟢 1.0 | 2 km SE of Home Gardens, CA | 20:06 |
+| 🟢 1.6 | 86 km NNW of Karluk, Alaska | 19:55 |
+| 🟢 1.5 | 85 km NNW of Karluk, Alaska | 19:52 |
+| 🟢 1.3 | 81 km NNW of Karluk, Alaska | 19:48 |
+| 🟢 1.8 | 10 km SSE of Pinnacles, CA | 19:46 |
+| 🟢 1.3 | 4 km W of Monterey Park, CA | 19:46 |
+| 🟢 1.9 | 66 km W of Salamatof, Alaska | 19:44 |
+| 🟢 2.4 | 1 km NW of Indios, Puerto Rico | 19:39 |
+| 🟢 1.1 | 11 km WSW of Ocotillo, CA | 19:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
