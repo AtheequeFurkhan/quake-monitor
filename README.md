@@ -2,15 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2021:20:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-255ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2022:21:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-439ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 21:14 |
-| 🟢 1.1 | 13 km SE of Tehachapi, CA | 20:54 |
-| 🟢 0.8 | 8 km W of Cobb, CA | 20:54 |
-| 🟢 2.4 | 7 km SSW of Pāhala, Hawaii | 20:44 |
+| 🟢 2.1 | 9 km NW of Blue Diamond, Nevada | 22:08 |
+| 🟢 2.0 | 58 km ENE of Cantwell, Alaska | 22:07 |
+| 🟢 0.7 | 13 km NW of The Geysers, CA | 21:58 |
+| 🟢 0.8 | 2 km ESE of The Geysers, CA | 21:54 |
+| 🟢 0.5 | 7 km NW of The Geysers, CA | 21:43 |
+| 🟢 1.7 | 24 km WNW of Happy Valley, Alaska | 21:41 |
+| 🟢 2.3 | 81 km E of Maneadero, B.C., MX | 21:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
