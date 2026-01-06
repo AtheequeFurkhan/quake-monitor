@@ -2,17 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2014:23:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-531ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2015:23:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-349ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 88 km NNW of Karluk, Alaska | 14:15 |
-| 🟢 2.2 | 3 km SW of Pāhala, Hawaii | 14:11 |
-| 🟢 0.7 | 13 km SW of Searles Valley, CA | 14:08 |
-| 🟢 1.1 | 6 km W of Ocotillo, CA | 14:02 |
-| 🟢 2.1 | 10 km W of Forsan, Texas | 13:35 |
-| 🟢 2.3 | 8 km WNW of Garnet, CA | 13:33 |
+| 🟢 1.1 | 9 km NNE of Mammoth Lakes, CA | 15:15 |
+| 🟢 0.9 | 6 km WNW of Cobb, CA | 15:05 |
+| 🟢 1.6 | 44 km NW of Tatitlek, Alaska | 15:01 |
+| 🟢 1.4 | 10 km WNW of The Geysers, CA | 14:58 |
+| 🟢 1.6 | 32 km N of Searles Valley, CA | 14:57 |
+| 🟢 1.8 | 7 km NE of Ojai, CA | 14:44 |
+| 🟢 1.7 | 24 km SSW of Westbrook, Texas | 14:30 |
+| 🟢 1.2 | 36 km WSW of Ackerly, Texas | 14:27 |
+| 🟠 3.1 | 59 km N of Tierras Nuevas Poniente, Puerto Rico | 14:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
