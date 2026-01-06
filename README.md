@@ -2,14 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2018:31:59%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-473ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2019:16:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-323ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟠 4.8 | 73 km ENE of Mutsu, Japan | 18:04 |
-| 🟢 1.2 | 8 km W of Holtville, CA | 17:52 |
-| 🟢 2.1 | 37 km S of Skwentna, Alaska | 17:42 |
+| 🟢 0.6 | 2 km W of Anderson Springs, CA | 19:15 |
+| 🟢 1.5 | 7 km WNW of Rotan, Texas | 18:59 |
+| 🟢 0.8 | 5 km W of The Geysers, CA | 18:47 |
+| 🟢 3.0 | 62 km N of Tierras Nuevas Poniente, Puerto Rico | 18:46 |
+| 🟢 0.7 | 1 km N of Banning, CA | 18:45 |
+| 🟢 1.2 | 34 km E of McKinney Acres, Texas | 18:43 |
+| 🟢 1.1 | 34 km E of McKinney Acres, Texas | 18:43 |
+| 🟢 1.9 | 8 km SSW of Pāhala, Hawaii | 18:35 |
+| 🟠 3.2 | 69 km N of Tierras Nuevas Poniente, Puerto Rico | 18:35 |
+| 🟢 2.0 | 21 km NNE of Hala‘ula, Hawaii | 18:30 |
+| 🔴 5.2 | 154 km SE of Vilyuchinsk, Russia | 18:18 |
+| 🟢 2.9 | 69 km N of Tierras Nuevas Poniente, Puerto Rico | 18:18 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
