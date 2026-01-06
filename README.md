@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2005%20Jan%202026%2023:20:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-596ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2001:44:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-342ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 6 km SSE of Pāhala, Hawaii | 23:03 |
-| 🟢 2.3 | 53 km NW of Tatitlek, Alaska | 22:49 |
-| 🟢 2.8 | 1 km SW of Guayanilla, Puerto Rico | 22:34 |
-| 🔴 5.2 | northwest of the Kuril Islands | 22:32 |
-| 🟢 1.5 | 4 km SSW of Anderson Springs, CA | 22:25 |
-| 🟢 1.3 | 6 km WNW of Cobb, CA | 22:21 |
-| 🟢 1.2 | 2 km WNW of Cabazon, CA | 22:20 |
+| 🟢 1.6 | 7 km N of Fontana, CA | 01:36 |
+| 🟠 5.0 | 14 km S of Matsue, Japan | 01:28 |
+| 🔴 5.8 | 14 km SSE of Yasugichō, Japan | 01:18 |
+| 🟢 2.2 | 9 km E of Willow, Alaska | 01:13 |
+| 🟢 0.8 | 4 km SSW of Idyllwild, CA | 01:03 |
+| 🟢 1.6 | 87 km SE of McCarthy, Alaska | 01:00 |
+| 🟢 2.7 | 111 km N of Yakutat, Alaska | 01:00 |
+| 🟢 2.3 | 6 km SSE of Point MacKenzie, Alaska | 00:46 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
