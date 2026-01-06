@@ -2,18 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2022:21:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-439ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2023:20:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-1.337s-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 9 km NW of Blue Diamond, Nevada | 22:08 |
-| 🟢 2.0 | 58 km ENE of Cantwell, Alaska | 22:07 |
-| 🟢 0.7 | 13 km NW of The Geysers, CA | 21:58 |
-| 🟢 0.8 | 2 km ESE of The Geysers, CA | 21:54 |
-| 🟢 0.5 | 7 km NW of The Geysers, CA | 21:43 |
-| 🟢 1.7 | 24 km WNW of Happy Valley, Alaska | 21:41 |
-| 🟢 2.3 | 81 km E of Maneadero, B.C., MX | 21:33 |
+| 🟢 1.1 | 3 km S of Cobb, CA | 23:04 |
+| 🟢 0.8 | 6 km W of Cobb, CA | 22:58 |
+| 🟢 1.1 | 5 km NE of North Shore, CA | 22:50 |
+| 🟠 3.0 | 69 km N of Tierras Nuevas Poniente, Puerto Rico | 22:48 |
+| 🟢 1.8 | 58 km S of Whites City, New Mexico | 22:48 |
+| 🟢 0.6 | 9 km WNW of The Geysers, CA | 22:48 |
+| 🟢 1.5 | 57 km S of Whites City, New Mexico | 22:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
