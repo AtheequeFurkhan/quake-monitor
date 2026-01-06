@@ -2,22 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2020:24:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-182ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2021:20:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-255ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 3.0 | 96 km ENE of Ouzinkie, Alaska | 20:19 |
-| 🟢 1.2 | 3 km NNE of Four Mile Road, Alaska | 20:17 |
-| 🟢 1.0 | 2 km SE of Home Gardens, CA | 20:06 |
-| 🟢 1.6 | 86 km NNW of Karluk, Alaska | 19:55 |
-| 🟢 1.5 | 85 km NNW of Karluk, Alaska | 19:52 |
-| 🟢 1.3 | 81 km NNW of Karluk, Alaska | 19:48 |
-| 🟢 1.8 | 10 km SSE of Pinnacles, CA | 19:46 |
-| 🟢 1.3 | 4 km W of Monterey Park, CA | 19:46 |
-| 🟢 1.9 | 66 km W of Salamatof, Alaska | 19:44 |
-| 🟢 2.4 | 1 km NW of Indios, Puerto Rico | 19:39 |
-| 🟢 1.1 | 11 km WSW of Ocotillo, CA | 19:26 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 21:14 |
+| 🟢 1.1 | 13 km SE of Tehachapi, CA | 20:54 |
+| 🟢 0.8 | 8 km W of Cobb, CA | 20:54 |
+| 🟢 2.4 | 7 km SSW of Pāhala, Hawaii | 20:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
