@@ -2,16 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2009:27:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-460ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2010:24:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-179ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 3 km WNW of Tanaina, Alaska | 09:23 |
-| 🟢 1.6 | 33 km WSW of Ackerly, Texas | 09:22 |
-| 🟢 0.5 | 3 km NW of The Geysers, CA | 09:22 |
-| 🟢 1.7 | 3 km SW of Hidden Valley Lake, CA | 09:05 |
-| 🟢 1.7 | 40 km SSW of Dry Creek, Alaska | 08:44 |
+| 🟢 1.2 | 22 km E of Little Lake, CA | 10:21 |
+| 🟢 2.5 | 38 km NW of Mentasta Lake, Alaska | 10:16 |
+| 🟢 0.8 | 9 km WNW of The Geysers, CA | 09:56 |
+| 🟢 0.9 | 9 km WNW of The Geysers, CA | 09:53 |
+| 🟢 2.3 | 65 km ESE of Cantwell, Alaska | 09:53 |
+| 🟢 2.1 | 45 km S of Glacier View, Alaska | 09:50 |
+| 🟢 1.3 | 3 km ESE of The Geysers, CA | 09:29 |
+| 🟠 3.7 | 92 km N of Suárez, Puerto Rico | 09:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
