@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2019:20:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-198ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2020:25:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-364ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 2 km NNW of Baldwin Park, CA | 19:13 |
-| 🟢 1.8 | 2 km NNW of Baldwin Park, CA | 19:12 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 18:45 |
-| 🟢 1.4 | 2 km N of The Geysers, CA | 18:42 |
-| 🟢 0.6 | 4 km ESE of Lake Henshaw, CA | 18:39 |
-| 🟢 1.7 | 21 km NNW of Toyah, Texas | 18:36 |
-| 🟢 1.5 | 15 km NNW of Stanton, Texas | 18:28 |
+| 🟢 2.0 | 7 km ENE of Vallejo, CA | 20:08 |
+| 🟢 0.7 | 10 km S of Idyllwild, CA | 20:06 |
+| 🟢 1.2 | 2 km SE of Home Gardens, CA | 20:00 |
+| 🟢 2.3 | 12 km SE of Clam Gulch, Alaska | 20:00 |
+| 🟢 1.7 | 56 km S of Whites City, New Mexico | 19:56 |
+| 🟢 1.0 | 22 km N of Ridgecrest, CA | 19:46 |
+| 🟠 3.6 | 32 km S of Boca de Yuma, Dominican Republic | 19:32 |
+| 🟢 1.5 | 7 km W of Templeton, CA | 19:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
