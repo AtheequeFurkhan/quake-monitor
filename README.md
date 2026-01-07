@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2018:33:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-288ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2019:20:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-198ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.7 | 2 km NNW of Baldwin Park, CA | 19:13 |
+| 🟢 1.8 | 2 km NNW of Baldwin Park, CA | 19:12 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 18:45 |
+| 🟢 1.4 | 2 km N of The Geysers, CA | 18:42 |
+| 🟢 0.6 | 4 km ESE of Lake Henshaw, CA | 18:39 |
+| 🟢 1.7 | 21 km NNW of Toyah, Texas | 18:36 |
 | 🟢 1.5 | 15 km NNW of Stanton, Texas | 18:28 |
-| 🟢 2.5 | 108 km NNW of Yakutat, Alaska | 18:18 |
-| 🟠 4.9 | 64 km NE of Yigo Village, Guam | 18:02 |
-| 🟢 1.5 | 14 km SE of Mammoth Lakes, CA | 18:00 |
-| 🟢 1.9 | 12 km W of Wasco, CA | 17:50 |
-| 🟢 1.9 | 3 km SW of Pāhala, Hawaii | 17:49 |
-| 🟢 0.9 | 6 km E of Calimesa, CA | 17:39 |
-| 🟠 4.7 | 26 km ENE of Baculin, Philippines | 17:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
