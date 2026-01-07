@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2010:24:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-179ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2011:20:14%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 22 km E of Little Lake, CA | 10:21 |
-| 🟢 2.5 | 38 km NW of Mentasta Lake, Alaska | 10:16 |
-| 🟢 0.8 | 9 km WNW of The Geysers, CA | 09:56 |
-| 🟢 0.9 | 9 km WNW of The Geysers, CA | 09:53 |
-| 🟢 2.3 | 65 km ESE of Cantwell, Alaska | 09:53 |
-| 🟢 2.1 | 45 km S of Glacier View, Alaska | 09:50 |
-| 🟢 1.3 | 3 km ESE of The Geysers, CA | 09:29 |
-| 🟠 3.7 | 92 km N of Suárez, Puerto Rico | 09:26 |
+| 🟢 0.8 | 5 km WNW of Cobb, CA | 11:18 |
+| 🟢 1.1 | 6 km NW of The Geysers, CA | 10:52 |
+| 🟢 1.5 | 55 km NW of Toyah, Texas | 10:45 |
+| 🟢 1.2 | 16 km NW of Coso Junction, CA | 10:37 |
+| 🟢 1.1 | 0 km S of Badger, Alaska | 10:32 |
+| 🟢 1.7 | 20 km SSE of Pāhala, Hawaii | 10:21 |
+| 🟢 1.0 | 22 km E of Little Lake, CA | 10:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
