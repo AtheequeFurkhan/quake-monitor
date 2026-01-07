@@ -2,22 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2016:30:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-301ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2017:25:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-212ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 17 km NE of Pine Valley, CA | 16:08 |
-| 🟢 2.2 | 63 km N of Petersville, Alaska | 16:04 |
-| 🟢 1.9 | 9 km E of Alum Rock, CA | 16:01 |
-| 🟢 1.0 | 13 km ENE of Cloverdale, CA | 15:58 |
-| 🟠 3.3 | 66 km N of Tierras Nuevas Poniente, Puerto Rico | 15:55 |
-| 🟢 2.3 | 10 km E of Pāhala, Hawaii | 15:54 |
-| 🟢 2.8 | 26 km SW of Jal, New Mexico | 15:45 |
-| 🟢 1.1 | 5 km SSE of Moreno Valley, CA | 15:44 |
-| 🟠 3.7 | 7 km SE of Deep Springs, CA | 15:44 |
-| 🟢 1.5 | 32 km SW of Glacier View, Alaska | 15:34 |
-| 🟢 1.1 | 28 km N of Yucca Valley, CA | 15:30 |
+| 🟢 0.9 | 18 km WSW of Johannesburg, CA | 17:16 |
+| 🟢 1.1 | 18 km WSW of Johannesburg, CA | 17:15 |
+| 🟢 1.1 | 18 km WSW of Johannesburg, CA | 17:12 |
+| 🟢 2.4 | 52 km WNW of Happy Valley, Alaska | 17:03 |
+| 🟢 0.3 | 12 km W of Anza, CA | 16:48 |
+| 🟢 2.3 | 10 km E of Pāhala, Hawaii | 16:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
