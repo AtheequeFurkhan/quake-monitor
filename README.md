@@ -2,15 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2015:25:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-176ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2016:30:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-301ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.5 | 0 km N of Pāhala, Hawaii | 14:59 |
-| 🟢 0.9 | 13 km ENE of Little Lake, CA | 14:52 |
-| 🟢 0.7 | 7 km NW of The Geysers, CA | 14:48 |
-| 🟢 2.0 | 48 km N of Sutton-Alpine, Alaska | 14:30 |
+| 🟢 0.7 | 17 km NE of Pine Valley, CA | 16:08 |
+| 🟢 2.2 | 63 km N of Petersville, Alaska | 16:04 |
+| 🟢 1.9 | 9 km E of Alum Rock, CA | 16:01 |
+| 🟢 1.0 | 13 km ENE of Cloverdale, CA | 15:58 |
+| 🟠 3.3 | 66 km N of Tierras Nuevas Poniente, Puerto Rico | 15:55 |
+| 🟢 2.3 | 10 km E of Pāhala, Hawaii | 15:54 |
+| 🟢 2.8 | 26 km SW of Jal, New Mexico | 15:45 |
+| 🟢 1.1 | 5 km SSE of Moreno Valley, CA | 15:44 |
+| 🟠 3.7 | 7 km SE of Deep Springs, CA | 15:44 |
+| 🟢 1.5 | 32 km SW of Glacier View, Alaska | 15:34 |
+| 🟢 1.1 | 28 km N of Yucca Valley, CA | 15:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
