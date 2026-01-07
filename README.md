@@ -2,21 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2007:25:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-400ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2008:31:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-403ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 11 km ENE of Hawthorne, Nevada | 07:21 |
-| 🟢 1.4 | 5 km NE of North Shore, CA | 07:13 |
-| 🟢 1.2 | 3 km WSW of Cobb, CA | 06:58 |
-| 🟢 2.2 | 18 km SW of Petersville, Alaska | 06:57 |
-| 🟢 2.4 | 4 km E of Coahoma, Texas | 06:35 |
-| 🟠 3.5 | 11 km NE of Kodiak, Alaska | 06:32 |
-| 🟢 0.9 | 12 km SW of Salton City, CA | 06:30 |
-| 🟢 1.2 | 9 km E of Alum Rock, CA | 06:30 |
-| 🟢 1.7 | 20 km NNE of Fishhook, Alaska | 06:30 |
-| 🟢 2.8 | 5 km S of Magas Arriba, Puerto Rico | 06:27 |
+| 🟢 2.3 | 36 km NW of Mentasta Lake, Alaska | 08:19 |
+| 🟢 2.4 | 79 km WNW of Nikiski, Alaska | 08:17 |
+| 🟢 1.5 | 9 km SE of Big Spring, Texas | 08:11 |
+| 🟢 1.2 | 13 km SW of Searles Valley, CA | 08:09 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
