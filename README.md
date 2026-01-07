@@ -2,23 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2006:34:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-191ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2007:25:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-400ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.8 | 11 km ENE of Hawthorne, Nevada | 07:21 |
+| 🟢 1.4 | 5 km NE of North Shore, CA | 07:13 |
+| 🟢 1.2 | 3 km WSW of Cobb, CA | 06:58 |
+| 🟢 2.2 | 18 km SW of Petersville, Alaska | 06:57 |
+| 🟢 2.4 | 4 km E of Coahoma, Texas | 06:35 |
+| 🟠 3.5 | 11 km NE of Kodiak, Alaska | 06:32 |
 | 🟢 0.9 | 12 km SW of Salton City, CA | 06:30 |
 | 🟢 1.2 | 9 km E of Alum Rock, CA | 06:30 |
 | 🟢 1.7 | 20 km NNE of Fishhook, Alaska | 06:30 |
-| 🟢 0.8 | 4 km NNW of The Geysers, CA | 06:15 |
-| 🟢 0.8 | 9 km NNE of Running Springs, CA | 06:12 |
-| 🟢 0.4 | 18 km E of Julian, CA | 06:02 |
-| 🟢 1.8 | 4 km ESE of Mossyrock, Washington | 05:59 |
-| 🟢 1.3 | 24 km NNE of Four Mile Road, Alaska | 05:58 |
-| 🟢 1.8 | 5 km E of Mossyrock, Washington | 05:57 |
-| 🟢 1.5 | 11 km ENE of Coalinga, CA | 05:53 |
-| 🟢 2.7 | 1 km ESE of Guánica, Puerto Rico | 05:51 |
-| 🟢 1.0 | 6 km NNE of Fontana, CA | 05:37 |
+| 🟢 2.8 | 5 km S of Magas Arriba, Puerto Rico | 06:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
