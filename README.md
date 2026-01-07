@@ -2,18 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2001:43:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-359ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2003:38:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-305ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 13 km NW of The Geysers, CA | 01:36 |
-| 🟢 2.7 | 40 km NW of Mentasta Lake, Alaska | 01:21 |
-| 🟢 0.6 | 7 km WNW of Cobb, CA | 01:13 |
-| 🟢 1.3 | 11 km ENE of Fox, Alaska | 01:12 |
-| 🟢 0.8 | 9 km WNW of The Geysers, CA | 01:01 |
-| 🟢 1.7 | 21 km E of Little Lake, CA | 00:46 |
-| 🟢 2.3 | 43 km NNW of Beluga, Alaska | 00:45 |
+| 🟢 0.7 | 7 km WNW of Cobb, CA | 03:27 |
+| 🟢 2.3 | 2 km NE of Huron, CA | 03:09 |
+| 🟢 1.2 | 83 km NNW of Karluk, Alaska | 03:05 |
+| 🔴 6.4 | 27 km E of Santiago, Philippines | 03:02 |
+| 🟢 2.0 | 5 km S of Guánica, Puerto Rico | 02:52 |
+| 🟠 4.5 | 63 km SE of Denali National Park, Alaska | 02:37 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
