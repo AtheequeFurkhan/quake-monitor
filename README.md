@@ -2,18 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2006%20Jan%202026%2023:20:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-1.337s-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2001:43:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-359ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 3 km S of Cobb, CA | 23:04 |
-| 🟢 0.8 | 6 km W of Cobb, CA | 22:58 |
-| 🟢 1.1 | 5 km NE of North Shore, CA | 22:50 |
-| 🟠 3.0 | 69 km N of Tierras Nuevas Poniente, Puerto Rico | 22:48 |
-| 🟢 1.8 | 58 km S of Whites City, New Mexico | 22:48 |
-| 🟢 0.6 | 9 km WNW of The Geysers, CA | 22:48 |
-| 🟢 1.5 | 57 km S of Whites City, New Mexico | 22:43 |
+| 🟢 0.7 | 13 km NW of The Geysers, CA | 01:36 |
+| 🟢 2.7 | 40 km NW of Mentasta Lake, Alaska | 01:21 |
+| 🟢 0.6 | 7 km WNW of Cobb, CA | 01:13 |
+| 🟢 1.3 | 11 km ENE of Fox, Alaska | 01:12 |
+| 🟢 0.8 | 9 km WNW of The Geysers, CA | 01:01 |
+| 🟢 1.7 | 21 km E of Little Lake, CA | 00:46 |
+| 🟢 2.3 | 43 km NNW of Beluga, Alaska | 00:45 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
