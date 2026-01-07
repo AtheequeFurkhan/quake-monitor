@@ -2,23 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2011:20:14%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2012:45:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-183ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 5 km WNW of Cobb, CA | 11:18 |
-| 🟢 1.1 | 6 km NW of The Geysers, CA | 10:52 |
-| 🟢 1.5 | 55 km NW of Toyah, Texas | 10:45 |
-| 🟢 1.2 | 16 km NW of Coso Junction, CA | 10:37 |
-| 🟢 1.1 | 0 km S of Badger, Alaska | 10:32 |
-| 🟢 1.7 | 20 km SSE of Pāhala, Hawaii | 10:21 |
-| 🟢 1.0 | 22 km E of Little Lake, CA | 10:21 |
+| 🟢 2.0 | 72 km ENE of Chase, Alaska | 12:30 |
+| 🟢 0.8 | 10 km NE of Julian, CA | 12:18 |
+| 🟢 1.8 | 15 km SE of Waimea, Hawaii | 12:17 |
+| 🟢 0.8 | 1 km ESE of Redlands, CA | 12:15 |
+| 🟢 2.6 | 35 km N of Petersville, Alaska | 12:15 |
+| 🟢 1.5 | 13 km SSE of Bombay Beach, CA | 12:11 |
+| 🟢 1.4 | 24 km NW of New Idria, CA | 11:45 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
-- ⛈️ **Severe Storms**: [Tropical Cyclone Jenna](https://www.metoc.navy.mil/jtwc/products/sh1226.tcw) (Jan 06)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Jenna](https://www.metoc.navy.mil/jtwc/products/sh1226.tcw) (Jan 07)
 - 🔥 **Wildfires**: [Math Branch Wildfire, Christian, Missouri](https://irwin.doi.gov/observer/incidents/8bf47127-7d41-460a-bbe5-d96ddab0cd9b) (Jan 03)
 - 🔥 **Wildfires**: [Madley Wildfire, Shelby, Texas](https://irwin.doi.gov/observer/incidents/88f45644-caf2-4ff1-a640-eb5f2e380cef) (Jan 02)
 - 🔥 **Wildfires**: [Rx Newton 6078 Prescribed Fire, Newton, Texas](https://irwin.doi.gov/observer/incidents/82154696-e548-4d42-b240-06a8b5aa95fe) (Jan 02)
