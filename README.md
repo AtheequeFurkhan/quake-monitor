@@ -2,17 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2022:20:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-375ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2023:20:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-205ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 7 km SSE of Hemet, CA | 22:16 |
-| 🔴 5.5 | south of the Fiji Islands | 22:00 |
-| 🟢 1.4 | 3 km NNW of Cobb, CA | 21:55 |
-| 🟢 2.4 | 9 km W of Trapper Creek, Alaska | 21:36 |
-| 🟢 1.1 | 5 km ENE of Muscoy, CA | 21:36 |
-| 🟢 1.1 | 5 km ENE of Muscoy, CA | 21:35 |
+| 🟢 1.0 | 5 km WNW of Cobb, CA | 23:17 |
+| 🟢 2.0 | 3 km NE of Prattville, CA | 23:15 |
+| 🟢 1.8 | 9 km NE of Julian, CA | 23:10 |
+| 🟢 2.3 | 66 km ENE of McCarthy, Alaska | 23:00 |
+| 🟢 1.8 | 78 km SE of Pāhala, Hawaii | 22:56 |
+| 🟢 2.1 | 0 km WNW of Pāhala, Hawaii | 22:45 |
+| 🟢 1.7 | 43 km ESE of Alamo, Nevada | 22:32 |
+| 🟢 0.4 | 5 km WSW of Anza, CA | 22:28 |
+| 🟢 3.0 | 17 km WSW of Garden, Utah | 22:25 |
+| 🟢 2.3 | 54 km WSW of Cantwell, Alaska | 22:24 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
