@@ -2,26 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2013:39:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-391ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2014:24:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-283ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.4 | 59 km S of Whites City, New Mexico | 14:10 |
+| 🟢 1.8 | 4 km S of Pāhala, Hawaii | 13:37 |
 | 🟢 1.3 | 83 km NNW of Karluk, Alaska | 13:36 |
+| 🟢 1.0 | 17 km SSE of South Van Horn, Alaska | 13:35 |
 | 🟢 0.8 | 9 km NE of Julian, CA | 13:34 |
 | 🟢 0.7 | 9 km S of Idyllwild, CA | 13:25 |
-| 🟠 3.4 | 36 km W of Lowell Point, Alaska | 13:22 |
-| 🟢 1.0 | 13 km NE of Little Lake, CA | 13:17 |
-| 🟢 1.1 | 6 km NNW of The Geysers, CA | 13:16 |
-| 🟢 0.9 | 9 km NE of Julian, CA | 13:15 |
-| 🟢 1.8 | 27 km SW of Petersville, Alaska | 13:10 |
-| 🟢 0.5 | 14 km NE of Borrego Springs, CA | 13:09 |
-| 🟢 1.5 | 10 km ENE of Hidden Valley Lake, CA | 12:58 |
-| 🟢 0.8 | 6 km NNW of The Geysers, CA | 12:57 |
-| 🟢 0.8 | 6 km NNW of The Geysers, CA | 12:57 |
-| 🟢 1.1 | 2 km S of Cobb, CA | 12:56 |
-| 🟢 2.4 | 1 km W of Yauco, Puerto Rico | 12:50 |
-| 🟢 1.0 | 13 km SW of North Pole, Alaska | 12:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
