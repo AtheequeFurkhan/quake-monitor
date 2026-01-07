@@ -2,25 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2021:20:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-477ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2007%20Jan%202026%2022:20:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-375ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 70 km ESE of Cantwell, Alaska | 21:12 |
-| 🟢 0.8 | 5 km WNW of Anza, CA | 21:07 |
-| 🟢 1.4 | 5 km ENE of Muscoy, CA | 20:57 |
-| 🟢 0.9 | 4 km ENE of Muscoy, CA | 20:54 |
-| 🟢 1.3 | 5 km NE of Muscoy, CA | 20:53 |
-| 🟢 2.6 | 5 km NE of Muscoy, CA | 20:51 |
-| 🟢 1.9 | 13 km S of Tres Pinos, CA | 20:48 |
-| 🟢 1.2 | 28 km E of Minto, Alaska | 20:46 |
-| 🟢 1.8 | 50 km E of Pedro Bay, Alaska | 20:44 |
-| 🟢 2.4 | 9 km SSE of Weitchpec, CA | 20:38 |
-| 🟢 2.5 | 17 km ENE of Hyde Park, Utah | 20:38 |
-| 🟢 2.0 | 4 km ESE of San Ramon, CA | 20:31 |
-| 🟢 3.0 | 8 km WSW of Nanwalek, Alaska | 20:26 |
-| 🟢 1.6 | 60 km S of Whites City, New Mexico | 20:24 |
+| 🟢 1.0 | 7 km SSE of Hemet, CA | 22:16 |
+| 🔴 5.5 | south of the Fiji Islands | 22:00 |
+| 🟢 1.4 | 3 km NNW of Cobb, CA | 21:55 |
+| 🟢 2.4 | 9 km W of Trapper Creek, Alaska | 21:36 |
+| 🟢 1.1 | 5 km ENE of Muscoy, CA | 21:36 |
+| 🟢 1.1 | 5 km ENE of Muscoy, CA | 21:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
