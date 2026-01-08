@@ -2,23 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2005:24:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-395ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2006:34:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-474ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 37 km N of Petersville, Alaska | 05:17 |
-| 🟢 1.4 | 20 km ESE of Little Lake, CA | 05:16 |
-| 🟢 0.8 | 2 km N of Fontana, CA | 05:03 |
-| 🟢 0.7 | 20 km ESE of Little Lake, CA | 04:57 |
-| 🟢 0.8 | 20 km ESE of Little Lake, CA | 04:47 |
-| 🟢 2.0 | 10 km WSW of Patterson, CA | 04:34 |
-| 🟢 2.5 | 35 km SSE of Nelchina, Alaska | 04:33 |
-| 🟢 1.3 | 11 km SSW of San Lucas, CA | 04:31 |
-| 🟢 1.8 | 5 km SSW of Sand Springs, Texas | 04:31 |
-| 🟢 1.7 | 59 km SSW of Whites City, New Mexico | 04:29 |
-| 🟢 2.4 | 18 km WSW of Delta, B.C., MX | 04:28 |
-| 🟢 0.7 | 3 km NW of The Geysers, CA | 04:26 |
+| 🟢 1.5 | 8 km NW of Boonville, CA | 06:25 |
+| 🟢 1.1 | 38 km NW of Stanton, Texas | 06:23 |
+| 🟢 2.4 | 51 km NW of Karluk, Alaska | 06:18 |
+| 🟢 0.5 | 4 km NW of Anza, CA | 06:15 |
+| 🟢 1.5 | 24 km W of Garden City, Texas | 06:09 |
+| 🟢 1.4 | 3 km ESE of Loma Linda, CA | 06:06 |
+| 🟢 2.5 | 26 km WSW of Skwentna, Alaska | 06:01 |
+| 🟢 2.8 | 41 km W of Anchor Point, Alaska | 05:53 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 05:51 |
+| 🟢 1.1 | 7 km NW of The Geysers, CA | 05:51 |
+| 🟢 1.8 | 30 km WNW of Karluk, Alaska | 05:41 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
