@@ -2,25 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2009:28:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-371ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2010:24:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-350ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.6 | 23 km SSW of La Quinta, CA | 09:21 |
-| 🟢 0.7 | 87 km NNW of Karluk, Alaska | 09:20 |
-| 🟢 1.8 | 32 km S of Caliente, Nevada | 09:14 |
-| 🟢 0.8 | 10 km WNW of The Geysers, CA | 09:08 |
-| 🟢 0.8 | 12 km ENE of Ridgecrest, CA | 08:55 |
-| 🟢 0.6 | 12 km WNW of The Geysers, CA | 08:52 |
-| 🟢 1.9 | 22 km ESE of Kasilof, Alaska | 08:52 |
-| 🟢 1.6 | 1 km ENE of Middletown, CA | 08:50 |
-| 🟢 1.4 | 12 km ENE of Cloverdale, CA | 08:47 |
-| 🟢 1.1 | 12 km WNW of The Geysers, CA | 08:44 |
-| 🟢 0.4 | 13 km ENE of Cloverdale, CA | 08:39 |
-| 🟢 1.6 | 12 km ENE of Cloverdale, CA | 08:39 |
-| 🟠 3.1 | 73 km N of Tierras Nuevas Poniente, Puerto Rico | 08:35 |
-| 🟢 1.7 | 6 km NW of The Geysers, CA | 08:32 |
+| 🟢 1.1 | 7 km NW of The Geysers, CA | 10:19 |
+| 🟢 1.1 | 18 km WSW of Johannesburg, CA | 10:17 |
+| 🟢 2.0 | 5 km SSW of Westbrook, Texas | 10:07 |
+| 🟢 1.3 | 13 km ENE of Cloverdale, CA | 09:53 |
+| 🟢 2.7 | 8 km WNW of Pecos, Texas | 09:44 |
+| 🟢 0.9 | 13 km ENE of Cloverdale, CA | 09:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
