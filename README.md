@@ -2,21 +2,14 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2022:21:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-217ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2023:18:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-185ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.5 | 43 km E of Ugashik, Alaska | 22:11 |
-| 🟢 1.7 | 8 km N of Sutcliffe, Nevada | 22:05 |
-| 🟢 1.9 | 7 km SSE of Pāhala, Hawaii | 22:04 |
-| 🟢 1.3 | 3 km WNW of Green Acres, CA | 22:03 |
-| 🟢 2.1 | 8 km NNW of Meadow Lakes, Alaska | 21:49 |
-| 🟢 2.2 | 28 km NNW of Susitna, Alaska | 21:47 |
-| 🟢 0.8 | 2 km NNW of The Geysers, CA | 21:46 |
-| 🟢 0.6 | 22 km SSW of Mammoth, Wyoming | 21:37 |
-| 🟢 0.8 | 9 km NW of The Geysers, CA | 21:35 |
-| 🟢 1.1 | 1 km S of Sierra Madre, CA | 21:26 |
+| 🟢 1.3 | 9 km WNW of Cobb, CA | 22:42 |
+| 🟢 1.1 | 21 km NW of Stanton, Texas | 22:33 |
+| 🟢 0.8 | 6 km WNW of Cobb, CA | 22:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
