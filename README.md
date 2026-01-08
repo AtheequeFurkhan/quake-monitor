@@ -2,17 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2020:25:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-204ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2021:20:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-406ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 6 km WSW of Gilroy, CA | 20:03 |
-| 🟢 0.7 | 12 km WNW of The Geysers, CA | 19:58 |
-| 🟢 2.6 | 33 km W of Anchor Point, Alaska | 19:52 |
-| 🟢 1.8 | 18 km E of Pāhala, Hawaii | 19:48 |
-| 🟠 5.0 | 14 km SSE of Patea, New Zealand | 19:29 |
-| 🟢 0.8 | 9 km WNW of The Geysers, CA | 19:27 |
+| 🟢 1.3 | 3 km ENE of Pico Rivera, CA | 21:03 |
+| 🟢 1.6 | 63 km WNW of Salamatof, Alaska | 20:59 |
+| 🟢 0.5 | 3 km NW of The Geysers, CA | 20:48 |
+| 🟢 1.9 | 32 km NW of Nikiski, Alaska | 20:47 |
+| 🟢 1.5 | 15 km NE of Little Lake, CA | 20:44 |
+| 🟢 1.9 | 34 km ESE of Balmorhea, Texas | 20:36 |
+| 🟢 1.6 | 50 km WNW of Toyah, Texas | 20:29 |
+| 🟢 1.0 | 14 km NE of Ridgecrest, CA | 20:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
