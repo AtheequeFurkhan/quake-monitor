@@ -2,11 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2004:39:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-379ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2005:24:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-395ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.8 | 37 km N of Petersville, Alaska | 05:17 |
+| 🟢 1.4 | 20 km ESE of Little Lake, CA | 05:16 |
+| 🟢 0.8 | 2 km N of Fontana, CA | 05:03 |
+| 🟢 0.7 | 20 km ESE of Little Lake, CA | 04:57 |
+| 🟢 0.8 | 20 km ESE of Little Lake, CA | 04:47 |
 | 🟢 2.0 | 10 km WSW of Patterson, CA | 04:34 |
 | 🟢 2.5 | 35 km SSE of Nelchina, Alaska | 04:33 |
 | 🟢 1.3 | 11 km SSW of San Lucas, CA | 04:31 |
@@ -14,7 +19,6 @@
 | 🟢 1.7 | 59 km SSW of Whites City, New Mexico | 04:29 |
 | 🟢 2.4 | 18 km WSW of Delta, B.C., MX | 04:28 |
 | 🟢 0.7 | 3 km NW of The Geysers, CA | 04:26 |
-| 🟢 1.2 | 20 km NW of Stanton, Texas | 03:55 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
