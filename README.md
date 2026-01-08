@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2016:29:55%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-201ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2017:26:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-110ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.5 | 84 km NNW of Karluk, Alaska | 16:15 |
-| 🟢 2.1 | 43 km NNE of Whittier, Alaska | 16:11 |
-| 🟠 3.1 | 7 km WNW of Edgefield, Louisiana | 16:01 |
-| 🟢 0.7 | 6 km NW of The Geysers, CA | 15:59 |
-| 🟢 2.1 | 27 km SW of Skwentna, Alaska | 15:51 |
-| 🟢 1.6 | 6 km NW of Pecos, Texas | 15:46 |
-| 🟢 1.2 | 13 km SE of Bodfish, CA | 15:33 |
+| 🔴 5.3 | 101 km SSE of Murghob, Tajikistan | 17:00 |
+| 🟢 1.5 | 5 km SSE of Redwood Valley, CA | 16:56 |
+| 🟢 0.6 | 12 km WNW of The Geysers, CA | 16:50 |
+| 🟢 2.4 | 2 km WSW of Coto Laurel, Puerto Rico | 16:43 |
+| 🟢 2.2 | 53 km ENE of Susitna North, Alaska | 16:42 |
+| 🟢 1.2 | 86 km NNW of Karluk, Alaska | 16:34 |
+| 🟢 0.7 | 8 km ENE of Anza, CA | 16:34 |
+| 🟢 0.8 | 12 km WNW of The Geysers, CA | 16:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
