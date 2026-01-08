@@ -2,21 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2007:24:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-279ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2008:30:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-469ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 59 km NNE of Chase, Alaska | 07:19 |
-| 🟢 1.7 | 0 km N of Pāhala, Hawaii | 06:57 |
-| 🟢 1.6 | 2 km ESE of Lake Henshaw, CA | 06:57 |
-| 🟢 1.0 | 8 km NW of The Geysers, CA | 06:55 |
-| 🟢 2.3 | 54 km W of Mentone, Texas | 06:51 |
-| 🟢 2.1 | 4 km W of Cooper Landing, Alaska | 06:37 |
-| 🟢 1.5 | 15 km W of Johannesburg, CA | 06:32 |
-| 🟢 1.5 | 8 km NW of Boonville, CA | 06:25 |
-| 🟠 3.2 | 72 km N of Tierras Nuevas Poniente, Puerto Rico | 06:24 |
-| 🟢 1.1 | 38 km NW of Stanton, Texas | 06:23 |
+| 🟢 1.0 | 12 km ENE of Cloverdale, CA | 08:21 |
+| 🟢 2.7 | 31 km NNW of Valdez, Alaska | 08:18 |
+| 🟢 1.0 | 12 km WNW of The Geysers, CA | 08:13 |
+| 🟢 0.6 | 11 km ENE of Cloverdale, CA | 08:10 |
+| 🟢 0.9 | 12 km ENE of Cloverdale, CA | 08:08 |
+| 🟢 0.7 | 12 km ENE of Cloverdale, CA | 08:05 |
+| 🟢 1.3 | 12 km ENE of Cloverdale, CA | 08:04 |
+| 🟢 1.3 | 10 km WNW of Cobb, CA | 08:01 |
+| 🟢 2.7 | 13 km ENE of Cloverdale, CA | 08:00 |
+| 🟠 4.2 | 12 km ENE of Cloverdale, CA | 08:00 |
+| 🟢 2.1 | 37 km WSW of Nanwalek, Alaska | 07:58 |
+| 🟢 1.7 | 10 km WNW of The Geysers, CA | 07:34 |
+| 🟢 1.2 | 1 km ESE of Colton, CA | 07:33 |
+| 🟢 0.8 | 15 km NNE of Pine Valley, CA | 07:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
