@@ -2,15 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2012:45:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-378ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2013:40:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-109ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 9 km NW of The Geysers, CA | 12:34 |
-| 🟢 0.3 | 9 km NW of The Geysers, CA | 12:13 |
-| 🟢 1.1 | 14 km SSW of Searles Valley, CA | 12:10 |
-| 🟢 1.2 | 10 km WNW of The Geysers, CA | 11:48 |
+| 🟢 1.0 | 5 km W of Yucaipa, CA | 13:31 |
+| 🟢 1.0 | 5 km W of Yucaipa, CA | 13:31 |
+| 🟢 2.0 | 46 km ESE of Pedro Bay, Alaska | 13:30 |
+| 🟢 0.6 | 12 km ENE of Cloverdale, CA | 13:29 |
+| 🟢 1.1 | 12 km WNW of The Geysers, CA | 13:26 |
+| 🟢 2.3 | 27 km NNW of Pāhala, Hawaii | 13:19 |
+| 🟢 0.5 | 9 km SSW of Idyllwild, CA | 13:13 |
+| 🟢 0.6 | 5 km NW of The Geysers, CA | 13:12 |
+| 🟢 1.2 | 2 km NNW of Baldwin Park, CA | 12:55 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
