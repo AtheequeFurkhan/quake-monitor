@@ -2,16 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2019:19:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-517ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2020:25:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-204ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 14 km NE of Ridgecrest, CA | 19:02 |
-| 🟢 1.7 | 30 km E of Denali National Park, Alaska | 18:51 |
-| 🟢 1.4 | 45 km W of Ferry, Alaska | 18:43 |
-| 🟢 0.7 | 4 km NW of The Geysers, CA | 18:31 |
-| 🟢 1.7 | 54 km WNW of Tatitlek, Alaska | 18:23 |
+| 🟢 1.0 | 6 km WSW of Gilroy, CA | 20:03 |
+| 🟢 0.7 | 12 km WNW of The Geysers, CA | 19:58 |
+| 🟢 2.6 | 33 km W of Anchor Point, Alaska | 19:52 |
+| 🟢 1.8 | 18 km E of Pāhala, Hawaii | 19:48 |
+| 🟠 5.0 | 14 km SSE of Patea, New Zealand | 19:29 |
+| 🟢 0.8 | 9 km WNW of The Geysers, CA | 19:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
