@@ -2,19 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2017:26:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-110ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2018:28:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-477ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🔴 5.3 | 101 km SSE of Murghob, Tajikistan | 17:00 |
-| 🟢 1.5 | 5 km SSE of Redwood Valley, CA | 16:56 |
-| 🟢 0.6 | 12 km WNW of The Geysers, CA | 16:50 |
-| 🟢 2.4 | 2 km WSW of Coto Laurel, Puerto Rico | 16:43 |
-| 🟢 2.2 | 53 km ENE of Susitna North, Alaska | 16:42 |
-| 🟢 1.2 | 86 km NNW of Karluk, Alaska | 16:34 |
-| 🟢 0.7 | 8 km ENE of Anza, CA | 16:34 |
-| 🟢 0.8 | 12 km WNW of The Geysers, CA | 16:27 |
+| 🟢 1.7 | 54 km WNW of Tatitlek, Alaska | 18:23 |
+| 🟢 1.1 | 4 km NW of The Geysers, CA | 18:15 |
+| 🟢 1.3 | 4 km NW of The Geysers, CA | 18:14 |
+| 🟢 2.1 | 18 km ESE of Lindsay, Texas | 18:08 |
+| 🟢 2.3 | 10 km E of Pāhala, Hawaii | 18:02 |
+| 🟢 1.9 | 27 km NNW of Pāhala, Hawaii | 17:56 |
+| 🟢 2.9 | 18 km ENE of Willow, Alaska | 17:43 |
+| 🟢 1.5 | 7 km NE of Hildale, Utah | 17:35 |
+| 🟢 1.5 | 7 km NE of Hildale, Utah | 17:34 |
+| 🟠 4.4 | 64 km E of Martil, Morocco | 17:32 |
+| 🟢 1.7 | 47 km SE of Denali National Park, Alaska | 17:31 |
+| 🟢 1.2 | 14 km NE of Ridgecrest, CA | 17:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
