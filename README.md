@@ -2,17 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2010:24:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-350ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2011:20:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-382ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 7 km NW of The Geysers, CA | 10:19 |
-| 🟢 1.1 | 18 km WSW of Johannesburg, CA | 10:17 |
-| 🟢 2.0 | 5 km SSW of Westbrook, Texas | 10:07 |
-| 🟢 1.3 | 13 km ENE of Cloverdale, CA | 09:53 |
-| 🟢 2.7 | 8 km WNW of Pecos, Texas | 09:44 |
-| 🟢 0.9 | 13 km ENE of Cloverdale, CA | 09:43 |
+| 🟢 2.6 | 7 km ESE of Lake Roesiger, Washington | 11:13 |
+| 🟢 0.8 | 12 km WNW of The Geysers, CA | 11:03 |
+| 🟢 1.8 | 19 km ESE of Skwentna, Alaska | 10:46 |
+| 🟢 1.7 | 51 km WNW of Toyah, Texas | 10:30 |
+| 🟢 1.3 | 41 km WNW of Toyah, Texas | 10:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
