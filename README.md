@@ -2,21 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2011:20:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-382ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2012:45:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-378ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.6 | 7 km ESE of Lake Roesiger, Washington | 11:13 |
-| 🟢 0.8 | 12 km WNW of The Geysers, CA | 11:03 |
-| 🟢 1.8 | 19 km ESE of Skwentna, Alaska | 10:46 |
-| 🟢 1.7 | 51 km WNW of Toyah, Texas | 10:30 |
-| 🟢 1.3 | 41 km WNW of Toyah, Texas | 10:28 |
+| 🟢 0.8 | 9 km NW of The Geysers, CA | 12:34 |
+| 🟢 0.3 | 9 km NW of The Geysers, CA | 12:13 |
+| 🟢 1.1 | 14 km SSW of Searles Valley, CA | 12:10 |
+| 🟢 1.2 | 10 km WNW of The Geysers, CA | 11:48 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
-- ⛈️ **Severe Storms**: [Tropical Cyclone Jenna](https://www.metoc.navy.mil/jtwc/products/sh1226.tcw) (Jan 07)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Jenna](https://www.metoc.navy.mil/jtwc/products/sh1226.tcw) (Jan 08)
 - 🔥 **Wildfires**: [Math Branch Wildfire, Christian, Missouri](https://irwin.doi.gov/observer/incidents/8bf47127-7d41-460a-bbe5-d96ddab0cd9b) (Jan 03)
 - 🔥 **Wildfires**: [Madley Wildfire, Shelby, Texas](https://irwin.doi.gov/observer/incidents/88f45644-caf2-4ff1-a640-eb5f2e380cef) (Jan 02)
 - 🔥 **Wildfires**: [Rx Newton 6078 Prescribed Fire, Newton, Texas](https://irwin.doi.gov/observer/incidents/82154696-e548-4d42-b240-06a8b5aa95fe) (Jan 02)
