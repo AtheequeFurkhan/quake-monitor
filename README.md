@@ -2,20 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2001:44:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-117ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2003:39:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-140ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.3 | 7 km NW of The Geysers, CA | 01:40 |
-| 🟢 1.8 | 57 km E of Pedro Bay, Alaska | 01:37 |
-| 🟢 1.2 | 2 km WNW of Universal City, CA | 01:29 |
-| 🟢 0.7 | 8 km NE of Coso Junction, CA | 01:17 |
-| 🟢 2.1 | 39 km ESE of Alamo, Nevada | 01:13 |
-| 🟢 1.1 | 2 km ESE of The Geysers, CA | 01:09 |
-| 🟢 0.8 | 7 km W of Cobb, CA | 01:03 |
-| 🟢 0.7 | 6 km NW of The Geysers, CA | 00:57 |
-| 🟢 2.5 | 38 km ESE of Alamo, Nevada | 00:51 |
+| 🟢 0.9 | 3 km NNW of Fontana, CA | 03:33 |
+| 🟢 0.7 | 10 km SE of Winchester, CA | 03:31 |
+| 🟢 1.5 | 57 km S of Whites City, New Mexico | 03:30 |
+| 🟠 5.0 | 80 km W of Ambunti, Papua New Guinea | 03:21 |
+| 🟢 2.4 | 50 km W of Anchor Point, Alaska | 03:04 |
+| 🟢 1.3 | 18 km WNW of Winters, CA | 02:53 |
+| 🟢 2.1 | 44 km NW of Tatitlek, Alaska | 02:53 |
+| 🟢 1.3 | 4 km E of Yucaipa, CA | 02:53 |
+| 🟢 1.7 | 21 km SSE of Pāhala, Hawaii | 02:52 |
+| 🟢 2.1 | 2 km NW of The Geysers, CA | 02:52 |
+| 🟢 1.2 | 20 km NW of Stanton, Texas | 02:44 |
+| 🟢 1.6 | 23 km E of Forsan, Texas | 02:42 |
+| 🟢 1.2 | 16 km ESE of Julian, CA | 02:38 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
