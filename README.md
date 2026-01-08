@@ -2,25 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2008:30:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-469ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2009:28:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-371ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 12 km ENE of Cloverdale, CA | 08:21 |
-| 🟢 2.7 | 31 km NNW of Valdez, Alaska | 08:18 |
-| 🟢 1.0 | 12 km WNW of The Geysers, CA | 08:13 |
-| 🟢 0.6 | 11 km ENE of Cloverdale, CA | 08:10 |
-| 🟢 0.9 | 12 km ENE of Cloverdale, CA | 08:08 |
-| 🟢 0.7 | 12 km ENE of Cloverdale, CA | 08:05 |
-| 🟢 1.3 | 12 km ENE of Cloverdale, CA | 08:04 |
-| 🟢 1.3 | 10 km WNW of Cobb, CA | 08:01 |
-| 🟢 2.7 | 13 km ENE of Cloverdale, CA | 08:00 |
-| 🟠 4.2 | 12 km ENE of Cloverdale, CA | 08:00 |
-| 🟢 2.1 | 37 km WSW of Nanwalek, Alaska | 07:58 |
-| 🟢 1.7 | 10 km WNW of The Geysers, CA | 07:34 |
-| 🟢 1.2 | 1 km ESE of Colton, CA | 07:33 |
-| 🟢 0.8 | 15 km NNE of Pine Valley, CA | 07:31 |
+| 🟢 0.6 | 23 km SSW of La Quinta, CA | 09:21 |
+| 🟢 0.7 | 87 km NNW of Karluk, Alaska | 09:20 |
+| 🟢 1.8 | 32 km S of Caliente, Nevada | 09:14 |
+| 🟢 0.8 | 10 km WNW of The Geysers, CA | 09:08 |
+| 🟢 0.8 | 12 km ENE of Ridgecrest, CA | 08:55 |
+| 🟢 0.6 | 12 km WNW of The Geysers, CA | 08:52 |
+| 🟢 1.9 | 22 km ESE of Kasilof, Alaska | 08:52 |
+| 🟢 1.6 | 1 km ENE of Middletown, CA | 08:50 |
+| 🟢 1.4 | 12 km ENE of Cloverdale, CA | 08:47 |
+| 🟢 1.1 | 12 km WNW of The Geysers, CA | 08:44 |
+| 🟢 0.4 | 13 km ENE of Cloverdale, CA | 08:39 |
+| 🟢 1.6 | 12 km ENE of Cloverdale, CA | 08:39 |
+| 🟠 3.1 | 73 km N of Tierras Nuevas Poniente, Puerto Rico | 08:35 |
+| 🟢 1.7 | 6 km NW of The Geysers, CA | 08:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
