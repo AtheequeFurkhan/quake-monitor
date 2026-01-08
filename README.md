@@ -2,23 +2,26 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2021:20:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-406ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2022:21:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-217ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 3 km ENE of Pico Rivera, CA | 21:03 |
-| 🟢 1.6 | 63 km WNW of Salamatof, Alaska | 20:59 |
-| 🟢 0.5 | 3 km NW of The Geysers, CA | 20:48 |
-| 🟢 1.9 | 32 km NW of Nikiski, Alaska | 20:47 |
-| 🟢 1.5 | 15 km NE of Little Lake, CA | 20:44 |
-| 🟢 1.9 | 34 km ESE of Balmorhea, Texas | 20:36 |
-| 🟢 1.6 | 50 km WNW of Toyah, Texas | 20:29 |
-| 🟢 1.0 | 14 km NE of Ridgecrest, CA | 20:26 |
+| 🟢 2.5 | 43 km E of Ugashik, Alaska | 22:11 |
+| 🟢 1.7 | 8 km N of Sutcliffe, Nevada | 22:05 |
+| 🟢 1.9 | 7 km SSE of Pāhala, Hawaii | 22:04 |
+| 🟢 1.3 | 3 km WNW of Green Acres, CA | 22:03 |
+| 🟢 2.1 | 8 km NNW of Meadow Lakes, Alaska | 21:49 |
+| 🟢 2.2 | 28 km NNW of Susitna, Alaska | 21:47 |
+| 🟢 0.8 | 2 km NNW of The Geysers, CA | 21:46 |
+| 🟢 0.6 | 22 km SSW of Mammoth, Wyoming | 21:37 |
+| 🟢 0.8 | 9 km NW of The Geysers, CA | 21:35 |
+| 🟢 1.1 | 1 km S of Sierra Madre, CA | 21:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
+- 🔥 **Wildfires**: [APQ Rec Area 10 Rx 0108 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/4393a164-d6f5-4c5b-842b-986916058383) (Jan 08)
 - ⛈️ **Severe Storms**: [Tropical Cyclone Jenna](https://www.metoc.navy.mil/jtwc/products/sh1226.tcw) (Jan 08)
 - 🔥 **Wildfires**: [Math Branch Wildfire, Christian, Missouri](https://irwin.doi.gov/observer/incidents/8bf47127-7d41-460a-bbe5-d96ddab0cd9b) (Jan 03)
 - 🔥 **Wildfires**: [Madley Wildfire, Shelby, Texas](https://irwin.doi.gov/observer/incidents/88f45644-caf2-4ff1-a640-eb5f2e380cef) (Jan 02)
@@ -28,7 +31,6 @@
 - 🔥 **Wildfires**: [Addington Wildfire, Cherokee, Oklahoma](https://irwin.doi.gov/observer/incidents/e1ad637f-6723-4f32-8d3a-689bb90a4850) (Dec 23)
 - 🔥 **Wildfires**: [Sassafras Fire Wildfire, Latimer, Oklahoma](https://irwin.doi.gov/observer/incidents/9e5ca387-8a35-48c9-ac66-efd0ea9203b0) (Dec 21)
 - 🔥 **Wildfires**: [Salt Creek Wildfire, Blaine, Oklahoma](https://irwin.doi.gov/observer/incidents/bcd81a6b-c82e-404d-86d4-b9ad45cd37dd) (Dec 19)
-- 🔥 **Wildfires**: [Burning In The Blind Wildfire, Brooks, Texas](https://irwin.doi.gov/observer/incidents/d46f7f06-bbf2-44a0-a27e-157c2ce460b3) (Dec 18)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
