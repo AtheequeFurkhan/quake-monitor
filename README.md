@@ -2,20 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2014:25:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-257ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2008%20Jan%202026%2015:26:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-458ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 11 km ENE of Cloverdale, CA | 14:03 |
-| 🟢 2.3 | 5 km ESE of Mossyrock, Washington | 13:55 |
-| 🟢 2.3 | 22 km ESE of Denali National Park, Alaska | 13:48 |
-| 🟢 2.8 | 39 km NNW of Valdez, Alaska | 13:46 |
-| 🟢 1.0 | 5 km W of Yucaipa, CA | 13:31 |
-| 🟢 1.0 | 5 km W of Yucaipa, CA | 13:31 |
-| 🟢 2.0 | 46 km ESE of Pedro Bay, Alaska | 13:30 |
-| 🟢 0.6 | 12 km ENE of Cloverdale, CA | 13:29 |
-| 🟢 1.1 | 12 km WNW of The Geysers, CA | 13:26 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 15:06 |
+| 🟠 3.1 | 3 km NNW of Edgefield, Louisiana | 15:06 |
+| 🟢 0.8 | 35 km E of McKinney Acres, Texas | 14:59 |
+| 🟢 1.0 | 7 km NW of The Geysers, CA | 14:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
