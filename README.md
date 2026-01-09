@@ -2,24 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2009%20Jan%202026%2008:31:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-405ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2009%20Jan%202026%2009:27:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-459ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 10 km WSW of Forsan, Texas | 08:24 |
-| 🟢 1.6 | 6 km SSE of Denali National Park, Alaska | 08:22 |
-| 🟢 2.1 | 7 km WSW of Girdwood, Alaska | 08:20 |
-| 🟢 1.5 | 8 km NW of Harding-Birch Lakes, Alaska | 08:15 |
-| 🟢 1.9 | 7 km WSW of Volcano, Hawaii | 08:14 |
-| 🟢 2.2 | 21 km W of Volcano, Hawaii | 08:14 |
-| 🟢 1.4 | 5 km S of Redlands, CA | 08:11 |
-| 🟢 0.7 | 6 km SSE of Banning, CA | 08:10 |
-| 🟢 1.5 | 7 km NW of The Geysers, CA | 08:08 |
-| 🟢 1.2 | 8 km NE of Healdsburg, CA | 08:03 |
-| 🟢 1.2 | 5 km NW of The Geysers, CA | 07:55 |
-| 🟢 1.9 | 11 km E of Pāhala, Hawaii | 07:54 |
-| 🟢 2.9 | 110 km SE of Ugashik, Alaska | 07:45 |
+| 🟢 0.8 | 1 km SSW of Cobb, CA | 09:09 |
+| 🟠 4.0 | 50 km ESE of Adak, Alaska | 08:46 |
+| 🟢 1.0 | 6 km S of Redlands, CA | 08:35 |
+| 🟢 1.1 | 4 km N of La Verne, CA | 08:33 |
+| 🟠 3.1 | 110 km N of Yakutat, Alaska | 08:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
