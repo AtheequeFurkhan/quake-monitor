@@ -2,17 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2009%20Jan%202026%2003:39:38%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-295ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2009%20Jan%202026%2004:40:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-145ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 5 km NNW of The Geysers, CA | 03:28 |
-| 🟢 0.7 | 11 km N of Borrego Springs, CA | 03:08 |
-| 🟢 1.7 | 8 km NW of The Geysers, CA | 03:03 |
-| 🟢 2.1 | 31 km SSE of Fern Forest, Hawaii | 02:55 |
-| 🟢 1.7 | 15 km WNW of Volcano, Hawaii | 02:48 |
-| 🟢 1.4 | 7 km NW of The Geysers, CA | 02:41 |
+| 🟢 1.6 | 22 km NW of Petersville, Alaska | 04:23 |
+| 🟢 1.5 | 3 km NNW of The Geysers, CA | 04:16 |
+| 🟢 0.8 | 4 km NW of The Geysers, CA | 04:14 |
+| 🟢 1.4 | 9 km WNW of Cobb, CA | 04:04 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 04:04 |
+| 🟢 1.0 | 3 km ESE of Berkeley, CA | 04:03 |
+| 🟢 1.7 | 49 km NW of Tatitlek, Alaska | 04:00 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 03:57 |
+| 🟢 1.8 | 21 km E of Little Lake, CA | 03:43 |
+| 🟢 0.7 | 10 km N of Anza, CA | 03:40 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
