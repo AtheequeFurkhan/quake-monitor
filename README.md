@@ -2,18 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2009%20Jan%202026%2022:21:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-192ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2009%20Jan%202026%2023:20:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-315ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 77 km S of McCarthy, Alaska | 22:13 |
-| 🟢 1.7 | 56 km WNW of Toyah, Texas | 22:09 |
-| 🟢 0.8 | 2 km N of The Geysers, CA | 22:03 |
-| 🟢 2.0 | 24 km SSW of Westbrook, Texas | 21:49 |
-| 🟢 1.5 | 3 km NW of Ridgely, Tennessee | 21:48 |
-| 🟢 1.3 | 19 km W of Mentone, Texas | 21:30 |
-| 🟢 0.7 | 10 km WNW of The Geysers, CA | 21:20 |
+| 🟢 1.3 | 10 km SSW of Borrego Springs, CA | 22:58 |
+| 🟢 1.3 | 9 km NNW of Big Bear City, CA | 22:38 |
+| 🟢 1.1 | 4 km WNW of Chino, CA | 22:32 |
+| 🟢 1.2 | 84 km NNW of Karluk, Alaska | 22:23 |
+| 🟢 1.4 | 85 km NW of Karluk, Alaska | 22:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
