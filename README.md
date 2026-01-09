@@ -2,20 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2009%20Jan%202026%2012:44:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-186ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2009%20Jan%202026%2013:37:52%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-470ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.8 | 2 km SW of Pāhala, Hawaii | 13:22 |
+| 🟢 1.6 | 57 km NW of Toyah, Texas | 12:57 |
+| 🟢 1.3 | 12 km N of Hollister, CA | 12:53 |
+| 🟢 1.7 | 56 km SE of Pope-Vannoy Landing, Alaska | 12:53 |
 | 🟢 2.0 | 3 km ENE of The Geysers, CA | 12:40 |
-| 🟢 1.2 | 8 km NNW of Garden City, Texas | 12:28 |
-| 🟢 0.8 | 6 km WNW of The Geysers, CA | 12:26 |
-| 🟠 4.9 | 143 km S of Severo-Kuril’sk, Russia | 12:22 |
-| 🟢 1.6 | 58 km NW of Toyah, Texas | 12:21 |
-| 🔴 5.3 | Kermadec Islands region | 12:13 |
-| 🟢 1.9 | 12 km SSE of Fern Forest, Hawaii | 12:09 |
-| 🟢 2.4 | 1 km SE of Magas Arriba, Puerto Rico | 12:03 |
-| 🟢 1.1 | 7 km W of Cobb, CA | 11:55 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
