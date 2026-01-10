@@ -2,17 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2003:23:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-176ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2004:33:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-342ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 7 km WNW of Cobb, CA | 03:17 |
-| 🟢 1.8 | 28 km NNW of Pāhala, Hawaii | 03:01 |
-| 🟢 0.3 | 9 km WNW of Cobb, CA | 02:57 |
-| 🟢 2.5 | 5 km S of Indios, Puerto Rico | 02:50 |
-| 🟢 1.9 | 2 km SSW of Pāhala, Hawaii | 02:44 |
-| 🟢 1.4 | 21 km W of Westley, CA | 02:44 |
+| 🟢 2.0 | 58 km S of Whites City, New Mexico | 04:27 |
+| 🟢 2.1 | 13 km NNE of Houston, Alaska | 04:11 |
+| 🟢 2.1 | 3 km WSW of Guadalupe Victoria, B.C., MX | 04:10 |
+| 🟢 1.2 | 6 km W of Cobb, CA | 04:08 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 04:00 |
+| 🟢 1.5 | 47 km SSW of Stovepipe Wells, CA | 03:59 |
+| 🟢 1.8 | 47 km SSW of Stovepipe Wells, CA | 03:58 |
+| 🟢 2.7 | 10 km W of Susitna, Alaska | 03:51 |
+| 🟢 1.0 | 81 km NNW of Karluk, Alaska | 03:42 |
+| 🟠 4.3 | 155 km NNE of Labuan Bajo, Indonesia | 03:39 |
+| 🟠 5.0 | 165 km S of Severo-Kuril’sk, Russia | 03:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
