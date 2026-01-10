@@ -2,18 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2014:19:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-405ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2015:19:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-526ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 8 km SE of Lake Pillsbury, CA | 14:08 |
-| 🟢 1.7 | 61 km N of Karluk, Alaska | 14:05 |
-| 🟢 1.9 | 17 km SSE of Westbrook, Texas | 14:04 |
-| 🟢 1.6 | 16 km ENE of Big Pine, California | 14:02 |
-| 🟢 2.2 | 6 km NNE of Susitna, Alaska | 13:44 |
-| 🟢 3.0 | 111 km E of Chignik, Alaska | 13:30 |
-| 🟢 1.7 | 26 km E of Honaunau-Napoopoo, Hawaii | 13:26 |
+| 🟢 2.4 | 20 km ENE of Healy, Alaska | 15:13 |
+| 🟢 1.2 | 26 km SSW of Ocotillo Wells, CA | 15:03 |
+| 🔴 6.5 | 244 km NNW of Tobelo, Indonesia | 14:58 |
+| 🟢 1.9 | 1 km E of Cayey, Puerto Rico | 14:52 |
+| 🟢 2.9 | 38 km E of Susitna North, Alaska | 14:51 |
+| 🟢 0.8 | 3 km ENE of The Geysers, CA | 14:38 |
+| 🟠 4.8 | 140 km E of Petropavlovsk-Kamchatsky, Russia | 14:38 |
+| 🟠 4.3 | 3 km WNW of Santa Monica, Philippines | 14:29 |
+| 🟢 2.3 | 1 km W of Pāhala, Hawaii | 14:27 |
+| 🟢 1.3 | 6 km WNW of Cobb, CA | 14:20 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
