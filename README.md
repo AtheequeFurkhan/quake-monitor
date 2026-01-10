@@ -2,21 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2015:19:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-526ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2016:24:47%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.4 | 20 km ENE of Healy, Alaska | 15:13 |
-| 🟢 1.2 | 26 km SSW of Ocotillo Wells, CA | 15:03 |
-| 🔴 6.5 | 244 km NNW of Tobelo, Indonesia | 14:58 |
-| 🟢 1.9 | 1 km E of Cayey, Puerto Rico | 14:52 |
-| 🟢 2.9 | 38 km E of Susitna North, Alaska | 14:51 |
-| 🟢 0.8 | 3 km ENE of The Geysers, CA | 14:38 |
-| 🟠 4.8 | 140 km E of Petropavlovsk-Kamchatsky, Russia | 14:38 |
-| 🟠 4.3 | 3 km WNW of Santa Monica, Philippines | 14:29 |
-| 🟢 2.3 | 1 km W of Pāhala, Hawaii | 14:27 |
-| 🟢 1.3 | 6 km WNW of Cobb, CA | 14:20 |
+| 🟢 2.4 | 33 km SW of Karluk, Alaska | 15:48 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 15:46 |
+| 🟢 2.2 | 8 km S of Big Lake, Alaska | 15:37 |
+| 🟠 5.0 | 142 km E of Ozernovskiy, Russia | 15:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
