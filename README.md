@@ -2,17 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2022:19:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-278ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2023:19:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-442ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 14 km SSW of Searles Valley, CA | 22:14 |
-| 🟢 2.5 | 42 km NW of Toyah, Texas | 22:08 |
-| 🟢 0.7 | 4 km W of Cobb, CA | 22:08 |
-| 🟢 2.5 | 39 km NW of Toyah, Texas | 22:08 |
-| 🟢 0.8 | 9 km WNW of The Geysers, CA | 22:06 |
-| 🟢 0.3 | 8 km NW of The Geysers, CA | 21:59 |
+| 🟢 1.7 | 56 km S of Whites City, New Mexico | 23:13 |
+| 🟢 1.9 | 11 km NE of Yucaipa, CA | 23:07 |
+| 🟢 1.7 | 63 km S of Whites City, New Mexico | 22:54 |
+| 🟢 1.5 | 59 km S of Whites City, New Mexico | 22:53 |
+| 🟢 2.4 | 62 km SSE of Kokhanok, Alaska | 22:49 |
+| 🟢 0.8 | 3 km WSW of Cobb, CA | 22:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
