@@ -2,19 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2012:39:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-422ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2013:28:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-403ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 15 km WSW of Stanton, Texas | 12:36 |
+| 🟢 1.6 | 16 km SW of Toms Place, CA | 13:15 |
+| 🟢 0.8 | 3 km NE of The Geysers, CA | 13:06 |
+| 🟢 2.0 | 17 km NNE of Hawaiian Paradise Park, Hawaii | 13:01 |
+| 🟢 0.6 | 6 km ESE of Valle Vista, CA | 12:55 |
+| 🟢 1.5 | 8 km SSW of Big Bear Lake, CA | 12:50 |
+| 🟢 2.2 | 58 km NW of Toyah, Texas | 12:49 |
+| 🟢 2.7 | 7 km SE of Valle Vista, CA | 12:48 |
+| 🟢 1.1 | 15 km NE of Midland, Texas | 12:36 |
 | 🟢 1.8 | 4 km SSW of Pāhala, Hawaii | 12:33 |
-| 🟢 2.3 | 24 km ESE of Fox River, Alaska | 12:15 |
-| 🟢 0.8 | 10 km ENE of Ridgecrest, CA | 12:05 |
-| 🟢 1.4 | 11 km WSW of Stanton, Texas | 12:03 |
-| 🟢 1.4 | 7 km NW of The Geysers, CA | 11:58 |
-| 🟢 2.5 | 41 km WSW of Empire, Nevada | 11:57 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 11:45 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
