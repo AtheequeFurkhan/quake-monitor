@@ -2,20 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2005:21:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-303ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2006:30:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-178ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 56 km SSW of Whites City, New Mexico | 05:06 |
-| 🔴 5.1 | 17 km ESE of Brancaleone, Italy | 04:53 |
-| 🟢 0.5 | 9 km WNW of The Geysers, CA | 04:47 |
-| 🟢 1.7 | 7 km NE of Mexicali, B.C., MX | 04:42 |
-| 🟢 0.3 | 8 km NW of The Geysers, CA | 04:33 |
-| 🟠 4.7 | 170 km S of Severo-Kuril’sk, Russia | 04:33 |
-| 🟠 3.4 | 114 km N of Yakutat, Alaska | 04:32 |
-| 🟢 2.0 | 16 km WSW of Balmorhea, Texas | 04:27 |
-| 🟢 2.0 | 58 km S of Whites City, New Mexico | 04:27 |
+| 🟢 0.9 | 5 km SW of San Ardo, CA | 06:27 |
+| 🟢 2.1 | 2 km SW of Pāhala, Hawaii | 06:11 |
+| 🟢 0.7 | 11 km NW of The Geysers, CA | 06:00 |
+| 🟢 1.2 | 11 km NW of The Geysers, CA | 06:00 |
+| 🟢 0.7 | 11 km WNW of Cobb, CA | 05:58 |
+| 🟢 1.5 | 11 km NW of The Geysers, CA | 05:52 |
+| 🟢 2.0 | 5 km SSE of Pāhala, Hawaii | 05:47 |
+| 🟢 1.9 | 46 km N of Petersville, Alaska | 05:46 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
