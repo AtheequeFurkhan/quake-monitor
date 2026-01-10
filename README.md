@@ -2,16 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2009%20Jan%202026%2023:20:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-315ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2001:41:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-160ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 10 km SSW of Borrego Springs, CA | 22:58 |
-| 🟢 1.3 | 9 km NNW of Big Bear City, CA | 22:38 |
-| 🟢 1.1 | 4 km WNW of Chino, CA | 22:32 |
-| 🟢 1.2 | 84 km NNW of Karluk, Alaska | 22:23 |
-| 🟢 1.4 | 85 km NW of Karluk, Alaska | 22:21 |
+| 🟢 1.4 | 14 km NW of Midland, Texas | 01:25 |
+| 🟢 2.2 | 42 km SE of Denali National Park, Alaska | 01:08 |
+| 🟢 2.1 | 122 km SSE of McCarthy, Alaska | 01:07 |
+| 🟠 4.8 | 69 km E of Petropavlovsk-Kamchatsky, Russia | 01:05 |
+| 🟢 2.1 | 6 km NNW of Big Lake, Alaska | 01:04 |
+| 🟢 1.5 | 2 km NW of The Geysers, CA | 00:54 |
+| 🟢 1.6 | 9 km NW of The Geysers, CA | 00:54 |
+| 🟢 1.8 | 41 km ENE of Whittier, Alaska | 00:50 |
+| 🔴 5.1 | 94 km WNW of Sola, Vanuatu | 00:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
