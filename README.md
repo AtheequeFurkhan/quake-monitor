@@ -2,22 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2004:33:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-342ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2005:21:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-303ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.2 | 56 km SSW of Whites City, New Mexico | 05:06 |
+| 🔴 5.1 | 17 km ESE of Brancaleone, Italy | 04:53 |
+| 🟢 0.5 | 9 km WNW of The Geysers, CA | 04:47 |
+| 🟢 1.7 | 7 km NE of Mexicali, B.C., MX | 04:42 |
+| 🟢 0.3 | 8 km NW of The Geysers, CA | 04:33 |
+| 🟠 4.7 | 170 km S of Severo-Kuril’sk, Russia | 04:33 |
+| 🟠 3.4 | 114 km N of Yakutat, Alaska | 04:32 |
+| 🟢 2.0 | 16 km WSW of Balmorhea, Texas | 04:27 |
 | 🟢 2.0 | 58 km S of Whites City, New Mexico | 04:27 |
-| 🟢 2.1 | 13 km NNE of Houston, Alaska | 04:11 |
-| 🟢 2.1 | 3 km WSW of Guadalupe Victoria, B.C., MX | 04:10 |
-| 🟢 1.2 | 6 km W of Cobb, CA | 04:08 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 04:00 |
-| 🟢 1.5 | 47 km SSW of Stovepipe Wells, CA | 03:59 |
-| 🟢 1.8 | 47 km SSW of Stovepipe Wells, CA | 03:58 |
-| 🟢 2.7 | 10 km W of Susitna, Alaska | 03:51 |
-| 🟢 1.0 | 81 km NNW of Karluk, Alaska | 03:42 |
-| 🟠 4.3 | 155 km NNE of Labuan Bajo, Indonesia | 03:39 |
-| 🟠 5.0 | 165 km S of Severo-Kuril’sk, Russia | 03:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
