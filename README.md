@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2001:41:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-160ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2003:23:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-176ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 14 km NW of Midland, Texas | 01:25 |
-| 🟢 2.2 | 42 km SE of Denali National Park, Alaska | 01:08 |
-| 🟢 2.1 | 122 km SSE of McCarthy, Alaska | 01:07 |
-| 🟠 4.8 | 69 km E of Petropavlovsk-Kamchatsky, Russia | 01:05 |
-| 🟢 2.1 | 6 km NNW of Big Lake, Alaska | 01:04 |
-| 🟢 1.5 | 2 km NW of The Geysers, CA | 00:54 |
-| 🟢 1.6 | 9 km NW of The Geysers, CA | 00:54 |
-| 🟢 1.8 | 41 km ENE of Whittier, Alaska | 00:50 |
-| 🔴 5.1 | 94 km WNW of Sola, Vanuatu | 00:44 |
+| 🟢 0.8 | 7 km WNW of Cobb, CA | 03:17 |
+| 🟢 1.8 | 28 km NNW of Pāhala, Hawaii | 03:01 |
+| 🟢 0.3 | 9 km WNW of Cobb, CA | 02:57 |
+| 🟢 2.5 | 5 km S of Indios, Puerto Rico | 02:50 |
+| 🟢 1.9 | 2 km SSW of Pāhala, Hawaii | 02:44 |
+| 🟢 1.4 | 21 km W of Westley, CA | 02:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
