@@ -2,19 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2009:20:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2010:20:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-354ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 14 km SSW of Searles Valley, CA | 09:09 |
-| 🟢 2.5 | 13 km WNW of Belden, CA | 09:02 |
-| 🟢 2.6 | 14 km SSW of Searles Valley, CA | 09:00 |
-| 🟢 1.1 | 7 km W of Cobb, CA | 08:55 |
-| 🟢 0.7 | 13 km ENE of Ridgecrest, CA | 08:53 |
-| 🟢 1.2 | 17 km WSW of Olancha, CA | 08:40 |
-| 🟢 2.8 | 15 km NE of Amarillo, Texas | 08:33 |
-| 🟢 1.8 | 6 km NW of The Geysers, CA | 08:25 |
+| 🟢 1.0 | 3 km SW of Anderson Springs, CA | 10:03 |
+| 🟢 2.5 | 43 km ENE of Pedro Bay, Alaska | 09:51 |
+| 🟢 2.2 | 67 km ESE of Cantwell, Alaska | 09:31 |
+| 🟢 1.0 | 6 km NE of Beaumont, CA | 09:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
