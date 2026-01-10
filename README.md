@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2020:21:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-215ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2021:18:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-321ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 35 km ENE of Chase, Alaska | 19:59 |
-| 🟢 1.4 | 25 km SW of Ackerly, Texas | 19:57 |
-| 🟢 0.7 | 8 km W of Cobb, CA | 19:57 |
-| 🟢 2.4 | 40 km NE of Valdez, Alaska | 19:56 |
-| 🟢 2.1 | 52 km WNW of Anchor Point, Alaska | 19:53 |
-| 🟢 1.0 | 9 km S of Idyllwild, CA | 19:52 |
-| 🟢 1.7 | 25 km SSE of Trona, CA | 19:51 |
-| 🟠 4.3 | 11 km SSE of Mollendo, Peru | 19:44 |
-| 🟢 1.8 | 61 km S of Whites City, New Mexico | 19:25 |
+| 🟢 1.1 | 2 km NW of The Geysers, CA | 20:48 |
+| 🟢 1.9 | 2 km NW of The Geysers, CA | 20:47 |
+| 🟢 1.0 | 2 km NW of The Geysers, CA | 20:44 |
+| 🟢 1.4 | 44 km S of Skwentna, Alaska | 20:44 |
+| 🟠 5.0 | Banda Sea | 20:43 |
+| 🟢 1.5 | 15 km ENE of Fox, Alaska | 20:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
