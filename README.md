@@ -2,20 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2013:28:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-403ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2014:19:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-405ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 16 km SW of Toms Place, CA | 13:15 |
-| 🟢 0.8 | 3 km NE of The Geysers, CA | 13:06 |
-| 🟢 2.0 | 17 km NNE of Hawaiian Paradise Park, Hawaii | 13:01 |
-| 🟢 0.6 | 6 km ESE of Valle Vista, CA | 12:55 |
-| 🟢 1.5 | 8 km SSW of Big Bear Lake, CA | 12:50 |
-| 🟢 2.2 | 58 km NW of Toyah, Texas | 12:49 |
-| 🟢 2.7 | 7 km SE of Valle Vista, CA | 12:48 |
-| 🟢 1.1 | 15 km NE of Midland, Texas | 12:36 |
-| 🟢 1.8 | 4 km SSW of Pāhala, Hawaii | 12:33 |
+| 🟢 1.6 | 8 km SE of Lake Pillsbury, CA | 14:08 |
+| 🟢 1.7 | 61 km N of Karluk, Alaska | 14:05 |
+| 🟢 1.9 | 17 km SSE of Westbrook, Texas | 14:04 |
+| 🟢 1.6 | 16 km ENE of Big Pine, California | 14:02 |
+| 🟢 2.2 | 6 km NNE of Susitna, Alaska | 13:44 |
+| 🟢 3.0 | 111 km E of Chignik, Alaska | 13:30 |
+| 🟢 1.7 | 26 km E of Honaunau-Napoopoo, Hawaii | 13:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
