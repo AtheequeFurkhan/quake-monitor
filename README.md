@@ -2,11 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2018:29:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-145ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2019:15:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-213ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.7 | 20 km NNW of Runge, Texas | 18:59 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 18:59 |
+| 🟢 0.5 | 22 km N of Ridgecrest, CA | 18:52 |
+| 🟢 2.3 | 19 km SSW of Anchor Point, Alaska | 18:45 |
+| 🟢 0.3 | 10 km NW of The Geysers, CA | 18:41 |
+| 🟢 0.5 | 3 km W of Cobb, CA | 18:33 |
 | 🟢 1.0 | 2 km WNW of The Geysers, CA | 18:17 |
 | 🟢 1.8 | 5 km NNE of Pāhala, Hawaii | 18:17 |
 
