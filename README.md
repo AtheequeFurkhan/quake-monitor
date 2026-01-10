@@ -2,14 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2011:17:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-491ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2012:39:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-422ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.6 | 17 km NE of French Gulch, CA | 11:08 |
-| 🟢 0.9 | 17 km ESE of Anza, CA | 10:45 |
-| 🟢 1.6 | 52 km NNW of Karluk, Alaska | 10:44 |
+| 🟢 1.1 | 15 km WSW of Stanton, Texas | 12:36 |
+| 🟢 1.8 | 4 km SSW of Pāhala, Hawaii | 12:33 |
+| 🟢 2.3 | 24 km ESE of Fox River, Alaska | 12:15 |
+| 🟢 0.8 | 10 km ENE of Ridgecrest, CA | 12:05 |
+| 🟢 1.4 | 11 km WSW of Stanton, Texas | 12:03 |
+| 🟢 1.4 | 7 km NW of The Geysers, CA | 11:58 |
+| 🟢 2.5 | 41 km WSW of Empire, Nevada | 11:57 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 11:45 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
