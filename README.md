@@ -2,16 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2008:27:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-383ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2009:20:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.3 | 14 km SSW of Searles Valley, CA | 09:09 |
+| 🟢 2.5 | 13 km WNW of Belden, CA | 09:02 |
+| 🟢 2.6 | 14 km SSW of Searles Valley, CA | 09:00 |
+| 🟢 1.1 | 7 km W of Cobb, CA | 08:55 |
+| 🟢 0.7 | 13 km ENE of Ridgecrest, CA | 08:53 |
+| 🟢 1.2 | 17 km WSW of Olancha, CA | 08:40 |
+| 🟢 2.8 | 15 km NE of Amarillo, Texas | 08:33 |
 | 🟢 1.8 | 6 km NW of The Geysers, CA | 08:25 |
-| 🟢 2.2 | 28 km SSW of Petersville, Alaska | 08:06 |
-| 🟠 4.9 | 35 km E of Severo-Kuril’sk, Russia | 08:05 |
-| 🔴 5.5 | 162 km ESE of Petropavlovsk-Kamchatsky, Russia | 07:57 |
-| 🟢 1.3 | 47 km NNW of Beluga, Alaska | 07:45 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
