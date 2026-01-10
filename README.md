@@ -2,19 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2019:15:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-213ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2020:21:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-215ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 20 km NNW of Runge, Texas | 18:59 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 18:59 |
-| 🟢 0.5 | 22 km N of Ridgecrest, CA | 18:52 |
-| 🟢 2.3 | 19 km SSW of Anchor Point, Alaska | 18:45 |
-| 🟢 0.3 | 10 km NW of The Geysers, CA | 18:41 |
-| 🟢 0.5 | 3 km W of Cobb, CA | 18:33 |
-| 🟢 1.0 | 2 km WNW of The Geysers, CA | 18:17 |
-| 🟢 1.8 | 5 km NNE of Pāhala, Hawaii | 18:17 |
+| 🟢 2.0 | 35 km ENE of Chase, Alaska | 19:59 |
+| 🟢 1.4 | 25 km SW of Ackerly, Texas | 19:57 |
+| 🟢 0.7 | 8 km W of Cobb, CA | 19:57 |
+| 🟢 2.4 | 40 km NE of Valdez, Alaska | 19:56 |
+| 🟢 2.1 | 52 km WNW of Anchor Point, Alaska | 19:53 |
+| 🟢 1.0 | 9 km S of Idyllwild, CA | 19:52 |
+| 🟢 1.7 | 25 km SSE of Trona, CA | 19:51 |
+| 🟠 4.3 | 11 km SSE of Mollendo, Peru | 19:44 |
+| 🟢 1.8 | 61 km S of Whites City, New Mexico | 19:25 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
