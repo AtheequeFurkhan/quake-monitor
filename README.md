@@ -2,17 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2021:18:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-321ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2022:19:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-278ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 2 km NW of The Geysers, CA | 20:48 |
-| 🟢 1.9 | 2 km NW of The Geysers, CA | 20:47 |
-| 🟢 1.0 | 2 km NW of The Geysers, CA | 20:44 |
-| 🟢 1.4 | 44 km S of Skwentna, Alaska | 20:44 |
-| 🟠 5.0 | Banda Sea | 20:43 |
-| 🟢 1.5 | 15 km ENE of Fox, Alaska | 20:32 |
+| 🟢 1.0 | 14 km SSW of Searles Valley, CA | 22:14 |
+| 🟢 2.5 | 42 km NW of Toyah, Texas | 22:08 |
+| 🟢 0.7 | 4 km W of Cobb, CA | 22:08 |
+| 🟢 2.5 | 39 km NW of Toyah, Texas | 22:08 |
+| 🟢 0.8 | 9 km WNW of The Geysers, CA | 22:06 |
+| 🟢 0.3 | 8 km NW of The Geysers, CA | 21:59 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
