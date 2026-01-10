@@ -2,19 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2006:30:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-178ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2010%20Jan%202026%2007:19:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-507ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.0 | 7 km NW of The Geysers, CA | 07:10 |
+| 🟢 0.6 | 9 km NW of The Geysers, CA | 06:48 |
+| 🟢 1.4 | 20 km SE of Midland, Texas | 06:47 |
+| 🟢 2.5 | 25 km N of Fox River, Alaska | 06:46 |
 | 🟢 0.9 | 5 km SW of San Ardo, CA | 06:27 |
-| 🟢 2.1 | 2 km SW of Pāhala, Hawaii | 06:11 |
-| 🟢 0.7 | 11 km NW of The Geysers, CA | 06:00 |
-| 🟢 1.2 | 11 km NW of The Geysers, CA | 06:00 |
-| 🟢 0.7 | 11 km WNW of Cobb, CA | 05:58 |
-| 🟢 1.5 | 11 km NW of The Geysers, CA | 05:52 |
-| 🟢 2.0 | 5 km SSE of Pāhala, Hawaii | 05:47 |
-| 🟢 1.9 | 46 km N of Petersville, Alaska | 05:46 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
