@@ -2,17 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2011%20Jan%202026%2021:18:38%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-382ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2011%20Jan%202026%2022:19:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-181ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 21:15 |
-| 🟢 1.8 | 11 km WSW of Stanton, Texas | 20:43 |
-| 🟢 1.5 | 15 km NE of Hermleigh, Texas | 20:41 |
-| 🟢 2.2 | 61 km WSW of Anchor Point, Alaska | 20:37 |
-| 🟢 1.4 | 6 km NW of The Geysers, CA | 20:30 |
-| 🟢 0.2 | 5 km WNW of Cobb, CA | 20:29 |
+| 🟢 1.1 | 3 km W of Cobb, CA | 22:09 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 22:03 |
+| 🟢 0.8 | 2 km W of Cobb, CA | 22:00 |
+| 🟢 1.9 | 4 km SSW of Antioch, CA | 21:45 |
+| 🟢 2.6 | 3 km SSW of Antioch, CA | 21:44 |
+| 🟢 0.8 | 23 km SSW of Pine Mountain Club, CA | 21:40 |
+| 🟢 1.9 | 19 km ESE of Boonville, CA | 21:39 |
+| 🟢 3.0 | 62 km N of Hatillo, Puerto Rico | 21:25 |
+| 🟢 2.8 | 48 km WNW of Nanwalek, Alaska | 21:25 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
