@@ -2,21 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2011%20Jan%202026%2020:23:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-508ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2011%20Jan%202026%2021:18:38%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-382ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.8 | 106 km NNW of Yakutat, Alaska | 20:11 |
-| 🟢 2.0 | 2 km SW of Indios, Puerto Rico | 20:01 |
-| 🟢 0.8 | 12 km ENE of Cloverdale, CA | 20:00 |
-| 🟢 1.1 | 7 km N of Garden City, Texas | 19:56 |
-| 🟢 1.4 | 30 km SE of Minto, Alaska | 19:53 |
-| 🟢 3.0 | 24 km SW of Karluk, Alaska | 19:49 |
-| 🟢 0.8 | 10 km ESE of Cabazon, CA | 19:41 |
-| 🟢 0.7 | 2 km NW of The Geysers, CA | 19:41 |
-| 🟢 0.2 | 6 km WNW of Cobb, CA | 19:38 |
-| 🔴 5.1 | 154 km S of Severo-Kuril’sk, Russia | 19:37 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 21:15 |
+| 🟢 1.8 | 11 km WSW of Stanton, Texas | 20:43 |
+| 🟢 1.5 | 15 km NE of Hermleigh, Texas | 20:41 |
+| 🟢 2.2 | 61 km WSW of Anchor Point, Alaska | 20:37 |
+| 🟢 1.4 | 6 km NW of The Geysers, CA | 20:30 |
+| 🟢 0.2 | 5 km WNW of Cobb, CA | 20:29 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
