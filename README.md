@@ -2,16 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2011%20Jan%202026%2015:19:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-419ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2011%20Jan%202026%2016:24:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-110ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 2 km NW of The Geysers, CA | 15:13 |
-| 🟢 1.4 | 3 km SE of Pacifica, CA | 15:12 |
-| 🟢 1.7 | 20 km E of Little Lake, CA | 14:47 |
-| 🟢 1.1 | 5 km NW of The Geysers, CA | 14:45 |
-| 🟢 1.4 | 15 km NW of Four Mile Road, Alaska | 14:28 |
+| 🟢 1.6 | 35 km ENE of Chase, Alaska | 16:11 |
+| 🟢 0.7 | 5 km NW of The Geysers, CA | 16:08 |
+| 🟢 1.4 | 10 km ENE of Fox, Alaska | 16:05 |
+| 🟢 1.7 | 6 km S of Toms Place, CA | 15:50 |
+| 🟢 2.5 | 6 km SW of Pāhala, Hawaii | 15:47 |
+| 🟢 1.1 | 8 km S of The Geysers, CA | 15:38 |
+| 🟢 2.0 | 40 km WSW of Empire, Nevada | 15:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
