@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2011%20Jan%202026%2009:21:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-217ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2011%20Jan%202026%2010:21:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-310ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 9 km NW of The Geysers, CA | 09:15 |
-| 🟢 2.1 | 26 km N of Indian Springs, Nevada | 09:05 |
-| 🟢 1.7 | 88 km ENE of Tonopah, Nevada | 09:02 |
-| 🟢 0.7 | 2 km SSW of Cobb, CA | 08:56 |
-| 🟢 1.4 | 22 km WNW of Stanton, Texas | 08:54 |
-| 🟢 1.9 | 53 km NNW of Petersville, Alaska | 08:54 |
-| 🟢 2.1 | 19 km N of Fishhook, Alaska | 08:46 |
+| 🟢 2.7 | 15 km NW of Beluga, Alaska | 10:10 |
+| 🟢 1.1 | 83 km NNW of Karluk, Alaska | 09:48 |
+| 🟢 2.2 | 7 km SSE of Tallaboa, Puerto Rico | 09:45 |
+| 🟢 1.9 | 3 km N of San Joaquin Hills, CA | 09:45 |
+| 🟢 2.0 | 3 km SW of Pāhala, Hawaii | 09:43 |
+| 🟢 2.3 | 59 km WNW of Nanwalek, Alaska | 09:37 |
+| 🟢 1.8 | 4 km SSW of Pāhala, Hawaii | 09:34 |
+| 🟢 0.3 | 8 km NW of The Geysers, CA | 09:29 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
