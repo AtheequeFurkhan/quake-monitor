@@ -2,20 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2011%20Jan%202026%2022:19:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-181ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2011%20Jan%202026%2023:19:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-353ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 3 km W of Cobb, CA | 22:09 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 22:03 |
-| 🟢 0.8 | 2 km W of Cobb, CA | 22:00 |
-| 🟢 1.9 | 4 km SSW of Antioch, CA | 21:45 |
-| 🟢 2.6 | 3 km SSW of Antioch, CA | 21:44 |
-| 🟢 0.8 | 23 km SSW of Pine Mountain Club, CA | 21:40 |
-| 🟢 1.9 | 19 km ESE of Boonville, CA | 21:39 |
-| 🟢 3.0 | 62 km N of Hatillo, Puerto Rico | 21:25 |
-| 🟢 2.8 | 48 km WNW of Nanwalek, Alaska | 21:25 |
+| 🟢 2.0 | 12 km ESE of Pāhala, Hawaii | 23:13 |
+| 🟢 1.7 | 56 km S of Whites City, New Mexico | 22:54 |
+| 🟢 1.6 | 55 km S of Whites City, New Mexico | 22:54 |
+| 🟢 1.6 | 56 km S of Whites City, New Mexico | 22:50 |
+| 🟢 1.6 | 9 km NW of Four Mile Road, Alaska | 22:46 |
+| 🟢 1.9 | 7 km SSW of Pāhala, Hawaii | 22:44 |
+| 🟢 1.6 | 20 km WSW of Dyer, Nevada | 22:38 |
+| 🟢 1.6 | 2 km S of Mentone, CA | 22:35 |
+| 🟢 1.0 | 11 km N of Santa Barbara, CA | 22:29 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
