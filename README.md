@@ -2,25 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2011%20Jan%202026%2004:47:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-285ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2011%20Jan%202026%2005:25:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-407ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.7 | 26 km N of Indian Springs, Nevada | 05:13 |
+| 🟢 1.0 | 5 km SSW of Banning, CA | 05:03 |
+| 🟢 0.8 | 7 km W of Cobb, CA | 04:56 |
+| 🟢 2.2 | 10 km E of Pāhala, Hawaii | 04:50 |
+| 🟠 4.7 | Izu Islands, Japan region | 04:36 |
 | 🟢 1.7 | 25 km NNW of Pāhala, Hawaii | 04:35 |
 | 🟢 2.8 | 12 km ESE of Olancha, CA | 04:34 |
 | 🟢 0.7 | 4 km SSE of Palomar Observatory, CA | 04:31 |
 | 🟢 1.8 | 5 km NE of Runge, Texas | 04:27 |
 | 🟢 1.5 | 3 km E of San Ramon, CA | 04:24 |
-| 🟢 2.8 | 4 km ESE of San Ramon, CA | 04:21 |
-| 🟢 2.0 | 17 km NE of Pāhala, Hawaii | 04:19 |
-| 🟢 1.2 | 3 km E of San Ramon, CA | 04:15 |
-| 🔴 5.2 | 19 km WSW of Miyako, Japan | 04:15 |
-| 🟢 2.9 | 4 km ESE of San Ramon, CA | 04:10 |
-| 🟢 2.3 | 24 km SSE of Whittier, Alaska | 04:00 |
-| 🟢 1.4 | 8 km W of Cobb, CA | 03:59 |
-| 🟢 1.6 | 67 km SSE of Cantwell, Alaska | 03:49 |
-| 🟢 0.7 | 7 km NW of The Geysers, CA | 03:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
