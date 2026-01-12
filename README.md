@@ -2,15 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2018:33:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-250ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2019:20:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-541ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 61 km S of Whites City, New Mexico | 18:17 |
-| 🟢 2.0 | 3 km WNW of Cabazon, CA | 18:08 |
-| 🟢 2.3 | 2 km WNW of Cabazon, CA | 17:58 |
-| 🟢 2.8 | 82 km SE of Nikolai, Alaska | 17:49 |
+| 🟢 0.9 | 9 km WNW of Cobb, CA | 19:14 |
+| 🟢 2.4 | 23 km NNE of Sterling, Alaska | 18:52 |
+| 🟢 1.1 | 9 km NE of Julian, CA | 18:51 |
+| 🟢 1.5 | 8 km NW of Pinnacles, CA | 18:50 |
+| 🟢 0.9 | 6 km NW of The Geysers, CA | 18:49 |
+| 🟢 2.0 | 30 km E of Chase, Alaska | 18:49 |
+| 🟢 1.5 | 36 km NW of Ninilchik, Alaska | 18:43 |
+| 🟢 1.7 | 34 km N of Chase, Alaska | 18:37 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
