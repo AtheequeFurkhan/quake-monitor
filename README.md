@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2004:50:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-182ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2005:29:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-194ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.8 | 48 km SSE of Whites City, New Mexico | 05:21 |
+| 🟢 1.9 | 2 km SW of Indios, Puerto Rico | 05:07 |
+| 🟢 0.2 | 8 km NW of The Geysers, CA | 05:04 |
+| 🟠 3.1 | 86 km ESE of Maneadero, B.C., MX | 05:02 |
+| 🟢 1.4 | 18 km ESE of Julian, CA | 04:54 |
+| 🟠 4.9 | 243 km S of Kencong, Indonesia | 04:43 |
 | 🟢 2.5 | 7 km NW of Pinnacles, CA | 04:42 |
 | 🟢 1.9 | 20 km SSW of Leilani Estates, Hawaii | 04:37 |
-| 🟢 0.6 | 17 km E of Ridgecrest, CA | 04:28 |
-| 🟠 4.5 | Izu Islands, Japan region | 04:27 |
-| 🟠 3.3 | 49 km N of Hatillo, Puerto Rico | 04:26 |
-| 🟢 1.9 | 7 km SW of Atascadero, CA | 03:59 |
-| 🟢 2.9 | 67 km NNE of Isabela, Puerto Rico | 03:58 |
-| 🟢 1.8 | 5 km N of Pāhala, Hawaii | 03:55 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
