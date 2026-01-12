@@ -2,24 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2012:47:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-371ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2013:41:52%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-200ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 10 km NNE of Cabazon, CA | 12:38 |
-| 🟢 1.7 | 13 km SE of Naalehu, Hawaii | 12:36 |
-| 🟢 0.4 | 6 km NW of The Geysers, CA | 12:23 |
-| 🟢 1.7 | 60 km S of Whites City, New Mexico | 12:13 |
-| 🟢 1.4 | 8 km ENE of Lake Arrowhead, CA | 12:11 |
-| 🟢 1.5 | 5 km WNW of The Geysers, CA | 12:10 |
-| 🟢 2.3 | 16 km SSW of Nanwalek, Alaska | 12:06 |
-| 🟢 0.8 | 4 km NW of The Geysers, CA | 12:05 |
-| 🟢 0.6 | 18 km NNW of Borrego Springs, CA | 11:47 |
+| 🟢 1.1 | 2 km NNW of The Geysers, CA | 13:39 |
+| 🟢 0.3 | 8 km NW of The Geysers, CA | 13:37 |
+| 🟢 2.3 | 44 km NNW of Valdez, Alaska | 13:37 |
+| 🟢 0.7 | 2 km NNW of The Geysers, CA | 13:35 |
+| 🟢 1.3 | 2 km NW of Universal City, CA | 13:20 |
+| 🟢 2.0 | 7 km SSE of Pāhala, Hawaii | 13:01 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
+- ⛈️ **Severe Storms**: [Tropical Cyclone Dudzai](https://www.metoc.navy.mil/jtwc/products/sh1426.tcw) (Jan 11)
 - 🔥 **Wildfires**: [APQ Rec Area 10 Rx 0108 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/4393a164-d6f5-4c5b-842b-986916058383) (Jan 08)
 - ⛈️ **Severe Storms**: [Tropical Cyclone Jenna](https://www.metoc.navy.mil/jtwc/products/sh1226.tcw) (Jan 08)
 - 🔥 **Wildfires**: [Math Branch Wildfire, Christian, Missouri](https://irwin.doi.gov/observer/incidents/8bf47127-7d41-460a-bbe5-d96ddab0cd9b) (Jan 03)
@@ -29,7 +27,6 @@
 - 🔥 **Wildfires**: [Rx Jasper 6074 Prescribed Fire, Jasper, Texas](https://irwin.doi.gov/observer/incidents/5cc8572d-9b28-4e45-a5bb-99a3a2575b7f) (Jan 01)
 - 🔥 **Wildfires**: [Addington Wildfire, Cherokee, Oklahoma](https://irwin.doi.gov/observer/incidents/e1ad637f-6723-4f32-8d3a-689bb90a4850) (Dec 23)
 - 🔥 **Wildfires**: [Sassafras Fire Wildfire, Latimer, Oklahoma](https://irwin.doi.gov/observer/incidents/9e5ca387-8a35-48c9-ac66-efd0ea9203b0) (Dec 21)
-- 🔥 **Wildfires**: [Salt Creek Wildfire, Blaine, Oklahoma](https://irwin.doi.gov/observer/incidents/bcd81a6b-c82e-404d-86d4-b9ad45cd37dd) (Dec 19)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
