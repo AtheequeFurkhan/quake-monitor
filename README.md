@@ -2,19 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2005:29:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-194ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2006:36:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-456ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 48 km SSE of Whites City, New Mexico | 05:21 |
-| 🟢 1.9 | 2 km SW of Indios, Puerto Rico | 05:07 |
-| 🟢 0.2 | 8 km NW of The Geysers, CA | 05:04 |
-| 🟠 3.1 | 86 km ESE of Maneadero, B.C., MX | 05:02 |
-| 🟢 1.4 | 18 km ESE of Julian, CA | 04:54 |
-| 🟠 4.9 | 243 km S of Kencong, Indonesia | 04:43 |
-| 🟢 2.5 | 7 km NW of Pinnacles, CA | 04:42 |
-| 🟢 1.9 | 20 km SSW of Leilani Estates, Hawaii | 04:37 |
+| 🟢 1.0 | 5 km SSW of Gilroy, CA | 06:28 |
+| 🟢 1.1 | 10 km WNW of The Geysers, CA | 06:17 |
+| 🟢 2.5 | 66 km S of Kokhanok, Alaska | 06:13 |
+| 🟢 1.8 | 9 km NNW of Trapper Creek, Alaska | 06:09 |
+| 🟢 0.8 | 7 km WNW of Cobb, CA | 05:38 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
