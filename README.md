@@ -2,14 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2011:20:14%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-201ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2012:47:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-371ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.6 | 13 km WSW of Searles Valley, CA | 11:04 |
-| 🟢 1.5 | 62 km S of Whites City, New Mexico | 10:46 |
-| 🟢 1.7 | 9 km NNE of Banning, CA | 10:22 |
+| 🟢 0.8 | 10 km NNE of Cabazon, CA | 12:38 |
+| 🟢 1.7 | 13 km SE of Naalehu, Hawaii | 12:36 |
+| 🟢 0.4 | 6 km NW of The Geysers, CA | 12:23 |
+| 🟢 1.7 | 60 km S of Whites City, New Mexico | 12:13 |
+| 🟢 1.4 | 8 km ENE of Lake Arrowhead, CA | 12:11 |
+| 🟢 1.5 | 5 km WNW of The Geysers, CA | 12:10 |
+| 🟢 2.3 | 16 km SSW of Nanwalek, Alaska | 12:06 |
+| 🟢 0.8 | 4 km NW of The Geysers, CA | 12:05 |
+| 🟢 0.6 | 18 km NNW of Borrego Springs, CA | 11:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
