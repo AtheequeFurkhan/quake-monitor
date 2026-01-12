@@ -2,20 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2011%20Jan%202026%2023:19:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-353ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2001:49:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-407ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 12 km ESE of Pāhala, Hawaii | 23:13 |
-| 🟢 1.7 | 56 km S of Whites City, New Mexico | 22:54 |
-| 🟢 1.6 | 55 km S of Whites City, New Mexico | 22:54 |
-| 🟢 1.6 | 56 km S of Whites City, New Mexico | 22:50 |
-| 🟢 1.6 | 9 km NW of Four Mile Road, Alaska | 22:46 |
-| 🟢 1.9 | 7 km SSW of Pāhala, Hawaii | 22:44 |
-| 🟢 1.6 | 20 km WSW of Dyer, Nevada | 22:38 |
-| 🟢 1.6 | 2 km S of Mentone, CA | 22:35 |
-| 🟢 1.0 | 11 km N of Santa Barbara, CA | 22:29 |
+| 🟢 2.3 | 13 km SE of Tyonek, Alaska | 01:42 |
+| 🟢 0.6 | 8 km NNW of Big Bear City, CA | 01:36 |
+| 🟢 2.4 | 77 km ESE of Chenega, Alaska | 01:29 |
+| 🟢 1.3 | 8 km NW of The Geysers, CA | 01:26 |
+| 🟢 2.6 | 107 km N of Yakutat, Alaska | 01:20 |
+| 🟢 1.4 | 18 km SSE of Livermore, CA | 01:08 |
+| 🟠 3.2 | 98 km N of Suárez, Puerto Rico | 01:06 |
+| 🟢 1.4 | 8 km NW of The Geysers, CA | 01:05 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
