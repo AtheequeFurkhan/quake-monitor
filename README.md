@@ -2,16 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2006:36:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-456ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2007:27:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-365ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.7 | 61 km S of Whites City, New Mexico | 07:23 |
+| 🟢 1.3 | 14 km NW of Progreso, B.C., MX | 07:18 |
+| 🟠 3.1 | 15 km NNW of Grapevine, CA | 07:02 |
+| 🟢 2.7 | 5 km SE of Adjuntas, Puerto Rico | 06:35 |
+| 🟢 2.2 | 5 km SE of Adjuntas, Puerto Rico | 06:34 |
+| 🟠 4.2 | 2 km S of Les Houches, France | 06:28 |
 | 🟢 1.0 | 5 km SSW of Gilroy, CA | 06:28 |
-| 🟢 1.1 | 10 km WNW of The Geysers, CA | 06:17 |
-| 🟢 2.5 | 66 km S of Kokhanok, Alaska | 06:13 |
-| 🟢 1.8 | 9 km NNW of Trapper Creek, Alaska | 06:09 |
-| 🟢 0.8 | 7 km WNW of Cobb, CA | 05:38 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
