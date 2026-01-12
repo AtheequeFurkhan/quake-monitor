@@ -2,16 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2015:26:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-397ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2016:27:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-184ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 4 km S of Idyllwild, CA | 15:20 |
-| 🟢 1.2 | 12 km SSW of Searles Valley, CA | 15:19 |
-| 🟢 0.5 | 3 km SSW of Anderson Springs, CA | 15:04 |
-| 🟢 0.3 | 3 km WNW of Cobb, CA | 14:51 |
-| 🟢 1.3 | 3 km WNW of Anderson Springs, CA | 14:34 |
+| 🟢 2.0 | 14 km SSE of Fern Forest, Hawaii | 16:14 |
+| 🟢 1.2 | 8 km S of The Geysers, CA | 16:11 |
+| 🟢 1.6 | 29 km SE of Glacier View, Alaska | 15:56 |
+| 🟢 1.3 | 23 km N of Borrego Springs, CA | 15:52 |
+| 🟢 0.8 | 6 km W of Cobb, CA | 15:50 |
+| 🟢 2.1 | 7 km NW of Pinnacles, CA | 15:34 |
+| 🟢 0.6 | 9 km WNW of Cobb, CA | 15:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
