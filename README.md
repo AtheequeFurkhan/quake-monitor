@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2022:19:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-214ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2023:17:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-274ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 51 km WNW of Toyah, Texas | 22:13 |
-| 🟢 0.7 | 3 km NW of The Geysers, CA | 22:12 |
-| 🟢 1.5 | 4 km ESE of Mossyrock, Washington | 22:08 |
-| 🟢 2.0 | 67 km NW of Yakutat, Alaska | 21:56 |
-| 🟢 2.2 | 2 km S of Pāhala, Hawaii | 21:55 |
-| 🟢 1.7 | 47 km NNW of Karluk, Alaska | 21:54 |
-| 🟢 1.6 | 10 km SSE of Enterprise, Nevada | 21:35 |
-| 🟢 1.4 | 13 km SE of Tehachapi, CA | 21:31 |
-| 🟢 1.8 | 89 km WNW of Karluk, Alaska | 21:26 |
+| 🟢 1.9 | 32 km E of Chase, Alaska | 22:56 |
+| 🟢 1.1 | 6 km SSW of Idyllwild, CA | 22:55 |
+| 🟢 2.0 | 70 km ESE of Denali National Park, Alaska | 22:31 |
+| 🟢 1.1 | 4 km ESE of Mossyrock, Washington | 22:27 |
+| 🟢 1.7 | 19 km SSE of Pāhala, Hawaii | 22:23 |
+| 🟢 2.1 | 20 km SE of Pāhala, Hawaii | 22:18 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
