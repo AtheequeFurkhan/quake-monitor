@@ -2,19 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2017:23:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-311ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2018:33:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-250ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 7 km SSW of Pāhala, Hawaii | 16:50 |
-| 🟢 2.0 | 11 km NNE of Cayucos, CA | 16:39 |
-| 🟢 0.8 | 9 km NW of The Geysers, CA | 16:32 |
+| 🟢 1.5 | 61 km S of Whites City, New Mexico | 18:17 |
+| 🟢 2.0 | 3 km WNW of Cabazon, CA | 18:08 |
+| 🟢 2.3 | 2 km WNW of Cabazon, CA | 17:58 |
+| 🟢 2.8 | 82 km SE of Nikolai, Alaska | 17:49 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
-- ⛈️ **Severe Storms**: [Tropical Cyclone Dudzai](https://www.metoc.navy.mil/jtwc/products/sh1426.tcw) (Jan 11)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Dudzai](https://www.metoc.navy.mil/jtwc/products/sh1426.tcw) (Jan 12)
 - ⛈️ **Severe Storms**: [Tropical Cyclone Koji](https://www.metoc.navy.mil/jtwc/products/sh1425.tcw) (Jan 11)
 - 🔥 **Wildfires**: [APQ Rec Area 10 Rx 0108 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/4393a164-d6f5-4c5b-842b-986916058383) (Jan 08)
 - ⛈️ **Severe Storms**: [Tropical Cyclone Jenna](https://www.metoc.navy.mil/jtwc/products/sh1226.tcw) (Jan 08)
