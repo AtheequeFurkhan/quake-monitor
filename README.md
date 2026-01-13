@@ -2,25 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2004:39:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-305ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2005:25:38%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-303ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 4 km ESE of Mossyrock, Washington | 04:31 |
-| 🟢 1.0 | 85 km NW of Karluk, Alaska | 04:23 |
-| 🟢 2.1 | 29 km NNW of Pāhala, Hawaii | 04:19 |
-| 🟢 1.1 | 9 km SSE of Livermore, CA | 04:14 |
-| 🟢 1.5 | 11 km SE of Livermore, CA | 04:13 |
-| 🟢 2.0 | 50 km WSW of Tatitlek, Alaska | 04:11 |
-| 🟢 2.7 | 12 km ENE of Honaunau-Napoopoo, Hawaii | 04:00 |
-| 🟢 1.2 | 10 km SE of Livermore, CA | 03:58 |
-| 🟢 1.7 | 11 km SE of Livermore, CA | 03:53 |
-| 🟢 1.8 | 11 km SE of Livermore, CA | 03:50 |
-| 🟢 0.9 | 32 km SSE of Minto, Alaska | 03:50 |
-| 🟢 1.3 | 12 km SSE of Livermore, CA | 03:49 |
-| 🟢 1.8 | 24 km NNW of Sutton-Alpine, Alaska | 03:47 |
-| 🔴 5.6 | Easter Island region | 03:39 |
+| 🟢 1.7 | 11 km SSE of Pāhala, Hawaii | 05:13 |
+| 🟢 0.8 | 4 km WNW of The Geysers, CA | 05:13 |
+| 🟢 1.3 | 10 km N of Borrego Springs, CA | 04:54 |
+| 🟢 0.9 | 47 km SSW of Stovepipe Wells, CA | 04:52 |
+| 🟢 0.5 | 8 km S of Hemet, CA | 04:44 |
+| 🟠 3.1 | 2 km NE of Bayamón, Puerto Rico | 04:35 |
+| 🟢 1.4 | 4 km ESE of Mossyrock, Washington | 04:31 |
+| 🟢 1.4 | 59 km S of Whites City, New Mexico | 04:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
