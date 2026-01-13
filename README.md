@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2021:21:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-383ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2022:21:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-350ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 10 km ESE of Willits, CA | 21:16 |
-| 🟠 4.3 | 9 km ESE of Willits, CA | 21:10 |
-| 🟢 1.8 | 8 km ESE of Prunedale, CA | 21:08 |
-| 🟢 1.1 | 13 km SE of Tehachapi, CA | 21:00 |
-| 🟢 1.0 | 83 km NNW of Karluk, Alaska | 20:46 |
-| 🟢 1.4 | 15 km ESE of Bodfish, CA | 20:36 |
-| 🟠 4.6 | 197 km NW of Tobelo, Indonesia | 20:31 |
+| 🟢 1.4 | 9 km ESE of Willits, CA | 22:14 |
+| 🟢 0.7 | 7 km NW of The Geysers, CA | 22:00 |
+| 🟢 1.1 | 79 km S of McCarthy, Alaska | 21:58 |
+| 🟠 3.3 | 49 km S of Ivanof Bay, Alaska | 21:57 |
+| 🟢 0.9 | 15 km W of Johannesburg, CA | 21:41 |
+| 🟢 2.0 | 74 km NW of Yakutat, Alaska | 21:39 |
+| 🟢 2.7 | 5 km N of Moreno Valley, CA | 21:33 |
+| 🟢 1.5 | 9 km ESE of Willits, CA | 21:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
