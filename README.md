@@ -2,16 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2020:25:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-219ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2021:21:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-383ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.8 | 15 km W of Johannesburg, CA | 20:20 |
-| 🟢 1.5 | 7 km WNW of Cobb, CA | 20:10 |
-| 🟢 1.1 | 5 km WNW of The Geysers, CA | 20:05 |
-| 🟢 0.5 | 8 km NW of The Geysers, CA | 19:48 |
-| 🟢 2.6 | 35 km NW of Nikiski, Alaska | 19:28 |
+| 🟢 1.6 | 10 km ESE of Willits, CA | 21:16 |
+| 🟠 4.3 | 9 km ESE of Willits, CA | 21:10 |
+| 🟢 1.8 | 8 km ESE of Prunedale, CA | 21:08 |
+| 🟢 1.1 | 13 km SE of Tehachapi, CA | 21:00 |
+| 🟢 1.0 | 83 km NNW of Karluk, Alaska | 20:46 |
+| 🟢 1.4 | 15 km ESE of Bodfish, CA | 20:36 |
+| 🟠 4.6 | 197 km NW of Tobelo, Indonesia | 20:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
