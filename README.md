@@ -2,17 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2012%20Jan%202026%2023:17:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-274ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2001:41:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-310ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 32 km E of Chase, Alaska | 22:56 |
-| 🟢 1.1 | 6 km SSW of Idyllwild, CA | 22:55 |
-| 🟢 2.0 | 70 km ESE of Denali National Park, Alaska | 22:31 |
-| 🟢 1.1 | 4 km ESE of Mossyrock, Washington | 22:27 |
-| 🟢 1.7 | 19 km SSE of Pāhala, Hawaii | 22:23 |
-| 🟢 2.1 | 20 km SE of Pāhala, Hawaii | 22:18 |
+| 🟢 2.2 | 54 km S of Whites City, New Mexico | 01:36 |
+| 🔴 5.2 | 198 km NW of Tobelo, Indonesia | 01:27 |
+| 🟢 0.8 | 5 km WNW of Cobb, CA | 01:27 |
+| 🟢 2.2 | 19 km SE of Pāhala, Hawaii | 01:19 |
+| 🟢 0.7 | 9 km NW of The Geysers, CA | 01:18 |
+| 🟢 2.2 | 12 km SSE of Volcano, Hawaii | 01:12 |
+| 🟢 1.9 | 65 km ESE of Cantwell, Alaska | 01:10 |
+| 🟢 1.1 | 26 km NE of Arvin, CA | 01:07 |
+| 🟢 3.0 | 108 km N of Yakutat, Alaska | 01:06 |
+| 🟢 1.2 | 10 km E of Fox, Alaska | 01:06 |
+| 🟢 0.8 | 17 km ESE of Anza, CA | 00:46 |
+| 🟢 0.9 | 85 km NNW of Karluk, Alaska | 00:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
