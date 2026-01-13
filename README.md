@@ -2,16 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2007:24:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-319ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2008:31:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-431ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 45 km E of Chase, Alaska | 06:58 |
-| 🟠 4.8 | 122 km ENE of Angoram, Papua New Guinea | 06:43 |
-| 🟠 4.5 | 102 km N of Finschhafen, Papua New Guinea | 06:33 |
-| 🟢 2.8 | 92 km SSE of Ugashik, Alaska | 06:33 |
-| 🟢 2.0 | 12 km ESE of Angwin, CA | 06:26 |
+| 🟢 1.4 | 1 km NNW of Middletown, CA | 08:22 |
+| 🟢 0.8 | 27 km SSW of Ocotillo Wells, CA | 08:22 |
+| 🟢 2.0 | 16 km N of Laytonville, CA | 08:15 |
+| 🟢 1.3 | 2 km NNW of The Geysers, CA | 08:12 |
+| 🟢 1.3 | 2 km NNW of The Geysers, CA | 08:09 |
+| 🟢 2.1 | 45 km E of Pedro Bay, Alaska | 08:02 |
+| 🟢 1.5 | 2 km N of Inverness, CA | 07:59 |
+| 🟢 1.9 | 46 km E of Denali National Park, Alaska | 07:55 |
+| 🟢 0.7 | 7 km NW of The Geysers, CA | 07:50 |
+| 🟢 1.8 | 38 km SE of Waikoloa, Hawaii | 07:43 |
+| 🟠 4.6 | 257 km E of Levuka, Fiji | 07:38 |
+| 🔴 6.2 | 133 km SE of Kuril’sk, Russia | 07:34 |
+| 🟢 1.7 | 32 km SSE of Naalehu, Hawaii | 07:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
