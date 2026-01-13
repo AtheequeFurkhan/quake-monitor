@@ -2,30 +2,28 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2011:20:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-550ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2012:47:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-275ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 7 km SSW of Volcano, Hawaii | 11:16 |
-| 🟢 1.9 | 3 km S of Baldwin Hills, CA | 11:12 |
-| 🟢 0.6 | 9 km NW of The Geysers, CA | 11:10 |
-| 🟢 1.9 | 5 km SW of Volcano, Hawaii | 11:07 |
-| 🟢 1.8 | 5 km SW of Volcano, Hawaii | 11:04 |
-| 🟢 1.8 | 20 km SSE of Pāhala, Hawaii | 11:02 |
-| 🟢 1.8 | 6 km SW of Volcano, Hawaii | 11:00 |
-| 🟢 1.8 | 25 km W of Petersville, Alaska | 10:43 |
-| 🟠 4.7 | 40 km ESE of Port-Olry, Vanuatu | 10:43 |
-| 🟠 4.7 | Arafura Sea | 10:37 |
-| 🟢 1.2 | 3 km SSE of San Juan Bautista, CA | 10:36 |
-| 🟢 0.5 | 8 km SSE of Palomar Observatory, CA | 10:28 |
-| 🟠 4.9 | 24 km NNW of Castlepoint, New Zealand | 10:21 |
+| 🟢 1.9 | 31 km E of Pāhala, Hawaii | 12:35 |
+| 🟢 2.5 | 28 km S of Volcano, Hawaii | 12:34 |
+| 🟢 2.3 | 16 km SE of Yosemite Valley, CA | 12:23 |
+| 🟢 2.0 | 84 km ESE of Egegik, Alaska | 12:09 |
+| 🟢 1.7 | 21 km SW of Maricopa, CA | 12:06 |
+| 🟢 2.0 | 7 km SW of Atascadero, CA | 12:01 |
+| 🟢 2.1 | 24 km ESE of Susitna North, Alaska | 12:00 |
+| 🟢 0.8 | 2 km NW of The Geysers, CA | 12:00 |
+| 🟢 0.7 | 10 km NNW of Idyllwild, CA | 11:58 |
+| 🟢 1.1 | 6 km WSW of Beaumont, CA | 11:54 |
+| 🟢 0.8 | 6 km SW of Volcano, Hawaii | 11:51 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
 - 🔥 **Wildfires**: [RX Bill Bolen 2 Prescribed Fire, Pontotoc, Oklahoma](https://irwin.doi.gov/observer/incidents/d901a0af-b701-4729-9685-01f22e575e26) (Jan 12)
-- ⛈️ **Severe Storms**: [Tropical Cyclone Dudzai](https://www.metoc.navy.mil/jtwc/products/sh1426.tcw) (Jan 12)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Dudzai](https://www.metoc.navy.mil/jtwc/products/sh1426.tcw) (Jan 13)
 - 🔥 **Wildfires**: [MIR 9.2 ABC Rx 0111 Prescribed Fire, Brevard, Florida](https://irwin.doi.gov/observer/incidents/9c27c423-ab52-4541-a712-585af3751aa3) (Jan 11)
 - 🔥 **Wildfires**: [APQ Rec Area 12 Rx 0110 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/85e2d32a-e890-4570-8122-0a2794048d80) (Jan 10)
 - ⛈️ **Severe Storms**: [Tropical Cyclone Koji](https://www.metoc.navy.mil/jtwc/products/sh1425.tcw) (Jan 11)
