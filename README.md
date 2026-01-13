@@ -2,21 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2014:25:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-198ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2015:25:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-371ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 3 km NNW of The Geysers, CA | 14:22 |
-| 🟢 1.1 | 5 km WNW of The Geysers, CA | 14:10 |
-| 🟢 1.0 | 22 km SW of New Idria, CA | 14:08 |
-| 🟢 0.7 | 22 km SW of New Idria, CA | 14:07 |
-| 🟢 1.9 | 112 km WNW of Yakutat, Alaska | 14:06 |
-| 🟢 0.3 | 4 km W of Cobb, CA | 14:04 |
-| 🟢 2.2 | 24 km W of Happy Valley, Alaska | 13:54 |
-| 🟢 0.6 | 13 km NW of The Geysers, CA | 13:44 |
-| 🟢 1.6 | 38 km WNW of Rachel, Nevada | 13:44 |
-| 🟢 1.8 | 3 km S of Pāhala, Hawaii | 13:30 |
+| 🟢 1.3 | 51 km ESE of King Salmon, Alaska | 15:19 |
+| 🟢 1.3 | 83 km NNW of Karluk, Alaska | 14:59 |
+| 🟢 1.6 | 27 km W of Alamo, Nevada | 14:56 |
+| 🟢 1.2 | 85 km NNW of Karluk, Alaska | 14:52 |
+| 🟢 1.1 | 84 km NNW of Karluk, Alaska | 14:49 |
+| 🟢 2.0 | 15 km S of Fern Forest, Hawaii | 14:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
