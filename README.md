@@ -2,19 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2006:34:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-309ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2007:24:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-319ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.6 | 45 km E of Chase, Alaska | 06:58 |
+| 🟠 4.8 | 122 km ENE of Angoram, Papua New Guinea | 06:43 |
+| 🟠 4.5 | 102 km N of Finschhafen, Papua New Guinea | 06:33 |
+| 🟢 2.8 | 92 km SSE of Ugashik, Alaska | 06:33 |
 | 🟢 2.0 | 12 km ESE of Angwin, CA | 06:26 |
-| 🟢 1.4 | 13 km ESE of Angwin, CA | 06:19 |
-| 🟢 2.5 | 41 km W of Valdez, Alaska | 06:15 |
-| 🟢 1.3 | 11 km WSW of Stanton, Texas | 06:13 |
-| 🟢 1.5 | 1 km NNW of Middletown, CA | 06:09 |
-| 🟢 2.2 | 73 km S of Nanwalek, Alaska | 06:09 |
-| 🟢 1.2 | 86 km NNW of Karluk, Alaska | 06:08 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 05:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
