@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2009:28:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-310ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2010:24:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-4.1s-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 39 km NNW of Valdez, Alaska | 09:19 |
-| 🟢 1.1 | 27 km N of Searles Valley, CA | 09:13 |
-| 🟠 4.9 | 147 km ESE of Kuril’sk, Russia | 08:51 |
-| 🟢 1.2 | 3 km SSE of The Geysers, CA | 08:44 |
-| 🟢 1.6 | 18 km WSW of Johannesburg, CA | 08:41 |
-| 🟢 1.1 | 6 km NW of The Geysers, CA | 08:35 |
-| 🟢 1.2 | 7 km NNE of Cabazon, CA | 08:30 |
-| 🟠 4.6 | 1 km ENE of Fornace Zarattini, Italy | 08:27 |
+| 🟢 1.6 | 6 km NW of Delta, B.C., MX | 10:11 |
+| 🟢 1.2 | 24 km ENE of Minto, Alaska | 09:54 |
+| 🟢 1.6 | 26 km WSW of Hawthorne, Nevada | 09:53 |
+| 🟢 1.9 | 47 km W of Nanwalek, Alaska | 09:50 |
+| 🟢 2.5 | 111 km WSW of Adak, Alaska | 09:43 |
+| 🟢 1.7 | 12 km SSE of Volcano, Hawaii | 09:35 |
+| 🟢 1.7 | 5 km NNE of Pāhala, Hawaii | 09:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
