@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2005:25:38%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-303ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2006:34:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-309ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 11 km SSE of Pāhala, Hawaii | 05:13 |
-| 🟢 0.8 | 4 km WNW of The Geysers, CA | 05:13 |
-| 🟢 1.3 | 10 km N of Borrego Springs, CA | 04:54 |
-| 🟢 0.9 | 47 km SSW of Stovepipe Wells, CA | 04:52 |
-| 🟢 0.5 | 8 km S of Hemet, CA | 04:44 |
-| 🟠 3.1 | 2 km NE of Bayamón, Puerto Rico | 04:35 |
-| 🟢 1.4 | 4 km ESE of Mossyrock, Washington | 04:31 |
-| 🟢 1.4 | 59 km S of Whites City, New Mexico | 04:31 |
+| 🟢 2.0 | 12 km ESE of Angwin, CA | 06:26 |
+| 🟢 1.4 | 13 km ESE of Angwin, CA | 06:19 |
+| 🟢 2.5 | 41 km W of Valdez, Alaska | 06:15 |
+| 🟢 1.3 | 11 km WSW of Stanton, Texas | 06:13 |
+| 🟢 1.5 | 1 km NNW of Middletown, CA | 06:09 |
+| 🟢 2.2 | 73 km S of Nanwalek, Alaska | 06:09 |
+| 🟢 1.2 | 86 km NNW of Karluk, Alaska | 06:08 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 05:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
