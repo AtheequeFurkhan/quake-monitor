@@ -2,22 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2012:47:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-275ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2013:41:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-477ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 31 km E of Pāhala, Hawaii | 12:35 |
-| 🟢 2.5 | 28 km S of Volcano, Hawaii | 12:34 |
-| 🟢 2.3 | 16 km SE of Yosemite Valley, CA | 12:23 |
-| 🟢 2.0 | 84 km ESE of Egegik, Alaska | 12:09 |
-| 🟢 1.7 | 21 km SW of Maricopa, CA | 12:06 |
-| 🟢 2.0 | 7 km SW of Atascadero, CA | 12:01 |
-| 🟢 2.1 | 24 km ESE of Susitna North, Alaska | 12:00 |
-| 🟢 0.8 | 2 km NW of The Geysers, CA | 12:00 |
-| 🟢 0.7 | 10 km NNW of Idyllwild, CA | 11:58 |
-| 🟢 1.1 | 6 km WSW of Beaumont, CA | 11:54 |
-| 🟢 0.8 | 6 km SW of Volcano, Hawaii | 11:51 |
+| 🟢 1.8 | 3 km S of Pāhala, Hawaii | 13:30 |
+| 🟢 2.6 | 54 km N of Petersville, Alaska | 13:16 |
+| 🟢 1.3 | 17 km NE of Borrego Springs, CA | 13:12 |
+| 🟢 2.7 | 13 km NNW of San Simeon, CA | 13:07 |
+| 🟢 1.3 | 13 km WSW of Stanton, Texas | 13:06 |
+| 🟢 1.4 | 6 km WSW of Calistoga, CA | 12:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
