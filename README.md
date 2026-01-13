@@ -2,18 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2010:24:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-4.1s-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2011:20:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-550ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 6 km NW of Delta, B.C., MX | 10:11 |
-| 🟢 1.2 | 24 km ENE of Minto, Alaska | 09:54 |
-| 🟢 1.6 | 26 km WSW of Hawthorne, Nevada | 09:53 |
-| 🟢 1.9 | 47 km W of Nanwalek, Alaska | 09:50 |
-| 🟢 2.5 | 111 km WSW of Adak, Alaska | 09:43 |
-| 🟢 1.7 | 12 km SSE of Volcano, Hawaii | 09:35 |
-| 🟢 1.7 | 5 km NNE of Pāhala, Hawaii | 09:32 |
+| 🟢 1.7 | 7 km SSW of Volcano, Hawaii | 11:16 |
+| 🟢 1.9 | 3 km S of Baldwin Hills, CA | 11:12 |
+| 🟢 0.6 | 9 km NW of The Geysers, CA | 11:10 |
+| 🟢 1.9 | 5 km SW of Volcano, Hawaii | 11:07 |
+| 🟢 1.8 | 5 km SW of Volcano, Hawaii | 11:04 |
+| 🟢 1.8 | 20 km SSE of Pāhala, Hawaii | 11:02 |
+| 🟢 1.8 | 6 km SW of Volcano, Hawaii | 11:00 |
+| 🟢 1.8 | 25 km W of Petersville, Alaska | 10:43 |
+| 🟠 4.7 | 40 km ESE of Port-Olry, Vanuatu | 10:43 |
+| 🟠 4.7 | Arafura Sea | 10:37 |
+| 🟢 1.2 | 3 km SSE of San Juan Bautista, CA | 10:36 |
+| 🟢 0.5 | 8 km SSE of Palomar Observatory, CA | 10:28 |
+| 🟠 4.9 | 24 km NNW of Castlepoint, New Zealand | 10:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
