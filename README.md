@@ -2,19 +2,27 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2022:21:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-350ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2023:19:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-388ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 9 km ESE of Willits, CA | 22:14 |
-| 🟢 0.7 | 7 km NW of The Geysers, CA | 22:00 |
-| 🟢 1.1 | 79 km S of McCarthy, Alaska | 21:58 |
-| 🟠 3.3 | 49 km S of Ivanof Bay, Alaska | 21:57 |
-| 🟢 0.9 | 15 km W of Johannesburg, CA | 21:41 |
-| 🟢 2.0 | 74 km NW of Yakutat, Alaska | 21:39 |
-| 🟢 2.7 | 5 km N of Moreno Valley, CA | 21:33 |
-| 🟢 1.5 | 9 km ESE of Willits, CA | 21:21 |
+| 🟢 1.1 | 9 km WNW of The Geysers, CA | 23:16 |
+| 🟢 1.7 | 9 km WNW of The Geysers, CA | 23:16 |
+| 🟢 2.2 | 14 km SSE of Fern Forest, Hawaii | 23:00 |
+| 🟢 0.8 | 6 km WNW of Cobb, CA | 22:54 |
+| 🟢 0.8 | 35 km ESE of Nenana, Alaska | 22:53 |
+| 🟢 2.3 | 48 km N of San Antonio, Puerto Rico | 22:52 |
+| 🟠 3.8 | 11 km ESE of Willits, CA | 22:51 |
+| 🟢 1.2 | 9 km NE of Borrego Springs, CA | 22:47 |
+| 🟢 1.3 | 5 km WNW of Nuevo, CA | 22:46 |
+| 🟢 0.5 | 9 km WNW of The Geysers, CA | 22:45 |
+| 🟢 2.4 | 5 km NE of North Shore, CA | 22:42 |
+| 🟢 1.7 | 1 km ESE of Happy Valley, Alaska | 22:38 |
+| 🟢 1.3 | 24 km SSW of Ester, Alaska | 22:37 |
+| 🟢 2.2 | 2 km SE of Pacifica, CA | 22:35 |
+| 🟢 1.0 | 72 km ENE of Pedro Bay, Alaska | 22:29 |
+| 🟢 1.8 | 5 km N of Moreno Valley, CA | 22:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
