@@ -2,14 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2006:34:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-496ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2007:25:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-201ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.5 | 8 km ESE of McCarthy, Alaska | 06:21 |
-| 🟢 0.5 | 9 km SW of Idyllwild, CA | 06:17 |
-| 🟢 1.1 | 2 km S of Muscoy, CA | 05:46 |
+| 🟢 0.5 | 5 km WSW of Anza, CA | 07:19 |
+| 🟢 1.5 | 42 km NW of Toyah, Texas | 07:17 |
+| 🟢 1.6 | 39 km NW of Toyah, Texas | 07:06 |
+| 🟢 0.4 | 11 km NNE of Julian, CA | 07:05 |
+| 🟢 1.4 | 42 km NW of Toyah, Texas | 07:04 |
+| 🟢 1.1 | 9 km WNW of The Geysers, CA | 06:57 |
+| 🟢 1.5 | 4 km N of El Segundo, CA | 06:51 |
+| 🟢 1.4 | 15 km W of Johannesburg, CA | 06:49 |
+| 🟢 1.7 | 8 km SSW of Pāhala, Hawaii | 06:45 |
+| 🟢 3.0 | 64 km SE of Denali National Park, Alaska | 06:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
