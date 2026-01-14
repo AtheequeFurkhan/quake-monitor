@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2020:21:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-354ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2021:21:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-118ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 4 km W of Cobb, CA | 19:54 |
-| 🟢 0.2 | 8 km NW of The Geysers, CA | 19:52 |
-| 🟢 1.2 | 11 km NNE of Borrego Springs, CA | 19:51 |
-| 🟢 1.5 | 4 km SW of Volcano, Hawaii | 19:36 |
-| 🟢 1.1 | 4 km SE of Pacifica, CA | 19:34 |
-| 🟢 1.3 | 5 km SW of Volcano, Hawaii | 19:30 |
-| 🟢 1.5 | 60 km S of Whites City, New Mexico | 19:28 |
-| 🟢 1.5 | 6 km SW of Volcano, Hawaii | 19:24 |
+| 🟢 2.2 | 3 km NE of Blackhawk, CA | 21:01 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 20:59 |
+| 🟢 2.1 | 13 km ESE of Angwin, CA | 20:48 |
+| 🔴 5.1 | Kuril Islands | 20:36 |
+| 🟢 2.3 | 11 km E of Pāhala, Hawaii | 20:34 |
+| 🟢 0.9 | 6 km E of Desert Hot Springs, CA | 20:32 |
+| 🟠 4.2 | 133 km NNW of Finschhafen, Papua New Guinea | 20:30 |
+| 🟢 1.9 | 17 km NW of Toyah, Texas | 20:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
@@ -28,7 +28,7 @@
 - 🔥 **Wildfires**: [APQ South Range Rx 0109 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/126e90a1-0cdc-4d71-96a2-c005a563e888) (Jan 09)
 - 🔥 **Wildfires**: [MIR 5.1 ABC Rx 0109 Prescribed Fire, Brevard, Florida](https://irwin.doi.gov/observer/incidents/bcdc917e-c3da-4864-894a-6e3ab295c1f8) (Jan 09)
 - 🔥 **Wildfires**: [APQ Rec Area 10 Rx 0108 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/4393a164-d6f5-4c5b-842b-986916058383) (Jan 08)
-- 🔥 **Wildfires**: [Math Branch Wildfire, Christian, Missouri](https://irwin.doi.gov/observer/incidents/8bf47127-7d41-460a-bbe5-d96ddab0cd9b) (Jan 03)
+- 🌋 **Volcanoes**: [Ambrym Volcano, Vanuatu](https://volcano.si.edu/volcano.cfm?vn=257040) (Jan 08)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
