@@ -2,23 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2022:22:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-188ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2023:18:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-359ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 13 km SW of Volcano, Hawaii | 22:09 |
-| 🟢 1.5 | 8 km WNW of Cobb, CA | 21:58 |
-| 🟢 2.5 | 64 km SE of Denali National Park, Alaska | 21:53 |
-| 🟢 1.6 | 2 km ENE of Lindsay, Texas | 21:51 |
-| 🟢 1.0 | 2 km E of San Jacinto, CA | 21:49 |
-| 🟢 1.1 | 1 km ENE of San Jacinto, CA | 21:48 |
-| 🟢 1.1 | 6 km WNW of Cobb, CA | 21:43 |
-| 🟢 1.0 | 83 km NNW of Karluk, Alaska | 21:39 |
-| 🟢 1.0 | 9 km ENE of Cabazon, CA | 21:37 |
-| 🟢 1.8 | 5 km SW of Pāhala, Hawaii | 21:29 |
-| 🟢 0.6 | 9 km N of Anza, CA | 21:27 |
-| 🟢 2.0 | 1 km NNW of Houston, Alaska | 21:23 |
+| 🟢 1.4 | 47 km WNW of Beluga, Alaska | 23:12 |
+| 🟢 0.7 | 14 km NNE of Ocotillo Wells, CA | 23:02 |
+| 🟠 3.1 | 10 km NNE of Carrizales, Puerto Rico | 22:44 |
+| 🟢 1.6 | 4 km SE of Home Gardens, CA | 22:40 |
+| 🟢 1.7 | 10 km W of Ninilchik, Alaska | 22:22 |
+| 🟠 3.1 | 44 km SE of Chignik, Alaska | 22:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
