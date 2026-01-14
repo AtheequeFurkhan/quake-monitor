@@ -2,21 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2013:40:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-297ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2014:25:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-392ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.2 | 9 km NW of The Geysers, CA | 14:03 |
+| 🟢 1.8 | 81 km SE of Kokhanok, Alaska | 13:55 |
+| 🟢 1.3 | 11 km WNW of Calipatria, CA | 13:41 |
 | 🟢 2.0 | 73 km W of Karluk, Alaska | 13:34 |
 | 🟢 2.5 | 98 km ESE of Ugashik, Alaska | 13:29 |
 | 🟢 2.4 | 5 km SSW of Pāhala, Hawaii | 13:27 |
-| 🟢 2.2 | 1 km NNW of Pāhala, Hawaii | 13:23 |
-| 🟢 0.3 | 13 km NW of The Geysers, CA | 13:19 |
-| 🟢 2.3 | 5 km SW of Nanwalek, Alaska | 13:18 |
-| 🟢 2.7 | 4 km SW of Pāhala, Hawaii | 13:17 |
-| 🟢 1.2 | 9 km NNE of Julian, CA | 13:16 |
-| 🟢 1.8 | 4 km WNW of Volcano, Hawaii | 13:00 |
-| 🟢 1.4 | 9 km NE of Julian, CA | 12:56 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
