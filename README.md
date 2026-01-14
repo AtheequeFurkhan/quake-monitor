@@ -2,19 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2021:21:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-118ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2022:22:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-188ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 3 km NE of Blackhawk, CA | 21:01 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 20:59 |
-| 🟢 2.1 | 13 km ESE of Angwin, CA | 20:48 |
-| 🔴 5.1 | Kuril Islands | 20:36 |
-| 🟢 2.3 | 11 km E of Pāhala, Hawaii | 20:34 |
-| 🟢 0.9 | 6 km E of Desert Hot Springs, CA | 20:32 |
-| 🟠 4.2 | 133 km NNW of Finschhafen, Papua New Guinea | 20:30 |
-| 🟢 1.9 | 17 km NW of Toyah, Texas | 20:26 |
+| 🟢 1.9 | 13 km SW of Volcano, Hawaii | 22:09 |
+| 🟢 1.5 | 8 km WNW of Cobb, CA | 21:58 |
+| 🟢 2.5 | 64 km SE of Denali National Park, Alaska | 21:53 |
+| 🟢 1.6 | 2 km ENE of Lindsay, Texas | 21:51 |
+| 🟢 1.0 | 2 km E of San Jacinto, CA | 21:49 |
+| 🟢 1.1 | 1 km ENE of San Jacinto, CA | 21:48 |
+| 🟢 1.1 | 6 km WNW of Cobb, CA | 21:43 |
+| 🟢 1.0 | 83 km NNW of Karluk, Alaska | 21:39 |
+| 🟢 1.0 | 9 km ENE of Cabazon, CA | 21:37 |
+| 🟢 1.8 | 5 km SW of Pāhala, Hawaii | 21:29 |
+| 🟢 0.6 | 9 km N of Anza, CA | 21:27 |
+| 🟢 2.0 | 1 km NNW of Houston, Alaska | 21:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
