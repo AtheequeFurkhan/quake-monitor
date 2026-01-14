@@ -2,22 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2016:30:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-484ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2017:27:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-400ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.5 | 18 km ESE of Anderson, CA | 16:23 |
-| 🟢 2.5 | 5 km SSW of Pāhala, Hawaii | 16:19 |
-| 🟢 1.4 | 88 km SSE of Kokhanok, Alaska | 16:14 |
-| 🟢 0.7 | 1 km NNE of The Geysers, CA | 16:06 |
-| 🟢 1.9 | 48 km SSE of Denali National Park, Alaska | 16:03 |
-| 🟢 2.9 | 20 km W of Winters, CA | 15:48 |
-| 🟢 1.5 | 20 km WNW of Winters, CA | 15:47 |
-| 🟢 2.2 | 9 km W of Loyal, Oklahoma | 15:45 |
-| 🟢 2.1 | 52 km E of Ugashik, Alaska | 15:35 |
-| 🟢 0.8 | 3 km NW of The Geysers, CA | 15:32 |
-| 🟢 1.4 | 2 km NW of The Geysers, CA | 15:30 |
+| 🟢 1.7 | 18 km WNW of Hope, Alaska | 17:01 |
+| 🟢 1.8 | 29 km NW of Toyah, Texas | 16:54 |
+| 🟢 2.2 | 4 km SSW of Pāhala, Hawaii | 16:41 |
+| 🟢 1.1 | 6 km NW of The Geysers, CA | 16:37 |
+| 🟢 1.6 | 4 km WSW of Guánica, Puerto Rico | 16:36 |
+| 🟢 0.9 | 11 km WSW of Stanton, Texas | 16:35 |
+| 🟢 1.7 | 9 km S of Pāhala, Hawaii | 16:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
