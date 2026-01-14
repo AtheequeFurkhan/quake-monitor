@@ -2,20 +2,14 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2005:24:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-216ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2006:34:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-496ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 6 km WSW of Volcano, Hawaii | 05:17 |
-| 🟢 1.7 | 8 km WSW of Volcano, Hawaii | 05:13 |
-| 🟢 1.9 | 5 km WSW of Volcano, Hawaii | 05:13 |
-| 🟢 1.8 | 5 km SW of Volcano, Hawaii | 05:12 |
-| 🟢 0.6 | 2 km N of The Geysers, CA | 05:10 |
-| 🟢 2.2 | 65 km WNW of Ninilchik, Alaska | 04:46 |
-| 🟢 2.9 | 5 km SW of Covelo, CA | 04:42 |
-| 🟢 1.0 | 1 km WSW of Anderson Springs, CA | 04:33 |
-| 🟢 1.5 | 35 km NW of Toyah, Texas | 04:28 |
+| 🟢 0.5 | 8 km ESE of McCarthy, Alaska | 06:21 |
+| 🟢 0.5 | 9 km SW of Idyllwild, CA | 06:17 |
+| 🟢 1.1 | 2 km S of Muscoy, CA | 05:46 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
