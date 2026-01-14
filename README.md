@@ -2,16 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2003:47:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-122ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2004:46:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-555ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 3 km S of Brawley, CA | 03:34 |
-| 🟢 2.1 | 18 km NNW of Moose Pass, Alaska | 03:27 |
-| 🟢 1.5 | 11 km ESE of Willits, CA | 03:21 |
-| 🟢 0.6 | 10 km SSW of Idyllwild, CA | 03:13 |
-| 🔴 5.1 | 68 km E of Severo-Kuril’sk, Russia | 03:08 |
+| 🟢 2.9 | 5 km SW of Covelo, CA | 04:42 |
+| 🟢 1.0 | 1 km WSW of Anderson Springs, CA | 04:33 |
+| 🟢 0.9 | 5 km NW of The Geysers, CA | 04:22 |
+| 🟢 1.6 | 3 km N of Dublin, CA | 04:11 |
+| 🟢 1.6 | 8 km SSW of Point Possession, Alaska | 04:09 |
+| 🟢 1.6 | 50 km NW of Tatitlek, Alaska | 04:05 |
+| 🟢 0.8 | 86 km S of McCarthy, Alaska | 03:49 |
+| 🟢 1.7 | 22 km SW of Coyanosa, Texas | 03:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
