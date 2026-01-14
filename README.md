@@ -2,19 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2001:48:22%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-420ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2003:47:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-122ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 30 km NNW of Valdez, Alaska | 01:38 |
-| 🟠 3.4 | 210 km SE of Chignik, Alaska | 01:29 |
-| 🟢 1.8 | 6 km NW of The Geysers, CA | 01:22 |
-| 🟢 1.1 | 5 km NE of North Shore, CA | 01:06 |
-| 🟠 3.1 | 4 km NE of North Shore, CA | 00:56 |
-| 🟢 1.8 | 90 km NNE of Yakutat, Alaska | 00:56 |
-| 🟢 2.2 | 37 km WNW of Stevens Village, Alaska | 00:55 |
-| 🟢 2.3 | 59 km SSE of King Salmon, Alaska | 00:54 |
+| 🟢 1.3 | 3 km S of Brawley, CA | 03:34 |
+| 🟢 2.1 | 18 km NNW of Moose Pass, Alaska | 03:27 |
+| 🟢 1.5 | 11 km ESE of Willits, CA | 03:21 |
+| 🟢 0.6 | 10 km SSW of Idyllwild, CA | 03:13 |
+| 🔴 5.1 | 68 km E of Severo-Kuril’sk, Russia | 03:08 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
