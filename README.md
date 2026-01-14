@@ -2,17 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2014:25:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-392ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2015:26:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-318ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.2 | 9 km NW of The Geysers, CA | 14:03 |
-| 🟢 1.8 | 81 km SE of Kokhanok, Alaska | 13:55 |
-| 🟢 1.3 | 11 km WNW of Calipatria, CA | 13:41 |
-| 🟢 2.0 | 73 km W of Karluk, Alaska | 13:34 |
-| 🟢 2.5 | 98 km ESE of Ugashik, Alaska | 13:29 |
-| 🟢 2.4 | 5 km SSW of Pāhala, Hawaii | 13:27 |
+| 🟢 2.3 | 2 km S of Leilani Estates, Hawaii | 15:18 |
+| 🟢 1.7 | 44 km NW of Toyah, Texas | 15:08 |
+| 🟢 2.0 | 8 km W of Anchorage, Alaska | 14:53 |
+| 🟠 4.9 | 70 km SSE of Maumere, Indonesia | 14:39 |
+| 🟢 1.7 | 86 km NW of Karluk, Alaska | 14:37 |
+| 🟢 2.2 | 63 km E of Chase, Alaska | 14:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
