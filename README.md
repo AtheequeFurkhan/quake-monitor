@@ -2,27 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2013%20Jan%202026%2023:19:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-388ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2001:48:22%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-420ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 9 km WNW of The Geysers, CA | 23:16 |
-| 🟢 1.7 | 9 km WNW of The Geysers, CA | 23:16 |
-| 🟢 2.2 | 14 km SSE of Fern Forest, Hawaii | 23:00 |
-| 🟢 0.8 | 6 km WNW of Cobb, CA | 22:54 |
-| 🟢 0.8 | 35 km ESE of Nenana, Alaska | 22:53 |
-| 🟢 2.3 | 48 km N of San Antonio, Puerto Rico | 22:52 |
-| 🟠 3.8 | 11 km ESE of Willits, CA | 22:51 |
-| 🟢 1.2 | 9 km NE of Borrego Springs, CA | 22:47 |
-| 🟢 1.3 | 5 km WNW of Nuevo, CA | 22:46 |
-| 🟢 0.5 | 9 km WNW of The Geysers, CA | 22:45 |
-| 🟢 2.4 | 5 km NE of North Shore, CA | 22:42 |
-| 🟢 1.7 | 1 km ESE of Happy Valley, Alaska | 22:38 |
-| 🟢 1.3 | 24 km SSW of Ester, Alaska | 22:37 |
-| 🟢 2.2 | 2 km SE of Pacifica, CA | 22:35 |
-| 🟢 1.0 | 72 km ENE of Pedro Bay, Alaska | 22:29 |
-| 🟢 1.8 | 5 km N of Moreno Valley, CA | 22:28 |
+| 🟢 2.2 | 30 km NNW of Valdez, Alaska | 01:38 |
+| 🟠 3.4 | 210 km SE of Chignik, Alaska | 01:29 |
+| 🟢 1.8 | 6 km NW of The Geysers, CA | 01:22 |
+| 🟢 1.1 | 5 km NE of North Shore, CA | 01:06 |
+| 🟠 3.1 | 4 km NE of North Shore, CA | 00:56 |
+| 🟢 1.8 | 90 km NNE of Yakutat, Alaska | 00:56 |
+| 🟢 2.2 | 37 km WNW of Stevens Village, Alaska | 00:55 |
+| 🟢 2.3 | 59 km SSE of King Salmon, Alaska | 00:54 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
@@ -36,7 +28,7 @@
 - 🔥 **Wildfires**: [APQ South Range Rx 0109 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/126e90a1-0cdc-4d71-96a2-c005a563e888) (Jan 09)
 - 🔥 **Wildfires**: [MIR 5.1 ABC Rx 0109 Prescribed Fire, Brevard, Florida](https://irwin.doi.gov/observer/incidents/bcdc917e-c3da-4864-894a-6e3ab295c1f8) (Jan 09)
 - 🔥 **Wildfires**: [APQ Rec Area 10 Rx 0108 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/4393a164-d6f5-4c5b-842b-986916058383) (Jan 08)
-- ⛈️ **Severe Storms**: [Tropical Cyclone Jenna](https://www.metoc.navy.mil/jtwc/products/sh1226.tcw) (Jan 08)
+- 🔥 **Wildfires**: [Math Branch Wildfire, Christian, Missouri](https://irwin.doi.gov/observer/incidents/8bf47127-7d41-460a-bbe5-d96ddab0cd9b) (Jan 03)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
