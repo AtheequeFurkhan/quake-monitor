@@ -2,26 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2011:21:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-204ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2014%20Jan%202026%2012:46:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-405ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 11 km NNE of Trabuco Canyon, CA | 11:15 |
-| 🟢 2.1 | 35 km ENE of Chase, Alaska | 11:04 |
-| 🟢 1.1 | 4 km NW of The Geysers, CA | 10:43 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 10:41 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 10:34 |
-| 🟢 1.0 | 7 km NW of The Geysers, CA | 10:31 |
-| 🟢 0.9 | 9 km WNW of Cobb, CA | 10:22 |
-| 🟢 1.6 | 8 km WNW of Cobb, CA | 10:22 |
-| 🟢 1.5 | 4 km SE of Ontario, CA | 10:22 |
+| 🟢 0.9 | 2 km SE of Pacifica, CA | 12:18 |
+| 🟢 0.9 | 6 km WSW of Beaumont, CA | 12:14 |
+| 🟢 0.8 | 6 km WSW of Beaumont, CA | 12:13 |
+| 🟢 1.3 | 2 km ENE of Calimesa, CA | 12:01 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
 - 🔥 **Wildfires**: [RX Bill Bolen 2 Prescribed Fire, Pontotoc, Oklahoma](https://irwin.doi.gov/observer/incidents/d901a0af-b701-4729-9685-01f22e575e26) (Jan 12)
-- ⛈️ **Severe Storms**: [Tropical Cyclone Dudzai](https://www.metoc.navy.mil/jtwc/products/sh1426.tcw) (Jan 13)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Dudzai](https://www.metoc.navy.mil/jtwc/products/sh1426.tcw) (Jan 14)
 - 🔥 **Wildfires**: [MIR 9.2 ABC Rx 0111 Prescribed Fire, Brevard, Florida](https://irwin.doi.gov/observer/incidents/9c27c423-ab52-4541-a712-585af3751aa3) (Jan 11)
 - 🔥 **Wildfires**: [APQ Rec Area 12 Rx 0110 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/85e2d32a-e890-4570-8122-0a2794048d80) (Jan 10)
 - ⛈️ **Severe Storms**: [Tropical Cyclone Koji](https://www.metoc.navy.mil/jtwc/products/sh1425.tcw) (Jan 11)
