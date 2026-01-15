@@ -2,16 +2,28 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2008:31:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-368ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2009:27:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-1.13s-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.4 | 26 km WSW of Point MacKenzie, Alaska | 08:20 |
-| 🟢 1.4 | 1 km NNW of Middletown, CA | 08:03 |
-| 🟢 0.8 | 9 km NW of The Geysers, CA | 07:56 |
-| 🟢 1.5 | 22 km NE of San Ardo, CA | 07:48 |
-| 🟢 1.8 | 28 km NE of Hawaiian Paradise Park, Hawaii | 07:42 |
+| 🟢 0.7 | 14 km SSW of Borrego Springs, CA | 09:21 |
+| 🟠 3.3 | 30 km SW of Atoka, New Mexico | 09:15 |
+| 🟢 1.1 | 11 km ENE of Borrego Springs, CA | 09:15 |
+| 🟢 0.5 | 5 km ESE of Valle Vista, CA | 09:14 |
+| 🟢 0.8 | 4 km N of Murrieta, CA | 09:10 |
+| 🟢 2.0 | 43 km NNE of Chickaloon, Alaska | 09:08 |
+| 🟢 0.8 | 76 km S of McCarthy, Alaska | 09:06 |
+| 🟢 2.0 | 42 km NW of Toyah, Texas | 09:05 |
+| 🟢 2.9 | 38 km W of Carlsbad, New Mexico | 09:04 |
+| 🟢 1.6 | 10 km SSE of Cabazon, CA | 09:03 |
+| 🟢 1.0 | 2 km S of Borrego Springs, CA | 08:52 |
+| 🔴 5.9 | 271 km ESE of Attu Station, Alaska | 08:52 |
+| 🟢 2.1 | 12 km ENE of Midland, Texas | 08:51 |
+| 🟠 3.5 | 33 km SSE of Hope, New Mexico | 08:50 |
+| 🟢 0.9 | 12 km ENE of Borrego Springs, CA | 08:43 |
+| 🟢 1.9 | 6 km NNE of Lazy Mountain, Alaska | 08:38 |
+| 🟠 4.9 | 17 km W of Villa Basilio Nievas, Argentina | 08:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
