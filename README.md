@@ -2,15 +2,42 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2005:26:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-495ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2006:34:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-384ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.7 | 1 km SW of Pāhala, Hawaii | 05:15 |
-| 🟢 2.1 | 12 km N of Cantwell, Alaska | 05:15 |
-| 🟢 0.7 | 2 km NW of The Geysers, CA | 04:49 |
-| 🟢 2.1 | 4 km SSW of Pāhala, Hawaii | 04:31 |
+| 🟠 3.9 | 47 km SW of Skwentna, Alaska | 06:28 |
+| 🟢 2.0 | 51 km S of Whites City, New Mexico | 06:27 |
+| 🟢 0.7 | 8 km WNW of Cobb, CA | 06:26 |
+| 🟢 1.4 | 23 km SE of Chickaloon, Alaska | 06:21 |
+| 🟢 2.0 | 55 km SE of Pāhala, Hawaii | 06:20 |
+| 🟢 2.1 | 24 km ENE of San Ardo, CA | 06:11 |
+| 🟢 2.0 | 5 km SW of Volcano, Hawaii | 06:06 |
+| 🟢 1.8 | 6 km SW of Volcano, Hawaii | 06:02 |
+| 🟢 2.7 | 14 km ESE of Pāhala, Hawaii | 06:02 |
+| 🟢 1.7 | 5 km SW of Volcano, Hawaii | 06:00 |
+| 🟢 1.5 | 58 km N of Petersville, Alaska | 05:58 |
+| 🟢 1.9 | 5 km SW of Volcano, Hawaii | 05:56 |
+| 🟢 1.9 | 5 km SW of Volcano, Hawaii | 05:55 |
+| 🟢 1.6 | 45 km W of Karluk, Alaska | 05:53 |
+| 🟢 1.7 | 5 km SW of Volcano, Hawaii | 05:52 |
+| 🟢 1.8 | 5 km SW of Volcano, Hawaii | 05:50 |
+| 🟢 1.9 | 71 km E of Port Alsworth, Alaska | 05:50 |
+| 🟢 1.9 | 4 km SW of Volcano, Hawaii | 05:49 |
+| 🟢 1.9 | 5 km SW of Volcano, Hawaii | 05:48 |
+| 🔴 5.1 | 16 km WNW of Shiojiri, Japan | 05:48 |
+| 🟢 2.0 | 5 km SW of Volcano, Hawaii | 05:46 |
+| 🟢 1.8 | 5 km SW of Volcano, Hawaii | 05:46 |
+| 🟢 1.7 | 5 km SW of Volcano, Hawaii | 05:44 |
+| 🟢 1.9 | 5 km SW of Volcano, Hawaii | 05:43 |
+| 🟢 1.9 | 5 km SW of Volcano, Hawaii | 05:43 |
+| 🟢 1.8 | 5 km SW of Volcano, Hawaii | 05:41 |
+| 🟠 4.7 | 23 km WSW of Hotaka, Japan | 05:40 |
+| 🟢 2.5 | 87 km ESE of Ugashik, Alaska | 05:40 |
+| 🟢 2.0 | 11 km NNW of Larsen Bay, Alaska | 05:36 |
+| 🟢 0.9 | 10 km WNW of The Geysers, CA | 05:36 |
+| 🟢 1.7 | 6 km SW of Volcano, Hawaii | 05:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
