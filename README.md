@@ -2,22 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2004:40:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-170ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2005:26:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-495ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.7 | 1 km SW of Pāhala, Hawaii | 05:15 |
+| 🟢 2.1 | 12 km N of Cantwell, Alaska | 05:15 |
+| 🟢 0.7 | 2 km NW of The Geysers, CA | 04:49 |
 | 🟢 2.1 | 4 km SSW of Pāhala, Hawaii | 04:31 |
-| 🟢 0.7 | 9 km ENE of Villa Park, CA | 04:22 |
-| 🟢 1.7 | 12 km SW of Salton City, CA | 04:17 |
-| 🟢 1.9 | 24 km ENE of San Ardo, CA | 04:06 |
-| 🟢 1.1 | 5 km NW of The Geysers, CA | 03:57 |
-| 🟢 1.6 | 5 km NW of The Geysers, CA | 03:57 |
-| 🟢 1.3 | 5 km NW of The Geysers, CA | 03:57 |
-| 🟢 1.3 | 5 km NW of The Geysers, CA | 03:57 |
-| 🟢 1.3 | 5 km NW of The Geysers, CA | 03:57 |
-| 🟢 1.7 | 3 km SE of Pacifica, CA | 03:49 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 03:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
