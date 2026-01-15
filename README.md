@@ -2,28 +2,37 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2009:27:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-1.13s-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2010:25:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-416ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 14 km SSW of Borrego Springs, CA | 09:21 |
-| 🟠 3.3 | 30 km SW of Atoka, New Mexico | 09:15 |
-| 🟢 1.1 | 11 km ENE of Borrego Springs, CA | 09:15 |
-| 🟢 0.5 | 5 km ESE of Valle Vista, CA | 09:14 |
-| 🟢 0.8 | 4 km N of Murrieta, CA | 09:10 |
-| 🟢 2.0 | 43 km NNE of Chickaloon, Alaska | 09:08 |
-| 🟢 0.8 | 76 km S of McCarthy, Alaska | 09:06 |
-| 🟢 2.0 | 42 km NW of Toyah, Texas | 09:05 |
-| 🟢 2.9 | 38 km W of Carlsbad, New Mexico | 09:04 |
-| 🟢 1.6 | 10 km SSE of Cabazon, CA | 09:03 |
-| 🟢 1.0 | 2 km S of Borrego Springs, CA | 08:52 |
-| 🔴 5.9 | 271 km ESE of Attu Station, Alaska | 08:52 |
-| 🟢 2.1 | 12 km ENE of Midland, Texas | 08:51 |
-| 🟠 3.5 | 33 km SSE of Hope, New Mexico | 08:50 |
-| 🟢 0.9 | 12 km ENE of Borrego Springs, CA | 08:43 |
-| 🟢 1.9 | 6 km NNE of Lazy Mountain, Alaska | 08:38 |
-| 🟠 4.9 | 17 km W of Villa Basilio Nievas, Argentina | 08:30 |
+| 🟢 1.4 | 7 km WSW of Holtville, CA | 10:21 |
+| 🟢 0.9 | 7 km SSE of Eielson Air Force Base, Alaska | 10:20 |
+| 🟢 1.2 | 6 km W of Holtville, CA | 10:19 |
+| 🟢 1.7 | 80 km NNW of Aleneva, Alaska | 10:19 |
+| 🟢 1.3 | 10 km NNW of Idyllwild, CA | 10:15 |
+| 🟢 0.8 | 10 km NNW of Idyllwild, CA | 10:14 |
+| 🟢 2.1 | 8 km WSW of Holtville, CA | 10:05 |
+| 🟢 1.9 | 5 km SSW of Pāhala, Hawaii | 10:04 |
+| 🟢 1.2 | 5 km WSW of Holtville, CA | 10:04 |
+| 🟢 1.5 | 7 km WSW of Holtville, CA | 10:00 |
+| 🟢 0.9 | 11 km SW of Anza, CA | 09:59 |
+| 🟢 2.0 | 7 km WSW of Holtville, CA | 09:58 |
+| 🟢 2.1 | 7 km W of Holtville, CA | 09:58 |
+| 🟢 2.0 | 8 km W of Holtville, CA | 09:58 |
+| 🟢 2.5 | 6 km W of Holtville, CA | 09:56 |
+| 🟢 2.8 | 14 km SSE of Tecopa, California | 09:55 |
+| 🟠 4.4 | 7 km WSW of Holtville, CA | 09:54 |
+| 🟢 1.6 | 9 km NNE of Barstow, Texas | 09:54 |
+| 🟢 0.8 | 2 km SSE of Borrego Springs, CA | 09:52 |
+| 🟢 1.2 | 7 km WSW of Holtville, CA | 09:45 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 09:42 |
+| 🟠 3.5 | 8 km W of Holtville, CA | 09:40 |
+| 🟢 3.0 | 68 km WNW of Beluga, Alaska | 09:37 |
+| 🟢 0.6 | 14 km SW of Searles Valley, CA | 09:34 |
+| 🟢 2.5 | 9 km W of Loyal, Oklahoma | 09:33 |
+| 🟢 1.7 | 41 km WNW of Tyonek, Alaska | 09:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
