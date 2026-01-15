@@ -2,41 +2,33 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2011:19:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-512ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2012:45:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-189ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 8 km NW of The Geysers, CA | 11:17 |
-| 🟢 1.6 | 7 km SW of Holtville, CA | 11:17 |
-| 🟢 1.5 | 6 km WSW of Holtville, CA | 11:10 |
-| 🟢 2.1 | 7 km WSW of Holtville, CA | 11:05 |
-| 🟢 1.3 | 10 km W of Pine Valley, CA | 10:57 |
-| 🟢 1.5 | 7 km SW of Holtville, CA | 10:54 |
-| 🟢 1.7 | 10 km NE of Holtville, CA | 10:50 |
-| 🟢 1.2 | 7 km WSW of Holtville, CA | 10:49 |
-| 🟢 1.2 | 5 km N of Oak Park, CA | 10:47 |
-| 🟢 1.3 | 7 km WSW of Holtville, CA | 10:42 |
-| 🟢 1.8 | 7 km WSW of Holtville, CA | 10:39 |
-| 🟢 1.4 | 7 km WSW of Holtville, CA | 10:37 |
-| 🟢 2.1 | 6 km E of La Parguera, Puerto Rico | 10:36 |
-| 🟢 1.2 | 8 km WSW of Holtville, CA | 10:36 |
-| 🟢 1.9 | 7 km WSW of Holtville, CA | 10:34 |
-| 🟢 1.3 | 7 km WSW of Holtville, CA | 10:26 |
-| 🟢 1.4 | 7 km W of Holtville, CA | 10:25 |
-| 🟢 1.5 | 6 km NW of Imperial, CA | 10:23 |
-| 🟢 1.6 | 7 km SW of Holtville, CA | 10:22 |
-| 🟢 1.6 | 57 km S of Whites City, New Mexico | 10:22 |
-| 🟢 0.4 | 11 km NNE of Julian, CA | 10:22 |
-| 🟢 1.2 | 6 km WSW of Holtville, CA | 10:21 |
-| 🟢 0.9 | 7 km SSE of Eielson Air Force Base, Alaska | 10:20 |
-| 🟢 1.2 | 6 km W of Holtville, CA | 10:19 |
+| 🟢 1.6 | 5 km SW of Holtville, CA | 12:40 |
+| 🟢 1.0 | 6 km WNW of Cobb, CA | 12:33 |
+| 🟢 1.6 | 7 km WSW of Holtville, CA | 12:30 |
+| 🟢 1.7 | 7 km WSW of Holtville, CA | 12:14 |
+| 🟠 4.9 | 36 km NE of Meiktila, Burma (Myanmar) | 12:12 |
+| 🟢 1.9 | 8 km WSW of Holtville, CA | 12:11 |
+| 🟢 1.6 | 7 km WSW of Holtville, CA | 12:02 |
+| 🟢 2.3 | 7 km WSW of Holtville, CA | 12:01 |
+| 🟢 2.2 | 7 km WSW of Holtville, CA | 12:00 |
+| 🟢 1.2 | 18 km WSW of Johannesburg, CA | 11:58 |
+| 🟢 1.7 | 6 km WSW of Holtville, CA | 11:53 |
+| 🟢 1.5 | 7 km WSW of Holtville, CA | 11:50 |
+| 🟢 1.3 | 7 km S of Palomar Observatory, CA | 11:47 |
+| 🟢 0.6 | 8 km SSE of Palomar Observatory, CA | 11:47 |
+| 🟢 1.3 | 7 km WSW of Holtville, CA | 11:46 |
+| 🟢 2.0 | 7 km NE of Skwentna, Alaska | 11:45 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
 - 🔥 **Wildfires**: [RX Bill Bolen 2 Prescribed Fire, Pontotoc, Oklahoma](https://irwin.doi.gov/observer/incidents/d901a0af-b701-4729-9685-01f22e575e26) (Jan 12)
-- ⛈️ **Severe Storms**: [Tropical Cyclone Dudzai](https://www.metoc.navy.mil/jtwc/products/sh1426.tcw) (Jan 14)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Dudzai](https://www.metoc.navy.mil/jtwc/products/sh1426.tcw) (Jan 15)
 - 🔥 **Wildfires**: [MIR 9.2 ABC Rx 0111 Prescribed Fire, Brevard, Florida](https://irwin.doi.gov/observer/incidents/9c27c423-ab52-4541-a712-585af3751aa3) (Jan 11)
 - 🔥 **Wildfires**: [APQ Rec Area 12 Rx 0110 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/85e2d32a-e890-4570-8122-0a2794048d80) (Jan 10)
 - ⛈️ **Severe Storms**: [Tropical Cyclone Koji](https://www.metoc.navy.mil/jtwc/products/sh1425.tcw) (Jan 11)
