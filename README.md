@@ -2,37 +2,35 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2010:25:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-416ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2011:19:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-512ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 7 km WSW of Holtville, CA | 10:21 |
+| 🟢 0.9 | 8 km NW of The Geysers, CA | 11:17 |
+| 🟢 1.6 | 7 km SW of Holtville, CA | 11:17 |
+| 🟢 1.5 | 6 km WSW of Holtville, CA | 11:10 |
+| 🟢 2.1 | 7 km WSW of Holtville, CA | 11:05 |
+| 🟢 1.3 | 10 km W of Pine Valley, CA | 10:57 |
+| 🟢 1.5 | 7 km SW of Holtville, CA | 10:54 |
+| 🟢 1.7 | 10 km NE of Holtville, CA | 10:50 |
+| 🟢 1.2 | 7 km WSW of Holtville, CA | 10:49 |
+| 🟢 1.2 | 5 km N of Oak Park, CA | 10:47 |
+| 🟢 1.3 | 7 km WSW of Holtville, CA | 10:42 |
+| 🟢 1.8 | 7 km WSW of Holtville, CA | 10:39 |
+| 🟢 1.4 | 7 km WSW of Holtville, CA | 10:37 |
+| 🟢 2.1 | 6 km E of La Parguera, Puerto Rico | 10:36 |
+| 🟢 1.2 | 8 km WSW of Holtville, CA | 10:36 |
+| 🟢 1.9 | 7 km WSW of Holtville, CA | 10:34 |
+| 🟢 1.3 | 7 km WSW of Holtville, CA | 10:26 |
+| 🟢 1.4 | 7 km W of Holtville, CA | 10:25 |
+| 🟢 1.5 | 6 km NW of Imperial, CA | 10:23 |
+| 🟢 1.6 | 7 km SW of Holtville, CA | 10:22 |
+| 🟢 1.6 | 57 km S of Whites City, New Mexico | 10:22 |
+| 🟢 0.4 | 11 km NNE of Julian, CA | 10:22 |
+| 🟢 1.2 | 6 km WSW of Holtville, CA | 10:21 |
 | 🟢 0.9 | 7 km SSE of Eielson Air Force Base, Alaska | 10:20 |
 | 🟢 1.2 | 6 km W of Holtville, CA | 10:19 |
-| 🟢 1.7 | 80 km NNW of Aleneva, Alaska | 10:19 |
-| 🟢 1.3 | 10 km NNW of Idyllwild, CA | 10:15 |
-| 🟢 0.8 | 10 km NNW of Idyllwild, CA | 10:14 |
-| 🟢 2.1 | 8 km WSW of Holtville, CA | 10:05 |
-| 🟢 1.9 | 5 km SSW of Pāhala, Hawaii | 10:04 |
-| 🟢 1.2 | 5 km WSW of Holtville, CA | 10:04 |
-| 🟢 1.5 | 7 km WSW of Holtville, CA | 10:00 |
-| 🟢 0.9 | 11 km SW of Anza, CA | 09:59 |
-| 🟢 2.0 | 7 km WSW of Holtville, CA | 09:58 |
-| 🟢 2.1 | 7 km W of Holtville, CA | 09:58 |
-| 🟢 2.0 | 8 km W of Holtville, CA | 09:58 |
-| 🟢 2.5 | 6 km W of Holtville, CA | 09:56 |
-| 🟢 2.8 | 14 km SSE of Tecopa, California | 09:55 |
-| 🟠 4.4 | 7 km WSW of Holtville, CA | 09:54 |
-| 🟢 1.6 | 9 km NNE of Barstow, Texas | 09:54 |
-| 🟢 0.8 | 2 km SSE of Borrego Springs, CA | 09:52 |
-| 🟢 1.2 | 7 km WSW of Holtville, CA | 09:45 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 09:42 |
-| 🟠 3.5 | 8 km W of Holtville, CA | 09:40 |
-| 🟢 3.0 | 68 km WNW of Beluga, Alaska | 09:37 |
-| 🟢 0.6 | 14 km SW of Searles Valley, CA | 09:34 |
-| 🟢 2.5 | 9 km W of Loyal, Oklahoma | 09:33 |
-| 🟢 1.7 | 41 km WNW of Tyonek, Alaska | 09:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
