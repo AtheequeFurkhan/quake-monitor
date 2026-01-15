@@ -2,24 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2007:25:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-201ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2008:31:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-368ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.5 | 16 km NNE of Susitna, Alaska | 07:21 |
-| 🟢 1.4 | 19 km WNW of Winters, CA | 07:16 |
-| 🟢 1.8 | 57 km E of Goldfield, Nevada | 07:16 |
-| 🟠 3.3 | 67 km E of Paradise Valley, Nevada | 07:15 |
-| 🟢 1.6 | 19 km W of Winters, CA | 07:13 |
-| 🟢 1.5 | 20 km WNW of Winters, CA | 07:00 |
-| 🟢 1.0 | 16 km WSW of Johannesburg, CA | 06:56 |
-| 🟢 2.1 | 31 km W of Nanwalek, Alaska | 06:49 |
-| 🟢 0.5 | 8 km NW of The Geysers, CA | 06:48 |
-| 🟠 3.7 | 47 km SW of Skwentna, Alaska | 06:28 |
-| 🟢 2.0 | 51 km S of Whites City, New Mexico | 06:27 |
-| 🟢 0.8 | 4 km SW of Volcano, Hawaii | 06:27 |
-| 🟢 0.7 | 8 km WNW of Cobb, CA | 06:26 |
+| 🟢 2.4 | 26 km WSW of Point MacKenzie, Alaska | 08:20 |
+| 🟢 1.4 | 1 km NNW of Middletown, CA | 08:03 |
+| 🟢 0.8 | 9 km NW of The Geysers, CA | 07:56 |
+| 🟢 1.5 | 22 km NE of San Ardo, CA | 07:48 |
+| 🟢 1.8 | 28 km NE of Hawaiian Paradise Park, Hawaii | 07:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
