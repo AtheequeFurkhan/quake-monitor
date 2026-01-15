@@ -2,19 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2019:24:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-488ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2020:25:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-297ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.4 | 64 km ESE of Denali Park, Alaska | 19:17 |
-| 🟢 1.8 | 23 km ENE of Alum Rock, CA | 18:58 |
-| 🟢 1.9 | 2 km NE of Loma Linda, CA | 18:38 |
-| 🟢 1.3 | 15 km NNW of Stanton, Texas | 18:35 |
-| 🟢 0.6 | 15 km SE of Anza, CA | 18:34 |
-| 🟢 1.4 | 93 km NNW of Yakutat, Alaska | 18:32 |
-| 🟢 0.6 | 1 km SSE of Anza, CA | 18:32 |
-| 🟠 4.2 | 13 km ESE of Tauria, Peru | 18:30 |
+| 🟢 1.2 | 11 km NNE of Ocotillo Wells, CA | 20:18 |
+| 🟢 1.6 | 52 km WNW of Ninilchik, Alaska | 20:02 |
+| 🟢 0.7 | 4 km NNW of The Geysers, CA | 19:57 |
+| 🟢 2.8 | 49 km S of Central Aguirre, Puerto Rico | 19:51 |
+| 🟢 1.7 | 31 km NW of Toyah, Texas | 19:50 |
+| 🟠 4.7 | 131 km ESE of Lukatan, Philippines | 19:50 |
+| 🟢 1.5 | 5 km SSW of Gilroy, CA | 19:49 |
+| 🟢 1.3 | 30 km NW of Toyah, Texas | 19:47 |
+| 🟢 1.6 | 10 km NNE of Talmage, CA | 19:46 |
+| 🟢 2.2 | 54 km S of Whites City, New Mexico | 19:40 |
+| 🟢 1.4 | 16 km W of Coronado, CA | 19:37 |
+| 🟢 1.9 | 13 km SSE of Maria Antonia, Puerto Rico | 19:36 |
+| 🟢 1.7 | 64 km S of Cantwell, Alaska | 19:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
