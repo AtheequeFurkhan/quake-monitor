@@ -2,24 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2017:31:31%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-191ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2018:36:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-385ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 69 km WNW of Yakutat, Alaska | 17:18 |
-| 🟢 1.9 | 6 km WNW of Cobb, CA | 17:11 |
-| 🟢 2.2 | 6 km WNW of Cobb, CA | 17:11 |
-| 🟢 1.4 | 3 km SSE of Brawley, CA | 17:07 |
-| 🟢 2.1 | 14 km SE of Waimea, Hawaii | 17:04 |
-| 🟢 1.4 | 7 km WSW of Holtville, CA | 16:58 |
-| 🟢 1.0 | 7 km W of Cobb, CA | 16:48 |
-| 🟢 1.0 | 15 km WSW of Johannesburg, CA | 16:48 |
-| 🟢 2.3 | 32 km W of Happy Valley, Alaska | 16:45 |
-| 🟢 1.0 | 14 km NW of Four Mile Road, Alaska | 16:41 |
-| 🟢 1.3 | 9 km SE of Pinnacles, CA | 16:41 |
-| 🟢 1.8 | 9 km W of Loyal, Oklahoma | 16:36 |
-| 🟢 1.4 | 21 km NE of San Ardo, CA | 16:35 |
+| 🟢 1.4 | 93 km NNW of Yakutat, Alaska | 18:32 |
+| 🟢 0.6 | 1 km SSE of Anza, CA | 18:32 |
+| 🟢 2.3 | 7 km WSW of Holtville, CA | 18:23 |
+| 🟢 2.2 | 7 km WSW of Holtville, CA | 18:12 |
+| 🟢 0.8 | 10 km S of Idyllwild, CA | 18:11 |
+| 🟢 1.2 | 11 km E of Cloverdale, CA | 18:09 |
+| 🟢 1.0 | 8 km SW of Anza, CA | 18:08 |
+| 🟢 2.7 | 38 km W of Petersville, Alaska | 17:58 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
