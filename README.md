@@ -2,24 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2015:25:55%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-430ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2016:35:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-320ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 21 km SSE of Barstow, Texas | 15:14 |
-| 🟢 0.9 | 23 km ENE of Alum Rock, CA | 15:11 |
-| 🟢 0.9 | 12 km SW of Searles Valley, CA | 15:11 |
-| 🟢 2.2 | 9 km W of Loyal, Oklahoma | 14:59 |
-| 🟠 3.1 | 24 km ENE of Alum Rock, CA | 14:54 |
-| 🟠 4.5 | 83 km W of Tambolaka, Indonesia | 14:49 |
-| 🟢 2.3 | 57 km WNW of Happy Valley, Alaska | 14:46 |
-| 🟢 0.8 | 36 km NNW of Ester, Alaska | 14:46 |
-| 🟢 1.5 | 11 km SSW of Valencia, CA | 14:43 |
-| 🟢 0.5 | 9 km SW of Idyllwild, CA | 14:40 |
-| 🟢 1.2 | 2 km SE of Pacifica, CA | 14:35 |
-| 🟢 2.5 | 47 km E of Denali National Park, Alaska | 14:32 |
-| 🟢 2.0 | 100 km N of Karluk, Alaska | 14:28 |
+| 🟢 1.3 | 2 km NNW of The Geysers, CA | 16:21 |
+| 🟢 1.8 | 7 km SW of Holtville, CA | 16:06 |
+| 🟢 1.5 | 55 km S of Whites City, New Mexico | 16:03 |
+| 🟢 1.7 | 9 km W of Loyal, Oklahoma | 16:01 |
+| 🟢 1.3 | 13 km ENE of Fox, Alaska | 15:56 |
+| 🟢 1.4 | 3 km SE of Murrieta, CA | 15:50 |
+| 🟢 1.9 | 16 km ESE of Anza, CA | 15:44 |
+| 🟢 1.7 | 23 km SSW of Mammoth, Wyoming | 15:42 |
+| 🟢 2.0 | 22 km SSE of Redway, CA | 15:38 |
+| 🟢 1.7 | 22 km SSE of Redway, CA | 15:35 |
+| 🟢 1.5 | 8 km WSW of Holtville, CA | 15:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
