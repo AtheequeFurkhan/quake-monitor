@@ -2,17 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2021:21:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-302ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2022:21:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-334ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 34 km SE of Malaga, New Mexico | 21:12 |
-| 🟢 1.3 | 8 km WSW of Holtville, CA | 21:02 |
-| 🟢 0.9 | 7 km W of Templeton, CA | 20:53 |
-| 🟢 1.4 | 13 km SE of Tehachapi, CA | 20:48 |
-| 🟢 1.8 | 42 km NW of Toyah, Texas | 20:46 |
-| 🟢 1.6 | 40 km NW of Toyah, Texas | 20:28 |
+| 🟢 1.9 | 17 km NW of North Las Vegas, Nevada | 22:18 |
+| 🟢 1.9 | 24 km ENE of Skwentna, Alaska | 22:17 |
+| 🟢 1.0 | 11 km SW of Salton City, CA | 22:15 |
+| 🟢 1.5 | 12 km SW of Salton City, CA | 22:14 |
+| 🟢 1.7 | 10 km SSE of Pāhala, Hawaii | 22:06 |
+| 🟢 1.7 | 9 km S of Pāhala, Hawaii | 22:04 |
+| 🟢 1.9 | 6 km SW of Holtville, CA | 21:34 |
+| 🟢 0.4 | 5 km WNW of Cobb, CA | 21:22 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
