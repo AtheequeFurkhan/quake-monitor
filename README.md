@@ -2,27 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2012:45:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-189ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2013:39:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-481ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.8 | 35 km ESE of Valdez, Alaska | 13:31 |
+| 🟢 1.4 | 11 km ENE of Lazy Mountain, Alaska | 13:19 |
+| 🟢 1.6 | 7 km SW of Holtville, CA | 13:14 |
+| 🟢 1.8 | 21 km S of Susitna North, Alaska | 13:07 |
+| 🟢 1.5 | 6 km SW of Holtville, CA | 13:02 |
+| 🟢 1.5 | 6 km SE of Holtville, CA | 12:49 |
 | 🟢 1.6 | 5 km SW of Holtville, CA | 12:40 |
-| 🟢 1.0 | 6 km WNW of Cobb, CA | 12:33 |
-| 🟢 1.6 | 7 km WSW of Holtville, CA | 12:30 |
-| 🟢 1.7 | 7 km WSW of Holtville, CA | 12:14 |
-| 🟠 4.9 | 36 km NE of Meiktila, Burma (Myanmar) | 12:12 |
-| 🟢 1.9 | 8 km WSW of Holtville, CA | 12:11 |
-| 🟢 1.6 | 7 km WSW of Holtville, CA | 12:02 |
-| 🟢 2.3 | 7 km WSW of Holtville, CA | 12:01 |
-| 🟢 2.2 | 7 km WSW of Holtville, CA | 12:00 |
-| 🟢 1.2 | 18 km WSW of Johannesburg, CA | 11:58 |
-| 🟢 1.7 | 6 km WSW of Holtville, CA | 11:53 |
-| 🟢 1.5 | 7 km WSW of Holtville, CA | 11:50 |
-| 🟢 1.3 | 7 km S of Palomar Observatory, CA | 11:47 |
-| 🟢 0.6 | 8 km SSE of Palomar Observatory, CA | 11:47 |
-| 🟢 1.3 | 7 km WSW of Holtville, CA | 11:46 |
-| 🟢 2.0 | 7 km NE of Skwentna, Alaska | 11:45 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
