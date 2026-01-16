@@ -2,21 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2011:19:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-211ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2012:44:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-380ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 15 km SW of Westmorland, CA | 11:16 |
-| 🟢 3.0 | 77 km SW of Nanwalek, Alaska | 11:14 |
-| 🟢 1.3 | 11 km WSW of Stanton, Texas | 10:58 |
-| 🟢 1.1 | 27 km WSW of Westmorland, CA | 10:57 |
-| 🟢 2.6 | 43 km WNW of Nanwalek, Alaska | 10:42 |
-| 🟢 1.8 | 51 km S of Goldfield, Nevada | 10:38 |
-| 🟢 0.7 | 4 km NNW of San Jacinto, CA | 10:33 |
-| 🟢 1.6 | 47 km WNW of Toyah, Texas | 10:31 |
-| 🟠 4.1 | 17 km W of Maliq, Albania | 10:28 |
-| 🟢 1.6 | 50 km WNW of Petersville, Alaska | 10:21 |
+| 🟢 2.2 | 22 km SSE of Redway, CA | 12:35 |
+| 🟢 1.9 | 31 km NW of Toyah, Texas | 12:30 |
+| 🟢 1.4 | 45 km ESE of Knik River, Alaska | 12:19 |
+| 🟢 1.2 | 35 km N of Yucca Valley, CA | 12:09 |
+| 🟢 2.1 | 31 km WSW of Susitna North, Alaska | 12:08 |
+| 🟢 0.9 | 55 km S of Whites City, New Mexico | 12:06 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
