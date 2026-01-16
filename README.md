@@ -2,17 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2015%20Jan%202026%2023:20:59%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-553ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2001:45:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-190ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 30 km NW of Toyah, Texas | 23:04 |
-| 🟢 2.0 | 39 km WNW of Skwentna, Alaska | 22:48 |
-| 🟢 1.8 | 6 km SSW of Pāhala, Hawaii | 22:46 |
-| 🟢 1.0 | 6 km W of Cobb, CA | 22:34 |
-| 🟢 2.1 | 17 km E of Ferry, Alaska | 22:29 |
-| 🟢 0.7 | 8 km WNW of Cobb, CA | 22:28 |
+| 🟢 2.1 | 22 km ESE of Naalehu, Hawaii | 01:37 |
+| 🟢 1.8 | 34 km SE of Malaga, New Mexico | 01:21 |
+| 🟢 1.5 | 9 km ENE of Heber, CA | 01:17 |
+| 🟢 1.7 | 5 km SE of Pearsall, Texas | 01:16 |
+| 🟢 2.0 | 62 km WNW of Aleneva, Alaska | 01:11 |
+| 🟢 2.2 | 11 km E of Skwentna, Alaska | 01:08 |
+| 🟢 1.8 | 4 km WNW of Frazier Park, CA | 00:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
