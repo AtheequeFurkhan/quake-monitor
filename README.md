@@ -2,20 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2008:30:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-110ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2009:26:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-653ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 4 km NNW of The Geysers, CA | 08:25 |
-| 🟢 2.6 | 76 km SE of Kokhanok, Alaska | 08:18 |
-| 🟢 1.5 | 31 km NW of Toyah, Texas | 07:56 |
-| 🟢 1.6 | 32 km N of Searles Valley, CA | 07:55 |
-| 🟢 2.3 | 3 km SSW of Pāhala, Hawaii | 07:40 |
-| 🟢 1.4 | 53 km NNW of Petersville, Alaska | 07:36 |
-| 🟠 4.6 | 17 km E of Sama Grande, Peru | 07:34 |
-| 🟢 1.6 | 64 km SSE of King Salmon, Alaska | 07:34 |
-| 🟢 2.0 | 22 km SSE of Redway, CA | 07:33 |
+| 🟢 1.9 | 31 km NW of Toyah, Texas | 09:18 |
+| 🟢 2.0 | 53 km WNW of Toyah, Texas | 09:18 |
+| 🟢 0.3 | 6 km WSW of Anza, CA | 09:04 |
+| 🟢 1.8 | 27 km ESE of Denali National Park, Alaska | 09:01 |
+| 🟢 1.3 | 7 km WNW of Cobb, CA | 08:56 |
+| 🟢 0.3 | 7 km S of Idyllwild, CA | 08:50 |
+| 🟢 1.2 | 21 km ESE of Anza, CA | 08:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
