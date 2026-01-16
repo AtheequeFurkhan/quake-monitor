@@ -2,33 +2,32 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2019:19:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-246ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2020:21:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-501ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 8 km WSW of Holtville, CA | 19:06 |
-| 🟢 1.5 | 42 km NW of Toyah, Texas | 19:03 |
-| 🟢 0.7 | 4 km W of Cobb, CA | 18:57 |
-| 🟢 2.0 | 5 km WSW of Holtville, CA | 18:55 |
-| 🟢 1.9 | 13 km NNE of Tres Pinos, CA | 18:47 |
-| 🟢 0.9 | 10 km E of Murrieta Hot Springs, CA | 18:36 |
-| 🟢 1.4 | 12 km W of Stanton, Texas | 18:36 |
-| 🟠 3.8 | 43 km WNW of Elfin Cove, Alaska | 18:35 |
+| 🟢 0.8 | 10 km ENE of Palomar Observatory, CA | 20:11 |
+| 🟢 1.2 | 2 km SE of Home Gardens, CA | 20:00 |
+| 🟢 1.6 | 8 km SSW of Mojave, CA | 19:59 |
+| 🟢 1.1 | 5 km SE of Loma Linda, CA | 19:58 |
+| 🟢 1.4 | 9 km S of Bakersfield, CA | 19:37 |
+| 🔴 5.4 | 95 km SSW of Honchō, Japan | 19:34 |
+| 🟢 1.0 | 8 km NW of The Geysers, CA | 19:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
 - ⛈️ **Severe Storms**: [Tropical Storm Nokaen](https://www.metoc.navy.mil/jtwc/products/wp0126.tcw) (Jan 16)
-- 🔥 **Wildfires**: [RX Bill Bolen 2 Prescribed Fire, Pontotoc, Oklahoma](https://irwin.doi.gov/observer/incidents/d901a0af-b701-4729-9685-01f22e575e26) (Jan 12)
-- ⛈️ **Severe Storms**: [Tropical Cyclone Dudzai](https://www.metoc.navy.mil/jtwc/products/sh1426.tcw) (Jan 16)
-- 🔥 **Wildfires**: [MIR 9.2 ABC Rx 0111 Prescribed Fire, Brevard, Florida](https://irwin.doi.gov/observer/incidents/9c27c423-ab52-4541-a712-585af3751aa3) (Jan 11)
-- 🔥 **Wildfires**: [APQ Rec Area 12 Rx 0110 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/85e2d32a-e890-4570-8122-0a2794048d80) (Jan 10)
-- 🔥 **Wildfires**: [MIDNIGHT Wildfire, Carter, Oklahoma](https://irwin.doi.gov/observer/incidents/9eca397d-ca0b-4f54-9e32-f2bf313e75f8) (Jan 09)
-- 🔥 **Wildfires**: [APQ South Range Rx 0109 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/126e90a1-0cdc-4d71-96a2-c005a563e888) (Jan 09)
-- 🔥 **Wildfires**: [MIR 5.1 ABC Rx 0109 Prescribed Fire, Brevard, Florida](https://irwin.doi.gov/observer/incidents/bcdc917e-c3da-4864-894a-6e3ab295c1f8) (Jan 09)
-- 🔥 **Wildfires**: [APQ Rec Area 10 Rx 0108 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/4393a164-d6f5-4c5b-842b-986916058383) (Jan 08)
-- 🌋 **Volcanoes**: [Ambrym Volcano, Vanuatu](https://volcano.si.edu/volcano.cfm?vn=257040) (Jan 08)
+- 🔥 **Wildfires**: [Calf Fire Wildfire, Pittsburg, Oklahoma](https://irwin.doi.gov/observer/incidents/712dad26-404a-4037-851b-353cd0f60793) (Jan 16)
+- 🔥 **Wildfires**: [Keown Falls RX Prescribed Fire, Walker, Georgia](https://irwin.doi.gov/observer/incidents/48528ec4-5fd9-4531-9af3-a76be2678b05) (Jan 15)
+- 🔥 **Wildfires**: [RX CAT BU 46 Prescribed Fire, Grant, Louisiana](https://irwin.doi.gov/observer/incidents/aca26324-905f-4350-b154-beae10513bae) (Jan 15)
+- 🔥 **Wildfires**: [SHELL CREEK Wildfire, McIntosh, Oklahoma](https://irwin.doi.gov/observer/incidents/c2518abd-f299-4e1a-bdf3-73ec027c2bbd) (Jan 15)
+- 🔥 **Wildfires**: [RX CALV BU 234-235-236 Prescribed Fire, Vernon, Louisiana](https://irwin.doi.gov/observer/incidents/c0c1e923-0aae-4387-b5ba-f70ebc49c7fa) (Jan 15)
+- 🔥 **Wildfires**: [RX Milam Prescribed Fire, Milam, Texas](https://irwin.doi.gov/observer/incidents/51acbfd6-4558-4cdf-b19b-ee25134bd873) (Jan 15)
+- 🔥 **Wildfires**: [RX KIS BU 61-62 Prescribed Fire, Natchitoches, Louisiana](https://irwin.doi.gov/observer/incidents/67d9b1a0-28f7-483a-824f-e471568eed01) (Jan 15)
+- 🔥 **Wildfires**: [RX Kleberg Prescribed Fire, Kleberg, Texas](https://irwin.doi.gov/observer/incidents/72f889ec-3746-4919-97cf-5cd9a048721a) (Jan 14)
+- 🔥 **Wildfires**: [RX Gib Road Prescribed Fire, Baxter, Arkansas](https://irwin.doi.gov/observer/incidents/2296508c-887e-4ba4-93bc-73d080362a57) (Jan 13)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
