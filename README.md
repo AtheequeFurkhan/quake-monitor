@@ -2,19 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2013:37:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-379ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2014:23:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-224ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 17 km ESE of Naalehu, Hawaii | 13:10 |
-| 🟢 1.5 | 18 km W of Winters, CA | 12:53 |
-| 🟢 1.6 | 65 km NNE of Van Horn, Texas | 12:50 |
-| 🟢 1.2 | 25 km ENE of San Ardo, CA | 12:46 |
+| 🟢 1.5 | 36 km NNW of Mentone, Texas | 14:16 |
+| 🟢 -0.1 | 15 km N of Warner Springs, CA | 14:13 |
+| 🟢 1.4 | 12 km ESE of Willits, CA | 14:02 |
+| 🟢 0.6 | 38 km NNE of Amboy, Washington | 13:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
+- ⛈️ **Severe Storms**: [Tropical Storm Nokaen](https://www.metoc.navy.mil/jtwc/products/wp0126.tcw) (Jan 16)
 - 🔥 **Wildfires**: [RX Bill Bolen 2 Prescribed Fire, Pontotoc, Oklahoma](https://irwin.doi.gov/observer/incidents/d901a0af-b701-4729-9685-01f22e575e26) (Jan 12)
 - ⛈️ **Severe Storms**: [Tropical Cyclone Dudzai](https://www.metoc.navy.mil/jtwc/products/sh1426.tcw) (Jan 16)
 - 🔥 **Wildfires**: [MIR 9.2 ABC Rx 0111 Prescribed Fire, Brevard, Florida](https://irwin.doi.gov/observer/incidents/9c27c423-ab52-4541-a712-585af3751aa3) (Jan 11)
@@ -24,7 +25,6 @@
 - 🔥 **Wildfires**: [MIR 5.1 ABC Rx 0109 Prescribed Fire, Brevard, Florida](https://irwin.doi.gov/observer/incidents/bcdc917e-c3da-4864-894a-6e3ab295c1f8) (Jan 09)
 - 🔥 **Wildfires**: [APQ Rec Area 10 Rx 0108 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/4393a164-d6f5-4c5b-842b-986916058383) (Jan 08)
 - 🌋 **Volcanoes**: [Ambrym Volcano, Vanuatu](https://volcano.si.edu/volcano.cfm?vn=257040) (Jan 08)
-- 🌋 **Volcanoes**: [Mayon Volcano, Philippines](https://volcano.si.edu/volcano.cfm?vn=273030) (Jan 07)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
