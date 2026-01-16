@@ -2,15 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2022:21:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-283ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2023:20:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-389ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.8 | 11 km NNW of Avenal, CA | 22:07 |
-| 🟢 1.5 | 1 km WNW of Spring Valley, Nevada | 22:01 |
-| 🟢 2.5 | 23 km W of Cohoe, Alaska | 21:44 |
-| 🟢 2.2 | 8 km NNW of Karluk, Alaska | 21:39 |
+| 🟢 2.1 | 20 km S of Leilani Estates, Hawaii | 23:13 |
+| 🟢 1.9 | 16 km WSW of Johannesburg, CA | 23:07 |
+| 🟢 0.5 | 6 km SW of Warner Springs, CA | 22:45 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 22:41 |
+| 🟢 1.5 | 7 km NW of The Geysers, CA | 22:31 |
+| 🟢 1.0 | 9 km WNW of The Geysers, CA | 22:28 |
+| 🟢 1.7 | 25 km SSW of Willow Creek, CA | 22:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
