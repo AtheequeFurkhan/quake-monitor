@@ -2,31 +2,32 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2005:25:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-193ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2006:34:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-408ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 25 km E of King Salmon, Alaska | 05:14 |
-| 🟢 2.0 | 32 km NW of Toyah, Texas | 05:11 |
-| 🟢 0.8 | 5 km NW of The Geysers, CA | 04:50 |
-| 🟠 4.3 | 49 km W of San Antonio de los Cobres, Argentina | 04:49 |
-| 🟢 1.3 | 2 km NW of The Geysers, CA | 04:47 |
-| 🟢 1.5 | 10 km WSW of Stanton, Texas | 04:28 |
+| 🟢 0.9 | 10 km NW of The Geysers, CA | 06:28 |
+| 🟢 1.1 | 8 km NE of Grapevine, CA | 06:20 |
+| 🟢 1.3 | 15 km W of Forsan, Texas | 06:13 |
+| 🟢 0.7 | 9 km NE of Julian, CA | 06:12 |
+| 🟢 1.6 | 14 km NNE of Willow, Alaska | 06:12 |
+| 🔴 5.2 | 12 km N of Cuyamel, Honduras | 06:08 |
+| 🟢 0.4 | 8 km NW of The Geysers, CA | 05:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
 - 🔥 **Wildfires**: [RX Bill Bolen 2 Prescribed Fire, Pontotoc, Oklahoma](https://irwin.doi.gov/observer/incidents/d901a0af-b701-4729-9685-01f22e575e26) (Jan 12)
-- ⛈️ **Severe Storms**: [Tropical Cyclone Dudzai](https://www.metoc.navy.mil/jtwc/products/sh1426.tcw) (Jan 15)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Dudzai](https://www.metoc.navy.mil/jtwc/products/sh1426.tcw) (Jan 16)
 - 🔥 **Wildfires**: [MIR 9.2 ABC Rx 0111 Prescribed Fire, Brevard, Florida](https://irwin.doi.gov/observer/incidents/9c27c423-ab52-4541-a712-585af3751aa3) (Jan 11)
 - 🔥 **Wildfires**: [APQ Rec Area 12 Rx 0110 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/85e2d32a-e890-4570-8122-0a2794048d80) (Jan 10)
-- ⛈️ **Severe Storms**: [Tropical Cyclone Koji](https://www.metoc.navy.mil/jtwc/products/sh1425.tcw) (Jan 11)
 - 🔥 **Wildfires**: [MIDNIGHT Wildfire, Carter, Oklahoma](https://irwin.doi.gov/observer/incidents/9eca397d-ca0b-4f54-9e32-f2bf313e75f8) (Jan 09)
 - 🔥 **Wildfires**: [APQ South Range Rx 0109 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/126e90a1-0cdc-4d71-96a2-c005a563e888) (Jan 09)
 - 🔥 **Wildfires**: [MIR 5.1 ABC Rx 0109 Prescribed Fire, Brevard, Florida](https://irwin.doi.gov/observer/incidents/bcdc917e-c3da-4864-894a-6e3ab295c1f8) (Jan 09)
 - 🔥 **Wildfires**: [APQ Rec Area 10 Rx 0108 Prescribed Fire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/4393a164-d6f5-4c5b-842b-986916058383) (Jan 08)
 - 🌋 **Volcanoes**: [Ambrym Volcano, Vanuatu](https://volcano.si.edu/volcano.cfm?vn=257040) (Jan 08)
+- 🌋 **Volcanoes**: [Mayon Volcano, Philippines](https://volcano.si.edu/volcano.cfm?vn=273030) (Jan 07)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
