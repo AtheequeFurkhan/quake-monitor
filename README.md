@@ -2,23 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2017:24:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-506ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2018:32:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-232ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 13 km W of Stanton, Texas | 17:19 |
-| 🟢 2.0 | 50 km SSW of South Van Horn, Alaska | 17:12 |
-| 🟢 1.7 | 42 km NW of Toyah, Texas | 17:09 |
-| 🟢 1.8 | 11 km ESE of Willits, CA | 17:01 |
-| 🟢 1.7 | 21 km ESE of Naalehu, Hawaii | 16:55 |
-| 🟢 0.4 | 10 km SW of Idyllwild, CA | 16:51 |
-| 🟢 1.8 | 4 km NNW of Glen Avon, CA | 16:46 |
-| 🔴 5.5 | western Indian-Antarctic Ridge | 16:41 |
-| 🟢 1.7 | 4 km NNW of Glen Avon, CA | 16:39 |
-| 🟢 0.9 | 4 km NNW of Glen Avon, CA | 16:37 |
-| 🟢 1.4 | 4 km NNW of Glen Avon, CA | 16:33 |
-| 🟢 1.4 | 12 km ENE of Desert Hot Springs, CA | 16:30 |
+| 🟢 1.8 | 59 km S of Whites City, New Mexico | 17:57 |
+| 🟠 3.2 | 6 km WNW of Pāhala, Hawaii | 17:55 |
+| 🟢 0.9 | 9 km WNW of The Geysers, CA | 17:53 |
+| 🔴 5.2 | western Indian-Antarctic Ridge | 17:52 |
+| 🟢 2.5 | 6 km S of Pāhala, Hawaii | 17:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
