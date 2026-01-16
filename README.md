@@ -2,18 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2020:21:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-501ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2021:21:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-481ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 10 km ENE of Palomar Observatory, CA | 20:11 |
-| 🟢 1.2 | 2 km SE of Home Gardens, CA | 20:00 |
-| 🟢 1.6 | 8 km SSW of Mojave, CA | 19:59 |
-| 🟢 1.1 | 5 km SE of Loma Linda, CA | 19:58 |
-| 🟢 1.4 | 9 km S of Bakersfield, CA | 19:37 |
-| 🔴 5.4 | 95 km SSW of Honchō, Japan | 19:34 |
-| 🟢 1.0 | 8 km NW of The Geysers, CA | 19:27 |
+| 🟢 1.0 | 10 km SSE of Hemet, CA | 21:12 |
+| 🟢 2.6 | 11 km NNW of Avenal, CA | 21:12 |
+| 🟢 1.8 | 7 km SW of Volcano, Hawaii | 21:08 |
+| 🟢 1.1 | 2 km NNW of The Geysers, CA | 20:57 |
+| 🟢 1.9 | 1 km NNE of Guayanilla, Puerto Rico | 20:50 |
+| 🟢 1.9 | 5 km SSW of Pāhala, Hawaii | 20:48 |
+| 🟢 1.8 | 16 km SSE of Gonzales, Texas | 20:45 |
+| 🟢 0.7 | 4 km W of Cobb, CA | 20:42 |
+| 🟢 1.3 | 10 km WNW of The Geysers, CA | 20:30 |
+| 🟢 1.1 | 10 km WNW of The Geysers, CA | 20:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
