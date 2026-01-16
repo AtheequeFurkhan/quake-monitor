@@ -2,16 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2018:32:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-232ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2019:19:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-246ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 59 km S of Whites City, New Mexico | 17:57 |
-| 🟠 3.2 | 6 km WNW of Pāhala, Hawaii | 17:55 |
-| 🟢 0.9 | 9 km WNW of The Geysers, CA | 17:53 |
-| 🔴 5.2 | western Indian-Antarctic Ridge | 17:52 |
-| 🟢 2.5 | 6 km S of Pāhala, Hawaii | 17:44 |
+| 🟢 1.4 | 8 km WSW of Holtville, CA | 19:06 |
+| 🟢 1.5 | 42 km NW of Toyah, Texas | 19:03 |
+| 🟢 0.7 | 4 km W of Cobb, CA | 18:57 |
+| 🟢 2.0 | 5 km WSW of Holtville, CA | 18:55 |
+| 🟢 1.9 | 13 km NNE of Tres Pinos, CA | 18:47 |
+| 🟢 0.9 | 10 km E of Murrieta Hot Springs, CA | 18:36 |
+| 🟢 1.4 | 12 km W of Stanton, Texas | 18:36 |
+| 🟠 3.8 | 43 km WNW of Elfin Cove, Alaska | 18:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
