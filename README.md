@@ -2,20 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2007:24:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-385ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2008:30:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-110ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 10 km WNW of The Geysers, CA | 07:20 |
-| 🟢 1.9 | 6 km SSW of Volcano, Hawaii | 07:17 |
-| 🟢 1.3 | 4 km N of Pacifica, CA | 07:11 |
-| 🟢 1.0 | 7 km WNW of Cobb, CA | 07:06 |
-| 🟢 1.0 | 8 km NW of The Geysers, CA | 07:05 |
-| 🟠 4.9 | 1 km SE of Jordán, Colombia | 07:05 |
-| 🟢 1.9 | 9 km SSW of Borrego Springs, CA | 06:43 |
-| 🟠 4.9 | 7 km ESE of Barrio Nuevo de los Muertos, Mexico | 06:42 |
-| 🟢 0.9 | 10 km NW of The Geysers, CA | 06:28 |
+| 🟢 0.8 | 4 km NNW of The Geysers, CA | 08:25 |
+| 🟢 2.6 | 76 km SE of Kokhanok, Alaska | 08:18 |
+| 🟢 1.5 | 31 km NW of Toyah, Texas | 07:56 |
+| 🟢 1.6 | 32 km N of Searles Valley, CA | 07:55 |
+| 🟢 2.3 | 3 km SSW of Pāhala, Hawaii | 07:40 |
+| 🟢 1.4 | 53 km NNW of Petersville, Alaska | 07:36 |
+| 🟠 4.6 | 17 km E of Sama Grande, Peru | 07:34 |
+| 🟢 1.6 | 64 km SSE of King Salmon, Alaska | 07:34 |
+| 🟢 2.0 | 22 km SSE of Redway, CA | 07:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
