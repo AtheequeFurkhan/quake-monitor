@@ -2,18 +2,26 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2001:45:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-190ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2003:39:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-416ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 22 km ESE of Naalehu, Hawaii | 01:37 |
-| 🟢 1.8 | 34 km SE of Malaga, New Mexico | 01:21 |
-| 🟢 1.5 | 9 km ENE of Heber, CA | 01:17 |
-| 🟢 1.7 | 5 km SE of Pearsall, Texas | 01:16 |
-| 🟢 2.0 | 62 km WNW of Aleneva, Alaska | 01:11 |
-| 🟢 2.2 | 11 km E of Skwentna, Alaska | 01:08 |
-| 🟢 1.8 | 4 km WNW of Frazier Park, CA | 00:47 |
+| 🟢 0.7 | 3 km NW of The Geysers, CA | 03:33 |
+| 🟢 1.5 | 31 km NW of Toyah, Texas | 03:31 |
+| 🟠 3.4 | 7 km WSW of Morongo Valley, CA | 03:28 |
+| 🟢 1.8 | 6 km SW of Volcano, Hawaii | 03:27 |
+| 🔴 6.0 | off the coast of Oregon | 03:25 |
+| 🟢 1.7 | 57 km E of Egegik, Alaska | 03:25 |
+| 🟢 1.8 | 31 km NW of Toyah, Texas | 03:23 |
+| 🟢 1.3 | 5 km WNW of Orinda, CA | 03:19 |
+| 🟢 2.1 | 57 km WNW of Anchor Point, Alaska | 03:11 |
+| 🟢 1.8 | 19 km ESE of Naalehu, Hawaii | 03:05 |
+| 🟢 1.3 | 2 km NW of The Geysers, CA | 03:05 |
+| 🟢 1.2 | 26 km WSW of Westmorland, CA | 02:53 |
+| 🟢 1.9 | 6 km SW of Volcano, Hawaii | 02:46 |
+| 🟢 2.6 | 11 km WSW of Stanton, Texas | 02:44 |
+| 🟢 1.1 | 7 km NW of The Geysers, CA | 02:40 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
