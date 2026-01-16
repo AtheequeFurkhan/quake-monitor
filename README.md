@@ -2,21 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2004:39:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-467ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2005:25:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-193ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.6 | 25 km E of King Salmon, Alaska | 05:14 |
+| 🟢 2.0 | 32 km NW of Toyah, Texas | 05:11 |
+| 🟢 0.8 | 5 km NW of The Geysers, CA | 04:50 |
+| 🟠 4.3 | 49 km W of San Antonio de los Cobres, Argentina | 04:49 |
+| 🟢 1.3 | 2 km NW of The Geysers, CA | 04:47 |
 | 🟢 1.5 | 10 km WSW of Stanton, Texas | 04:28 |
-| 🟢 0.8 | 3 km WSW of Cobb, CA | 04:24 |
-| 🟢 2.2 | 18 km SW of Barstow, CA | 04:18 |
-| 🟢 1.7 | 31 km NW of Toyah, Texas | 04:00 |
-| 🟢 1.3 | 22 km ESE of Forsan, Texas | 03:59 |
-| 🟢 2.0 | 21 km E of Naalehu, Hawaii | 03:48 |
-| 🟢 1.3 | 38 km WSW of Ackerly, Texas | 03:46 |
-| 🟢 2.5 | 34 km SSE of Hope, New Mexico | 03:45 |
-| 🟢 1.6 | 31 km NW of Toyah, Texas | 03:44 |
-| 🟢 2.2 | 58 km E of Egegik, Alaska | 03:41 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
