@@ -2,21 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2021:21:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-481ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2016%20Jan%202026%2022:21:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-283ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 10 km SSE of Hemet, CA | 21:12 |
-| 🟢 2.6 | 11 km NNW of Avenal, CA | 21:12 |
-| 🟢 1.8 | 7 km SW of Volcano, Hawaii | 21:08 |
-| 🟢 1.1 | 2 km NNW of The Geysers, CA | 20:57 |
-| 🟢 1.9 | 1 km NNE of Guayanilla, Puerto Rico | 20:50 |
-| 🟢 1.9 | 5 km SSW of Pāhala, Hawaii | 20:48 |
-| 🟢 1.8 | 16 km SSE of Gonzales, Texas | 20:45 |
-| 🟢 0.7 | 4 km W of Cobb, CA | 20:42 |
-| 🟢 1.3 | 10 km WNW of The Geysers, CA | 20:30 |
-| 🟢 1.1 | 10 km WNW of The Geysers, CA | 20:30 |
+| 🟢 2.8 | 11 km NNW of Avenal, CA | 22:07 |
+| 🟢 1.5 | 1 km WNW of Spring Valley, Nevada | 22:01 |
+| 🟢 2.5 | 23 km W of Cohoe, Alaska | 21:44 |
+| 🟢 2.2 | 8 km NNW of Karluk, Alaska | 21:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
