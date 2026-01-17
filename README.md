@@ -2,14 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2021:18:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-380ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2022:19:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-408ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 7 km NW of The Geysers, CA | 20:58 |
-| 🟢 1.3 | 43 km NW of Toyah, Texas | 20:52 |
-| 🟠 4.3 | 57 km WSW of Langsa, Indonesia | 20:23 |
+| 🟢 0.6 | 14 km WNW of Anza, CA | 22:15 |
+| 🟢 2.6 | 54 km WNW of Sitka, Alaska | 22:09 |
+| 🟢 2.3 | 57 km WNW of Sitka, Alaska | 22:07 |
+| 🟢 0.4 | 5 km WSW of Anza, CA | 22:01 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 21:56 |
+| 🟢 1.3 | 5 km S of Loyola, CA | 21:54 |
+| 🟢 1.2 | 13 km SSE of Bodfish, CA | 21:51 |
+| 🟢 1.8 | 31 km SSE of Mina, Nevada | 21:47 |
+| 🟢 1.6 | 59 km S of Whites City, New Mexico | 21:46 |
+| 🟠 4.0 | 58 km WNW of Sitka, Alaska | 21:45 |
+| 🟢 2.0 | 95 km W of Skwentna, Alaska | 21:45 |
+| 🟢 0.8 | 4 km NNW of The Geysers, CA | 21:37 |
+| 🟢 1.7 | 15 km ENE of Brooktrails, CA | 21:20 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
