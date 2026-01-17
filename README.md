@@ -2,24 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2014:18:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-300ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2015:19:47%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-350ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.4 | 15 km S of Tres Pinos, CA | 14:12 |
-| 🟠 3.8 | 27 km WNW of Tatitlek, Alaska | 14:06 |
-| 🟢 1.7 | 31 km NW of Toyah, Texas | 14:02 |
-| 🟢 0.7 | 10 km WNW of The Geysers, CA | 14:02 |
-| 🟠 3.3 | 15 km S of Tres Pinos, CA | 13:53 |
-| 🟢 2.9 | 9 km W of Loyal, Oklahoma | 13:51 |
-| 🟢 0.7 | 7 km W of Cobb, CA | 13:50 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 13:44 |
-| 🟢 1.6 | 31 km NW of Toyah, Texas | 13:42 |
-| 🟢 1.7 | 51 km WNW of Nanwalek, Alaska | 13:29 |
-| 🟢 0.9 | 3 km S of Cobb, CA | 13:25 |
-| 🟢 1.3 | 3 km S of Cobb, CA | 13:25 |
-| 🟢 1.7 | 39 km NNE of Chenega, Alaska | 13:21 |
+| 🟢 1.2 | 63 km NW of Tatitlek, Alaska | 15:09 |
+| 🟢 1.8 | 6 km SW of Volcano, Hawaii | 15:07 |
+| 🟢 1.9 | 16 km S of Tres Pinos, CA | 15:04 |
+| 🟢 2.3 | 45 km WSW of Nanwalek, Alaska | 14:53 |
+| 🟢 0.9 | 18 km SSW of Maricopa, CA | 14:51 |
+| 🟢 0.5 | 18 km N of Borrego Springs, CA | 14:45 |
+| 🟢 0.9 | 6 km W of Cobb, CA | 14:40 |
+| 🟢 2.4 | 91 km NNW of Yakutat, Alaska | 14:31 |
+| 🟢 0.3 | 7 km WNW of Cobb, CA | 14:29 |
+| 🟢 1.5 | 32 km NW of Toyah, Texas | 14:20 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
