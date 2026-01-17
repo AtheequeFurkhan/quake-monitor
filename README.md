@@ -2,22 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2006:30:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-150ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2007:19:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-379ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 8 km NW of The Geysers, CA | 06:15 |
-| 🟢 1.3 | 16 km ESE of Ocotillo, CA | 06:09 |
-| 🟢 1.9 | 34 km W of Nikiski, Alaska | 06:02 |
-| 🟢 1.3 | 16 km SW of Willits, CA | 05:57 |
-| 🟢 1.7 | 10 km NNW of Kermit, Texas | 05:52 |
-| 🟢 2.0 | 31 km NW of Toyah, Texas | 05:51 |
-| 🟢 2.7 | 1 km SE of Point MacKenzie, Alaska | 05:47 |
-| 🟢 0.8 | 19 km ESE of Anza, CA | 05:45 |
-| 🟢 1.9 | 26 km SSE of Pope-Vannoy Landing, Alaska | 05:41 |
-| 🟢 1.7 | 32 km NW of Toyah, Texas | 05:38 |
-| 🟢 1.1 | 7 km NW of The Geysers, CA | 05:31 |
+| 🟢 2.0 | 31 km NW of Toyah, Texas | 07:15 |
+| 🟢 0.7 | 6 km NW of The Geysers, CA | 07:05 |
+| 🟢 2.3 | 50 km SSW of Alcan Border, Alaska | 07:02 |
+| 🟢 2.1 | 14 km N of Susanville, CA | 06:58 |
+| 🟢 1.8 | 27 km NNW of Pāhala, Hawaii | 06:54 |
+| 🔴 5.3 | 169 km ESE of Petropavlovsk-Kamchatsky, Russia | 06:46 |
+| 🟢 1.5 | 35 km WSW of Ackerly, Texas | 06:46 |
+| 🟢 1.1 | 6 km NNW of The Geysers, CA | 06:44 |
+| 🟢 2.4 | 31 km NW of Toyah, Texas | 06:42 |
+| 🟢 1.1 | 9 km NE of Coso Junction, CA | 06:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
