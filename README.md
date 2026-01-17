@@ -2,21 +2,14 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2015:19:47%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-350ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2016:23:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-499ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 63 km NW of Tatitlek, Alaska | 15:09 |
-| 🟢 1.8 | 6 km SW of Volcano, Hawaii | 15:07 |
-| 🟢 1.9 | 16 km S of Tres Pinos, CA | 15:04 |
-| 🟢 2.3 | 45 km WSW of Nanwalek, Alaska | 14:53 |
-| 🟢 0.9 | 18 km SSW of Maricopa, CA | 14:51 |
-| 🟢 0.5 | 18 km N of Borrego Springs, CA | 14:45 |
-| 🟢 0.9 | 6 km W of Cobb, CA | 14:40 |
-| 🟢 2.4 | 91 km NNW of Yakutat, Alaska | 14:31 |
-| 🟢 0.3 | 7 km WNW of Cobb, CA | 14:29 |
-| 🟢 1.5 | 32 km NW of Toyah, Texas | 14:20 |
+| 🟢 0.3 | 15 km N of Warner Springs, CA | 16:17 |
+| 🟢 1.1 | 8 km NW of The Geysers, CA | 16:16 |
+| 🟢 1.7 | 99 km E of McCarthy, Alaska | 16:04 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
