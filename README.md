@@ -2,19 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2009:20:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-557ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2010:20:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-300ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 22 km S of Funny River, Alaska | 09:16 |
-| 🟢 0.7 | 9 km S of Cabazon, CA | 09:06 |
-| 🟢 1.3 | 2 km N of The Geysers, CA | 09:01 |
-| 🟢 1.2 | 4 km NNE of Moreno Valley, CA | 08:45 |
-| 🟢 0.7 | 9 km NE of Coso Junction, CA | 08:39 |
-| 🟢 0.7 | 17 km ESE of Anza, CA | 08:32 |
-| 🟢 0.8 | 10 km WNW of The Geysers, CA | 08:31 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 08:24 |
+| 🟢 0.9 | 4 km W of Cobb, CA | 10:13 |
+| 🟢 1.2 | 20 km WNW of Winters, CA | 10:10 |
+| 🟢 1.6 | 40 km NW of Valdez, Alaska | 10:08 |
+| 🟢 0.7 | 7 km NW of The Geysers, CA | 10:06 |
+| 🟠 3.6 | 59 km ESE of Denali Park, Alaska | 09:59 |
+| 🟢 0.7 | 2 km NW of The Geysers, CA | 09:48 |
+| 🟢 1.0 | 84 km NNW of Karluk, Alaska | 09:40 |
+| 🟢 1.7 | 61 km S of Whites City, New Mexico | 09:35 |
+| 🟢 2.8 | 11 km NNW of Avenal, CA | 09:34 |
+| 🟢 0.9 | 8 km WNW of Cobb, CA | 09:31 |
+| 🟢 1.3 | 3 km NW of The Geysers, CA | 09:29 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
