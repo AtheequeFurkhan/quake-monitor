@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2004:32:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-503ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2005:20:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-363ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.9 | 12 km NNE of Cabazon, CA | 05:11 |
+| 🟢 0.9 | 16 km ESE of Anza, CA | 05:05 |
+| 🟢 1.9 | 45 km ENE of Whittier, Alaska | 05:03 |
+| 🟢 1.1 | 7 km SW of The Geysers, CA | 04:32 |
 | 🟢 1.1 | 2 km S of Highland Park, CA | 04:25 |
 | 🟢 1.8 | 42 km SE of Denali National Park, Alaska | 04:24 |
-| 🟢 1.4 | 5 km NW of The Geysers, CA | 04:16 |
-| 🟢 1.7 | 7 km WSW of Holtville, CA | 04:10 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 04:05 |
-| 🟢 1.0 | 9 km WNW of The Geysers, CA | 04:00 |
-| 🟢 2.7 | 11 km NNW of Avenal, CA | 03:40 |
-| 🟢 2.5 | 12 km SSE of Maria Antonia, Puerto Rico | 03:36 |
-| 🔴 5.2 | Kermadec Islands, New Zealand | 03:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
