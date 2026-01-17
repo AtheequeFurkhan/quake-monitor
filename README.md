@@ -2,22 +2,27 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2005:20:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-363ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2006:30:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-150ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 12 km NNE of Cabazon, CA | 05:11 |
-| 🟢 0.9 | 16 km ESE of Anza, CA | 05:05 |
-| 🟢 1.9 | 45 km ENE of Whittier, Alaska | 05:03 |
-| 🟢 1.1 | 7 km SW of The Geysers, CA | 04:32 |
-| 🟢 1.1 | 2 km S of Highland Park, CA | 04:25 |
-| 🟢 1.8 | 42 km SE of Denali National Park, Alaska | 04:24 |
+| 🟢 1.0 | 8 km NW of The Geysers, CA | 06:15 |
+| 🟢 1.3 | 16 km ESE of Ocotillo, CA | 06:09 |
+| 🟢 1.9 | 34 km W of Nikiski, Alaska | 06:02 |
+| 🟢 1.3 | 16 km SW of Willits, CA | 05:57 |
+| 🟢 1.7 | 10 km NNW of Kermit, Texas | 05:52 |
+| 🟢 2.0 | 31 km NW of Toyah, Texas | 05:51 |
+| 🟢 2.7 | 1 km SE of Point MacKenzie, Alaska | 05:47 |
+| 🟢 0.8 | 19 km ESE of Anza, CA | 05:45 |
+| 🟢 1.9 | 26 km SSE of Pope-Vannoy Landing, Alaska | 05:41 |
+| 🟢 1.7 | 32 km NW of Toyah, Texas | 05:38 |
+| 🟢 1.1 | 7 km NW of The Geysers, CA | 05:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
-- ⛈️ **Severe Storms**: [Tropical Storm Nokaen](https://www.metoc.navy.mil/jtwc/products/wp0126.tcw) (Jan 16)
+- ⛈️ **Severe Storms**: [Tropical Storm Nokaen](https://www.metoc.navy.mil/jtwc/products/wp0126.tcw) (Jan 17)
 - 🔥 **Wildfires**: [Calf Fire Wildfire, Pittsburg, Oklahoma](https://irwin.doi.gov/observer/incidents/712dad26-404a-4037-851b-353cd0f60793) (Jan 16)
 - 🔥 **Wildfires**: [Keown Falls RX Prescribed Fire, Walker, Georgia](https://irwin.doi.gov/observer/incidents/48528ec4-5fd9-4531-9af3-a76be2678b05) (Jan 15)
 - 🔥 **Wildfires**: [RX CAT BU 46 Prescribed Fire, Grant, Louisiana](https://irwin.doi.gov/observer/incidents/aca26324-905f-4350-b154-beae10513bae) (Jan 15)
