@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2017:17:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-407ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2018:28:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-185ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 15 km S of Tres Pinos, CA | 17:11 |
-| 🟢 2.0 | 14 km SSE of Susitna North, Alaska | 17:10 |
-| 🟢 1.6 | 18 km SSE of Lindsay, Texas | 16:48 |
-| 🟢 1.3 | 61 km N of Chickaloon, Alaska | 16:35 |
-| 🟢 1.1 | 65 km S of Glacier View, Alaska | 16:29 |
-| 🟢 1.9 | 31 km NW of Toyah, Texas | 16:26 |
-| 🟢 1.8 | 47 km SSE of Nelchina, Alaska | 16:21 |
+| 🟠 3.5 | 13 km WNW of Beluga, Alaska | 18:26 |
+| 🟢 2.2 | 6 km SW of Volcano, Hawaii | 18:22 |
+| 🟢 2.2 | 7 km SW of Volcano, Hawaii | 18:22 |
+| 🟢 1.8 | 16 km S of Volcano, Hawaii | 18:01 |
+| 🔴 5.4 | South Sandwich Islands region | 18:00 |
+| 🟢 1.2 | 31 km NNE of Whittier, Alaska | 17:50 |
+| 🟢 2.4 | 18 km NW of Girdwood, Alaska | 17:46 |
+| 🟢 1.7 | 10 km NW of The Geysers, CA | 17:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
