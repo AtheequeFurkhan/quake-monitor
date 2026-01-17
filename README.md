@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2018:28:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-185ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2019:15:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-267ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.1 | 5 km NNW of The Geysers, CA | 19:10 |
+| 🟢 1.0 | 11 km ESE of Alpine, CA | 18:46 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 18:34 |
+| 🟢 2.1 | 5 km ENE of La Parguera, Puerto Rico | 18:31 |
 | 🟠 3.5 | 13 km WNW of Beluga, Alaska | 18:26 |
 | 🟢 2.2 | 6 km SW of Volcano, Hawaii | 18:22 |
 | 🟢 2.2 | 7 km SW of Volcano, Hawaii | 18:22 |
-| 🟢 1.8 | 16 km S of Volcano, Hawaii | 18:01 |
-| 🔴 5.4 | South Sandwich Islands region | 18:00 |
-| 🟢 1.2 | 31 km NNE of Whittier, Alaska | 17:50 |
-| 🟢 2.4 | 18 km NW of Girdwood, Alaska | 17:46 |
-| 🟢 1.7 | 10 km NW of The Geysers, CA | 17:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
