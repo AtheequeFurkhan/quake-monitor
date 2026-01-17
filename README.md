@@ -2,19 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2003:22:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-191ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2004:32:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-503ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 7 km WSW of Holtville, CA | 03:05 |
-| 🟢 2.4 | 3 km SE of Point MacKenzie, Alaska | 02:50 |
-| 🟢 1.9 | 14 km SE of Pāhala, Hawaii | 02:43 |
-| 🟢 1.1 | 10 km W of Aguanga, CA | 02:43 |
-| 🟢 1.9 | 2 km SSW of Indios, Puerto Rico | 02:40 |
-| 🟢 1.9 | 19 km SSW of Leilani Estates, Hawaii | 02:36 |
-| 🟢 2.2 | 49 km W of Anchor Point, Alaska | 02:36 |
-| 🟢 1.8 | 6 km SW of Volcano, Hawaii | 02:33 |
+| 🟢 1.1 | 2 km S of Highland Park, CA | 04:25 |
+| 🟢 1.8 | 42 km SE of Denali National Park, Alaska | 04:24 |
+| 🟢 1.4 | 5 km NW of The Geysers, CA | 04:16 |
+| 🟢 1.7 | 7 km WSW of Holtville, CA | 04:10 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 04:05 |
+| 🟢 1.0 | 9 km WNW of The Geysers, CA | 04:00 |
+| 🟢 2.7 | 11 km NNW of Avenal, CA | 03:40 |
+| 🟢 2.5 | 12 km SSE of Maria Antonia, Puerto Rico | 03:36 |
+| 🔴 5.2 | Kermadec Islands, New Zealand | 03:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
