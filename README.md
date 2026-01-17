@@ -2,20 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2011:17:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-195ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2012:39:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-205ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 62 km ESE of Denali Park, Alaska | 11:10 |
-| 🟢 1.6 | 16 km WSW of Johannesburg, CA | 11:07 |
-| 🟢 1.1 | 6 km NW of The Geysers, CA | 10:52 |
-| 🟢 1.5 | 58 km NW of Toyah, Texas | 10:40 |
-| 🟢 1.8 | 8 km WNW of Cobb, CA | 10:38 |
-| 🟢 1.6 | 25 km W of Valdez, Alaska | 10:32 |
-| 🟢 1.7 | 23 km W of Skwentna, Alaska | 10:30 |
-| 🟢 1.4 | 1 km WNW of The Geysers, CA | 10:25 |
-| 🟢 2.1 | 25 km NNW of Larsen Bay, Alaska | 10:22 |
+| 🟢 1.8 | 126 km SSE of McCarthy, Alaska | 12:35 |
+| 🟢 2.1 | 58 km SSE of King Salmon, Alaska | 12:31 |
+| 🟢 1.5 | 8 km E of Yorba Linda, CA | 12:15 |
+| 🟢 1.7 | 10 km E of Toyah, Texas | 12:14 |
+| 🟢 1.7 | 10 km E of Toyah, Texas | 12:14 |
+| 🟢 0.9 | 16 km WSW of Johannesburg, CA | 12:10 |
+| 🟢 1.8 | 31 km NNE of Skwentna, Alaska | 12:09 |
+| 🟢 0.8 | 6 km SSW of Redlands, CA | 11:52 |
+| 🟢 1.8 | 31 km NW of Toyah, Texas | 11:46 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
