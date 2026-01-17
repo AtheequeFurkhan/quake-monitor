@@ -2,24 +2,33 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2022:19:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-408ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2023:19:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-616ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.6 | 14 km WNW of Anza, CA | 22:15 |
-| 🟢 2.6 | 54 km WNW of Sitka, Alaska | 22:09 |
-| 🟢 2.3 | 57 km WNW of Sitka, Alaska | 22:07 |
-| 🟢 0.4 | 5 km WSW of Anza, CA | 22:01 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 21:56 |
-| 🟢 1.3 | 5 km S of Loyola, CA | 21:54 |
-| 🟢 1.2 | 13 km SSE of Bodfish, CA | 21:51 |
-| 🟢 1.8 | 31 km SSE of Mina, Nevada | 21:47 |
-| 🟢 1.6 | 59 km S of Whites City, New Mexico | 21:46 |
-| 🟠 4.0 | 58 km WNW of Sitka, Alaska | 21:45 |
-| 🟢 2.0 | 95 km W of Skwentna, Alaska | 21:45 |
-| 🟢 0.8 | 4 km NNW of The Geysers, CA | 21:37 |
-| 🟢 1.7 | 15 km ENE of Brooktrails, CA | 21:20 |
+| 🟢 1.7 | 17 km E of Ocotillo Wells, CA | 23:15 |
+| 🟢 1.8 | 5 km SW of Volcano, Hawaii | 23:14 |
+| 🟢 1.7 | 6 km SW of Volcano, Hawaii | 23:07 |
+| 🟢 2.0 | 3 km WSW of Volcano, Hawaii | 23:05 |
+| 🟢 1.8 | 6 km SW of Volcano, Hawaii | 23:04 |
+| 🟢 1.2 | 7 km NE of Coso Junction, CA | 23:00 |
+| 🟢 1.6 | 10 km W of Houston, Alaska | 22:56 |
+| 🟢 1.1 | 7 km NE of Coso Junction, CA | 22:52 |
+| 🟢 0.8 | 7 km NE of Coso Junction, CA | 22:50 |
+| 🟢 2.0 | 10 km SSW of Guánica, Puerto Rico | 22:49 |
+| 🟢 1.6 | 7 km NE of Coso Junction, CA | 22:47 |
+| 🟢 0.9 | 7 km NE of Coso Junction, CA | 22:46 |
+| 🟢 1.0 | 7 km NE of Coso Junction, CA | 22:45 |
+| 🟠 3.1 | 7 km NE of Coso Junction, CA | 22:43 |
+| 🟢 1.5 | 36 km W of Mentone, Texas | 22:41 |
+| 🟢 2.3 | 58 km E of Pedro Bay, Alaska | 22:36 |
+| 🟢 0.8 | 12 km WSW of Ludlow, CA | 22:35 |
+| 🟢 2.5 | 53 km SSW of Sitka, Alaska | 22:35 |
+| 🟢 2.9 | 56 km WNW of Sitka, Alaska | 22:32 |
+| 🟢 1.7 | 52 km SSE of Denali National Park, Alaska | 22:29 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 22:29 |
+| 🟢 2.1 | 53 km WNW of Sitka, Alaska | 22:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
