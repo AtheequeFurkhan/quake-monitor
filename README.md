@@ -2,21 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2012:39:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-214ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2013:28:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-137ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 47 km E of Chase, Alaska | 12:22 |
-| 🟢 1.0 | 3 km E of Moreno Valley, CA | 12:16 |
-| 🟢 1.4 | 6 km WNW of Westbrook, Texas | 12:10 |
-| 🟢 0.8 | 5 km NW of The Geysers, CA | 12:04 |
-| 🟢 1.6 | 32 km SE of Malaga, New Mexico | 11:55 |
-| 🟢 1.4 | 16 km E of Ocotillo Wells, CA | 11:50 |
-| 🟢 1.8 | 16 km S of Lindsay, Texas | 11:47 |
-| 🟢 1.5 | 16 km WNW of Malibu, CA | 11:45 |
-| 🟢 1.4 | 16 km WNW of Malibu, CA | 11:45 |
-| 🟢 2.8 | 16 km E of Ocotillo Wells, CA | 11:42 |
+| 🟢 1.0 | 9 km SSE of Winchester, CA | 13:12 |
+| 🟢 0.5 | 10 km WNW of The Geysers, CA | 13:11 |
+| 🟢 0.9 | 84 km NW of Karluk, Alaska | 13:04 |
+| 🟢 1.5 | 49 km NW of Toyah, Texas | 13:03 |
+| 🟢 2.0 | 12 km NE of Chenega, Alaska | 13:02 |
+| 🟢 0.6 | 4 km W of Cobb, CA | 13:01 |
+| 🟢 2.0 | 11 km NNW of Wai‘ōhinu, Hawaii | 13:00 |
+| 🟢 3.0 | 35 km WNW of Nanwalek, Alaska | 12:58 |
+| 🔴 5.3 | 126 km SSE of ‘Ohonua, Tonga | 12:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
