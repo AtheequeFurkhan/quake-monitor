@@ -2,18 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2011:16:52%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-496ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2012:39:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-214ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 22 km NNE of Yerington, Nevada | 11:07 |
-| 🟢 2.5 | 85 km WSW of Karluk, Alaska | 10:52 |
-| 🟢 1.4 | 11 km ESE of Puebla, B.C., MX | 10:48 |
-| 🟢 0.3 | 9 km SW of Idyllwild, CA | 10:44 |
-| 🟢 0.7 | 2 km NNE of The Geysers, CA | 10:24 |
-| 🟢 1.4 | 17 km WSW of Johannesburg, CA | 10:22 |
-| 🟢 2.7 | 8 km WNW of Loyal, Oklahoma | 10:17 |
+| 🟢 1.7 | 47 km E of Chase, Alaska | 12:22 |
+| 🟢 1.0 | 3 km E of Moreno Valley, CA | 12:16 |
+| 🟢 1.4 | 6 km WNW of Westbrook, Texas | 12:10 |
+| 🟢 0.8 | 5 km NW of The Geysers, CA | 12:04 |
+| 🟢 1.6 | 32 km SE of Malaga, New Mexico | 11:55 |
+| 🟢 1.4 | 16 km E of Ocotillo Wells, CA | 11:50 |
+| 🟢 1.8 | 16 km S of Lindsay, Texas | 11:47 |
+| 🟢 1.5 | 16 km WNW of Malibu, CA | 11:45 |
+| 🟢 1.4 | 16 km WNW of Malibu, CA | 11:45 |
+| 🟢 2.8 | 16 km E of Ocotillo Wells, CA | 11:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
