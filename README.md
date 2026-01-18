@@ -2,17 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2001:51:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-332ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2003:46:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-478ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 3 km ESE of Pāhala, Hawaii | 01:46 |
-| 🟢 1.6 | 35 km SSW of Cantwell, Alaska | 01:36 |
-| 🟠 4.9 | 147 km W of Abepura, Indonesia | 01:15 |
-| 🟢 0.6 | 7 km NE of Coso Junction, CA | 01:08 |
-| 🟢 1.7 | 45 km NNW of Valdez, Alaska | 01:02 |
-| 🟢 2.5 | 12 km NE of Chenega, Alaska | 00:57 |
+| 🟢 1.9 | 50 km NW of Skwentna, Alaska | 03:36 |
+| 🟠 4.5 | 0 km SW of El Ámbar (El Ámbar de Echeverría), Mexico | 03:12 |
+| 🟢 2.2 | 6 km S of Pāhala, Hawaii | 03:10 |
+| 🟢 1.5 | 11 km N of Karnes City, Texas | 03:05 |
+| 🟢 0.8 | 4 km NNE of Moreno Valley, CA | 02:54 |
+| 🟢 0.2 | 8 km W of Cobb, CA | 02:51 |
+| 🟢 1.7 | 1 km WSW of Brawley, CA | 02:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
