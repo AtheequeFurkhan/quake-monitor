@@ -2,20 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2013:28:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-137ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2014:18:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-391ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 9 km SSE of Winchester, CA | 13:12 |
-| 🟢 0.5 | 10 km WNW of The Geysers, CA | 13:11 |
-| 🟢 0.9 | 84 km NW of Karluk, Alaska | 13:04 |
-| 🟢 1.5 | 49 km NW of Toyah, Texas | 13:03 |
-| 🟢 2.0 | 12 km NE of Chenega, Alaska | 13:02 |
-| 🟢 0.6 | 4 km W of Cobb, CA | 13:01 |
-| 🟢 2.0 | 11 km NNW of Wai‘ōhinu, Hawaii | 13:00 |
-| 🟢 3.0 | 35 km WNW of Nanwalek, Alaska | 12:58 |
-| 🔴 5.3 | 126 km SSE of ‘Ohonua, Tonga | 12:31 |
+| 🟢 1.8 | 37 km SSW of Los Ybanez, Texas | 14:14 |
+| 🟢 1.1 | 12 km N of Fillmore, CA | 14:02 |
+| 🟢 1.9 | 7 km SW of Volcano, Hawaii | 13:47 |
+| 🟢 1.7 | 5 km SSW of Volcano, Hawaii | 13:45 |
+| 🟢 0.6 | 16 km SSW of Maricopa, CA | 13:45 |
+| 🟢 1.9 | 7 km SSW of Volcano, Hawaii | 13:44 |
+| 🟢 0.5 | 22 km SSW of Maricopa, CA | 13:41 |
+| 🟢 1.8 | 13 km S of Talkeetna, Alaska | 13:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
