@@ -2,17 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2020:22:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-282ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2021:18:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-303ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.9 | 86 km NNW of Karluk, Alaska | 21:13 |
+| 🟢 2.5 | 13 km NNE of Upper Lake, CA | 21:09 |
+| 🟢 2.4 | 14 km S of Susitna North, Alaska | 20:51 |
+| 🟢 1.4 | 56 km SSE of King Salmon, Alaska | 20:47 |
+| 🟢 2.5 | 11 km S of Leilani Estates, Hawaii | 20:46 |
+| 🟢 0.7 | 1 km E of The Geysers, CA | 20:39 |
+| 🟠 4.4 | 98 km ESE of Takahagi, Japan | 20:34 |
+| 🟠 4.5 | 53 km SE of Severobaykal’sk, Russia | 20:29 |
+| 🟢 2.2 | 6 km SSW of Homer, Alaska | 20:24 |
+| 🟢 1.7 | 5 km SE of Lytle Creek, CA | 20:21 |
+| 🟢 2.5 | 4 km SE of Lytle Creek, CA | 20:20 |
 | 🟢 2.2 | 61 km SE of Pope-Vannoy Landing, Alaska | 20:18 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 20:01 |
-| 🟢 1.5 | 57 km SSE of King Salmon, Alaska | 19:58 |
-| 🟢 0.1 | 15 km SSE of Anza, CA | 19:50 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 19:33 |
-| 🟢 1.1 | 15 km W of Johannesburg, CA | 19:25 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
