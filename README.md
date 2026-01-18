@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2014:18:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-391ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2015:19:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-370ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 37 km SSW of Los Ybanez, Texas | 14:14 |
-| 🟢 1.1 | 12 km N of Fillmore, CA | 14:02 |
-| 🟢 1.9 | 7 km SW of Volcano, Hawaii | 13:47 |
-| 🟢 1.7 | 5 km SSW of Volcano, Hawaii | 13:45 |
-| 🟢 0.6 | 16 km SSW of Maricopa, CA | 13:45 |
-| 🟢 1.9 | 7 km SSW of Volcano, Hawaii | 13:44 |
-| 🟢 0.5 | 22 km SSW of Maricopa, CA | 13:41 |
-| 🟢 1.8 | 13 km S of Talkeetna, Alaska | 13:33 |
+| 🟢 1.0 | 7 km NW of The Geysers, CA | 14:56 |
+| 🟢 1.5 | 6 km WSW of Sunrise, Alaska | 14:56 |
+| 🟠 3.6 | 15 km WSW of Johannesburg, CA | 14:54 |
+| 🟢 1.6 | 15 km WSW of Johannesburg, CA | 14:53 |
+| 🟢 1.5 | 16 km N of Laytonville, CA | 14:52 |
+| 🟢 1.8 | 3 km WNW of Cabazon, CA | 14:40 |
+| 🟢 1.2 | 17 km E of Ocotillo Wells, CA | 14:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
