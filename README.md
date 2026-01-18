@@ -2,24 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2016:24:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-196ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2017:17:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-203ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.0 | 8 km NW of The Geysers, CA | 17:05 |
+| 🟢 1.4 | 14 km W of Johannesburg, CA | 17:01 |
+| 🟢 1.5 | 19 km NW of Midland, Texas | 17:01 |
+| 🟢 0.6 | 88 km NNW of Karluk, Alaska | 16:53 |
+| 🟢 1.1 | 2 km N of The Geysers, CA | 16:48 |
+| 🔴 5.1 | 297 km SW of Bluff, New Zealand | 16:45 |
+| 🟢 2.6 | 18 km SSE of Chiniak, Alaska | 16:41 |
+| 🟢 0.3 | 8 km NW of The Geysers, CA | 16:40 |
+| 🟢 1.3 | 15 km W of Johannesburg, CA | 16:39 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 16:35 |
+| 🟢 1.5 | 21 km S of Maricopa, CA | 16:28 |
+| 🟢 2.9 | 14 km W of Johannesburg, CA | 16:24 |
+| 🟢 1.2 | 65 km WNW of Tatitlek, Alaska | 16:21 |
 | 🟠 3.1 | 15 km W of Johannesburg, CA | 16:21 |
-| 🟢 1.0 | 2 km NNW of The Geysers, CA | 16:16 |
-| 🟢 0.8 | 7 km NE of Coso Junction, CA | 16:14 |
-| 🔴 5.1 | West Chile Rise | 16:06 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 16:05 |
-| 🟢 2.0 | 9 km ENE of Laupāhoehoe, Hawaii | 16:03 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 16:02 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 16:01 |
-| 🟢 1.4 | 8 km NW of The Geysers, CA | 15:59 |
-| 🟢 0.3 | 8 km ESE of Valle Vista, CA | 15:56 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 15:54 |
-| 🟢 1.8 | 13 km NNE of Chenega, Alaska | 15:38 |
-| 🟢 1.0 | 87 km NNW of Karluk, Alaska | 15:29 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
