@@ -2,33 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2017%20Jan%202026%2023:19:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-616ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2001:51:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-332ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 17 km E of Ocotillo Wells, CA | 23:15 |
-| 🟢 1.8 | 5 km SW of Volcano, Hawaii | 23:14 |
-| 🟢 1.7 | 6 km SW of Volcano, Hawaii | 23:07 |
-| 🟢 2.0 | 3 km WSW of Volcano, Hawaii | 23:05 |
-| 🟢 1.8 | 6 km SW of Volcano, Hawaii | 23:04 |
-| 🟢 1.2 | 7 km NE of Coso Junction, CA | 23:00 |
-| 🟢 1.6 | 10 km W of Houston, Alaska | 22:56 |
-| 🟢 1.1 | 7 km NE of Coso Junction, CA | 22:52 |
-| 🟢 0.8 | 7 km NE of Coso Junction, CA | 22:50 |
-| 🟢 2.0 | 10 km SSW of Guánica, Puerto Rico | 22:49 |
-| 🟢 1.6 | 7 km NE of Coso Junction, CA | 22:47 |
-| 🟢 0.9 | 7 km NE of Coso Junction, CA | 22:46 |
-| 🟢 1.0 | 7 km NE of Coso Junction, CA | 22:45 |
-| 🟠 3.1 | 7 km NE of Coso Junction, CA | 22:43 |
-| 🟢 1.5 | 36 km W of Mentone, Texas | 22:41 |
-| 🟢 2.3 | 58 km E of Pedro Bay, Alaska | 22:36 |
-| 🟢 0.8 | 12 km WSW of Ludlow, CA | 22:35 |
-| 🟢 2.5 | 53 km SSW of Sitka, Alaska | 22:35 |
-| 🟢 2.9 | 56 km WNW of Sitka, Alaska | 22:32 |
-| 🟢 1.7 | 52 km SSE of Denali National Park, Alaska | 22:29 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 22:29 |
-| 🟢 2.1 | 53 km WNW of Sitka, Alaska | 22:28 |
+| 🟢 1.8 | 3 km ESE of Pāhala, Hawaii | 01:46 |
+| 🟢 1.6 | 35 km SSW of Cantwell, Alaska | 01:36 |
+| 🟠 4.9 | 147 km W of Abepura, Indonesia | 01:15 |
+| 🟢 0.6 | 7 km NE of Coso Junction, CA | 01:08 |
+| 🟢 1.7 | 45 km NNW of Valdez, Alaska | 01:02 |
+| 🟢 2.5 | 12 km NE of Chenega, Alaska | 00:57 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
