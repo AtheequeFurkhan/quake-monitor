@@ -2,16 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2008:27:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-387ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2009:21:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-350ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 11 km ESE of Willits, CA | 08:06 |
-| 🟢 0.8 | 20 km NE of Coso Junction, CA | 07:47 |
-| 🟢 2.7 | 72 km E of Port Alsworth, Alaska | 07:47 |
-| 🟢 1.2 | 55 km W of Mentone, Texas | 07:39 |
-| 🟢 2.0 | 10 km NW of Karluk, Alaska | 07:35 |
+| 🟢 2.5 | 9 km W of Loyal, Oklahoma | 08:59 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 08:54 |
+| 🟢 1.3 | 12 km W of Ludlow, CA | 08:53 |
+| 🟢 1.4 | 33 km SE of Malaga, New Mexico | 08:42 |
+| 🟢 0.8 | 20 km N of Indio, CA | 08:41 |
+| 🟢 2.1 | 83 km W of Salamatof, Alaska | 08:40 |
+| 🟢 1.2 | 16 km WSW of Johannesburg, CA | 08:37 |
+| 🟢 0.3 | 5 km W of Cobb, CA | 08:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
