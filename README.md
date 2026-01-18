@@ -2,22 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2018:27:52%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-342ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2019:15:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-414ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.4 | 5 km WNW of The Geysers, CA | 19:06 |
+| 🟢 0.7 | 86 km NNW of Karluk, Alaska | 19:02 |
+| 🟢 0.8 | 6 km WNW of The Geysers, CA | 18:58 |
+| 🟢 1.8 | 6 km SSW of Volcano, Hawaii | 18:57 |
+| 🟢 0.7 | 7 km NE of Coso Junction, CA | 18:57 |
+| 🟢 0.0 | 36 km S of South Van Horn, Alaska | 18:55 |
+| 🟢 1.8 | 7 km NE of Pāhala, Hawaii | 18:45 |
+| 🟢 1.2 | 57 km S of Manley Hot Springs, Alaska | 18:44 |
+| 🟢 1.1 | 6 km WNW of Cobb, CA | 18:32 |
+| 🟢 0.6 | 12 km ENE of Cloverdale, CA | 18:29 |
+| 🟢 0.7 | 21 km SW of Toms Place, CA | 18:26 |
 | 🟢 2.2 | 42 km NNW of Aleneva, Alaska | 18:24 |
 | 🟢 0.8 | 12 km WNW of The Geysers, CA | 18:19 |
 | 🟢 1.7 | 15 km W of Johannesburg, CA | 18:18 |
-| 🟢 1.6 | 24 km SSE of Lindsay, Texas | 18:03 |
-| 🟢 0.7 | 15 km W of Johannesburg, CA | 17:57 |
-| 🟠 4.6 | 68 km SSE of Modisi, Indonesia | 17:53 |
-| 🟢 1.5 | 14 km WSW of Stanton, Texas | 17:47 |
-| 🟢 1.7 | 72 km NNE of Petersville, Alaska | 17:46 |
-| 🟢 0.5 | 5 km WNW of Cobb, CA | 17:43 |
-| 🟢 1.5 | 10 km S of Forsan, Texas | 17:38 |
-| 🟢 0.5 | 58 km WNW of Happy Valley, Alaska | 17:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
