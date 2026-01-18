@@ -2,19 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2007:19:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-183ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2018%20Jan%202026%2008:27:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-387ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 3 km N of Houston, Alaska | 07:03 |
-| 🟢 1.6 | 32 km NW of Toyah, Texas | 06:55 |
-| 🟢 1.6 | 16 km E of Ocotillo Wells, CA | 06:53 |
-| 🟢 1.3 | 9 km NW of The Geysers, CA | 06:49 |
-| 🟢 1.7 | 32 km NW of Toyah, Texas | 06:45 |
-| 🟠 4.9 | 205 km W of Abepura, Indonesia | 06:38 |
-| 🟢 0.5 | 29 km SSW of South Van Horn, Alaska | 06:38 |
-| 🟢 1.1 | 12 km SW of Niland, CA | 06:34 |
+| 🟢 1.3 | 11 km ESE of Willits, CA | 08:06 |
+| 🟢 0.8 | 20 km NE of Coso Junction, CA | 07:47 |
+| 🟢 2.7 | 72 km E of Port Alsworth, Alaska | 07:47 |
+| 🟢 1.2 | 55 km W of Mentone, Texas | 07:39 |
+| 🟢 2.0 | 10 km NW of Karluk, Alaska | 07:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
