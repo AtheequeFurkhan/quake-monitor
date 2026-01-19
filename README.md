@@ -2,20 +2,13 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2017:23:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-448ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2018:32:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-598ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 8 km NW of The Geysers, CA | 17:14 |
-| 🟠 4.9 | 107 km SSE of Lata, Solomon Islands | 17:01 |
-| 🟢 1.8 | 2 km NNW of Redway, CA | 17:00 |
-| 🟢 0.8 | 6 km NE of Coso Junction, CA | 16:57 |
-| 🟢 1.6 | 13 km SW of Westbrook, Texas | 16:55 |
-| 🟢 0.9 | 3 km SSW of Anderson Springs, CA | 16:53 |
-| 🟢 2.4 | 5 km E of Pearsall, Texas | 16:42 |
-| 🟢 0.8 | 2 km N of The Geysers, CA | 16:38 |
-| 🟢 2.2 | 5 km E of La Parguera, Puerto Rico | 16:37 |
+| 🟢 1.7 | 4 km WSW of Beluga, Alaska | 18:11 |
+| 🟠 4.9 | Mariana Islands region | 17:59 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
