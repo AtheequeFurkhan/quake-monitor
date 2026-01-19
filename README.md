@@ -2,19 +2,34 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2012:50:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-367ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2013:45:14%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-498ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.5 | 12 km SSE of Anza, CA | 13:42 |
+| 🟠 3.6 | 77 km WSW of Karluk, Alaska | 13:41 |
+| 🟢 1.1 | 7 km NNE of Fontana, CA | 13:35 |
+| 🟢 1.6 | 7 km NNE of Fontana, CA | 13:33 |
+| 🟢 0.6 | 6 km WNW of Cobb, CA | 13:30 |
+| 🟢 0.8 | 1 km NE of The Geysers, CA | 13:29 |
+| 🟢 1.9 | 127 km SSW of McCarthy, Alaska | 13:29 |
+| 🟢 1.8 | 5 km SW of Volcano, Hawaii | 13:23 |
+| 🟢 1.7 | 5 km SW of Volcano, Hawaii | 13:21 |
+| 🟢 1.1 | 9 km SW of Salton City, CA | 13:21 |
+| 🟢 2.0 | 41 km WNW of Nanwalek, Alaska | 13:20 |
+| 🟢 1.8 | 5 km SW of Volcano, Hawaii | 13:17 |
+| 🟠 4.7 | 233 km SSW of Tambolaka, Indonesia | 13:15 |
+| 🟢 1.8 | 5 km SW of Volcano, Hawaii | 13:12 |
+| 🟢 1.6 | 56 km NW of Toyah, Texas | 13:12 |
+| 🟢 1.8 | 6 km SW of Volcano, Hawaii | 13:06 |
+| 🟢 2.1 | 58 km ESE of Denali National Park, Alaska | 13:04 |
+| 🔴 6.0 | 260 km ESE of Tadine, New Caledonia | 13:02 |
+| 🟠 5.0 | 272 km ESE of Tadine, New Caledonia | 13:01 |
+| 🟢 1.8 | 7 km SW of Volcano, Hawaii | 12:58 |
+| 🟢 0.7 | 7 km NW of The Geysers, CA | 12:53 |
 | 🟢 0.7 | 22 km ESE of Little Lake, CA | 12:46 |
 | 🟢 1.7 | 13 km S of Tres Pinos, CA | 12:45 |
-| 🟢 1.5 | 41 km NW of Toyah, Texas | 12:42 |
-| 🟢 1.5 | 6 km WSW of Holtville, CA | 12:33 |
-| 🟢 1.6 | 7 km WSW of Holtville, CA | 12:32 |
-| 🟢 2.3 | 40 km NW of Indian Springs, Nevada | 11:57 |
-| 🟢 2.6 | 13 km ESE of Kicking Horse, Montana | 11:57 |
-| 🟢 1.4 | 14 km W of Johannesburg, CA | 11:55 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
