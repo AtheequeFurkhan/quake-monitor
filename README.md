@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2019:19:38%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-360ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2020:24:22%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-353ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 8 km NW of The Geysers, CA | 19:17 |
-| 🟠 3.6 | 30 km NW of Gerlach, Nevada | 19:08 |
-| 🟢 1.0 | 6 km W of Cobb, CA | 19:00 |
-| 🔴 5.3 | 32 km WSW of Sangay, Philippines | 19:00 |
-| 🟢 1.0 | 2 km E of The Geysers, CA | 18:56 |
-| 🟢 0.7 | 21 km SSW of La Quinta, CA | 18:40 |
-| 🟢 0.6 | 8 km NW of The Geysers, CA | 18:36 |
-| 🟢 1.8 | 34 km NW of Glacier View, Alaska | 18:35 |
+| 🟢 0.7 | 12 km ENE of Cloverdale, CA | 20:14 |
+| 🟢 1.8 | 7 km NW of Pinnacles, CA | 20:08 |
+| 🟢 1.0 | 7 km ENE of Morgan Hill, CA | 20:05 |
+| 🟢 1.0 | 8 km WSW of Pala, CA | 20:02 |
+| 🟠 4.7 | 30 km WSW of Sangay, Philippines | 19:54 |
+| 🟢 1.8 | 35 km SSW of Glacier View, Alaska | 19:52 |
+| 🟢 1.6 | 10 km SSW of Lucerne Valley, CA | 19:38 |
+| 🟢 1.0 | 7 km NW of The Geysers, CA | 19:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
