@@ -2,18 +2,26 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2015:26:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-418ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2016:29:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-367ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 7 km NW of The Geysers, CA | 15:24 |
-| 🟢 1.3 | 7 km NW of The Geysers, CA | 15:08 |
-| 🟢 1.0 | 3 km NW of The Geysers, CA | 14:51 |
-| 🟢 2.4 | 31 km NW of Toyah, Texas | 14:49 |
-| 🟢 0.9 | 3 km SSW of Redlands, CA | 14:40 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 14:32 |
-| 🟢 0.9 | 19 km SE of Chickaloon, Alaska | 14:28 |
+| 🟢 1.8 | 6 km SSW of Volcano, Hawaii | 16:18 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 16:17 |
+| 🟢 1.3 | 6 km W of Cobb, CA | 16:13 |
+| 🟢 1.1 | 6 km WNW of Cobb, CA | 16:13 |
+| 🟢 1.9 | 17 km WSW of Anchor Point, Alaska | 16:09 |
+| 🟢 1.5 | 31 km NW of Toyah, Texas | 16:00 |
+| 🟢 0.3 | 22 km NW of Parkfield, CA | 16:00 |
+| 🟢 2.0 | 21 km SSW of Leilani Estates, Hawaii | 15:54 |
+| 🟢 1.7 | 31 km NW of Toyah, Texas | 15:50 |
+| 🟠 3.4 | 52 km W of Puerto Real, Puerto Rico | 15:47 |
+| 🟢 2.7 | 32 km NW of Toyah, Texas | 15:45 |
+| 🟢 0.6 | 3 km NW of The Geysers, CA | 15:45 |
+| 🟢 0.6 | 66 km WNW of Beluga, Alaska | 15:44 |
+| 🟢 1.6 | 44 km WNW of Happy Valley, Alaska | 15:37 |
+| 🟠 3.8 | 21 km WSW of Gerlach, Nevada | 15:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
