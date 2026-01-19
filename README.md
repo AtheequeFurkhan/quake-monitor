@@ -2,22 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2008:33:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-416ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2009:34:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-533ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.5 | 12 km NE of Chenega, Alaska | 08:27 |
-| 🟢 0.8 | 12 km SSW of Borrego Springs, CA | 08:26 |
-| 🟢 0.3 | 6 km NW of The Geysers, CA | 08:08 |
-| 🟢 1.1 | 28 km W of Coso Junction, CA | 08:02 |
-| 🟢 1.0 | 28 km W of Coso Junction, CA | 07:57 |
-| 🟢 1.0 | 10 km NNE of Sunland, CA | 07:56 |
-| 🟢 0.4 | 83 km NNW of Karluk, Alaska | 07:56 |
-| 🟢 0.5 | 89 km NNW of Karluk, Alaska | 07:51 |
-| 🟢 0.8 | 28 km W of Coso Junction, CA | 07:48 |
-| 🟢 1.5 | 28 km W of Coso Junction, CA | 07:43 |
-| 🟢 1.1 | 40 km WSW of Anchor Point, Alaska | 07:40 |
+| 🟢 0.6 | 6 km NW of The Geysers, CA | 09:30 |
+| 🟢 0.5 | 11 km SSW of Idyllwild, CA | 09:29 |
+| 🟢 0.7 | 7 km N of Fontana, CA | 09:29 |
+| 🟢 1.7 | 21 km E of Beluga, Alaska | 09:12 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 09:08 |
+| 🟢 0.3 | 4 km NNW of The Geysers, CA | 08:59 |
+| 🟢 1.8 | 32 km NW of Toyah, Texas | 08:42 |
+| 🟢 0.2 | 4 km W of Cobb, CA | 08:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
