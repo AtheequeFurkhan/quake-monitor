@@ -2,20 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2005:31:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-249ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2006:38:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-301ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 10 km NNE of Healdsburg, CA | 05:25 |
-| 🟢 0.7 | 2 km ENE of The Geysers, CA | 05:07 |
-| 🟢 1.8 | 61 km S of Whites City, New Mexico | 05:03 |
-| 🟢 1.5 | 49 km E of Denali National Park, Alaska | 05:01 |
-| 🟢 1.6 | 13 km S of Tres Pinos, CA | 05:00 |
-| 🟢 2.8 | 13 km S of Tres Pinos, CA | 04:56 |
-| 🟢 0.9 | 10 km WNW of The Geysers, CA | 04:52 |
-| 🟢 1.2 | 22 km ESE of Little Lake, CA | 04:50 |
-| 🟢 1.4 | 51 km W of Tatitlek, Alaska | 04:49 |
+| 🟢 2.0 | 32 km WSW of Skwentna, Alaska | 06:25 |
+| 🟢 0.4 | 7 km WNW of Cobb, CA | 06:24 |
+| 🟢 2.0 | 2 km WSW of Indios, Puerto Rico | 06:15 |
+| 🟢 0.9 | 3 km NNW of The Geysers, CA | 06:15 |
+| 🟢 1.6 | 2 km SE of Pacifica, CA | 06:13 |
+| 🟢 1.8 | 16 km S of Tres Pinos, CA | 06:11 |
+| 🟢 1.9 | 16 km WNW of Anchorage, Alaska | 06:10 |
+| 🟢 0.4 | 12 km NNE of Four Mile Road, Alaska | 06:03 |
+| 🟢 0.5 | 8 km NW of The Geysers, CA | 05:48 |
+| 🟢 1.8 | 110 km NE of Lime Village, Alaska | 05:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
