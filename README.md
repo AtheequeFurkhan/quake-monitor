@@ -2,21 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2003:50:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-387ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2004:52:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-440ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 03:30 |
-| 🟢 1.8 | 4 km ESE of Chenega, Alaska | 03:29 |
-| 🟢 1.4 | 19 km SSW of Ocotillo Wells, CA | 03:29 |
-| 🟢 1.6 | 38 km SE of Denali National Park, Alaska | 03:16 |
-| 🟢 0.7 | 2 km W of Borrego Springs, CA | 03:15 |
-| 🟢 0.6 | 23 km NNW of Borrego Springs, CA | 03:15 |
-| 🟢 2.5 | 9 km NNE of Ouzinkie, Alaska | 03:13 |
-| 🟢 2.0 | 6 km NNE of Pāhala, Hawaii | 02:57 |
-| 🟢 0.9 | 22 km ESE of Little Lake, CA | 02:53 |
-| 🟢 0.6 | 22 km ESE of Little Lake, CA | 02:53 |
+| 🟢 1.4 | 51 km W of Tatitlek, Alaska | 04:49 |
+| 🟢 1.1 | 2 km SW of Rialto, CA | 04:06 |
+| 🟢 1.5 | 31 km WNW of Beluga, Alaska | 04:05 |
+| 🟢 0.8 | 3 km W of Cobb, CA | 04:05 |
+| 🟢 1.6 | 15 km N of Meadow Lakes, Alaska | 04:03 |
+| 🟢 0.2 | 6 km WSW of Anza, CA | 03:55 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
