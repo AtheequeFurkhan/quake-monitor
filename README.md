@@ -2,19 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2020:24:22%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-353ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2021:20:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-200ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 12 km ENE of Cloverdale, CA | 20:14 |
-| 🟢 1.8 | 7 km NW of Pinnacles, CA | 20:08 |
-| 🟢 1.0 | 7 km ENE of Morgan Hill, CA | 20:05 |
-| 🟢 1.0 | 8 km WSW of Pala, CA | 20:02 |
-| 🟠 4.7 | 30 km WSW of Sangay, Philippines | 19:54 |
-| 🟢 1.8 | 35 km SSW of Glacier View, Alaska | 19:52 |
-| 🟢 1.6 | 10 km SSW of Lucerne Valley, CA | 19:38 |
-| 🟢 1.0 | 7 km NW of The Geysers, CA | 19:31 |
+| 🟢 1.9 | 16 km WNW of Fishhook, Alaska | 21:07 |
+| 🟢 2.9 | 37 km W of Anchor Point, Alaska | 21:03 |
+| 🟢 1.4 | 3 km S of Home Gardens, CA | 21:00 |
+| 🟢 1.5 | 54 km WNW of Nanwalek, Alaska | 20:58 |
+| 🟢 1.5 | 50 km SSE of Whites City, New Mexico | 20:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
