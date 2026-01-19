@@ -2,22 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2004:52:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-440ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2005:31:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-249ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.1 | 10 km NNE of Healdsburg, CA | 05:25 |
+| 🟢 0.7 | 2 km ENE of The Geysers, CA | 05:07 |
+| 🟢 1.8 | 61 km S of Whites City, New Mexico | 05:03 |
+| 🟢 1.5 | 49 km E of Denali National Park, Alaska | 05:01 |
+| 🟢 1.6 | 13 km S of Tres Pinos, CA | 05:00 |
+| 🟢 2.8 | 13 km S of Tres Pinos, CA | 04:56 |
+| 🟢 0.9 | 10 km WNW of The Geysers, CA | 04:52 |
+| 🟢 1.2 | 22 km ESE of Little Lake, CA | 04:50 |
 | 🟢 1.4 | 51 km W of Tatitlek, Alaska | 04:49 |
-| 🟢 1.1 | 2 km SW of Rialto, CA | 04:06 |
-| 🟢 1.5 | 31 km WNW of Beluga, Alaska | 04:05 |
-| 🟢 0.8 | 3 km W of Cobb, CA | 04:05 |
-| 🟢 1.6 | 15 km N of Meadow Lakes, Alaska | 04:03 |
-| 🟢 0.2 | 6 km WSW of Anza, CA | 03:55 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
-- ⛈️ **Severe Storms**: [Tropical Storm Nokaen](https://www.metoc.navy.mil/jtwc/products/wp0126.tcw) (Jan 18)
+- ⛈️ **Severe Storms**: [Tropical Storm Nokaen](https://www.metoc.navy.mil/jtwc/products/wp0126.tcw) (Jan 19)
 - 🔥 **Wildfires**: [Calf Fire Wildfire, Pittsburg, Oklahoma](https://irwin.doi.gov/observer/incidents/712dad26-404a-4037-851b-353cd0f60793) (Jan 16)
 - 🔥 **Wildfires**: [Keown Falls RX Prescribed Fire, Walker, Georgia](https://irwin.doi.gov/observer/incidents/48528ec4-5fd9-4531-9af3-a76be2678b05) (Jan 15)
 - 🔥 **Wildfires**: [RX CAT BU 46 Prescribed Fire, Grant, Louisiana](https://irwin.doi.gov/observer/incidents/aca26324-905f-4350-b154-beae10513bae) (Jan 15)
