@@ -2,23 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2001:50:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-401ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2003:50:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-387ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 2 km WNW of Cabazon, CA | 01:45 |
-| 🟢 3.0 | 7 km NNE of Fontana, CA | 01:41 |
-| 🟢 1.1 | 21 km SE of Bodfish, CA | 01:34 |
-| 🟢 1.4 | 3 km SE of Pacifica, CA | 01:31 |
-| 🟢 1.2 | 14 km W of Johannesburg, CA | 01:26 |
-| 🟢 1.5 | 10 km ENE of Balmorhea, Texas | 01:25 |
-| 🟢 1.6 | 62 km S of Glacier View, Alaska | 01:17 |
-| 🟢 3.0 | 48 km SSW of Nanwalek, Alaska | 01:11 |
-| 🟠 4.3 | 56 km NW of Serang, Indonesia | 01:10 |
-| 🟢 1.3 | 5 km NW of The Geysers, CA | 01:07 |
-| 🟢 1.7 | 11 km NE of Pāhala, Hawaii | 01:00 |
-| 🟢 1.8 | 33 km N of Petersville, Alaska | 00:50 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 03:30 |
+| 🟢 1.8 | 4 km ESE of Chenega, Alaska | 03:29 |
+| 🟢 1.4 | 19 km SSW of Ocotillo Wells, CA | 03:29 |
+| 🟢 1.6 | 38 km SE of Denali National Park, Alaska | 03:16 |
+| 🟢 0.7 | 2 km W of Borrego Springs, CA | 03:15 |
+| 🟢 0.6 | 23 km NNW of Borrego Springs, CA | 03:15 |
+| 🟢 2.5 | 9 km NNE of Ouzinkie, Alaska | 03:13 |
+| 🟢 2.0 | 6 km NNE of Pāhala, Hawaii | 02:57 |
+| 🟢 0.9 | 22 km ESE of Little Lake, CA | 02:53 |
+| 🟢 0.6 | 22 km ESE of Little Lake, CA | 02:53 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
