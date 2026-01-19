@@ -2,21 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2010:29:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-386ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2011:21:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-316ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.3 | 30 km NW of Toyah, Texas | 10:16 |
-| 🟢 2.5 | 41 km N of Covelo, CA | 10:07 |
-| 🟢 0.9 | 10 km WNW of The Geysers, CA | 09:52 |
-| 🟢 1.8 | 51 km WNW of Tatitlek, Alaska | 09:49 |
-| 🟢 1.5 | 11 km WNW of Tyonek, Alaska | 09:46 |
-| 🟢 0.8 | 7 km NNE of Fontana, CA | 09:43 |
-| 🟢 2.8 | 25 km NNW of Fishhook, Alaska | 09:41 |
-| 🟢 0.6 | 6 km NW of The Geysers, CA | 09:30 |
-| 🟢 0.5 | 11 km SSW of Idyllwild, CA | 09:29 |
-| 🟢 0.7 | 7 km N of Fontana, CA | 09:29 |
+| 🟢 1.1 | 5 km WNW of Cobb, CA | 11:15 |
+| 🟠 5.0 | 102 km NNW of Curup, Indonesia | 11:02 |
+| 🟢 1.5 | 6 km NNW of Green Valley, CA | 10:59 |
+| 🟢 1.2 | 7 km NNW of Green Valley, CA | 10:58 |
+| 🟢 1.8 | 10 km ENE of Pāhala, Hawaii | 10:57 |
+| 🟢 1.7 | 45 km NW of Toyah, Texas | 10:54 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 10:50 |
+| 🟢 0.7 | 20 km E of Little Lake, CA | 10:44 |
+| 🟢 2.2 | 15 km N of Susanville, CA | 10:41 |
+| 🟢 0.9 | 10 km W of Pine Valley, CA | 10:39 |
+| 🟢 0.7 | 6 km W of Cobb, CA | 10:35 |
+| 🟢 2.4 | 60 km E of Port Alsworth, Alaska | 10:35 |
+| 🟢 1.9 | 13 km S of Tres Pinos, CA | 10:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
