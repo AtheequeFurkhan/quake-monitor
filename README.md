@@ -2,21 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2006:38:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-301ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2007:28:31%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-423ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 32 km WSW of Skwentna, Alaska | 06:25 |
-| 🟢 0.4 | 7 km WNW of Cobb, CA | 06:24 |
-| 🟢 2.0 | 2 km WSW of Indios, Puerto Rico | 06:15 |
-| 🟢 0.9 | 3 km NNW of The Geysers, CA | 06:15 |
-| 🟢 1.6 | 2 km SE of Pacifica, CA | 06:13 |
-| 🟢 1.8 | 16 km S of Tres Pinos, CA | 06:11 |
-| 🟢 1.9 | 16 km WNW of Anchorage, Alaska | 06:10 |
-| 🟢 0.4 | 12 km NNE of Four Mile Road, Alaska | 06:03 |
-| 🟢 0.5 | 8 km NW of The Geysers, CA | 05:48 |
-| 🟢 1.8 | 110 km NE of Lime Village, Alaska | 05:42 |
+| 🟢 1.0 | 22 km ESE of Little Lake, CA | 07:25 |
+| 🟢 2.3 | 13 km NE of Pāhala, Hawaii | 07:22 |
+| 🟢 1.7 | 55 km W of Nanwalek, Alaska | 07:14 |
+| 🟢 0.6 | 7 km NNE of Fontana, CA | 07:08 |
+| 🟢 0.7 | 3 km SW of Redlands, CA | 07:06 |
+| 🟢 1.5 | 30 km WSW of Trapper Creek, Alaska | 06:56 |
+| 🔴 5.1 | 29 km S of Hihifo, Tonga | 06:42 |
+| 🟢 1.1 | 4 km NNW of East Los Angeles, CA | 06:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
