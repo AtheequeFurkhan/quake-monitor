@@ -2,19 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2007:28:31%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-423ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2008:33:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-416ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 22 km ESE of Little Lake, CA | 07:25 |
-| 🟢 2.3 | 13 km NE of Pāhala, Hawaii | 07:22 |
-| 🟢 1.7 | 55 km W of Nanwalek, Alaska | 07:14 |
-| 🟢 0.6 | 7 km NNE of Fontana, CA | 07:08 |
-| 🟢 0.7 | 3 km SW of Redlands, CA | 07:06 |
-| 🟢 1.5 | 30 km WSW of Trapper Creek, Alaska | 06:56 |
-| 🔴 5.1 | 29 km S of Hihifo, Tonga | 06:42 |
-| 🟢 1.1 | 4 km NNW of East Los Angeles, CA | 06:36 |
+| 🟢 2.5 | 12 km NE of Chenega, Alaska | 08:27 |
+| 🟢 0.8 | 12 km SSW of Borrego Springs, CA | 08:26 |
+| 🟢 0.3 | 6 km NW of The Geysers, CA | 08:08 |
+| 🟢 1.1 | 28 km W of Coso Junction, CA | 08:02 |
+| 🟢 1.0 | 28 km W of Coso Junction, CA | 07:57 |
+| 🟢 1.0 | 10 km NNE of Sunland, CA | 07:56 |
+| 🟢 0.4 | 83 km NNW of Karluk, Alaska | 07:56 |
+| 🟢 0.5 | 89 km NNW of Karluk, Alaska | 07:51 |
+| 🟢 0.8 | 28 km W of Coso Junction, CA | 07:48 |
+| 🟢 1.5 | 28 km W of Coso Junction, CA | 07:43 |
+| 🟢 1.1 | 40 km WSW of Anchor Point, Alaska | 07:40 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
