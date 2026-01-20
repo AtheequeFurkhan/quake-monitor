@@ -2,32 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2022:23:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-119ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2023:22:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-392ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 50 km NNW of Petersville, Alaska | 22:18 |
-| 🟢 1.1 | 18 km N of Indio, CA | 22:16 |
-| 🟢 1.6 | 104 km N of Yakutat, Alaska | 22:12 |
-| 🟢 0.7 | 2 km NNW of The Geysers, CA | 22:08 |
-| 🟢 1.2 | 16 km NNE of Indio, CA | 22:07 |
-| 🟢 1.2 | 18 km N of Indio, CA | 22:05 |
-| 🟢 1.7 | 33 km N of Karluk, Alaska | 22:02 |
-| 🟢 1.5 | 20 km N of Indio, CA | 22:01 |
-| 🟢 0.8 | 19 km NNE of Indio, CA | 21:57 |
-| 🟠 3.3 | 41 km SSE of Adak, Alaska | 21:54 |
-| 🟢 2.1 | 15 km S of Volcano, Hawaii | 21:49 |
-| 🟢 1.1 | 2 km SSW of Mira Loma, CA | 21:45 |
-| 🟢 1.4 | 17 km NNE of Apple Valley, CA | 21:42 |
-| 🟢 1.7 | 15 km SW of Lamont, CA | 21:39 |
-| 🟢 1.3 | 18 km N of Indio, CA | 21:38 |
-| 🟢 2.2 | 56 km SSW of Sand Point, Alaska | 21:35 |
-| 🟢 0.9 | 6 km WNW of Cobb, CA | 21:35 |
-| 🟢 1.2 | 13 km WSW of Stanton, Texas | 21:32 |
-| 🟢 0.8 | 5 km NW of The Geysers, CA | 21:29 |
-| 🟢 1.5 | 110 km N of Yakutat, Alaska | 21:25 |
-| 🟢 1.8 | 100 km N of Yakutat, Alaska | 21:23 |
+| 🟢 0.8 | 6 km WNW of Cobb, CA | 23:12 |
+| 🟢 1.0 | 3 km NW of The Geysers, CA | 23:11 |
+| 🟢 2.1 | 50 km N of Larsen Bay, Alaska | 23:08 |
+| 🟢 1.1 | 18 km N of Indio, CA | 23:01 |
+| 🟢 0.8 | 9 km WNW of The Geysers, CA | 23:00 |
+| 🟢 2.1 | 13 km ENE of Pāhala, Hawaii | 22:54 |
+| 🟢 1.1 | 16 km WSW of Enterprise, Utah | 22:53 |
+| 🟢 2.7 | 39 km SSE of Adak, Alaska | 22:48 |
+| 🟢 1.2 | 21 km N of Indio, CA | 22:39 |
+| 🟢 0.9 | 25 km S of Brian Head, Utah | 22:22 |
+| 🟢 0.8 | 17 km N of Indio, CA | 22:22 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
