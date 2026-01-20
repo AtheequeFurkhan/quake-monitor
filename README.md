@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2019%20Jan%202026%2023:20:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-127ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2001:45:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-307ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 9 km NNW of Idyllwild, CA | 23:13 |
-| 🟢 1.0 | 2 km NW of Cobb, CA | 23:09 |
-| 🟢 0.8 | 8 km NNE of Coso Junction, CA | 22:56 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 22:42 |
-| 🟠 4.7 | 28 km SSE of Mendi, Papua New Guinea | 22:28 |
-| 🟢 1.9 | 6 km E of Eielson Air Force Base, Alaska | 22:26 |
-| 🟢 1.3 | 61 km NE of Pedro Bay, Alaska | 22:25 |
-| 🟢 1.9 | 17 km WSW of Johannesburg, CA | 22:24 |
+| 🟢 0.5 | 6 km SSE of Idyllwild, CA | 01:37 |
+| 🟢 1.7 | 55 km S of Denali National Park, Alaska | 01:34 |
+| 🟢 2.3 | 30 km W of Petrolia, CA | 01:27 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 01:22 |
+| 🟢 1.6 | 16 km SSE of Funny River, Alaska | 01:17 |
+| 🟢 1.1 | 7 km S of Idyllwild, CA | 01:17 |
+| 🟢 1.8 | 33 km N of Valdez, Alaska | 00:58 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
