@@ -2,24 +2,32 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2018:36:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-212ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2020:12:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-381ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 10 km SW of Enterprise, Nevada | 18:25 |
-| 🟢 1.9 | 4 km NE of Pinnacles, CA | 18:22 |
-| 🟢 1.0 | 20 km N of Indio, CA | 18:21 |
-| 🟢 1.8 | 49 km NNW of Petersville, Alaska | 18:16 |
-| 🟢 1.2 | 20 km N of Indio, CA | 18:14 |
-| 🟢 1.7 | 17 km NNE of Indio, CA | 18:13 |
-| 🟢 1.9 | 36 km ESE of Cordova, Alaska | 18:01 |
-| 🟢 1.0 | 13 km SE of Tehachapi, CA | 17:57 |
-| 🟢 0.8 | 20 km NNE of Indio, CA | 17:56 |
-| 🔴 5.3 | 72 km ENE of Mutsu, Japan | 17:51 |
-| 🟢 1.2 | 7 km E of Ocotillo Wells, CA | 17:50 |
-| 🟢 1.0 | 20 km NNE of Indio, CA | 17:42 |
-| 🟢 0.9 | 20 km NNE of Indio, CA | 17:36 |
+| 🟢 0.5 | 10 km NW of The Geysers, CA | 20:07 |
+| 🟢 1.3 | 17 km N of Indio, CA | 20:04 |
+| 🟢 1.4 | 5 km NNW of Lake Elsinore, CA | 19:57 |
+| 🟢 2.6 | 16 km W of Alberto Oviedo Mota, B.C., MX | 19:55 |
+| 🟢 0.7 | 17 km N of Indio, CA | 19:50 |
+| 🟢 1.7 | 20 km NNE of New Idria, CA | 19:48 |
+| 🟢 1.8 | 18 km N of Indio, CA | 19:47 |
+| 🟢 0.7 | 19 km S of Maricopa, CA | 19:40 |
+| 🟢 1.6 | 18 km N of Indio, CA | 19:35 |
+| 🟢 1.2 | 18 km N of Indio, CA | 19:34 |
+| 🟢 2.8 | 18 km N of Indio, CA | 19:32 |
+| 🟢 1.1 | 11 km S of Rainier, Washington | 19:31 |
+| 🟢 1.0 | 18 km N of Indio, CA | 19:31 |
+| 🟢 0.9 | 18 km N of Indio, CA | 19:30 |
+| 🟢 1.1 | 19 km N of Indio, CA | 19:30 |
+| 🟢 1.5 | 16 km W of Johannesburg, CA | 19:26 |
+| 🟢 1.3 | 120 km N of Yakutat, Alaska | 19:22 |
+| 🟠 3.2 | 18 km N of Indio, CA | 19:22 |
+| 🟢 0.9 | 18 km N of Indio, CA | 19:22 |
+| 🟢 1.9 | 50 km SSE of Denali National Park, Alaska | 19:19 |
+| 🟢 1.2 | 18 km N of Indio, CA | 19:18 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
