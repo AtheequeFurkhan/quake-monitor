@@ -2,44 +2,44 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2003:43:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-354ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2004:44:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-444ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 8 km WSW of Calimesa, CA | 03:38 |
-| 🟢 1.3 | 20 km N of Indio, CA | 03:34 |
-| 🟢 1.3 | 19 km NNE of Indio, CA | 03:31 |
-| 🟢 0.8 | 20 km N of Indio, CA | 03:30 |
-| 🟢 1.0 | 19 km N of Indio, CA | 03:23 |
-| 🟢 1.7 | 18 km N of Indio, CA | 03:21 |
-| 🟢 1.7 | 20 km NNE of Indio, CA | 03:20 |
-| 🟢 1.8 | 6 km SW of Volcano, Hawaii | 03:20 |
-| 🟢 1.4 | 18 km NNE of Indio, CA | 03:19 |
-| 🟢 1.0 | 20 km N of Indio, CA | 03:19 |
-| 🟢 1.7 | 5 km NE of North Shore, CA | 03:16 |
-| 🟢 1.3 | 32 km ESE of Skwentna, Alaska | 03:14 |
-| 🟢 1.6 | 21 km N of Indio, CA | 03:13 |
-| 🟢 1.5 | 19 km NNE of Indio, CA | 03:12 |
-| 🟢 0.8 | 20 km N of Indio, CA | 03:12 |
-| 🟢 1.6 | 20 km N of Indio, CA | 03:09 |
-| 🟢 1.9 | 7 km NNW of Nikolaevsk, Alaska | 03:09 |
-| 🟢 0.7 | 96 km NNW of Karluk, Alaska | 03:08 |
-| 🟢 1.4 | 20 km N of Indio, CA | 03:07 |
-| 🟢 1.1 | 20 km NNE of Indio, CA | 03:07 |
-| 🟢 2.0 | 20 km N of Indio, CA | 03:06 |
-| 🟢 1.0 | 20 km NNE of Indio, CA | 03:05 |
-| 🟢 1.1 | 18 km N of Indio, CA | 03:04 |
-| 🟢 0.8 | 17 km N of Indio, CA | 03:02 |
-| 🟢 1.0 | 18 km NNE of Indio, CA | 03:02 |
-| 🟢 1.2 | 20 km N of Indio, CA | 03:01 |
-| 🟢 1.6 | 58 km E of Egegik, Alaska | 03:00 |
-| 🟢 1.3 | 21 km NNE of Indio, CA | 02:58 |
-| 🟢 1.8 | 6 km SW of Volcano, Hawaii | 02:58 |
-| 🟢 1.6 | 9 km NE of Coso Junction, CA | 02:56 |
-| 🟢 1.2 | 20 km NNE of Indio, CA | 02:55 |
-| 🟠 3.5 | 16 km NNE of Indio, CA | 02:50 |
-| 🟢 1.0 | 18 km NNE of Indio, CA | 02:47 |
+| 🟢 0.8 | 6 km W of Cobb, CA | 04:39 |
+| 🟢 1.6 | 12 km ESE of Balmorhea, Texas | 04:38 |
+| 🟢 0.9 | 20 km N of Indio, CA | 04:37 |
+| 🟢 1.7 | 21 km N of Indio, CA | 04:35 |
+| 🟢 2.6 | 14 km S of Tres Pinos, CA | 04:34 |
+| 🟢 2.7 | 9 km SSE of Fowlerton, Texas | 04:26 |
+| 🟢 1.4 | 18 km N of Indio, CA | 04:23 |
+| 🟢 1.2 | 18 km N of Indio, CA | 04:21 |
+| 🟢 1.6 | 14 km E of Lucerne Valley, CA | 04:20 |
+| 🟢 1.1 | 20 km N of Indio, CA | 04:20 |
+| 🟢 0.9 | 20 km NNE of Indio, CA | 04:20 |
+| 🟢 1.1 | 19 km NNE of Indio, CA | 04:18 |
+| 🟢 0.9 | 20 km NNE of Indio, CA | 04:17 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 04:17 |
+| 🟢 1.7 | 18 km NNE of Indio, CA | 04:16 |
+| 🟢 1.5 | 12 km NNE of Houston, Alaska | 04:14 |
+| 🟢 1.0 | 20 km NNE of Indio, CA | 04:14 |
+| 🟢 1.1 | 2 km SSW of Mentone, CA | 04:13 |
+| 🟢 1.1 | 19 km NNE of Indio, CA | 04:07 |
+| 🟢 1.2 | 8 km NW of Happy Valley, Alaska | 04:07 |
+| 🟢 1.8 | 11 km W of Manton, CA | 04:06 |
+| 🟢 1.6 | 18 km NNE of Indio, CA | 04:02 |
+| 🟢 1.4 | 18 km N of Indio, CA | 04:01 |
+| 🟢 1.2 | 18 km N of Indio, CA | 04:00 |
+| 🟢 0.9 | 18 km NNE of Indio, CA | 03:59 |
+| 🟢 0.9 | 19 km NNE of Indio, CA | 03:58 |
+| 🟢 2.2 | 2 km SE of Belden, CA | 03:53 |
+| 🟢 1.2 | 19 km NNE of Indio, CA | 03:53 |
+| 🟢 1.0 | 19 km NNE of Indio, CA | 03:52 |
+| 🟢 1.0 | 17 km NNE of Indio, CA | 03:51 |
+| 🟢 1.1 | 18 km NNE of Indio, CA | 03:46 |
+| 🟢 1.1 | 20 km NNE of Indio, CA | 03:45 |
+| 🟢 0.9 | 19 km NNE of Indio, CA | 03:45 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
