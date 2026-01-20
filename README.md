@@ -2,22 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2015:30:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-119ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2016:36:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-284ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 18 km N of Indio, CA | 15:23 |
-| 🟢 0.4 | 6 km WNW of Cobb, CA | 15:20 |
-| 🟢 1.3 | 64 km S of Glacier View, Alaska | 15:10 |
-| 🟢 1.2 | 20 km N of Indio, CA | 15:08 |
-| 🟢 1.7 | 3 km NNE of Pinnacles, CA | 15:04 |
-| 🟢 0.8 | 18 km N of Indio, CA | 14:40 |
-| 🟢 1.0 | 20 km N of Indio, CA | 14:38 |
-| 🟢 0.4 | 9 km NE of Coso Junction, CA | 14:37 |
-| 🟢 2.0 | 2 km SW of Pāhala, Hawaii | 14:36 |
-| 🟢 1.9 | 20 km NNE of Indio, CA | 14:34 |
-| 🟢 0.7 | 17 km N of Indio, CA | 14:31 |
+| 🟢 3.0 | 21 km N of Indio, CA | 16:17 |
+| 🟢 1.0 | 107 km SSE of McCarthy, Alaska | 16:10 |
+| 🟢 1.6 | 9 km NE of Whitney, Nevada | 16:00 |
+| 🟢 2.1 | 38 km NNE of Chenega, Alaska | 15:56 |
+| 🟢 1.4 | 21 km N of Indio, CA | 15:40 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
