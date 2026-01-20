@@ -2,27 +2,29 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2011:23:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-385ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2012:50:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-437ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 18 km N of Indio, CA | 11:19 |
-| 🟢 1.1 | 21 km N of Indio, CA | 11:17 |
-| 🟢 1.2 | 18 km N of Indio, CA | 11:14 |
-| 🟢 1.0 | 18 km N of Indio, CA | 11:11 |
-| 🟢 1.4 | 18 km NNE of Indio, CA | 11:10 |
-| 🟢 1.9 | 32 km WSW of Empire, Nevada | 11:09 |
-| 🟢 2.1 | 18 km N of Indio, CA | 11:05 |
-| 🟢 0.7 | 18 km N of Indio, CA | 11:05 |
-| 🟢 0.8 | 20 km NNE of Indio, CA | 10:55 |
-| 🟢 1.0 | 20 km NNE of Indio, CA | 10:53 |
-| 🟢 1.5 | 20 km N of Indio, CA | 10:51 |
-| 🟢 0.2 | 6 km WSW of Anza, CA | 10:28 |
-| 🟢 1.0 | 20 km NNE of Indio, CA | 10:27 |
-| 🟢 0.9 | 18 km NNE of Indio, CA | 10:26 |
-| 🟢 0.1 | 6 km WSW of Anza, CA | 10:26 |
-| 🟠 3.3 | 25 km WSW of Gerlach, Nevada | 10:24 |
+| 🟢 1.4 | 3 km NNW of Pinnacles, CA | 12:47 |
+| 🟢 0.8 | 11 km WNW of The Geysers, CA | 12:44 |
+| 🟢 1.7 | 1 km SW of Pāhala, Hawaii | 12:38 |
+| 🟢 1.3 | 25 km WSW of Susitna North, Alaska | 12:28 |
+| 🟢 0.8 | 10 km WNW of The Geysers, CA | 12:28 |
+| 🟢 1.5 | 5 km WNW of Cobb, CA | 12:25 |
+| 🟢 1.2 | 17 km NNE of Indio, CA | 12:22 |
+| 🟢 0.6 | 20 km NNE of Indio, CA | 12:22 |
+| 🟢 2.8 | 30 km WNW of Gerlach, Nevada | 12:17 |
+| 🟢 0.5 | 9 km SSW of Idyllwild, CA | 12:16 |
+| 🟢 1.7 | 4 km SE of Pearsall, Texas | 12:15 |
+| 🟢 1.8 | 30 km WSW of Gerlach, Nevada | 12:14 |
+| 🟢 0.8 | 21 km NNE of Indio, CA | 12:05 |
+| 🟢 1.2 | 19 km NNE of Indio, CA | 12:04 |
+| 🟢 1.0 | 20 km NNE of Indio, CA | 12:04 |
+| 🟢 0.8 | 21 km NNE of Indio, CA | 12:02 |
+| 🟢 1.1 | 20 km NNE of Indio, CA | 11:55 |
+| 🟢 0.6 | 14 km WSW of Nenana, Alaska | 11:55 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
