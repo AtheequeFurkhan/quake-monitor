@@ -2,23 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2017:29:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-410ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2018:36:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-212ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟠 3.2 | 132 km WSW of Crescent City, CA | 17:24 |
-| 🟢 2.0 | 4 km ENE of La Parguera, Puerto Rico | 17:19 |
-| 🟢 1.3 | 6 km NE of Pinnacles, CA | 17:18 |
-| 🟢 1.6 | 16 km NNE of Chase, Alaska | 17:16 |
-| 🟢 2.0 | 12 km SE of Pinnacles, CA | 17:09 |
-| 🟢 1.5 | 52 km WNW of Nanwalek, Alaska | 17:08 |
-| 🟢 1.2 | 18 km N of Indio, CA | 16:58 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 16:54 |
-| 🟢 1.4 | 18 km NNE of Indio, CA | 16:44 |
-| 🟢 0.2 | 9 km SW of Idyllwild, CA | 16:42 |
-| 🟢 0.5 | 7 km NW of The Geysers, CA | 16:39 |
-| 🟢 2.1 | 43 km SW of Karluk, Alaska | 16:36 |
+| 🟢 1.6 | 10 km SW of Enterprise, Nevada | 18:25 |
+| 🟢 1.9 | 4 km NE of Pinnacles, CA | 18:22 |
+| 🟢 1.0 | 20 km N of Indio, CA | 18:21 |
+| 🟢 1.8 | 49 km NNW of Petersville, Alaska | 18:16 |
+| 🟢 1.2 | 20 km N of Indio, CA | 18:14 |
+| 🟢 1.7 | 17 km NNE of Indio, CA | 18:13 |
+| 🟢 1.9 | 36 km ESE of Cordova, Alaska | 18:01 |
+| 🟢 1.0 | 13 km SE of Tehachapi, CA | 17:57 |
+| 🟢 0.8 | 20 km NNE of Indio, CA | 17:56 |
+| 🔴 5.3 | 72 km ENE of Mutsu, Japan | 17:51 |
+| 🟢 1.2 | 7 km E of Ocotillo Wells, CA | 17:50 |
+| 🟢 1.0 | 20 km NNE of Indio, CA | 17:42 |
+| 🟢 0.9 | 20 km NNE of Indio, CA | 17:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
