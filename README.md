@@ -2,26 +2,34 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2009:33:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-336ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2010:27:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-253ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 20 km NNE of Indio, CA | 09:24 |
-| 🟢 1.2 | 19 km NNE of Indio, CA | 09:14 |
-| 🟢 1.2 | 20 km N of Indio, CA | 09:11 |
-| 🟢 1.9 | 20 km NNE of Indio, CA | 09:08 |
-| 🟢 1.6 | 20 km NNE of Indio, CA | 09:07 |
-| 🟢 0.4 | 10 km NE of Julian, CA | 09:07 |
-| 🟢 0.8 | 19 km NNE of Indio, CA | 09:02 |
-| 🟢 0.9 | 20 km NNE of Indio, CA | 08:59 |
-| 🟢 1.3 | 43 km SSE of Denali National Park, Alaska | 08:58 |
-| 🟢 2.1 | 4 km SE of Maria Antonia, Puerto Rico | 08:53 |
-| 🟢 0.8 | 20 km NNE of Indio, CA | 08:50 |
-| 🟢 1.7 | 20 km NNE of Indio, CA | 08:46 |
-| 🟠 4.7 | south of the Fiji Islands | 08:45 |
-| 🟢 1.1 | 21 km N of Indio, CA | 08:37 |
-| 🟢 1.1 | 21 km N of Indio, CA | 08:36 |
+| 🟢 0.8 | 18 km N of Indio, CA | 10:20 |
+| 🟢 1.5 | 19 km NNE of Indio, CA | 10:18 |
+| 🟢 1.8 | 5 km N of Pāhala, Hawaii | 10:17 |
+| 🟢 0.8 | 21 km NNE of Indio, CA | 10:05 |
+| 🟢 0.5 | 6 km ESE of Thousand Palms, CA | 10:02 |
+| 🟢 1.1 | 21 km NNE of Indio, CA | 10:00 |
+| 🟢 1.0 | 19 km NNE of Indio, CA | 09:57 |
+| 🟢 2.8 | 20 km NNE of Fishhook, Alaska | 09:56 |
+| 🟢 2.5 | 22 km WSW of Empire, Nevada | 09:56 |
+| 🟢 0.8 | 21 km N of Indio, CA | 09:55 |
+| 🟢 1.4 | 35 km WSW of Tatitlek, Alaska | 09:52 |
+| 🟢 1.8 | 6 km SE of Pearsall, Texas | 09:52 |
+| 🟢 1.7 | 30 km N of Petersville, Alaska | 09:49 |
+| 🟢 0.8 | 19 km N of Indio, CA | 09:49 |
+| 🟢 0.9 | 20 km NNE of Indio, CA | 09:47 |
+| 🟢 0.7 | 24 km NW of Ocotillo, CA | 09:45 |
+| 🟢 1.1 | 40 km W of Cohoe, Alaska | 09:43 |
+| 🟢 2.0 | 62 km ENE of Pedro Bay, Alaska | 09:38 |
+| 🟢 1.4 | 20 km NNE of Indio, CA | 09:34 |
+| 🟢 0.6 | 80 km S of McCarthy, Alaska | 09:32 |
+| 🟢 1.3 | 19 km NNE of Indio, CA | 09:32 |
+| 🟠 4.4 | 6 km SSW of Sainte-Rose, Guadeloupe | 09:31 |
+| 🟢 1.8 | 3 km SSW of Pāhala, Hawaii | 09:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
