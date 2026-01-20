@@ -2,40 +2,26 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2006:36:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-420ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2007:27:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-143ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.3 | 21 km N of Indio, CA | 07:22 |
+| 🟢 0.8 | 6 km NNE of San Jacinto, CA | 07:20 |
+| 🟢 1.8 | 50 km W of Ferry, Alaska | 07:18 |
+| 🟢 2.7 | 17 km NNE of Indio, CA | 07:18 |
+| 🟢 1.5 | 70 km SSE of Cantwell, Alaska | 07:12 |
+| 🟢 2.7 | 20 km NNE of Indio, CA | 07:02 |
+| 🟢 0.8 | 21 km NNE of Indio, CA | 06:57 |
+| 🟢 1.6 | 18 km N of Indio, CA | 06:54 |
+| 🟢 0.9 | 20 km NNE of Indio, CA | 06:46 |
+| 🟢 1.1 | 20 km N of Indio, CA | 06:44 |
+| 🟠 4.4 | 108 km S of Koróni, Greece | 06:38 |
+| 🟢 1.1 | 18 km N of Indio, CA | 06:35 |
+| 🟢 0.9 | 18 km NNE of Indio, CA | 06:34 |
 | 🟢 1.3 | 17 km N of Meadow Lakes, Alaska | 06:27 |
-| 🟢 0.9 | 13 km NNE of Midland, Texas | 06:27 |
-| 🟢 1.3 | 21 km N of Indio, CA | 06:26 |
-| 🟢 1.3 | 21 km N of Indio, CA | 06:20 |
-| 🟢 1.1 | 17 km N of Indio, CA | 06:18 |
-| 🟢 2.3 | 18 km NNE of Indio, CA | 06:15 |
-| 🟢 1.9 | 6 km SW of Volcano, Hawaii | 06:15 |
-| 🟢 1.4 | 20 km NNE of Indio, CA | 06:15 |
-| 🟢 1.4 | 18 km N of Indio, CA | 06:13 |
-| 🟢 1.8 | 19 km NNE of Indio, CA | 06:12 |
-| 🟢 1.8 | 18 km N of Indio, CA | 06:12 |
-| 🟢 0.9 | 18 km N of Indio, CA | 06:10 |
-| 🔴 5.2 | 269 km SSE of Georgetown, Saint Helena | 06:04 |
-| 🟢 0.8 | 18 km N of Indio, CA | 06:03 |
-| 🟢 1.5 | 48 km S of Glacier View, Alaska | 06:02 |
-| 🟢 1.0 | 11 km S of Joshua Tree, CA | 05:59 |
-| 🟢 1.0 | 19 km NNE of Indio, CA | 05:59 |
-| 🟢 1.4 | 18 km N of Indio, CA | 05:57 |
-| 🟢 1.4 | 18 km N of Indio, CA | 05:56 |
-| 🔴 5.2 | 261 km SSE of Georgetown, Saint Helena | 05:55 |
-| 🟢 2.1 | 20 km N of Indio, CA | 05:53 |
-| 🟢 1.3 | 31 km NNW of Beluga, Alaska | 05:50 |
-| 🟢 1.1 | 14 km WSW of Johannesburg, CA | 05:47 |
-| 🟠 3.9 | 21 km WSW of Gerlach, Nevada | 05:46 |
-| 🟠 3.3 | 17 km W of Empire, Nevada | 05:45 |
-| 🟢 1.3 | 21 km N of Indio, CA | 05:44 |
-| 🟢 0.6 | 19 km NNE of Indio, CA | 05:44 |
-| 🟢 3.0 | 13 km SSW of Nanwalek, Alaska | 05:42 |
-| 🔴 5.1 | 119 km NNE of Hihifo, Tonga | 05:39 |
+| 🟢 0.8 | 13 km NNE of Midland, Texas | 06:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
