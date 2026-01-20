@@ -2,34 +2,27 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2010:27:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-253ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2011:23:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-385ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 18 km N of Indio, CA | 10:20 |
-| 🟢 1.5 | 19 km NNE of Indio, CA | 10:18 |
-| 🟢 1.8 | 5 km N of Pāhala, Hawaii | 10:17 |
-| 🟢 0.8 | 21 km NNE of Indio, CA | 10:05 |
-| 🟢 0.5 | 6 km ESE of Thousand Palms, CA | 10:02 |
-| 🟢 1.1 | 21 km NNE of Indio, CA | 10:00 |
-| 🟢 1.0 | 19 km NNE of Indio, CA | 09:57 |
-| 🟢 2.8 | 20 km NNE of Fishhook, Alaska | 09:56 |
-| 🟢 2.5 | 22 km WSW of Empire, Nevada | 09:56 |
-| 🟢 0.8 | 21 km N of Indio, CA | 09:55 |
-| 🟢 1.4 | 35 km WSW of Tatitlek, Alaska | 09:52 |
-| 🟢 1.8 | 6 km SE of Pearsall, Texas | 09:52 |
-| 🟢 1.7 | 30 km N of Petersville, Alaska | 09:49 |
-| 🟢 0.8 | 19 km N of Indio, CA | 09:49 |
-| 🟢 0.9 | 20 km NNE of Indio, CA | 09:47 |
-| 🟢 0.7 | 24 km NW of Ocotillo, CA | 09:45 |
-| 🟢 1.1 | 40 km W of Cohoe, Alaska | 09:43 |
-| 🟢 2.0 | 62 km ENE of Pedro Bay, Alaska | 09:38 |
-| 🟢 1.4 | 20 km NNE of Indio, CA | 09:34 |
-| 🟢 0.6 | 80 km S of McCarthy, Alaska | 09:32 |
-| 🟢 1.3 | 19 km NNE of Indio, CA | 09:32 |
-| 🟠 4.4 | 6 km SSW of Sainte-Rose, Guadeloupe | 09:31 |
-| 🟢 1.8 | 3 km SSW of Pāhala, Hawaii | 09:30 |
+| 🟢 1.0 | 18 km N of Indio, CA | 11:19 |
+| 🟢 1.1 | 21 km N of Indio, CA | 11:17 |
+| 🟢 1.2 | 18 km N of Indio, CA | 11:14 |
+| 🟢 1.0 | 18 km N of Indio, CA | 11:11 |
+| 🟢 1.4 | 18 km NNE of Indio, CA | 11:10 |
+| 🟢 1.9 | 32 km WSW of Empire, Nevada | 11:09 |
+| 🟢 2.1 | 18 km N of Indio, CA | 11:05 |
+| 🟢 0.7 | 18 km N of Indio, CA | 11:05 |
+| 🟢 0.8 | 20 km NNE of Indio, CA | 10:55 |
+| 🟢 1.0 | 20 km NNE of Indio, CA | 10:53 |
+| 🟢 1.5 | 20 km N of Indio, CA | 10:51 |
+| 🟢 0.2 | 6 km WSW of Anza, CA | 10:28 |
+| 🟢 1.0 | 20 km NNE of Indio, CA | 10:27 |
+| 🟢 0.9 | 18 km NNE of Indio, CA | 10:26 |
+| 🟢 0.1 | 6 km WSW of Anza, CA | 10:26 |
+| 🟠 3.3 | 25 km WSW of Gerlach, Nevada | 10:24 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
