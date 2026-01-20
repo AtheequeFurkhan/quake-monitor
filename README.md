@@ -2,29 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2014:31:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-418ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2015:30:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-119ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 48 km SSW of Cantwell, Alaska | 14:25 |
-| 🟢 1.0 | 20 km NNE of Indio, CA | 14:22 |
-| 🟢 1.0 | 46 km W of Susitna, Alaska | 14:20 |
-| 🟢 2.3 | 16 km SSE of Fowlerton, Texas | 14:10 |
-| 🟢 0.7 | 10 km SE of Winchester, CA | 14:09 |
-| 🟢 1.9 | 4 km NNE of Balmorhea, Texas | 14:08 |
-| 🟢 1.0 | 18 km NNE of Indio, CA | 14:05 |
-| 🟢 0.4 | 14 km E of Anza, CA | 13:50 |
-| 🟢 0.7 | 9 km WNW of The Geysers, CA | 13:48 |
-| 🟢 0.9 | 19 km NNE of Indio, CA | 13:44 |
-| 🟠 4.8 | 252 km ESE of Tadine, New Caledonia | 13:42 |
-| 🟢 1.2 | 10 km WNW of The Geysers, CA | 13:42 |
-| 🟢 1.3 | 1 km NE of Woodland Hills, CA | 13:41 |
-| 🟢 0.9 | 8 km W of Palomar Observatory, CA | 13:40 |
-| 🟢 0.7 | 7 km NW of The Geysers, CA | 13:36 |
-| 🟢 1.6 | 19 km NNE of Indio, CA | 13:35 |
-| 🟢 1.0 | 20 km NNE of Indio, CA | 13:34 |
-| 🟢 0.8 | 17 km NNE of Indio, CA | 13:32 |
+| 🟢 1.0 | 18 km N of Indio, CA | 15:23 |
+| 🟢 0.4 | 6 km WNW of Cobb, CA | 15:20 |
+| 🟢 1.3 | 64 km S of Glacier View, Alaska | 15:10 |
+| 🟢 1.2 | 20 km N of Indio, CA | 15:08 |
+| 🟢 1.7 | 3 km NNE of Pinnacles, CA | 15:04 |
+| 🟢 0.8 | 18 km N of Indio, CA | 14:40 |
+| 🟢 1.0 | 20 km N of Indio, CA | 14:38 |
+| 🟢 0.4 | 9 km NE of Coso Junction, CA | 14:37 |
+| 🟢 2.0 | 2 km SW of Pāhala, Hawaii | 14:36 |
+| 🟢 1.9 | 20 km NNE of Indio, CA | 14:34 |
+| 🟢 0.7 | 17 km N of Indio, CA | 14:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
