@@ -2,37 +2,26 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2008:32:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-131ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2009:33:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-336ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 19 km NNE of Indio, CA | 08:26 |
-| 🟢 0.8 | 20 km NNE of Indio, CA | 08:25 |
-| 🟢 1.1 | 20 km N of Indio, CA | 08:24 |
-| 🟢 1.5 | 21 km N of Indio, CA | 08:23 |
-| 🟢 1.3 | 21 km N of Indio, CA | 08:22 |
-| 🟠 3.7 | 20 km N of Indio, CA | 08:20 |
-| 🟢 1.1 | 18 km NNE of Indio, CA | 08:19 |
-| 🟢 1.1 | 24 km NW of Ocotillo, CA | 08:11 |
-| 🟢 0.9 | 20 km NNE of Indio, CA | 08:09 |
-| 🟢 1.1 | 18 km N of Indio, CA | 08:07 |
-| 🟢 1.1 | 19 km NNE of Indio, CA | 08:03 |
-| 🟢 0.3 | 8 km WNW of Cobb, CA | 08:03 |
-| 🟢 1.1 | 20 km NNE of Indio, CA | 07:59 |
-| 🟢 0.8 | 19 km NNE of Indio, CA | 07:55 |
-| 🟢 1.5 | 37 km WSW of Empire, Nevada | 07:54 |
-| 🟢 0.9 | 20 km N of Indio, CA | 07:53 |
-| 🟢 1.6 | 19 km NNE of Indio, CA | 07:52 |
-| 🟢 1.6 | 19 km NNE of Indio, CA | 07:50 |
-| 🟢 2.1 | 18 km NNE of Indio, CA | 07:49 |
-| 🟢 1.4 | 53 km NNW of Petersville, Alaska | 07:45 |
-| 🟢 1.7 | 20 km NNE of Indio, CA | 07:44 |
-| 🟢 1.6 | 10 km SSE of Lake Pillsbury, CA | 07:44 |
-| 🟢 1.6 | 20 km S of Susitna, Alaska | 07:42 |
-| 🟢 0.8 | 14 km N of Borrego Springs, CA | 07:39 |
-| 🟢 1.3 | 18 km N of Indio, CA | 07:38 |
-| 🟢 1.8 | 20 km NNE of Indio, CA | 07:33 |
+| 🟢 0.8 | 20 km NNE of Indio, CA | 09:24 |
+| 🟢 1.2 | 19 km NNE of Indio, CA | 09:14 |
+| 🟢 1.2 | 20 km N of Indio, CA | 09:11 |
+| 🟢 1.9 | 20 km NNE of Indio, CA | 09:08 |
+| 🟢 1.6 | 20 km NNE of Indio, CA | 09:07 |
+| 🟢 0.4 | 10 km NE of Julian, CA | 09:07 |
+| 🟢 0.8 | 19 km NNE of Indio, CA | 09:02 |
+| 🟢 0.9 | 20 km NNE of Indio, CA | 08:59 |
+| 🟢 1.3 | 43 km SSE of Denali National Park, Alaska | 08:58 |
+| 🟢 2.1 | 4 km SE of Maria Antonia, Puerto Rico | 08:53 |
+| 🟢 0.8 | 20 km NNE of Indio, CA | 08:50 |
+| 🟢 1.7 | 20 km NNE of Indio, CA | 08:46 |
+| 🟠 4.7 | south of the Fiji Islands | 08:45 |
+| 🟢 1.1 | 21 km N of Indio, CA | 08:37 |
+| 🟢 1.1 | 21 km N of Indio, CA | 08:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
