@@ -2,23 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2018:42:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-297ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2019:27:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-434ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.8 | 4 km NNW of The Geysers, CA | 19:24 |
+| 🟢 2.7 | 119 km E of Chignik, Alaska | 19:18 |
+| 🟢 0.7 | 5 km W of Lake Henshaw, CA | 19:12 |
+| 🟢 0.4 | 15 km ENE of North Saanich, Canada | 19:09 |
+| 🟢 1.1 | 18 km NNE of Indio, CA | 19:00 |
+| 🟢 1.2 | 16 km N of Indio, CA | 18:54 |
+| 🟢 0.9 | 20 km ESE of Anza, CA | 18:52 |
+| 🟢 1.8 | 26 km WSW of Ackerly, Texas | 18:43 |
 | 🟢 2.2 | 21 km E of Willow Creek, CA | 18:34 |
 | 🟢 1.9 | 11 km ENE of Nikolaevsk, Alaska | 18:33 |
 | 🟢 1.0 | 16 km W of Johannesburg, CA | 18:33 |
-| 🟢 1.3 | 54 km NNE of Van Horn, Texas | 18:25 |
-| 🟢 1.8 | 6 km NW of The Geysers, CA | 18:21 |
-| 🟢 2.7 | 20 km N of Indio, CA | 18:16 |
-| 🟢 1.1 | 19 km N of Indio, CA | 18:07 |
-| 🟢 1.1 | 38 km SSE of Mammoth, Wyoming | 17:55 |
-| 🟢 1.7 | 58 km S of Whites City, New Mexico | 17:54 |
-| 🟢 1.3 | 5 km WNW of Cobb, CA | 17:53 |
-| 🟢 0.8 | 2 km WSW of Mojave, CA | 17:51 |
-| 🟢 1.1 | 38 km SSE of Mammoth, Wyoming | 17:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
