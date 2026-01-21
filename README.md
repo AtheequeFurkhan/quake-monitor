@@ -2,28 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2001:48:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-374ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2003:43:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-361ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 18 km N of Indio, CA | 01:42 |
-| 🟢 1.3 | 56 km E of Egegik, Alaska | 01:42 |
-| 🟢 1.8 | 30 km WNW of Valdez, Alaska | 01:41 |
-| 🟢 1.1 | 55 km SSE of Cantwell, Alaska | 01:36 |
-| 🔴 5.2 | 31 km WSW of Sangay, Philippines | 01:33 |
-| 🟢 1.5 | 18 km N of Indio, CA | 01:31 |
-| 🟢 0.5 | 8 km S of Idyllwild, CA | 01:27 |
-| 🟢 1.3 | 16 km SSW of Laytonville, CA | 01:26 |
-| 🟢 1.6 | 57 km SSE of King Salmon, Alaska | 01:21 |
-| 🟢 1.9 | 50 km WSW of Nanwalek, Alaska | 01:17 |
-| 🟢 1.1 | 18 km N of Indio, CA | 01:17 |
-| 🟢 1.6 | 29 km WNW of Valdez, Alaska | 01:13 |
-| 🟢 1.2 | 18 km N of Indio, CA | 01:08 |
-| 🔴 5.3 | 196 km N of Qalansīyah, Yemen | 01:05 |
-| 🟢 0.9 | 20 km NNE of Indio, CA | 01:02 |
-| 🟢 2.1 | 10 km S of Fowlerton, Texas | 00:55 |
-| 🟢 1.2 | 20 km NNE of Indio, CA | 00:52 |
+| 🟢 0.4 | 83 km NNW of Karluk, Alaska | 03:39 |
+| 🟢 0.7 | 2 km ENE of The Geysers, CA | 03:35 |
+| 🟢 1.0 | 19 km NNE of Indio, CA | 03:30 |
+| 🟢 1.8 | 59 km ENE of Pedro Bay, Alaska | 03:28 |
+| 🟢 2.2 | 25 km WNW of Volcano, Hawaii | 03:14 |
+| 🟢 1.6 | 6 km WNW of Borrego Springs, CA | 03:11 |
+| 🟢 1.1 | 18 km N of Indio, CA | 03:06 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
