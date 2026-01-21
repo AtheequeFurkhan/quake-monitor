@@ -2,32 +2,29 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2010:29:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-294ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2011:24:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-433ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 21 km N of Indio, CA | 10:15 |
-| 🟢 1.3 | 5 km NW of The Geysers, CA | 10:14 |
-| 🟢 0.9 | 21 km NNE of Indio, CA | 10:08 |
-| 🟢 0.9 | 21 km NNE of Indio, CA | 10:06 |
-| 🟢 0.8 | 21 km NNE of Indio, CA | 10:03 |
-| 🟢 0.5 | 9 km SW of Idyllwild, CA | 09:56 |
-| 🟢 1.0 | 21 km NNE of Indio, CA | 09:54 |
-| 🟢 0.8 | 21 km N of Indio, CA | 09:52 |
-| 🟢 0.2 | 6 km WNW of Cobb, CA | 09:52 |
-| 🟢 0.7 | 18 km N of Indio, CA | 09:50 |
-| 🟢 0.4 | 10 km WNW of The Geysers, CA | 09:49 |
-| 🟢 1.0 | 20 km NNE of Indio, CA | 09:47 |
-| 🟢 0.9 | 14 km W of Johannesburg, CA | 09:46 |
-| 🟢 2.0 | 25 km E of San Ardo, CA | 09:45 |
-| 🟢 0.5 | 5 km SW of Palomar Observatory, CA | 09:44 |
-| 🟢 1.0 | 19 km NNE of Indio, CA | 09:43 |
-| 🟢 1.0 | 21 km NNE of Indio, CA | 09:40 |
-| 🟢 0.8 | 20 km NNE of Indio, CA | 09:33 |
-| 🟢 0.8 | 6 km WNW of Cobb, CA | 09:33 |
-| 🟢 1.3 | 4 km W of Rio Dell, CA | 09:32 |
-| 🟠 3.7 | 27 km ESE of Halibut Cove, Alaska | 09:31 |
+| 🟢 1.9 | 21 km N of Indio, CA | 11:21 |
+| 🟢 0.7 | 7 km WNW of Cobb, CA | 11:16 |
+| 🟢 1.2 | 21 km NNE of Indio, CA | 11:13 |
+| 🟢 2.1 | 38 km NW of Valdez, Alaska | 11:09 |
+| 🟢 0.9 | 19 km NNE of Indio, CA | 11:07 |
+| 🟢 0.3 | 3 km NW of The Geysers, CA | 11:04 |
+| 🟢 0.9 | 21 km NNE of Indio, CA | 10:57 |
+| 🟢 1.8 | 13 km ENE of Pāhala, Hawaii | 10:57 |
+| 🟢 1.1 | 4 km W of Cobb, CA | 10:53 |
+| 🟢 0.6 | 21 km NNE of Indio, CA | 10:53 |
+| 🟢 2.2 | 54 km S of Whites City, New Mexico | 10:51 |
+| 🟢 0.7 | 6 km N of San Jacinto, CA | 10:51 |
+| 🟠 3.4 | 47 km SE of Boca de Yuma, Dominican Republic | 10:47 |
+| 🟢 2.8 | 64 km SSE of Kokhanok, Alaska | 10:40 |
+| 🟢 1.7 | 9 km ESE of Pearsall, Texas | 10:39 |
+| 🟢 0.7 | 9 km WNW of The Geysers, CA | 10:38 |
+| 🟢 0.2 | 6 km WNW of Cobb, CA | 10:37 |
+| 🟢 1.4 | 53 km WNW of Ninilchik, Alaska | 10:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
