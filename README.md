@@ -2,19 +2,34 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2008:32:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-248ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2009:32:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-499ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟠 4.4 | 11 km NE of Indio Hills, California | 08:30 |
-| 🟢 1.0 | 15 km WSW of Searles Valley, CA | 08:26 |
-| 🟢 1.0 | 22 km S of Stanton, Texas | 08:19 |
-| 🟢 2.4 | 65 km SE of Denali National Park, Alaska | 08:17 |
-| 🟢 2.0 | 28 km N of Glacier View, Alaska | 08:12 |
-| 🟢 1.1 | 17 km N of Indio, CA | 08:10 |
-| 🟢 0.6 | 18 km N of Indio, CA | 07:58 |
-| 🟢 1.1 | 4 km SSW of Calimesa, CA | 07:57 |
+| 🟢 0.8 | 21 km NNE of Indio, CA | 09:27 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 09:22 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 09:16 |
+| 🟢 2.2 | 45 km ESE of Cordova, Alaska | 09:15 |
+| 🟢 0.8 | 20 km NNE of Indio, CA | 09:14 |
+| 🟢 1.7 | 60 km ENE of Pedro Bay, Alaska | 09:12 |
+| 🟢 2.5 | 21 km NNE of Indio, CA | 09:08 |
+| 🟢 2.0 | 28 km WSW of Empire, Nevada | 09:02 |
+| 🟢 1.2 | 20 km N of Indio, CA | 08:57 |
+| 🟢 1.2 | 20 km NNE of Indio, CA | 08:57 |
+| 🟢 0.7 | 21 km N of Indio, CA | 08:54 |
+| 🟢 1.4 | 6 km E of Midland, Texas | 08:47 |
+| 🟢 1.8 | 20 km NNE of Indio, CA | 08:46 |
+| 🟢 0.9 | 19 km NNE of Indio, CA | 08:46 |
+| 🟢 0.8 | 21 km NNE of Indio, CA | 08:45 |
+| 🟢 1.1 | 21 km NNE of Indio, CA | 08:44 |
+| 🟢 1.6 | 18 km N of Indio, CA | 08:43 |
+| 🟢 1.2 | 21 km NNE of Indio, CA | 08:41 |
+| 🟢 1.0 | 21 km NNE of Indio, CA | 08:40 |
+| 🟢 0.7 | 21 km N of Indio, CA | 08:38 |
+| 🟢 1.4 | 21 km N of Indio, CA | 08:37 |
+| 🟢 2.0 | 21 km NNE of Indio, CA | 08:34 |
+| 🟢 2.7 | 5 km N of Quebradillas, Puerto Rico | 08:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
