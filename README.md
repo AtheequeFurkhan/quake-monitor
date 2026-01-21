@@ -2,17 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2016:46:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-276ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2017:54:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-396ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 61 km ENE of Pedro Bay, Alaska | 16:39 |
-| 🟢 0.8 | 40 km ENE of Olancha, CA | 16:39 |
-| 🟢 2.0 | 30 km SSE of Karluk, Alaska | 16:38 |
-| 🟢 1.0 | 21 km NNE of Indio, CA | 16:37 |
-| 🟢 2.4 | 41 km ENE of Pedro Bay, Alaska | 16:34 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 16:20 |
+| 🟢 1.3 | 19 km NNE of Indio, CA | 17:42 |
+| 🟢 0.2 | 8 km WNW of Cobb, CA | 17:42 |
+| 🟢 0.9 | 20 km NNE of Indio, CA | 17:29 |
+| 🟢 1.6 | 14 km NNE of Midland, Texas | 17:26 |
+| 🟢 1.2 | 19 km NNE of Indio, CA | 17:16 |
+| 🟢 1.1 | 20 km NNE of Indio, CA | 17:12 |
+| 🟢 1.1 | 6 km W of Cobb, CA | 17:11 |
+| 🟢 1.1 | 21 km N of Indio, CA | 17:10 |
+| 🟢 0.9 | 20 km NNE of Indio, CA | 17:05 |
+| 🟢 1.4 | 18 km NNE of Indio, CA | 17:04 |
+| 🟢 1.0 | 2 km WNW of Cabazon, CA | 16:56 |
+| 🟢 0.7 | 10 km WNW of The Geysers, CA | 16:54 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
