@@ -2,23 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2007:28:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-265ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2008:32:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-248ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 18 km N of Indio, CA | 07:21 |
-| 🟢 1.0 | 20 km N of Indio, CA | 07:13 |
-| 🟢 0.6 | 25 km SSW of Ocotillo Wells, CA | 07:11 |
-| 🟢 0.8 | 16 km W of Johannesburg, CA | 07:08 |
-| 🟢 0.8 | 18 km N of Indio, CA | 07:07 |
-| 🟢 0.8 | 18 km N of Indio, CA | 07:07 |
-| 🟢 1.3 | 3 km NW of The Geysers, CA | 07:05 |
-| 🟢 0.9 | 18 km N of Indio, CA | 06:48 |
-| 🟢 0.7 | 5 km N of Fontana, CA | 06:35 |
-| 🟢 0.7 | 18 km ESE of Anza, CA | 06:31 |
-| 🟢 2.5 | 25 km SE of Beaverdam, Nevada | 06:30 |
-| 🟢 1.3 | 2 km ENE of The Geysers, CA | 06:28 |
+| 🟠 4.4 | 11 km NE of Indio Hills, California | 08:30 |
+| 🟢 1.0 | 15 km WSW of Searles Valley, CA | 08:26 |
+| 🟢 1.0 | 22 km S of Stanton, Texas | 08:19 |
+| 🟢 2.4 | 65 km SE of Denali National Park, Alaska | 08:17 |
+| 🟢 2.0 | 28 km N of Glacier View, Alaska | 08:12 |
+| 🟢 1.1 | 17 km N of Indio, CA | 08:10 |
+| 🟢 0.6 | 18 km N of Indio, CA | 07:58 |
+| 🟢 1.1 | 4 km SSW of Calimesa, CA | 07:57 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
