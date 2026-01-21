@@ -2,22 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2006:36:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-354ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2007:28:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-265ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.5 | 18 km N of Indio, CA | 07:21 |
+| 🟢 1.0 | 20 km N of Indio, CA | 07:13 |
+| 🟢 0.6 | 25 km SSW of Ocotillo Wells, CA | 07:11 |
+| 🟢 0.8 | 16 km W of Johannesburg, CA | 07:08 |
+| 🟢 0.8 | 18 km N of Indio, CA | 07:07 |
+| 🟢 0.8 | 18 km N of Indio, CA | 07:07 |
+| 🟢 1.3 | 3 km NW of The Geysers, CA | 07:05 |
+| 🟢 0.9 | 18 km N of Indio, CA | 06:48 |
+| 🟢 0.7 | 5 km N of Fontana, CA | 06:35 |
 | 🟢 0.7 | 18 km ESE of Anza, CA | 06:31 |
 | 🟢 2.5 | 25 km SE of Beaverdam, Nevada | 06:30 |
 | 🟢 1.3 | 2 km ENE of The Geysers, CA | 06:28 |
-| 🟢 0.4 | 8 km NW of The Geysers, CA | 06:16 |
-| 🟢 0.9 | 19 km NNE of Indio, CA | 06:14 |
-| 🟢 2.2 | 37 km ESE of Pedro Bay, Alaska | 06:10 |
-| 🟢 1.3 | 20 km NNE of Indio, CA | 06:06 |
-| 🔴 5.1 | Banda Sea | 05:49 |
-| 🟢 0.8 | 19 km NNE of Indio, CA | 05:46 |
-| 🟢 1.7 | 69 km E of Port Alsworth, Alaska | 05:38 |
-| 🟢 0.4 | 72 km WNW of Beluga, Alaska | 05:37 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
