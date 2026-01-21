@@ -2,19 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2020:30:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-434ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2021:28:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-284ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 48 km SSE of Denali National Park, Alaska | 20:10 |
-| 🟢 1.2 | 18 km N of Indio, CA | 20:08 |
-| 🟢 0.9 | 4 km NNW of Murrieta, CA | 20:01 |
-| 🟢 1.1 | 13 km SE of Tehachapi, CA | 20:00 |
-| 🟢 0.9 | 12 km WSW of Toms Place, CA | 19:52 |
-| 🟢 2.1 | 17 km NNE of Indio, CA | 19:49 |
-| 🟢 1.3 | 83 km W of Karluk, Alaska | 19:48 |
-| 🟢 1.1 | 69 km ESE of Cantwell, Alaska | 19:39 |
+| 🟢 1.5 | 4 km WSW of Sunrise, Alaska | 21:21 |
+| 🟢 1.3 | 6 km NNW of Taft, CA | 21:07 |
+| 🟢 2.8 | 40 km ESE of Cordova, Alaska | 21:07 |
+| 🟢 1.4 | 7 km ESE of Chula Vista, CA | 21:04 |
+| 🟢 1.1 | 16 km N of Indio, CA | 20:56 |
+| 🟢 1.0 | 43 km W of Kalifornsky, Alaska | 20:49 |
+| 🟢 1.9 | 23 km S of Egegik, Alaska | 20:44 |
+| 🟢 1.1 | 6 km W of Cobb, CA | 20:40 |
+| 🟢 1.3 | 16 km W of Johannesburg, CA | 20:38 |
+| 🟢 1.5 | 16 km W of Johannesburg, CA | 20:37 |
+| 🟢 1.6 | 19 km N of Twentynine Palms, CA | 20:34 |
+| 🟢 1.2 | 7 km NNE of Westmorland, CA | 20:33 |
+| 🟢 1.2 | 20 km NNE of Indio, CA | 20:30 |
+| 🟠 4.5 | 9 km SE of Sındırgı, Turkey | 20:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
