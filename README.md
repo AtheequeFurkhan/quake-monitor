@@ -2,25 +2,26 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2013:45:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-373ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2014:30:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-301ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.2 | 39 km S of Central, Alaska | 14:27 |
+| 🟢 1.4 | 62 km ESE of Egegik, Alaska | 14:20 |
+| 🟢 1.4 | 17 km NNE of Indio, CA | 14:20 |
+| 🟢 1.3 | 50 km SSE of Denali National Park, Alaska | 14:19 |
+| 🟢 1.4 | 20 km NNE of Indio, CA | 14:12 |
+| 🟢 0.8 | 49 km SSE of Denali National Park, Alaska | 14:11 |
+| 🟢 2.7 | 7 km ESE of Santa Rosa, CA | 14:03 |
+| 🟠 4.1 | 47 km SSE of Denali National Park, Alaska | 14:03 |
+| 🟢 0.6 | 5 km NE of Fontana, CA | 13:59 |
+| 🟠 3.4 | 46 km SE of Fox River, Alaska | 13:52 |
 | 🟢 1.5 | 17 km N of Indio, CA | 13:39 |
 | 🟢 0.9 | 17 km NNE of Indio, CA | 13:37 |
 | 🟢 0.7 | 19 km N of Indio, CA | 13:36 |
 | 🟢 1.9 | 42 km NNW of Valdez, Alaska | 13:35 |
 | 🟢 2.2 | 19 km NNE of Indio, CA | 13:31 |
-| 🟢 0.8 | 6 km SSW of Idyllwild, CA | 13:28 |
-| 🟢 1.0 | 20 km NNE of Indio, CA | 13:27 |
-| 🟢 0.8 | 84 km NNW of Karluk, Alaska | 13:21 |
-| 🟢 0.7 | 14 km SSW of Borrego Springs, CA | 13:12 |
-| 🟢 1.1 | 6 km WNW of Cobb, CA | 13:10 |
-| 🟢 1.9 | 20 km NNE of Indio, CA | 12:58 |
-| 🟢 0.8 | 21 km NNE of Indio, CA | 12:57 |
-| 🟢 0.7 | 20 km NNE of Indio, CA | 12:53 |
-| 🟢 1.3 | 25 km SSE of Skwentna, Alaska | 12:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
