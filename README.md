@@ -2,22 +2,28 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2020%20Jan%202026%2023:22:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-392ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2001:48:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-374ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 6 km WNW of Cobb, CA | 23:12 |
-| 🟢 1.0 | 3 km NW of The Geysers, CA | 23:11 |
-| 🟢 2.1 | 50 km N of Larsen Bay, Alaska | 23:08 |
-| 🟢 1.1 | 18 km N of Indio, CA | 23:01 |
-| 🟢 0.8 | 9 km WNW of The Geysers, CA | 23:00 |
-| 🟢 2.1 | 13 km ENE of Pāhala, Hawaii | 22:54 |
-| 🟢 1.1 | 16 km WSW of Enterprise, Utah | 22:53 |
-| 🟢 2.7 | 39 km SSE of Adak, Alaska | 22:48 |
-| 🟢 1.2 | 21 km N of Indio, CA | 22:39 |
-| 🟢 0.9 | 25 km S of Brian Head, Utah | 22:22 |
-| 🟢 0.8 | 17 km N of Indio, CA | 22:22 |
+| 🟢 1.0 | 18 km N of Indio, CA | 01:42 |
+| 🟢 1.3 | 56 km E of Egegik, Alaska | 01:42 |
+| 🟢 1.8 | 30 km WNW of Valdez, Alaska | 01:41 |
+| 🟢 1.1 | 55 km SSE of Cantwell, Alaska | 01:36 |
+| 🔴 5.2 | 31 km WSW of Sangay, Philippines | 01:33 |
+| 🟢 1.5 | 18 km N of Indio, CA | 01:31 |
+| 🟢 0.5 | 8 km S of Idyllwild, CA | 01:27 |
+| 🟢 1.3 | 16 km SSW of Laytonville, CA | 01:26 |
+| 🟢 1.6 | 57 km SSE of King Salmon, Alaska | 01:21 |
+| 🟢 1.9 | 50 km WSW of Nanwalek, Alaska | 01:17 |
+| 🟢 1.1 | 18 km N of Indio, CA | 01:17 |
+| 🟢 1.6 | 29 km WNW of Valdez, Alaska | 01:13 |
+| 🟢 1.2 | 18 km N of Indio, CA | 01:08 |
+| 🔴 5.3 | 196 km N of Qalansīyah, Yemen | 01:05 |
+| 🟢 0.9 | 20 km NNE of Indio, CA | 01:02 |
+| 🟢 2.1 | 10 km S of Fowlerton, Texas | 00:55 |
+| 🟢 1.2 | 20 km NNE of Indio, CA | 00:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
