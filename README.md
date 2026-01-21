@@ -2,22 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2022:25:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-459ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2023:25:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-542ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 17 km NNE of Indio, CA | 22:19 |
-| 🟢 0.7 | 18 km N of Indio, CA | 22:17 |
-| 🟠 4.5 | Banda Sea | 22:05 |
-| 🟢 1.5 | 36 km ENE of Chase, Alaska | 22:03 |
-| 🟢 1.6 | 11 km ENE of Henderson, Nevada | 21:53 |
-| 🟢 1.7 | 9 km W of Forsan, Texas | 21:50 |
-| 🟢 2.3 | 18 km N of Indio, CA | 21:49 |
-| 🟢 1.3 | 18 km N of Indio, CA | 21:48 |
-| 🔴 5.1 | 102 km SSE of Hayuliang, India | 21:43 |
-| 🟢 1.1 | 18 km N of Indio, CA | 21:40 |
-| 🟢 0.7 | 33 km E of Clear, Alaska | 21:35 |
+| 🟢 1.1 | 10 km NW of The Geysers, CA | 23:23 |
+| 🟢 1.5 | 20 km NNE of Indio, CA | 23:18 |
+| 🟢 0.5 | 84 km NNW of Karluk, Alaska | 23:13 |
+| 🟢 1.2 | 51 km W of Tatitlek, Alaska | 23:13 |
+| 🟢 1.6 | 11 km SE of Homer, Alaska | 23:08 |
+| 🟢 0.7 | 25 km ENE of West Yellowstone, Montana | 23:06 |
+| 🟢 0.6 | 22 km ESE of Anza, CA | 23:01 |
+| 🟢 0.9 | 1 km ESE of Holladay, Utah | 22:53 |
+| 🟢 2.2 | 12 km ESE of Balmorhea, Texas | 22:52 |
+| 🟢 0.8 | 20 km NNE of Indio, CA | 22:50 |
+| 🔴 5.1 | 84 km N of Luwuk, Indonesia | 22:44 |
+| 🟢 1.3 | 18 km N of Indio, CA | 22:42 |
+| 🟢 1.7 | 4 km NW of San Juan Bautista, CA | 22:36 |
+| 🟢 1.5 | 24 km ENE of West Yellowstone, Montana | 22:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
