@@ -2,21 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2015:32:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-488ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2016:46:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-276ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.3 | 86 km NW of Karluk, Alaska | 15:30 |
-| 🟢 1.1 | 6 km WNW of Cobb, CA | 15:30 |
-| 🟢 0.5 | 32 km WNW of Valdez, Alaska | 15:18 |
-| 🟢 1.6 | 86 km NW of Karluk, Alaska | 15:13 |
-| 🟢 0.8 | 20 km NNE of Indio, CA | 15:12 |
-| 🟢 2.4 | 41 km WNW of Valdez, Alaska | 15:07 |
-| 🟢 1.6 | 21 km N of Indio, CA | 15:03 |
-| 🟢 1.7 | 19 km NNE of Indio, CA | 14:49 |
-| 🟢 2.4 | 19 km W of Petrolia, CA | 14:45 |
-| 🟢 1.3 | 41 km WNW of Anchor Point, Alaska | 14:42 |
+| 🟢 1.9 | 61 km ENE of Pedro Bay, Alaska | 16:39 |
+| 🟢 0.8 | 40 km ENE of Olancha, CA | 16:39 |
+| 🟢 2.0 | 30 km SSE of Karluk, Alaska | 16:38 |
+| 🟢 1.0 | 21 km NNE of Indio, CA | 16:37 |
+| 🟢 2.4 | 41 km ENE of Pedro Bay, Alaska | 16:34 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 16:20 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
