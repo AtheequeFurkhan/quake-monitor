@@ -2,26 +2,29 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2004:44:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-359ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2021%20Jan%202026%2005:28:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-355ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.1 | 18 km NNE of Indio, CA | 05:25 |
+| 🟢 1.5 | 87 km ENE of Lime Village, Alaska | 05:24 |
+| 🟢 1.0 | 14 km WSW of Johannesburg, CA | 05:22 |
+| 🟢 0.8 | 19 km NNE of Indio, CA | 05:19 |
+| 🟢 1.9 | 4 km SW of Pāhala, Hawaii | 05:12 |
+| 🟢 1.1 | 20 km NNE of Indio, CA | 05:01 |
+| 🟢 2.3 | 16 km N of Pāhala, Hawaii | 04:57 |
+| 🟢 2.1 | 11 km SSE of Volcano, Hawaii | 04:57 |
+| 🟢 0.7 | 19 km N of Indio, CA | 04:57 |
+| 🟢 1.2 | 18 km W of Forsan, Texas | 04:57 |
+| 🟢 1.8 | 77 km WSW of Karluk, Alaska | 04:55 |
+| 🔴 5.2 | South Sandwich Islands region | 04:54 |
+| 🟢 1.0 | 21 km N of Indio, CA | 04:47 |
+| 🟢 1.7 | 3 km SSE of Hōlualoa, Hawaii | 04:46 |
+| 🟢 2.0 | 35 km NW of Toyah, Texas | 04:43 |
 | 🟢 2.6 | 4 km W of Funny River, Alaska | 04:35 |
 | 🟢 0.7 | 7 km W of Cobb, CA | 04:29 |
 | 🟢 0.9 | 6 km SSE of Banning, CA | 04:28 |
-| 🟢 0.8 | 18 km N of Indio, CA | 04:24 |
-| 🟢 1.0 | 51 km SSE of Denali National Park, Alaska | 04:24 |
-| 🟠 4.8 | 278 km N of Gorontalo, Indonesia | 04:10 |
-| 🟢 1.1 | 20 km NNE of Indio, CA | 04:04 |
-| 🟢 1.4 | 8 km WNW of Cobb, CA | 04:02 |
-| 🟢 1.3 | 8 km WNW of Cobb, CA | 04:02 |
-| 🟢 2.5 | 19 km NNE of Indio, CA | 04:01 |
-| 🟢 1.1 | 19 km NNE of Indio, CA | 03:56 |
-| 🟢 1.9 | 52 km W of Karluk, Alaska | 03:55 |
-| 🟢 1.2 | 18 km N of Indio, CA | 03:50 |
-| 🟢 1.7 | 3 km E of The Geysers, CA | 03:47 |
-| 🟢 2.0 | 24 km WNW of Volcano, Hawaii | 03:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
