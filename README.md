@@ -2,27 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2008:32:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-229ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2009:32:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-290ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 37 km SE of Denali National Park, Alaska | 08:29 |
-| 🟢 1.1 | 18 km N of Indio, CA | 08:22 |
-| 🟢 0.9 | 18 km N of Indio, CA | 08:18 |
-| 🟢 0.9 | 18 km WSW of Toms Place, CA | 08:17 |
-| 🟢 1.1 | 102 km S of Kokhanok, Alaska | 08:14 |
-| 🟢 1.4 | 18 km N of Indio, CA | 08:12 |
-| 🟢 2.4 | 18 km N of Indio, CA | 08:10 |
-| 🟢 2.7 | 13 km NNE of Borrego Springs, CA | 08:09 |
-| 🟢 1.9 | 18 km N of Indio, CA | 08:08 |
-| 🟢 1.8 | 33 km ENE of Cordova, Alaska | 07:55 |
-| 🟢 1.9 | 9 km N of Cambria, CA | 07:49 |
-| 🟢 0.6 | 18 km N of Indio, CA | 07:46 |
-| 🟢 1.5 | 9 km N of Cambria, CA | 07:46 |
-| 🟢 1.9 | 47 km WNW of Toyah, Texas | 07:37 |
-| 🟢 2.3 | 9 km N of Cambria, CA | 07:36 |
-| 🟢 2.6 | 12 km SE of Coyanosa, Texas | 07:36 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 09:22 |
+| 🟢 1.2 | 16 km W of Johannesburg, CA | 09:16 |
+| 🟢 2.5 | 8 km SSE of Coyanosa, Texas | 09:11 |
+| 🟢 1.4 | 13 km NNE of Borrego Springs, CA | 09:01 |
+| 🟢 0.9 | 7 km NE of Imperial, CA | 08:58 |
+| 🟢 2.1 | 60 km WNW of Ninilchik, Alaska | 08:56 |
+| 🟢 1.1 | 3 km NW of The Geysers, CA | 08:56 |
+| 🟢 1.0 | 3 km SW of Anderson Springs, CA | 08:54 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
