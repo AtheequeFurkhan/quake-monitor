@@ -2,32 +2,31 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2005:28:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2006:35:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-403ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 11 km ESE of Mammoth Lakes, CA | 05:25 |
-| 🟢 2.1 | 16 km E of Pāhala, Hawaii | 05:20 |
-| 🟢 0.8 | 17 km N of Indio, CA | 05:16 |
-| 🟢 0.4 | 4 km WNW of The Geysers, CA | 05:12 |
-| 🟢 2.4 | 51 km NNW of Petersville, Alaska | 05:10 |
-| 🟢 1.3 | 22 km WNW of Garden City, Texas | 05:08 |
-| 🟢 1.1 | 18 km N of Indio, CA | 05:07 |
-| 🟢 2.0 | 14 km S of Volcano, Hawaii | 05:04 |
-| 🟢 2.2 | 20 km NNE of Indio, CA | 05:00 |
-| 🟢 0.8 | 21 km E of Little Lake, CA | 04:50 |
-| 🟢 1.0 | 20 km ESE of Little Lake, CA | 04:46 |
-| 🟢 1.2 | 19 km NNE of Indio, CA | 04:45 |
-| 🟢 0.8 | 19 km NNE of Indio, CA | 04:44 |
-| 🟢 0.8 | 103 km SE of McCarthy, Alaska | 04:39 |
-| 🟢 1.0 | 19 km NNE of Indio, CA | 04:32 |
-| 🟢 0.8 | 18 km ESE of Anza, CA | 04:28 |
+| 🟢 1.5 | 12 km ESE of Willits, CA | 06:28 |
+| 🟢 1.6 | 25 km NE of Susitna North, Alaska | 06:20 |
+| 🟢 1.6 | 5 km SE of Pinnacles, CA | 06:08 |
+| 🟢 1.5 | 16 km W of Johannesburg, CA | 06:07 |
+| 🟢 1.3 | 31 km ENE of Chase, Alaska | 06:04 |
+| 🟢 2.0 | 19 km SW of Pa‘auilo, Hawaii | 05:57 |
+| 🟢 1.5 | 29 km ENE of Cordova, Alaska | 05:52 |
+| 🟢 1.0 | 2 km WNW of Cabazon, CA | 05:51 |
+| 🟢 2.5 | 112 km SE of Ugashik, Alaska | 05:50 |
+| 🟢 1.3 | 66 km ESE of Cantwell, Alaska | 05:47 |
+| 🟢 0.8 | 3 km NNW of The Geysers, CA | 05:45 |
+| 🟢 1.3 | 47 km W of Nanwalek, Alaska | 05:39 |
+| 🟢 0.5 | 10 km NE of Julian, CA | 05:37 |
+| 🟢 1.3 | 18 km NNE of Indio, CA | 05:36 |
+| 🟢 1.6 | 18 km NNE of Indio, CA | 05:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
-- ⛈️ **Severe Storms**: [Tropical Cyclone 16P](https://www.metoc.navy.mil/jtwc/products/sh1626.tcw) (Jan 21)
+- ⛈️ **Severe Storms**: [Tropical Cyclone 16P](https://www.metoc.navy.mil/jtwc/products/sh1626.tcw) (Jan 22)
 - ⛈️ **Severe Storms**: [Tropical Cyclone Ewetse](https://www.metoc.navy.mil/jtwc/products/sh1526.tcw) (Jan 21)
 - 🔥 **Wildfires**: [Compartment 45 RX Prescribed Fire, Bibb, Alabama](https://irwin.doi.gov/observer/incidents/83de4ce1-0696-4fd6-8bbb-c37c84081516) (Jan 19)
 - 🔥 **Wildfires**: [Compartment 13A RX Prescribed Fire, Bibb, Alabama](https://irwin.doi.gov/observer/incidents/8de25a7c-241a-4d62-8174-f4b0c76ded9c) (Jan 19)
