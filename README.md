@@ -2,24 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2003:48:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-113ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2004:48:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-191ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 54 km WNW of Tatitlek, Alaska | 03:41 |
-| 🟢 0.8 | 19 km NNE of Indio, CA | 03:31 |
-| 🟢 0.5 | 6 km WSW of Warner Springs, CA | 03:30 |
-| 🟢 1.2 | 13 km WSW of Stanton, Texas | 03:30 |
-| 🟢 1.1 | 19 km NNE of Indio, CA | 03:29 |
-| 🟢 0.6 | 10 km ENE of Palomar Observatory, CA | 03:26 |
-| 🟢 1.0 | 8 km NNW of Fontana, CA | 03:23 |
-| 🟠 4.5 | 104 km N of Mīnāb, Iran | 03:21 |
-| 🟢 1.3 | 53 km E of Pedro Bay, Alaska | 03:20 |
-| 🟢 2.1 | 21 km W of Happy Valley, Alaska | 03:13 |
-| 🟢 2.1 | 10 km SSE of San Juan Bautista, CA | 03:06 |
-| 🟢 1.4 | 60 km S of Glacier View, Alaska | 03:03 |
-| 🟢 1.0 | 8 km SW of Salton City, CA | 03:01 |
+| 🟢 0.8 | 103 km SE of McCarthy, Alaska | 04:39 |
+| 🟢 1.0 | 19 km NNE of Indio, CA | 04:32 |
+| 🟢 0.8 | 18 km ESE of Anza, CA | 04:28 |
+| 🟢 3.0 | 2 km NW of Ames Lake, Washington | 04:22 |
+| 🟢 2.6 | 96 km WNW of Yakutat, Alaska | 04:21 |
+| 🟢 1.0 | 20 km NNE of Indio, CA | 04:15 |
+| 🟢 1.6 | 61 km SSW of Whites City, New Mexico | 04:09 |
+| 🟠 4.2 | 39 km S of Jurm, Afghanistan | 04:08 |
+| 🟢 1.6 | 44 km NW of Toyah, Texas | 04:05 |
+| 🟢 1.7 | 27 km E of Point Possession, Alaska | 03:58 |
+| 🟢 1.1 | 15 km SW of Trapper Creek, Alaska | 03:54 |
+| 🟠 4.9 | 71 km ESE of Yigo Village, Guam | 03:53 |
+| 🟢 1.5 | 19 km NNE of Susitna North, Alaska | 03:52 |
+| 🟢 0.5 | 10 km NW of The Geysers, CA | 03:51 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
