@@ -2,20 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2022:22:55%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-426ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2023:20:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-208ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.3 | 5 km WNW of Cobb, CA | 22:12 |
-| 🟢 1.7 | 22 km N of Karluk, Alaska | 22:12 |
-| 🟢 1.9 | 64 km WNW of Anchor Point, Alaska | 21:57 |
-| 🟢 2.0 | 11 km N of Pāhala, Hawaii | 21:46 |
-| 🟢 0.9 | 7 km NW of The Geysers, CA | 21:44 |
-| 🟢 1.1 | 4 km WNW of Orinda, CA | 21:30 |
-| 🟢 1.6 | 50 km NW of Toyah, Texas | 21:30 |
-| 🟢 1.2 | 31 km NW of Toyah, Texas | 21:28 |
-| 🟢 0.7 | 7 km NE of Anza, CA | 21:25 |
+| 🟢 1.5 | 52 km WNW of Tatitlek, Alaska | 23:15 |
+| 🟢 0.6 | 10 km N of Anza, CA | 23:15 |
+| 🟢 1.9 | 13 km SE of Pāhala, Hawaii | 22:58 |
+| 🟢 0.9 | 20 km E of Julian, CA | 22:44 |
+| 🟢 1.1 | 16 km W of Johannesburg, CA | 22:44 |
+| 🟢 0.7 | 20 km E of Julian, CA | 22:44 |
+| 🟢 0.6 | 8 km NW of The Geysers, CA | 22:40 |
+| 🟢 1.4 | 18 km NNE of Indio, CA | 22:32 |
+| 🟢 1.9 | 31 km SW of South Dos Palos, CA | 22:29 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
