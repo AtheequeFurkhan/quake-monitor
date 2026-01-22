@@ -2,20 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2010:27:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-182ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2011:23:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-479ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 21 km NNE of Indio, CA | 10:18 |
-| 🟢 1.9 | 2 km ENE of Banning, CA | 10:11 |
-| 🟢 1.6 | 9 km NNE of Borrego Springs, CA | 10:08 |
-| 🟢 1.8 | 17 km NNE of Indio, CA | 10:08 |
-| 🟢 2.7 | 22 km N of Midland, Texas | 10:04 |
-| 🟢 1.7 | 10 km ESE of Willits, CA | 09:59 |
-| 🟢 1.0 | 6 km NNW of The Geysers, CA | 09:53 |
-| 🟢 0.2 | 6 km W of Cobb, CA | 09:53 |
-| 🟢 1.4 | 20 km NNE of Indio, CA | 09:32 |
+| 🟢 1.2 | 6 km NE of Ninilchik, Alaska | 11:18 |
+| 🟢 2.0 | 10 km ENE of Pāhala, Hawaii | 11:15 |
+| 🟠 3.9 | 117 km SSE of Ugashik, Alaska | 11:11 |
+| 🟢 0.7 | 21 km NNE of Indio, CA | 11:09 |
+| 🟢 2.1 | 11 km NNE of Susitna North, Alaska | 11:01 |
+| 🟢 1.5 | 3 km WSW of Anderson Springs, CA | 11:01 |
+| 🟢 1.8 | 56 km NE of Chenega, Alaska | 10:43 |
+| 🟢 1.6 | 59 km ESE of Denali Park, Alaska | 10:34 |
+| 🟠 4.5 | 120 km S of Akureyri, Iceland | 10:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
