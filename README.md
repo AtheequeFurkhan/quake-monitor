@@ -2,19 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2009:32:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-290ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2010:27:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-182ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 09:22 |
-| 🟢 1.2 | 16 km W of Johannesburg, CA | 09:16 |
-| 🟢 2.5 | 8 km SSE of Coyanosa, Texas | 09:11 |
-| 🟢 1.4 | 13 km NNE of Borrego Springs, CA | 09:01 |
-| 🟢 0.9 | 7 km NE of Imperial, CA | 08:58 |
-| 🟢 2.1 | 60 km WNW of Ninilchik, Alaska | 08:56 |
-| 🟢 1.1 | 3 km NW of The Geysers, CA | 08:56 |
-| 🟢 1.0 | 3 km SW of Anderson Springs, CA | 08:54 |
+| 🟢 1.1 | 21 km NNE of Indio, CA | 10:18 |
+| 🟢 1.9 | 2 km ENE of Banning, CA | 10:11 |
+| 🟢 1.6 | 9 km NNE of Borrego Springs, CA | 10:08 |
+| 🟢 1.8 | 17 km NNE of Indio, CA | 10:08 |
+| 🟢 2.7 | 22 km N of Midland, Texas | 10:04 |
+| 🟢 1.7 | 10 km ESE of Willits, CA | 09:59 |
+| 🟢 1.0 | 6 km NNW of The Geysers, CA | 09:53 |
+| 🟢 0.2 | 6 km W of Cobb, CA | 09:53 |
+| 🟢 1.4 | 20 km NNE of Indio, CA | 09:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
