@@ -2,20 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2012:50:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-442ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2013:47:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-184ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 24 km E of San Ardo, CA | 12:41 |
-| 🟢 0.3 | 8 km NW of The Geysers, CA | 12:39 |
-| 🟢 1.3 | 17 km NNE of Indio, CA | 12:31 |
-| 🟢 1.3 | 17 km WSW of Johannesburg, CA | 12:19 |
-| 🟠 3.7 | 55 km SSE of Boca de Yuma, Dominican Republic | 12:09 |
-| 🟢 0.7 | 19 km N of Indio, CA | 12:01 |
-| 🟢 1.1 | 16 km W of Johannesburg, CA | 11:56 |
-| 🟢 1.0 | 7 km E of Cloverdale, CA | 11:54 |
-| 🟢 1.3 | 32 km SE of Valdez, Alaska | 11:53 |
+| 🟢 0.8 | 21 km NNE of Indio, CA | 13:41 |
+| 🟢 1.4 | 70 km ESE of Cantwell, Alaska | 13:35 |
+| 🟢 2.0 | 6 km ENE of North Pearsall, Texas | 13:31 |
+| 🟢 1.1 | 6 km SE of San Juan Bautista, CA | 13:30 |
+| 🟢 1.7 | 3 km SW of Houston, Alaska | 13:27 |
+| 🟢 1.3 | 7 km NW of The Geysers, CA | 13:00 |
+| 🟢 1.7 | 19 km NNE of Indio, CA | 12:49 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
