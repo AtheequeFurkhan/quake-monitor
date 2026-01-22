@@ -2,25 +2,27 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2004:48:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-191ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2005:28:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.8 | 11 km ESE of Mammoth Lakes, CA | 05:25 |
+| 🟢 2.1 | 16 km E of Pāhala, Hawaii | 05:20 |
+| 🟢 0.8 | 17 km N of Indio, CA | 05:16 |
+| 🟢 0.4 | 4 km WNW of The Geysers, CA | 05:12 |
+| 🟢 2.4 | 51 km NNW of Petersville, Alaska | 05:10 |
+| 🟢 1.3 | 22 km WNW of Garden City, Texas | 05:08 |
+| 🟢 1.1 | 18 km N of Indio, CA | 05:07 |
+| 🟢 2.0 | 14 km S of Volcano, Hawaii | 05:04 |
+| 🟢 2.2 | 20 km NNE of Indio, CA | 05:00 |
+| 🟢 0.8 | 21 km E of Little Lake, CA | 04:50 |
+| 🟢 1.0 | 20 km ESE of Little Lake, CA | 04:46 |
+| 🟢 1.2 | 19 km NNE of Indio, CA | 04:45 |
+| 🟢 0.8 | 19 km NNE of Indio, CA | 04:44 |
 | 🟢 0.8 | 103 km SE of McCarthy, Alaska | 04:39 |
 | 🟢 1.0 | 19 km NNE of Indio, CA | 04:32 |
 | 🟢 0.8 | 18 km ESE of Anza, CA | 04:28 |
-| 🟢 3.0 | 2 km NW of Ames Lake, Washington | 04:22 |
-| 🟢 2.6 | 96 km WNW of Yakutat, Alaska | 04:21 |
-| 🟢 1.0 | 20 km NNE of Indio, CA | 04:15 |
-| 🟢 1.6 | 61 km SSW of Whites City, New Mexico | 04:09 |
-| 🟠 4.2 | 39 km S of Jurm, Afghanistan | 04:08 |
-| 🟢 1.6 | 44 km NW of Toyah, Texas | 04:05 |
-| 🟢 1.7 | 27 km E of Point Possession, Alaska | 03:58 |
-| 🟢 1.1 | 15 km SW of Trapper Creek, Alaska | 03:54 |
-| 🟠 4.9 | 71 km ESE of Yigo Village, Guam | 03:53 |
-| 🟢 1.5 | 19 km NNE of Susitna North, Alaska | 03:52 |
-| 🟢 0.5 | 10 km NW of The Geysers, CA | 03:51 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
