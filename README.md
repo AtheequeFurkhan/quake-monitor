@@ -2,24 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2015:31:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-326ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2016:36:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-392ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 23 km SE of Waimea, Hawaii | 15:22 |
-| 🟢 2.0 | 30 km ENE of Susitna North, Alaska | 15:09 |
-| 🟢 0.9 | 72 km NW of Karluk, Alaska | 15:07 |
-| 🟢 1.4 | 54 km W of Clear, Alaska | 15:07 |
-| 🟢 2.2 | 0 km N of Pāhala, Hawaii | 15:01 |
-| 🟢 2.0 | 42 km ENE of Oakley, Utah | 14:54 |
-| 🟢 1.2 | 27 km SSW of Snowville, Utah | 14:53 |
-| 🟠 4.7 | 40 km S of Evanston, Wyoming | 14:49 |
-| 🟢 2.4 | 42 km SSE of Evanston, Wyoming | 14:47 |
-| 🟢 1.9 | 20 km NNE of Indio, CA | 14:47 |
-| 🟢 1.5 | 37 km NW of Toyah, Texas | 14:39 |
-| 🟢 1.4 | 73 km NW of Karluk, Alaska | 14:34 |
-| 🔴 5.3 | 94 km E of Yokohama, Japan | 14:31 |
+| 🟠 3.2 | 22 km WNW of Tatitlek, Alaska | 15:53 |
+| 🟢 1.1 | 6 km WNW of Cobb, CA | 15:51 |
+| 🟢 1.1 | 21 km NNE of Indio, CA | 15:47 |
+| 🟢 2.2 | 1 km S of Indios, Puerto Rico | 15:46 |
+| 🟢 2.0 | 43 km NE of Samak, Utah | 15:44 |
+| 🟢 1.2 | 53 km E of Pedro Bay, Alaska | 15:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
