@@ -2,26 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2006:35:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-403ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2007:27:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-455ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.7 | 11 km NW of Warner Springs, CA | 07:10 |
+| 🟢 2.9 | 11 km E of Ninilchik, Alaska | 07:07 |
+| 🟢 2.8 | 22 km SSE of Clam Gulch, Alaska | 07:06 |
+| 🟢 1.1 | 3 km NE of The Geysers, CA | 07:03 |
+| 🟢 1.3 | 13 km N of Fillmore, CA | 06:50 |
+| 🟢 2.6 | 1 km NNW of Edgefield, Louisiana | 06:46 |
+| 🟢 1.8 | 1 km SW of Pāhala, Hawaii | 06:46 |
+| 🟢 1.5 | 11 km WSW of Stanton, Texas | 06:46 |
+| 🟢 1.2 | 11 km WSW of Stanton, Texas | 06:41 |
+| 🟢 1.7 | 49 km ENE of Chenega, Alaska | 06:41 |
+| 🟢 1.0 | 6 km N of Beaumont, CA | 06:40 |
 | 🟢 1.5 | 12 km ESE of Willits, CA | 06:28 |
-| 🟢 1.6 | 25 km NE of Susitna North, Alaska | 06:20 |
-| 🟢 1.6 | 5 km SE of Pinnacles, CA | 06:08 |
-| 🟢 1.5 | 16 km W of Johannesburg, CA | 06:07 |
-| 🟢 1.3 | 31 km ENE of Chase, Alaska | 06:04 |
-| 🟢 2.0 | 19 km SW of Pa‘auilo, Hawaii | 05:57 |
-| 🟢 1.5 | 29 km ENE of Cordova, Alaska | 05:52 |
-| 🟢 1.0 | 2 km WNW of Cabazon, CA | 05:51 |
-| 🟢 2.5 | 112 km SE of Ugashik, Alaska | 05:50 |
-| 🟢 1.3 | 66 km ESE of Cantwell, Alaska | 05:47 |
-| 🟢 0.8 | 3 km NNW of The Geysers, CA | 05:45 |
-| 🟢 1.3 | 47 km W of Nanwalek, Alaska | 05:39 |
-| 🟢 0.5 | 10 km NE of Julian, CA | 05:37 |
-| 🟢 1.3 | 18 km NNE of Indio, CA | 05:36 |
-| 🟢 1.6 | 18 km NNE of Indio, CA | 05:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
