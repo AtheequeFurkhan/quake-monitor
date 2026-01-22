@@ -2,17 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2016:36:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-392ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2017:28:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-381ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟠 3.2 | 22 km WNW of Tatitlek, Alaska | 15:53 |
-| 🟢 1.1 | 6 km WNW of Cobb, CA | 15:51 |
-| 🟢 1.1 | 21 km NNE of Indio, CA | 15:47 |
-| 🟢 2.2 | 1 km S of Indios, Puerto Rico | 15:46 |
-| 🟢 2.0 | 43 km NE of Samak, Utah | 15:44 |
-| 🟢 1.2 | 53 km E of Pedro Bay, Alaska | 15:39 |
+| 🟢 1.3 | 67 km W of Tyonek, Alaska | 17:17 |
+| 🟢 0.9 | 9 km NW of The Geysers, CA | 17:00 |
+| 🟢 1.2 | 20 km N of Indio, CA | 16:55 |
+| 🟢 1.8 | 3 km WSW of Willow, Alaska | 16:54 |
+| 🟢 1.4 | 2 km N of The Geysers, CA | 16:49 |
+| 🟢 1.3 | 8 km SE of Valle Vista, CA | 16:45 |
+| 🟢 0.6 | 12 km WSW of Parkfield, CA | 16:40 |
+| 🟢 1.1 | 43 km SSE of Evanston, Wyoming | 16:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
