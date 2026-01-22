@@ -2,22 +2,26 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2019:24:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-307ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2020:27:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-305ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 19:08 |
-| 🟢 1.0 | 61 km NE of Whittier, Alaska | 19:04 |
-| 🟢 1.6 | 16 km W of Johannesburg, CA | 19:01 |
-| 🟢 2.1 | 16 km W of Volcano, Hawaii | 18:57 |
-| 🟢 2.2 | 8 km NW of The Geysers, CA | 18:53 |
-| 🟢 2.4 | 8 km NW of The Geysers, CA | 18:53 |
-| 🟢 1.6 | 17 km NNE of Indio, CA | 18:47 |
-| 🟢 2.0 | 17 km NNE of Indio, CA | 18:45 |
-| 🟢 1.2 | 8 km N of Cambria, CA | 18:44 |
-| 🟢 1.1 | 41 km NE of Samak, Utah | 18:33 |
-| 🟢 1.8 | 56 km S of Whites City, New Mexico | 18:28 |
+| 🟢 1.2 | 6 km NNE of Banning, CA | 20:24 |
+| 🟢 1.3 | 38 km SE of Denali National Park, Alaska | 20:21 |
+| 🟢 1.1 | 15 km S of Joshua Tree, CA | 20:10 |
+| 🟢 0.3 | 4 km W of Cobb, CA | 20:08 |
+| 🟢 1.6 | 6 km S of Mojave, CA | 20:06 |
+| 🟢 2.4 | 2 km WSW of Funny River, Alaska | 20:05 |
+| 🟢 0.8 | 21 km NNE of Indio, CA | 19:52 |
+| 🟢 1.5 | 53 km E of Pedro Bay, Alaska | 19:50 |
+| 🟢 1.6 | 5 km NNW of The Geysers, CA | 19:48 |
+| 🟢 0.6 | 10 km NW of The Geysers, CA | 19:47 |
+| 🟢 1.4 | 20 km NNE of Indio, CA | 19:46 |
+| 🟢 1.9 | 41 km SSE of Evanston, Wyoming | 19:44 |
+| 🔴 5.2 | 120 km SSE of Sand Point, Alaska | 19:38 |
+| 🟢 0.7 | 100 km SSE of McCarthy, Alaska | 19:35 |
+| 🟢 1.2 | 7 km N of Fontana, CA | 19:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
