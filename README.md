@@ -2,27 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2001:48:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-380ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2003:48:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-113ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 17 km NNE of Indio, CA | 01:42 |
-| 🟢 0.2 | 8 km NW of The Geysers, CA | 01:38 |
-| 🟢 1.4 | 8 km NW of The Geysers, CA | 01:38 |
-| 🟢 1.0 | 8 km NW of The Geysers, CA | 01:37 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 01:35 |
-| 🟢 1.0 | 20 km NNE of Indio, CA | 01:32 |
-| 🟢 1.6 | 61 km W of Anchor Point, Alaska | 01:30 |
-| 🟢 0.7 | 8 km W of Cobb, CA | 01:25 |
-| 🟢 0.1 | 57 km SSE of McCarthy, Alaska | 01:17 |
-| 🟢 1.2 | 20 km NNE of Indio, CA | 01:13 |
-| 🟢 0.3 | 80 km S of McCarthy, Alaska | 01:04 |
-| 🟢 1.2 | 12 km ESE of Coahoma, Texas | 01:02 |
-| 🟢 1.7 | 10 km SSE of Forsan, Texas | 00:55 |
-| 🟢 1.6 | 20 km NNE of Indio, CA | 00:55 |
-| 🟢 1.3 | 19 km N of Indio, CA | 00:52 |
-| 🟢 1.8 | 71 km N of Hiko, Nevada | 00:50 |
+| 🟢 0.9 | 54 km WNW of Tatitlek, Alaska | 03:41 |
+| 🟢 0.8 | 19 km NNE of Indio, CA | 03:31 |
+| 🟢 0.5 | 6 km WSW of Warner Springs, CA | 03:30 |
+| 🟢 1.2 | 13 km WSW of Stanton, Texas | 03:30 |
+| 🟢 1.1 | 19 km NNE of Indio, CA | 03:29 |
+| 🟢 0.6 | 10 km ENE of Palomar Observatory, CA | 03:26 |
+| 🟢 1.0 | 8 km NNW of Fontana, CA | 03:23 |
+| 🟠 4.5 | 104 km N of Mīnāb, Iran | 03:21 |
+| 🟢 1.3 | 53 km E of Pedro Bay, Alaska | 03:20 |
+| 🟢 2.1 | 21 km W of Happy Valley, Alaska | 03:13 |
+| 🟢 2.1 | 10 km SSE of San Juan Bautista, CA | 03:06 |
+| 🟢 1.4 | 60 km S of Glacier View, Alaska | 03:03 |
+| 🟢 1.0 | 8 km SW of Salton City, CA | 03:01 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
