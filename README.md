@@ -2,19 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2017:28:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-381ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2018:32:55%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-369ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 67 km W of Tyonek, Alaska | 17:17 |
-| 🟢 0.9 | 9 km NW of The Geysers, CA | 17:00 |
-| 🟢 1.2 | 20 km N of Indio, CA | 16:55 |
-| 🟢 1.8 | 3 km WSW of Willow, Alaska | 16:54 |
-| 🟢 1.4 | 2 km N of The Geysers, CA | 16:49 |
-| 🟢 1.3 | 8 km SE of Valle Vista, CA | 16:45 |
-| 🟢 0.6 | 12 km WSW of Parkfield, CA | 16:40 |
-| 🟢 1.1 | 43 km SSE of Evanston, Wyoming | 16:28 |
+| 🟢 1.8 | 56 km S of Whites City, New Mexico | 18:28 |
+| 🟢 1.2 | 20 km W of Clam Gulch, Alaska | 18:22 |
+| 🟢 1.1 | 18 km NNE of Indio, CA | 18:15 |
+| 🟢 1.7 | 17 km NNE of Indio, CA | 18:14 |
+| 🟢 1.0 | 9 km WNW of Cobb, CA | 18:12 |
+| 🟢 1.1 | 15 km W of Johannesburg, CA | 18:02 |
+| 🟢 2.6 | 19 km NE of Pedro Bay, Alaska | 17:59 |
+| 🟢 1.0 | 15 km W of Johannesburg, CA | 17:57 |
+| 🟢 1.1 | 9 km NNE of Badger, Alaska | 17:54 |
+| 🟢 2.2 | 9 km E of Pearsall, Texas | 17:47 |
+| 🟢 2.3 | 8 km NNE of Badger, Alaska | 17:43 |
+| 🟢 1.8 | 3 km ENE of Lilbourn, Missouri | 17:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
