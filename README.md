@@ -2,20 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2011:23:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-479ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2012:50:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-442ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 6 km NE of Ninilchik, Alaska | 11:18 |
-| 🟢 2.0 | 10 km ENE of Pāhala, Hawaii | 11:15 |
-| 🟠 3.9 | 117 km SSE of Ugashik, Alaska | 11:11 |
-| 🟢 0.7 | 21 km NNE of Indio, CA | 11:09 |
-| 🟢 2.1 | 11 km NNE of Susitna North, Alaska | 11:01 |
-| 🟢 1.5 | 3 km WSW of Anderson Springs, CA | 11:01 |
-| 🟢 1.8 | 56 km NE of Chenega, Alaska | 10:43 |
-| 🟢 1.6 | 59 km ESE of Denali Park, Alaska | 10:34 |
-| 🟠 4.5 | 120 km S of Akureyri, Iceland | 10:28 |
+| 🟢 0.8 | 24 km E of San Ardo, CA | 12:41 |
+| 🟢 0.3 | 8 km NW of The Geysers, CA | 12:39 |
+| 🟢 1.3 | 17 km NNE of Indio, CA | 12:31 |
+| 🟢 1.3 | 17 km WSW of Johannesburg, CA | 12:19 |
+| 🟠 3.7 | 55 km SSE of Boca de Yuma, Dominican Republic | 12:09 |
+| 🟢 0.7 | 19 km N of Indio, CA | 12:01 |
+| 🟢 1.1 | 16 km W of Johannesburg, CA | 11:56 |
+| 🟢 1.0 | 7 km E of Cloverdale, CA | 11:54 |
+| 🟢 1.3 | 32 km SE of Valdez, Alaska | 11:53 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
