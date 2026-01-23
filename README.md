@@ -2,19 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2003:42:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-290ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2004:42:22%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-412ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.4 | 3 km NW of Fontana, CA | 03:33 |
-| 🟢 1.3 | 14 km S of Tres Pinos, CA | 03:31 |
-| 🟢 0.8 | 6 km NNW of The Geysers, CA | 03:17 |
-| 🟢 1.4 | 17 km NNE of Indio, CA | 03:14 |
-| 🟢 0.9 | 8 km NW of The Geysers, CA | 02:59 |
-| 🟢 1.3 | 6 km WNW of Cobb, CA | 02:55 |
-| 🟢 0.9 | 83 km NNW of Karluk, Alaska | 02:51 |
-| 🟢 1.3 | 3 km NW of The Geysers, CA | 02:51 |
+| 🟢 1.1 | 7 km NW of The Geysers, CA | 04:37 |
+| 🟢 1.1 | 4 km NNW of The Geysers, CA | 04:35 |
+| 🟢 1.8 | 27 km ENE of Sterling, Alaska | 04:23 |
+| 🟢 1.1 | 17 km WSW of Johannesburg, CA | 04:21 |
+| 🟢 0.7 | 10 km SE of Winchester, CA | 04:08 |
+| 🟢 0.3 | 6 km E of Valle Vista, CA | 04:07 |
+| 🟢 0.4 | 8 km NW of The Geysers, CA | 03:58 |
+| 🟢 2.0 | 5 km SE of Pinnacles, CA | 03:55 |
+| 🟠 3.1 | 33 km NNE of Larsen Bay, Alaska | 03:50 |
+| 🟠 3.4 | 145 km SSE of Sand Point, Alaska | 03:49 |
+| 🟠 3.7 | 95 km NNE of Cruz Bay, U.S. Virgin Islands | 03:43 |
+| 🟢 1.9 | 5 km WSW of Volcano, Hawaii | 03:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
