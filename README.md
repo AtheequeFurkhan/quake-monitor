@@ -2,28 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2010:25:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-183ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2011:20:55%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.1 | 21 km NNE of Indio, CA | 11:16 |
+| 🟢 1.7 | 9 km SSW of Alberto Oviedo Mota, B.C., MX | 11:13 |
+| 🟢 0.7 | 2 km SSW of Salcha, Alaska | 11:12 |
+| 🟢 1.3 | 19 km NNE of Indio, CA | 11:10 |
+| 🟢 1.2 | 93 km WNW of Aleneva, Alaska | 11:10 |
+| 🟢 0.6 | 5 km WNW of Cobb, CA | 10:53 |
+| 🟢 1.9 | 4 km SE of San Ramon, CA | 10:31 |
+| 🟢 0.9 | 2 km WSW of Lytle Creek, CA | 10:29 |
+| 🟢 0.2 | 8 km NW of The Geysers, CA | 10:24 |
 | 🟢 1.6 | 6 km WNW of Cobb, CA | 10:22 |
 | 🟢 0.4 | 7 km NW of The Geysers, CA | 10:21 |
-| 🟢 1.0 | 10 km W of Pine Valley, CA | 10:21 |
-| 🟢 1.1 | 16 km W of Johannesburg, CA | 10:18 |
-| 🟢 1.7 | 65 km SSE of Kokhanok, Alaska | 10:17 |
-| 🟢 0.8 | 16 km W of Johannesburg, CA | 10:15 |
-| 🟢 0.9 | 18 km SSW of Ocotillo Wells, CA | 10:08 |
-| 🟢 2.5 | 71 km WNW of Ninilchik, Alaska | 09:55 |
-| 🟢 1.4 | 7 km SW of Holtville, CA | 09:50 |
-| 🟢 1.2 | 21 km NNE of Indio, CA | 09:48 |
-| 🟢 1.0 | 11 km SSE of Little Lake, CA | 09:45 |
-| 🟢 1.2 | 15 km W of Johannesburg, CA | 09:44 |
-| 🟢 1.1 | 16 km W of Johannesburg, CA | 09:41 |
-| 🟢 1.1 | 10 km W of Pine Valley, CA | 09:40 |
-| 🟢 1.0 | 2 km NNW of The Geysers, CA | 09:37 |
-| 🟢 1.7 | 3 km WSW of Volcano, Hawaii | 09:30 |
-| 🟢 0.5 | 20 km NNE of Indio, CA | 09:25 |
+| 🟢 0.8 | 10 km W of Pine Valley, CA | 10:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
