@@ -2,23 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2018:33:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-347ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2019:24:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-242ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 3 km WNW of Anderson Springs, CA | 18:21 |
-| 🟢 1.8 | 47 km SSE of Nelchina, Alaska | 18:19 |
-| 🟢 2.8 | 63 km SW of Nanwalek, Alaska | 18:00 |
-| 🟢 1.0 | 6 km WSW of Anza, CA | 17:48 |
-| 🟢 1.0 | 37 km NW of Stanton, Texas | 17:45 |
-| 🟢 1.7 | 45 km NE of Pedro Bay, Alaska | 17:43 |
-| 🟢 1.1 | 10 km W of Pine Valley, CA | 17:42 |
-| 🟢 1.4 | 85 km WNW of Karluk, Alaska | 17:35 |
+| 🟢 1.5 | 27 km NNE of Chenega, Alaska | 19:15 |
+| 🟢 0.8 | 120 km NW of Yakutat, Alaska | 19:08 |
+| 🟢 1.0 | 20 km NNE of Indio, CA | 18:45 |
+| 🟢 1.3 | 3 km NNE of The Geysers, CA | 18:37 |
+| 🟢 1.9 | 20 km N of Indio, CA | 18:36 |
+| 🟢 0.7 | 4 km W of Cobb, CA | 18:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
+- ⛈️ **Severe Storms**: [Tropical Cyclone 17S](https://www.metoc.navy.mil/jtwc/products/sh1726.tcw) (Jan 23)
 - ⛈️ **Severe Storms**: [Tropical Cyclone 16P](https://www.metoc.navy.mil/jtwc/products/sh1626.tcw) (Jan 23)
 - ⛈️ **Severe Storms**: [Tropical Cyclone Ewetse](https://www.metoc.navy.mil/jtwc/products/sh1526.tcw) (Jan 21)
 - 🔥 **Wildfires**: [Compartment 45 RX Prescribed Fire, Bibb, Alabama](https://irwin.doi.gov/observer/incidents/83de4ce1-0696-4fd6-8bbb-c37c84081516) (Jan 19)
@@ -28,7 +27,6 @@
 - 🔥 **Wildfires**: [OCF CPT 267 Shockley East Rx 0119 Prescribed Fire, Lake, Florida](https://irwin.doi.gov/observer/incidents/f0bd31f9-4cb4-4aec-95b0-54a1c42c6184) (Jan 19)
 - 🔥 **Wildfires**: [AGRICOLA Wildfire, Polk, Florida](https://irwin.doi.gov/observer/incidents/7e8ee9b9-6145-4487-bdb9-6f70530e374b) (Jan 18)
 - 🔥 **Wildfires**: [Rx PCS Pilot Mountain Prescribed Fire, Scott, Arkansas](https://irwin.doi.gov/observer/incidents/2cee0291-aef2-4959-8f6c-112fa0e7eb30) (Jan 18)
-- 🔥 **Wildfires**: [RX CALV BU 246-250 Prescribed Fire, Vernon, Louisiana](https://irwin.doi.gov/observer/incidents/5c81ef3d-a8b7-4d10-9d78-d9f70f2fd514) (Jan 18)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
