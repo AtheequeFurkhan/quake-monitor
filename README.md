@@ -2,23 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2001:45:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-506ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2003:42:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-290ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 4 km NNW of The Geysers, CA | 01:42 |
-| 🟢 1.8 | 41 km NNW of Valdez, Alaska | 01:26 |
-| 🟢 1.3 | 16 km NW of Ludlow, CA | 01:19 |
-| 🟢 0.9 | 83 km NNW of Karluk, Alaska | 01:15 |
-| 🟢 2.2 | 28 km S of Chignik, Alaska | 01:11 |
-| 🟢 2.4 | 17 km NNE of Indio, CA | 01:08 |
-| 🟢 1.7 | 1 km ENE of Tazlina, Alaska | 01:07 |
-| 🟢 0.7 | 7 km S of Idyllwild, CA | 01:05 |
-| 🟢 2.1 | 21 km NNE of Indio, CA | 01:03 |
-| 🟢 0.8 | 57 km WNW of Tyonek, Alaska | 01:01 |
-| 🟢 1.2 | 20 km NNE of Indio, CA | 01:00 |
-| 🟢 1.1 | 16 km W of Johannesburg, CA | 00:51 |
+| 🟢 2.4 | 3 km NW of Fontana, CA | 03:33 |
+| 🟢 1.3 | 14 km S of Tres Pinos, CA | 03:31 |
+| 🟢 0.8 | 6 km NNW of The Geysers, CA | 03:17 |
+| 🟢 1.4 | 17 km NNE of Indio, CA | 03:14 |
+| 🟢 0.9 | 8 km NW of The Geysers, CA | 02:59 |
+| 🟢 1.3 | 6 km WNW of Cobb, CA | 02:55 |
+| 🟢 0.9 | 83 km NNW of Karluk, Alaska | 02:51 |
+| 🟢 1.3 | 3 km NW of The Geysers, CA | 02:51 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
