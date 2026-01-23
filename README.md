@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2017:25:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-385ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2018:33:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-347ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 17:12 |
-| 🟢 1.3 | 27 km NE of Beluga, Alaska | 16:52 |
-| 🟢 0.7 | 9 km WNW of Cobb, CA | 16:51 |
-| 🟢 1.3 | 8 km WNW of Cobb, CA | 16:51 |
-| 🟢 1.7 | 8 km WNW of Cobb, CA | 16:51 |
-| 🟢 2.1 | 43 km E of Cordova, Alaska | 16:41 |
-| 🟢 1.6 | 34 km SW of Coyanosa, Texas | 16:34 |
-| 🟠 3.9 | 5 km WSW of San Rafael del Yuma, Dominican Republic | 16:29 |
+| 🟢 1.3 | 3 km WNW of Anderson Springs, CA | 18:21 |
+| 🟢 1.8 | 47 km SSE of Nelchina, Alaska | 18:19 |
+| 🟢 2.8 | 63 km SW of Nanwalek, Alaska | 18:00 |
+| 🟢 1.0 | 6 km WSW of Anza, CA | 17:48 |
+| 🟢 1.0 | 37 km NW of Stanton, Texas | 17:45 |
+| 🟢 1.7 | 45 km NE of Pedro Bay, Alaska | 17:43 |
+| 🟢 1.1 | 10 km W of Pine Valley, CA | 17:42 |
+| 🟢 1.4 | 85 km WNW of Karluk, Alaska | 17:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
