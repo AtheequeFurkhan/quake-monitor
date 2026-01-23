@@ -2,19 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2021:21:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-203ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2022:18:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-303ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 24 km NNW of Toyah, Texas | 21:16 |
-| 🟢 1.8 | 21 km SSE of Pāhala, Hawaii | 21:14 |
-| 🟢 1.7 | 45 km NNW of Valdez, Alaska | 21:09 |
-| 🟢 2.3 | 42 km ESE of King Salmon, Alaska | 21:04 |
-| 🟢 1.6 | 17 km S of Tres Pinos, CA | 21:04 |
-| 🟢 0.8 | 7 km NNE of Valle Vista, CA | 20:52 |
-| 🟢 1.2 | 20 km N of Indio, CA | 20:45 |
-| 🟢 1.0 | 20 km NNE of Indio, CA | 20:33 |
+| 🟢 1.7 | 12 km NNE of Summerlin South, Nevada | 22:00 |
+| 🟢 2.0 | 23 km SSE of Pāhala, Hawaii | 21:59 |
+| 🟢 1.2 | 4 km WNW of Glen Ellen, CA | 21:30 |
+| 🟠 4.9 | 15 km ESE of Sındırgı, Turkey | 21:24 |
+| 🟢 1.6 | 14 km N of Pittsburg, CA | 21:20 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
