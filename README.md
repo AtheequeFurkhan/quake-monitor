@@ -2,25 +2,28 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2009:30:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-396ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2010:25:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-183ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.6 | 6 km WNW of Cobb, CA | 10:22 |
+| 🟢 0.4 | 7 km NW of The Geysers, CA | 10:21 |
+| 🟢 1.0 | 10 km W of Pine Valley, CA | 10:21 |
+| 🟢 1.1 | 16 km W of Johannesburg, CA | 10:18 |
+| 🟢 1.7 | 65 km SSE of Kokhanok, Alaska | 10:17 |
+| 🟢 0.8 | 16 km W of Johannesburg, CA | 10:15 |
+| 🟢 0.9 | 18 km SSW of Ocotillo Wells, CA | 10:08 |
+| 🟢 2.5 | 71 km WNW of Ninilchik, Alaska | 09:55 |
+| 🟢 1.4 | 7 km SW of Holtville, CA | 09:50 |
+| 🟢 1.2 | 21 km NNE of Indio, CA | 09:48 |
+| 🟢 1.0 | 11 km SSE of Little Lake, CA | 09:45 |
+| 🟢 1.2 | 15 km W of Johannesburg, CA | 09:44 |
+| 🟢 1.1 | 16 km W of Johannesburg, CA | 09:41 |
+| 🟢 1.1 | 10 km W of Pine Valley, CA | 09:40 |
+| 🟢 1.0 | 2 km NNW of The Geysers, CA | 09:37 |
+| 🟢 1.7 | 3 km WSW of Volcano, Hawaii | 09:30 |
 | 🟢 0.5 | 20 km NNE of Indio, CA | 09:25 |
-| 🟢 1.6 | 16 km W of Johannesburg, CA | 09:19 |
-| 🟢 2.5 | 35 km W of Gerlach, Nevada | 09:13 |
-| 🟢 0.6 | 21 km NNE of Indio, CA | 09:08 |
-| 🟢 1.3 | 18 km NNE of Indio, CA | 09:05 |
-| 🟢 0.4 | 77 km NW of Karluk, Alaska | 09:04 |
-| 🟢 0.8 | 10 km W of Pine Valley, CA | 09:03 |
-| 🟢 1.2 | 16 km WSW of Johannesburg, CA | 08:56 |
-| 🟢 1.8 | 20 km SSW of Leilani Estates, Hawaii | 08:55 |
-| 🟢 1.8 | 11 km ENE of San Simeon, CA | 08:51 |
-| 🟢 1.2 | 4 km SE of Big Spring, Texas | 08:43 |
-| 🟢 1.6 | 50 km SSE of Whites City, New Mexico | 08:42 |
-| 🟢 1.0 | 11 km E of Alpine, CA | 08:38 |
-| 🟢 1.1 | 18 km N of Indio, CA | 08:38 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
