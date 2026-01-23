@@ -2,21 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2020:26:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-864ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2021:21:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-203ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 5 km WNW of Cobb, CA | 20:11 |
-| 🟢 0.8 | 12 km NNE of Ocotillo Wells, CA | 20:07 |
-| 🟢 1.1 | 15 km NE of Little Lake, CA | 20:04 |
-| 🟢 1.6 | 19 km NNE of Indio, CA | 19:40 |
-| 🟢 1.3 | 20 km NNE of Indio, CA | 19:35 |
-| 🟢 1.5 | 3 km W of Cobb, CA | 19:33 |
-| 🟢 1.1 | 3 km W of Cobb, CA | 19:33 |
-| 🟢 1.1 | 21 km NNE of Indio, CA | 19:29 |
-| 🟢 1.1 | 2 km NW of The Geysers, CA | 19:29 |
-| 🟢 0.9 | 7 km NE of Coso Junction, CA | 19:28 |
+| 🟢 1.5 | 24 km NNW of Toyah, Texas | 21:16 |
+| 🟢 1.8 | 21 km SSE of Pāhala, Hawaii | 21:14 |
+| 🟢 1.7 | 45 km NNW of Valdez, Alaska | 21:09 |
+| 🟢 2.3 | 42 km ESE of King Salmon, Alaska | 21:04 |
+| 🟢 1.6 | 17 km S of Tres Pinos, CA | 21:04 |
+| 🟢 0.8 | 7 km NNE of Valle Vista, CA | 20:52 |
+| 🟢 1.2 | 20 km N of Indio, CA | 20:45 |
+| 🟢 1.0 | 20 km NNE of Indio, CA | 20:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
