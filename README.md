@@ -2,23 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2004:42:22%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-412ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2005:27:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-209ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.5 | 11 km W of Pine Valley, CA | 05:20 |
+| 🟢 0.8 | 9 km WNW of Cobb, CA | 05:17 |
+| 🟢 1.0 | 8 km WNW of Cobb, CA | 05:14 |
+| 🟢 1.0 | 10 km WNW of Cobb, CA | 05:14 |
+| 🟢 1.2 | 17 km NNE of Midland, Texas | 05:13 |
+| 🟢 1.4 | 11 km W of Pine Valley, CA | 05:13 |
+| 🟢 1.0 | 18 km N of Indio, CA | 05:11 |
+| 🟢 0.4 | 86 km NW of Karluk, Alaska | 05:02 |
+| 🟢 0.6 | 2 km ENE of The Geysers, CA | 04:48 |
+| 🟢 1.0 | 6 km W of Cobb, CA | 04:43 |
+| 🟢 1.5 | 14 km E of Susitna North, Alaska | 04:40 |
 | 🟢 1.1 | 7 km NW of The Geysers, CA | 04:37 |
 | 🟢 1.1 | 4 km NNW of The Geysers, CA | 04:35 |
-| 🟢 1.8 | 27 km ENE of Sterling, Alaska | 04:23 |
-| 🟢 1.1 | 17 km WSW of Johannesburg, CA | 04:21 |
-| 🟢 0.7 | 10 km SE of Winchester, CA | 04:08 |
-| 🟢 0.3 | 6 km E of Valle Vista, CA | 04:07 |
-| 🟢 0.4 | 8 km NW of The Geysers, CA | 03:58 |
-| 🟢 2.0 | 5 km SE of Pinnacles, CA | 03:55 |
-| 🟠 3.1 | 33 km NNE of Larsen Bay, Alaska | 03:50 |
-| 🟠 3.4 | 145 km SSE of Sand Point, Alaska | 03:49 |
-| 🟠 3.7 | 95 km NNE of Cruz Bay, U.S. Virgin Islands | 03:43 |
-| 🟢 1.9 | 5 km WSW of Volcano, Hawaii | 03:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
