@@ -2,17 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2019:24:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-242ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2020:26:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-864ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 27 km NNE of Chenega, Alaska | 19:15 |
-| 🟢 0.8 | 120 km NW of Yakutat, Alaska | 19:08 |
-| 🟢 1.0 | 20 km NNE of Indio, CA | 18:45 |
-| 🟢 1.3 | 3 km NNE of The Geysers, CA | 18:37 |
-| 🟢 1.9 | 20 km N of Indio, CA | 18:36 |
-| 🟢 0.7 | 4 km W of Cobb, CA | 18:33 |
+| 🟢 0.8 | 5 km WNW of Cobb, CA | 20:11 |
+| 🟢 0.8 | 12 km NNE of Ocotillo Wells, CA | 20:07 |
+| 🟢 1.1 | 15 km NE of Little Lake, CA | 20:04 |
+| 🟢 1.6 | 19 km NNE of Indio, CA | 19:40 |
+| 🟢 1.3 | 20 km NNE of Indio, CA | 19:35 |
+| 🟢 1.5 | 3 km W of Cobb, CA | 19:33 |
+| 🟢 1.1 | 3 km W of Cobb, CA | 19:33 |
+| 🟢 1.1 | 21 km NNE of Indio, CA | 19:29 |
+| 🟢 1.1 | 2 km NW of The Geysers, CA | 19:29 |
+| 🟢 0.9 | 7 km NE of Coso Junction, CA | 19:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
