@@ -2,22 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2006:35:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-409ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2007:25:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-381ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.8 | 7 km W of Cobb, CA | 07:21 |
+| 🟢 1.6 | 50 km SSE of Denali National Park, Alaska | 07:19 |
+| 🟢 2.6 | 22 km SE of Kokhanok, Alaska | 07:14 |
+| 🟢 1.1 | 10 km W of Pine Valley, CA | 07:12 |
+| 🟢 1.3 | 2 km S of Devore, CA | 07:12 |
+| 🟢 1.8 | 4 km WNW of Point MacKenzie, Alaska | 07:11 |
+| 🟢 0.9 | 17 km NNE of Indio, CA | 07:11 |
+| 🟢 1.5 | 9 km NNE of Sterling, Alaska | 07:08 |
+| 🟢 2.0 | 61 km NNW of Aleneva, Alaska | 06:53 |
+| 🟢 1.5 | 31 km NW of Toyah, Texas | 06:48 |
+| 🟢 1.9 | 30 km NNE of Paxson, Alaska | 06:35 |
 | 🟢 1.0 | 10 km W of Pine Valley, CA | 06:30 |
 | 🟢 1.1 | 10 km W of Pine Valley, CA | 06:25 |
-| 🟢 0.7 | 9 km W of Pine Valley, CA | 06:20 |
-| 🟢 1.0 | 20 km ENE of Livengood, Alaska | 06:17 |
-| 🟢 1.5 | 16 km WSW of Johannesburg, CA | 06:13 |
-| 🟢 1.5 | 13 km SSW of Tres Pinos, CA | 06:08 |
-| 🟢 1.9 | 18 km NNE of Indio, CA | 06:07 |
-| 🟢 1.1 | 10 km WNW of Cobb, CA | 05:53 |
-| 🟢 1.7 | 10 km NW of Calipatria, CA | 05:42 |
-| 🟢 1.6 | 6 km WSW of Lone Pine, California | 05:39 |
-| 🟢 1.8 | 16 km WSW of Johannesburg, CA | 05:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
