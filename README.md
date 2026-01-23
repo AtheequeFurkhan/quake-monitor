@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2016:30:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-353ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2017:25:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-385ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.2 | 9 km WNW of Cobb, CA | 16:20 |
-| 🟢 1.8 | 11 km W of Pine Valley, CA | 16:07 |
-| 🟢 0.9 | 3 km NE of The Geysers, CA | 15:53 |
-| 🟢 1.7 | 21 km SE of Pāhala, Hawaii | 15:50 |
-| 🟢 1.6 | 8 km W of Cobb, CA | 15:48 |
-| 🟢 0.6 | 20 km ENE of Little Lake, CA | 15:41 |
-| 🟢 1.1 | 10 km W of Pine Valley, CA | 15:35 |
-| 🟢 1.4 | 17 km NNE of Indio, CA | 15:33 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 17:12 |
+| 🟢 1.3 | 27 km NE of Beluga, Alaska | 16:52 |
+| 🟢 0.7 | 9 km WNW of Cobb, CA | 16:51 |
+| 🟢 1.3 | 8 km WNW of Cobb, CA | 16:51 |
+| 🟢 1.7 | 8 km WNW of Cobb, CA | 16:51 |
+| 🟢 2.1 | 43 km E of Cordova, Alaska | 16:41 |
+| 🟢 1.6 | 34 km SW of Coyanosa, Texas | 16:34 |
+| 🟠 3.9 | 5 km WSW of San Rafael del Yuma, Dominican Republic | 16:29 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
