@@ -2,20 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2022%20Jan%202026%2023:20:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-208ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2001:45:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-506ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 52 km WNW of Tatitlek, Alaska | 23:15 |
-| 🟢 0.6 | 10 km N of Anza, CA | 23:15 |
-| 🟢 1.9 | 13 km SE of Pāhala, Hawaii | 22:58 |
-| 🟢 0.9 | 20 km E of Julian, CA | 22:44 |
-| 🟢 1.1 | 16 km W of Johannesburg, CA | 22:44 |
-| 🟢 0.7 | 20 km E of Julian, CA | 22:44 |
-| 🟢 0.6 | 8 km NW of The Geysers, CA | 22:40 |
-| 🟢 1.4 | 18 km NNE of Indio, CA | 22:32 |
-| 🟢 1.9 | 31 km SW of South Dos Palos, CA | 22:29 |
+| 🟢 1.5 | 4 km NNW of The Geysers, CA | 01:42 |
+| 🟢 1.8 | 41 km NNW of Valdez, Alaska | 01:26 |
+| 🟢 1.3 | 16 km NW of Ludlow, CA | 01:19 |
+| 🟢 0.9 | 83 km NNW of Karluk, Alaska | 01:15 |
+| 🟢 2.2 | 28 km S of Chignik, Alaska | 01:11 |
+| 🟢 2.4 | 17 km NNE of Indio, CA | 01:08 |
+| 🟢 1.7 | 1 km ENE of Tazlina, Alaska | 01:07 |
+| 🟢 0.7 | 7 km S of Idyllwild, CA | 01:05 |
+| 🟢 2.1 | 21 km NNE of Indio, CA | 01:03 |
+| 🟢 0.8 | 57 km WNW of Tyonek, Alaska | 01:01 |
+| 🟢 1.2 | 20 km NNE of Indio, CA | 01:00 |
+| 🟢 1.1 | 16 km W of Johannesburg, CA | 00:51 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
