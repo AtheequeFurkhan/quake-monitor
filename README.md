@@ -2,24 +2,28 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2007:25:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-381ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2008:30:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-524ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 7 km W of Cobb, CA | 07:21 |
-| 🟢 1.6 | 50 km SSE of Denali National Park, Alaska | 07:19 |
-| 🟢 2.6 | 22 km SE of Kokhanok, Alaska | 07:14 |
-| 🟢 1.1 | 10 km W of Pine Valley, CA | 07:12 |
-| 🟢 1.3 | 2 km S of Devore, CA | 07:12 |
-| 🟢 1.8 | 4 km WNW of Point MacKenzie, Alaska | 07:11 |
-| 🟢 0.9 | 17 km NNE of Indio, CA | 07:11 |
-| 🟢 1.5 | 9 km NNE of Sterling, Alaska | 07:08 |
-| 🟢 2.0 | 61 km NNW of Aleneva, Alaska | 06:53 |
-| 🟢 1.5 | 31 km NW of Toyah, Texas | 06:48 |
-| 🟢 1.9 | 30 km NNE of Paxson, Alaska | 06:35 |
-| 🟢 1.0 | 10 km W of Pine Valley, CA | 06:30 |
-| 🟢 1.1 | 10 km W of Pine Valley, CA | 06:25 |
+| 🟢 1.4 | 6 km NNW of Delta, B.C., MX | 08:22 |
+| 🟢 1.2 | 19 km NNE of Indio, CA | 08:14 |
+| 🟢 0.5 | 22 km ENE of Livengood, Alaska | 08:13 |
+| 🟢 1.0 | 18 km NNE of Indio, CA | 08:08 |
+| 🟢 1.4 | 18 km NNE of Indio, CA | 08:02 |
+| 🟢 2.0 | 1 km N of La Parguera, Puerto Rico | 07:58 |
+| 🟢 1.1 | 6 km NW of The Geysers, CA | 07:57 |
+| 🟠 4.7 | 156 km SSE of Simanggang, Malaysia | 07:47 |
+| 🟢 0.9 | 21 km NNE of Indio, CA | 07:47 |
+| 🟢 1.0 | 11 km NE of Inyokern, CA | 07:46 |
+| 🟢 1.1 | 7 km NW of The Geysers, CA | 07:45 |
+| 🟢 0.5 | 18 km E of Julian, CA | 07:43 |
+| 🟢 1.0 | 16 km W of Johannesburg, CA | 07:41 |
+| 🟠 3.4 | 44 km S of Boca de Yuma, Dominican Republic | 07:40 |
+| 🟢 1.6 | 20 km NNE of Indio, CA | 07:40 |
+| 🟢 1.0 | 16 km W of Johannesburg, CA | 07:37 |
+| 🟢 1.2 | 8 km NW of The Geysers, CA | 07:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
