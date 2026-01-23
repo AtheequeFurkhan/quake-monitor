@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2015:25:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-556ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2016:30:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-353ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 7 km W of Cobb, CA | 15:15 |
-| 🟢 1.1 | 20 km NNE of Indio, CA | 15:12 |
-| 🟢 1.5 | 11 km W of Pine Valley, CA | 15:11 |
-| 🟢 2.4 | 28 km ESE of Rio Dell, CA | 15:03 |
-| 🟢 0.7 | 10 km WNW of The Geysers, CA | 15:03 |
-| 🟢 2.5 | 5 km SE of Elmendorf Air Force Base, Alaska | 14:54 |
-| 🟢 2.4 | 44 km SSE of Port Graham, Alaska | 14:28 |
-| 🟢 1.0 | 2 km NNE of Middletown, CA | 14:26 |
+| 🟢 0.2 | 9 km WNW of Cobb, CA | 16:20 |
+| 🟢 1.8 | 11 km W of Pine Valley, CA | 16:07 |
+| 🟢 0.9 | 3 km NE of The Geysers, CA | 15:53 |
+| 🟢 1.7 | 21 km SE of Pāhala, Hawaii | 15:50 |
+| 🟢 1.6 | 8 km W of Cobb, CA | 15:48 |
+| 🟢 0.6 | 20 km ENE of Little Lake, CA | 15:41 |
+| 🟢 1.1 | 10 km W of Pine Valley, CA | 15:35 |
+| 🟢 1.4 | 17 km NNE of Indio, CA | 15:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
