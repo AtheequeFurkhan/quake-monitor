@@ -2,23 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2013:42:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-350ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2014:25:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-352ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟠 4.0 | 113 km E of Cordova, Alaska | 13:40 |
+| 🟢 0.7 | 11 km NNE of Ocotillo Wells, CA | 14:07 |
+| 🟢 1.7 | 6 km WNW of Houston, Alaska | 13:53 |
+| 🟢 0.5 | 12 km E of Julian, CA | 13:51 |
+| 🟢 1.4 | 114 km E of Cordova, Alaska | 13:51 |
+| 🟢 1.1 | 112 km E of Cordova, Alaska | 13:43 |
+| 🟢 2.8 | 114 km E of Cordova, Alaska | 13:41 |
 | 🟢 1.5 | 30 km WSW of Ackerly, Texas | 13:33 |
 | 🟢 1.8 | 14 km S of Frazier Park, CA | 13:32 |
 | 🟢 1.0 | 3 km NE of The Geysers, CA | 13:28 |
-| 🟢 1.2 | 14 km SW of La Jolla, CA | 13:20 |
-| 🟢 1.0 | 5 km WNW of Cobb, CA | 13:11 |
-| 🟢 1.1 | 22 km NNW of Midland, Texas | 13:10 |
-| 🟢 1.1 | 21 km NNE of Indio, CA | 12:54 |
-| 🟢 1.5 | 1 km S of Happy Valley, Alaska | 12:53 |
-| 🟢 0.7 | 17 km NNE of Indio, CA | 12:52 |
-| 🟢 1.8 | 30 km NW of Petersville, Alaska | 12:51 |
-| 🟢 1.4 | 21 km WNW of Chenega, Alaska | 12:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
