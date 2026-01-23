@@ -2,23 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2011:20:55%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2012:47:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-533ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 21 km NNE of Indio, CA | 11:16 |
-| 🟢 1.7 | 9 km SSW of Alberto Oviedo Mota, B.C., MX | 11:13 |
-| 🟢 0.7 | 2 km SSW of Salcha, Alaska | 11:12 |
-| 🟢 1.3 | 19 km NNE of Indio, CA | 11:10 |
-| 🟢 1.2 | 93 km WNW of Aleneva, Alaska | 11:10 |
-| 🟢 0.6 | 5 km WNW of Cobb, CA | 10:53 |
-| 🟢 1.9 | 4 km SE of San Ramon, CA | 10:31 |
-| 🟢 0.9 | 2 km WSW of Lytle Creek, CA | 10:29 |
-| 🟢 0.2 | 8 km NW of The Geysers, CA | 10:24 |
-| 🟢 1.6 | 6 km WNW of Cobb, CA | 10:22 |
-| 🟢 0.4 | 7 km NW of The Geysers, CA | 10:21 |
-| 🟢 0.8 | 10 km W of Pine Valley, CA | 10:21 |
+| 🟢 1.4 | 21 km WNW of Chenega, Alaska | 12:42 |
+| 🟢 1.3 | 19 km NNE of Indio, CA | 12:40 |
+| 🟢 0.5 | 17 km ESE of Anza, CA | 12:27 |
+| 🟢 0.7 | 21 km NNE of Indio, CA | 12:21 |
+| 🟢 1.2 | 22 km N of Midland, Texas | 12:19 |
+| 🟢 2.2 | 8 km N of Cambria, CA | 12:01 |
+| 🟢 0.9 | 16 km W of Johannesburg, CA | 11:58 |
+| 🟢 0.5 | 17 km ESE of Anza, CA | 11:51 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
