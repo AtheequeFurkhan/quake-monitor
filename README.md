@@ -2,20 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2014:25:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-352ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2015:25:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-556ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 11 km NNE of Ocotillo Wells, CA | 14:07 |
-| 🟢 1.7 | 6 km WNW of Houston, Alaska | 13:53 |
-| 🟢 0.5 | 12 km E of Julian, CA | 13:51 |
-| 🟢 1.4 | 114 km E of Cordova, Alaska | 13:51 |
-| 🟢 1.1 | 112 km E of Cordova, Alaska | 13:43 |
-| 🟢 2.8 | 114 km E of Cordova, Alaska | 13:41 |
-| 🟢 1.5 | 30 km WSW of Ackerly, Texas | 13:33 |
-| 🟢 1.8 | 14 km S of Frazier Park, CA | 13:32 |
-| 🟢 1.0 | 3 km NE of The Geysers, CA | 13:28 |
+| 🟢 0.7 | 7 km W of Cobb, CA | 15:15 |
+| 🟢 1.1 | 20 km NNE of Indio, CA | 15:12 |
+| 🟢 1.5 | 11 km W of Pine Valley, CA | 15:11 |
+| 🟢 2.4 | 28 km ESE of Rio Dell, CA | 15:03 |
+| 🟢 0.7 | 10 km WNW of The Geysers, CA | 15:03 |
+| 🟢 2.5 | 5 km SE of Elmendorf Air Force Base, Alaska | 14:54 |
+| 🟢 2.4 | 44 km SSE of Port Graham, Alaska | 14:28 |
+| 🟢 1.0 | 2 km NNE of Middletown, CA | 14:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
