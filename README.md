@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2003:26:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-394ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2004:35:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-217ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 36 km WSW of Salcha, Alaska | 03:14 |
-| 🟢 0.6 | 13 km NE of Julian, CA | 02:35 |
-| 🟢 1.1 | 28 km WSW of Ackerly, Texas | 02:31 |
-| 🟢 0.9 | 88 km NNW of Yakutat, Alaska | 02:28 |
-| 🟢 1.6 | 7 km W of Cobb, CA | 02:28 |
-| 🟢 0.7 | 7 km WNW of Cobb, CA | 02:28 |
-| 🟢 2.1 | 23 km W of Garden City, Texas | 02:26 |
+| 🟢 1.6 | 2 km NNE of The Geysers, CA | 04:25 |
+| 🟢 1.7 | 22 km E of Pāhala, Hawaii | 04:18 |
+| 🟢 1.8 | 11 km WSW of Stanton, Texas | 04:17 |
+| 🟢 2.1 | 55 km NNE of Chase, Alaska | 04:11 |
+| 🟢 1.1 | 21 km NNE of Indio, CA | 04:08 |
+| 🟢 0.9 | 2 km SW of Cobb, CA | 04:01 |
+| 🟢 0.6 | 8 km NW of The Geysers, CA | 03:47 |
+| 🟢 1.8 | 66 km WNW of Tyonek, Alaska | 03:46 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
