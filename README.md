@@ -2,24 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2006:31:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-300ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2007:20:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-117ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.1 | 16 km WSW of Johannesburg, CA | 07:03 |
+| 🟢 1.7 | 1 km NE of Gateway, Alaska | 07:01 |
+| 🟢 1.7 | 23 km ESE of Naalehu, Hawaii | 06:56 |
+| 🟢 1.6 | 3 km ESE of San Ramon, CA | 06:44 |
 | 🟢 0.4 | 11 km SSE of Lake Henshaw, CA | 06:21 |
 | 🟢 1.5 | 40 km WNW of Toyah, Texas | 06:20 |
 | 🟢 0.9 | 21 km NNE of Indio, CA | 06:20 |
-| 🟢 2.0 | 6 km WNW of Pāhala, Hawaii | 06:17 |
-| 🟢 1.3 | 47 km WNW of Tatitlek, Alaska | 06:13 |
-| 🟢 2.4 | 64 km WNW of Tyonek, Alaska | 06:03 |
-| 🟢 1.3 | 7 km WNW of Cobb, CA | 05:50 |
-| 🟢 2.0 | 19 km NNE of Indio, CA | 05:49 |
-| 🟢 2.6 | 25 km ENE of Big Creek, California | 05:45 |
-| 🟠 3.0 | 20 km NNE of Yerington, Nevada | 05:45 |
-| 🟢 0.7 | 21 km NNE of Indio, CA | 05:41 |
-| 🟢 2.9 | 227 km ESE of Chiniak, Alaska | 05:36 |
-| 🟢 0.9 | 6 km WNW of Cobb, CA | 05:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
