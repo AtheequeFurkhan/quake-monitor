@@ -2,17 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2011:17:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-204ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2012:40:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-181ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 10 km W of Pine Valley, CA | 11:08 |
-| 🟢 1.4 | 2 km SW of Big Lake, Alaska | 11:01 |
-| 🟢 2.2 | 24 km ESE of Naalehu, Hawaii | 11:01 |
-| 🟢 2.1 | 2 km NNE of Dibble, Oklahoma | 10:52 |
-| 🟠 4.9 | 38 km S of Sarangani, Philippines | 10:45 |
-| 🟢 1.2 | 44 km NW of Toyah, Texas | 10:36 |
+| 🟢 0.8 | 11 km NNE of Ocotillo Wells, CA | 12:30 |
+| 🟢 1.0 | 24 km ESE of Julian, CA | 12:28 |
+| 🟢 1.3 | 7 km NW of Girdwood, Alaska | 12:17 |
+| 🟢 2.0 | 48 km SW of Rosarito, B.C., MX | 12:12 |
+| 🟠 4.9 | south of the Fiji Islands | 12:12 |
+| 🟢 0.9 | 6 km NW of The Geysers, CA | 12:01 |
+| 🟢 0.4 | 10 km SW of Anza, CA | 11:53 |
+| 🟢 0.9 | 20 km NNE of Indio, CA | 11:53 |
+| 🟢 0.6 | 3 km ENE of San Jacinto, CA | 11:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
