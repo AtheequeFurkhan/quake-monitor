@@ -2,22 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2017:17:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-497ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2018:30:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-459ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 22 km N of Yucca Valley, CA | 17:06 |
-| 🟢 0.7 | 5 km WNW of Cobb, CA | 17:05 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 17:04 |
-| 🟢 1.8 | 30 km NW of Valdez, Alaska | 17:01 |
-| 🟢 2.6 | 17 km NNE of Indio, CA | 16:59 |
-| 🟢 1.6 | 7 km ESE of Cloverdale, CA | 16:56 |
-| 🟢 1.1 | 5 km WNW of Cobb, CA | 16:48 |
-| 🟢 1.1 | 15 km N of Indio, CA | 16:43 |
-| 🟢 0.6 | 6 km SSE of Redlands, CA | 16:42 |
-| 🟢 1.1 | 4 km SE of Loma Linda, CA | 16:33 |
-| 🟢 1.8 | 36 km NNW of Sutton-Alpine, Alaska | 16:17 |
+| 🟢 1.2 | 10 km S of Searles Valley, CA | 18:27 |
+| 🟢 1.5 | 100 km N of Karluk, Alaska | 18:23 |
+| 🟢 2.4 | 17 km NNE of Indio, CA | 18:14 |
+| 🟢 0.6 | 10 km ESE of Moreno Valley, CA | 17:46 |
+| 🟢 1.4 | 17 km NNE of Indio, CA | 17:36 |
+| 🟢 1.6 | 17 km NNE of Indio, CA | 17:30 |
+| 🟢 0.8 | 6 km WNW of Cobb, CA | 17:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
