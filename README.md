@@ -2,14 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2023%20Jan%202026%2023:21:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-186ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2001:42:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-186ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 56 km W of Tyonek, Alaska | 22:52 |
-| 🟢 2.1 | 111 km WNW of Yakutat, Alaska | 22:49 |
-| 🟢 1.5 | 49 km NW of Carlin, Nevada | 22:26 |
+| 🟢 2.1 | 10 km ENE of Pāhala, Hawaii | 01:27 |
+| 🟢 1.3 | 4 km SSE of Ontario, CA | 01:23 |
+| 🟢 1.8 | 11 km W of Pine Valley, CA | 01:20 |
+| 🟢 1.6 | 54 km NE of Whittier, Alaska | 01:19 |
+| 🟠 3.9 | 42 km NE of Yakutat, Alaska | 01:08 |
+| 🟢 2.2 | 111 km NW of Yakutat, Alaska | 01:06 |
+| 🟢 0.7 | 28 km WNW of Ester, Alaska | 01:02 |
+| 🟢 1.4 | 11 km W of Pine Valley, CA | 00:57 |
+| 🟢 1.7 | 16 km WSW of Susitna North, Alaska | 00:51 |
+| 🟢 1.1 | 10 km W of Pine Valley, CA | 00:45 |
+| 🟢 0.6 | 13 km ENE of Ridgecrest, CA | 00:44 |
+| 🟢 1.6 | 2 km E of Carson, CA | 00:43 |
+| 🟢 1.0 | 10 km W of Pine Valley, CA | 00:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
