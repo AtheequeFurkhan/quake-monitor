@@ -2,18 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2018:30:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-459ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2019:16:55%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-486ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 10 km S of Searles Valley, CA | 18:27 |
+| 🟢 0.7 | 8 km WNW of Cobb, CA | 19:13 |
+| 🟢 1.2 | 10 km WNW of The Geysers, CA | 19:02 |
+| 🟢 1.0 | 17 km NNE of Indio, CA | 18:47 |
+| 🟢 0.8 | 10 km S of Searles Valley, CA | 18:27 |
 | 🟢 1.5 | 100 km N of Karluk, Alaska | 18:23 |
-| 🟢 2.4 | 17 km NNE of Indio, CA | 18:14 |
-| 🟢 0.6 | 10 km ESE of Moreno Valley, CA | 17:46 |
-| 🟢 1.4 | 17 km NNE of Indio, CA | 17:36 |
-| 🟢 1.6 | 17 km NNE of Indio, CA | 17:30 |
-| 🟢 0.8 | 6 km WNW of Cobb, CA | 17:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
