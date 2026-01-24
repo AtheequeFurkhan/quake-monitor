@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2022:19:38%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-409ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2023:19:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-299ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 3 km E of Colton, CA | 22:12 |
-| 🟢 1.5 | 20 km NE of Chase, Alaska | 22:11 |
-| 🟢 0.9 | 17 km ESE of Anza, CA | 22:03 |
-| 🟢 0.7 | 8 km W of Cobb, CA | 21:59 |
-| 🟢 0.8 | 10 km WNW of The Geysers, CA | 21:41 |
-| 🟢 2.7 | 150 km W of Elfin Cove, Alaska | 21:38 |
-| 🟢 1.9 | 37 km NNW of Valdez, Alaska | 21:32 |
-| 🔴 5.3 | 45 km E of Adak, Alaska | 21:25 |
+| 🟢 1.5 | 22 km ESE of Chase, Alaska | 23:16 |
+| 🟢 1.4 | 18 km N of Indio, CA | 23:16 |
+| 🟢 1.5 | 18 km NNE of Indio, CA | 23:03 |
+| 🟢 2.2 | 14 km SSW of Volcano, Hawaii | 23:02 |
+| 🟢 0.6 | 19 km ESE of Anza, CA | 22:56 |
+| 🟢 1.3 | 12 km WSW of Valdez, Alaska | 22:54 |
+| 🟢 2.4 | 51 km E of Pedro Bay, Alaska | 22:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
