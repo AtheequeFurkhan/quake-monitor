@@ -2,19 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2004:35:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-217ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2005:21:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-391ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.5 | 9 km WSW of Garnet, CA | 05:16 |
+| 🟢 1.1 | 7 km WNW of Cobb, CA | 05:12 |
+| 🟢 1.1 | 14 km E of Stanton, Texas | 05:12 |
+| 🟢 1.7 | 24 km ESE of Julian, CA | 04:53 |
 | 🟢 1.6 | 2 km NNE of The Geysers, CA | 04:25 |
-| 🟢 1.7 | 22 km E of Pāhala, Hawaii | 04:18 |
-| 🟢 1.8 | 11 km WSW of Stanton, Texas | 04:17 |
-| 🟢 2.1 | 55 km NNE of Chase, Alaska | 04:11 |
-| 🟢 1.1 | 21 km NNE of Indio, CA | 04:08 |
-| 🟢 0.9 | 2 km SW of Cobb, CA | 04:01 |
-| 🟢 0.6 | 8 km NW of The Geysers, CA | 03:47 |
-| 🟢 1.8 | 66 km WNW of Tyonek, Alaska | 03:46 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
