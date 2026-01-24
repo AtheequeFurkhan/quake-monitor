@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2021:18:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-4.044s-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2022:19:38%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-409ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 50 km SSE of Denali National Park, Alaska | 20:50 |
-| 🟢 2.1 | 22 km ESE of Anza, CA | 20:38 |
-| 🟢 1.4 | 22 km SW of La Quinta, CA | 20:38 |
-| 🟢 2.3 | 6 km NNW of Odessa, Texas | 20:33 |
-| 🟢 0.9 | 18 km E of Julian, CA | 20:24 |
-| 🟢 1.4 | 13 km SE of Mammoth Lakes, CA | 20:20 |
-| 🟢 1.0 | 22 km SSW of La Quinta, CA | 20:20 |
+| 🟢 1.4 | 3 km E of Colton, CA | 22:12 |
+| 🟢 1.5 | 20 km NE of Chase, Alaska | 22:11 |
+| 🟢 0.9 | 17 km ESE of Anza, CA | 22:03 |
+| 🟢 0.7 | 8 km W of Cobb, CA | 21:59 |
+| 🟢 0.8 | 10 km WNW of The Geysers, CA | 21:41 |
+| 🟢 2.7 | 150 km W of Elfin Cove, Alaska | 21:38 |
+| 🟢 1.9 | 37 km NNW of Valdez, Alaska | 21:32 |
+| 🔴 5.3 | 45 km E of Adak, Alaska | 21:25 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
