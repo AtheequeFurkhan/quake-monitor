@@ -2,15 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2008:27:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-498ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2009:20:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-469ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 4 km SSW of Indios, Puerto Rico | 08:11 |
-| 🟢 2.5 | 29 km SE of Denali National Park, Alaska | 08:03 |
-| 🟢 3.0 | 62 km N of Brenas, Puerto Rico | 08:00 |
-| 🟢 1.3 | 5 km WNW of Cobb, CA | 07:40 |
+| 🟢 1.3 | 30 km SE of Denali National Park, Alaska | 09:17 |
+| 🟢 1.3 | 3 km NE of The Geysers, CA | 09:11 |
+| 🟢 1.0 | 19 km E of Julian, CA | 09:08 |
+| 🟢 2.3 | 22 km SSE of Pāhala, Hawaii | 08:59 |
+| 🟢 1.8 | 23 km ESE of Naalehu, Hawaii | 08:55 |
+| 🟢 1.2 | 6 km NW of The Geysers, CA | 08:39 |
+| 🟢 2.3 | 53 km WNW of Ninilchik, Alaska | 08:37 |
+| 🟠 4.8 | 8 km SSW of Soavinandriana, Madagascar | 08:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
