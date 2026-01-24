@@ -2,24 +2,14 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2014:19:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-918ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2015:20:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-395ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 8 km NNE of Santa Rosa, CA | 14:10 |
-| 🟢 1.8 | 18 km ESE of Naalehu, Hawaii | 14:09 |
-| 🟢 1.8 | 2 km NNE of The Geysers, CA | 14:07 |
-| 🟢 1.9 | 44 km S of Alamo, Nevada | 13:57 |
-| 🟢 3.0 | 3 km SSE of Kanarraville, Utah | 13:57 |
-| 🟢 3.0 | 12 km E of Kanarraville, Utah | 13:57 |
-| 🟢 0.4 | 6 km NW of The Geysers, CA | 13:54 |
-| 🟢 0.7 | 4 km W of Cobb, CA | 13:47 |
-| 🟢 0.8 | 20 km NNE of Indio, CA | 13:37 |
-| 🟢 1.0 | 1 km NNE of West Puente Valley, CA | 13:36 |
-| 🟢 1.6 | 2 km SSE of Ocotillo, CA | 13:24 |
-| 🟢 1.5 | 40 km SSE of Alamo, Nevada | 13:23 |
-| 🟢 2.6 | 11 km ENE of Kanarraville, Utah | 13:23 |
+| 🟢 1.3 | 17 km NNE of Indio, CA | 15:14 |
+| 🟢 1.0 | 6 km NE of Borrego Springs, CA | 14:59 |
+| 🟢 1.9 | 6 km S of Pāhala, Hawaii | 14:58 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
