@@ -2,21 +2,29 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2005:21:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-391ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2006:31:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-300ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.5 | 9 km WSW of Garnet, CA | 05:16 |
-| 🟢 1.1 | 7 km WNW of Cobb, CA | 05:12 |
-| 🟢 1.1 | 14 km E of Stanton, Texas | 05:12 |
-| 🟢 1.7 | 24 km ESE of Julian, CA | 04:53 |
-| 🟢 1.6 | 2 km NNE of The Geysers, CA | 04:25 |
+| 🟢 0.4 | 11 km SSE of Lake Henshaw, CA | 06:21 |
+| 🟢 1.5 | 40 km WNW of Toyah, Texas | 06:20 |
+| 🟢 0.9 | 21 km NNE of Indio, CA | 06:20 |
+| 🟢 2.0 | 6 km WNW of Pāhala, Hawaii | 06:17 |
+| 🟢 1.3 | 47 km WNW of Tatitlek, Alaska | 06:13 |
+| 🟢 2.4 | 64 km WNW of Tyonek, Alaska | 06:03 |
+| 🟢 1.3 | 7 km WNW of Cobb, CA | 05:50 |
+| 🟢 2.0 | 19 km NNE of Indio, CA | 05:49 |
+| 🟢 2.6 | 25 km ENE of Big Creek, California | 05:45 |
+| 🟠 3.0 | 20 km NNE of Yerington, Nevada | 05:45 |
+| 🟢 0.7 | 21 km NNE of Indio, CA | 05:41 |
+| 🟢 2.9 | 227 km ESE of Chiniak, Alaska | 05:36 |
+| 🟢 0.9 | 6 km WNW of Cobb, CA | 05:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
-- ⛈️ **Severe Storms**: [Tropical Cyclone 17S](https://www.metoc.navy.mil/jtwc/products/sh1726.tcw) (Jan 23)
+- ⛈️ **Severe Storms**: [Tropical Cyclone 17S](https://www.metoc.navy.mil/jtwc/products/sh1726.tcw) (Jan 24)
 - ⛈️ **Severe Storms**: [Tropical Cyclone 16P](https://www.metoc.navy.mil/jtwc/products/sh1626.tcw) (Jan 23)
 - ⛈️ **Severe Storms**: [Tropical Cyclone Ewetse](https://www.metoc.navy.mil/jtwc/products/sh1526.tcw) (Jan 21)
 - 🔥 **Wildfires**: [Compartment 45 RX Prescribed Fire, Bibb, Alabama](https://irwin.doi.gov/observer/incidents/83de4ce1-0696-4fd6-8bbb-c37c84081516) (Jan 19)
