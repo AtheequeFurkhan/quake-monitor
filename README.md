@@ -2,26 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2014:19:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-197ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2015:20:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-350ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 7 km NW of The Geysers, CA | 14:16 |
-| 🟢 0.7 | 8 km S of Borrego Springs, CA | 14:13 |
-| 🟢 2.0 | 34 km SSE of Fern Forest, Hawaii | 14:12 |
-| 🟢 0.8 | 21 km NNE of Indio, CA | 14:09 |
-| 🟢 1.3 | 6 km W of Cobb, CA | 14:03 |
-| 🟢 1.2 | 14 km W of Johannesburg, CA | 14:03 |
-| 🟢 1.4 | 36 km NW of Toyah, Texas | 13:57 |
-| 🟢 1.4 | 21 km NNE of Indio, CA | 13:54 |
-| 🟢 1.4 | 21 km NNE of Indio, CA | 13:52 |
-| 🟢 1.7 | 8 km S of Carpinteria, CA | 13:48 |
-| 🟢 1.4 | 12 km S of Carpinteria, CA | 13:34 |
-| 🟢 0.9 | 12 km ENE of Coso Junction, CA | 13:28 |
-| 🟢 1.6 | 12 km ENE of Coso Junction, CA | 13:24 |
-| 🟢 0.7 | 18 km E of Julian, CA | 13:24 |
-| 🟢 1.3 | 16 km NNW of Joshua Tree, CA | 13:20 |
+| 🟢 2.7 | 27 km SSE of Skwentna, Alaska | 15:13 |
+| 🟢 1.4 | 11 km NNW of Piru, CA | 14:57 |
+| 🟢 1.4 | 12 km NNW of Piru, CA | 14:53 |
+| 🟢 0.7 | 9 km NW of The Geysers, CA | 14:51 |
+| 🟢 2.6 | 6 km SSW of Girdwood, Alaska | 14:42 |
+| 🟢 2.2 | 11 km NNW of Piru, CA | 14:38 |
+| 🟢 0.2 | 8 km WNW of Cobb, CA | 14:32 |
+| 🟢 0.9 | 8 km WNW of Cobb, CA | 14:25 |
+| 🟢 0.8 | 21 km NNE of Indio, CA | 14:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
