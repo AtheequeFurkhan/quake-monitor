@@ -2,22 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2001:54:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-213ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2003:54:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-422ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 17 km NNE of Indio, CA | 01:50 |
-| 🟢 1.8 | 15 km S of Volcano, Hawaii | 01:37 |
-| 🟢 1.2 | 5 km WSW of Holtville, CA | 01:35 |
-| 🟢 2.3 | 23 km W of Petersville, Alaska | 01:16 |
-| 🟢 1.8 | 17 km NNE of Indio, CA | 01:10 |
-| 🟢 1.6 | 53 km W of Tatitlek, Alaska | 01:08 |
-| 🟢 1.2 | 19 km N of Indio, CA | 01:02 |
-| 🟢 0.8 | 4 km NNW of The Geysers, CA | 01:01 |
-| 🟢 1.4 | 8 km NW of The Geysers, CA | 01:00 |
-| 🟢 1.4 | 16 km ESE of Anza, CA | 00:58 |
-| 🟠 3.5 | 52 km SSW of Whites City, New Mexico | 00:55 |
+| 🟢 2.1 | 28 km NE of Willow, Alaska | 03:51 |
+| 🟢 2.3 | 3 km NNW of Dibble, Oklahoma | 03:27 |
+| 🟢 1.4 | 7 km NW of The Geysers, CA | 03:26 |
+| 🟢 2.6 | 38 km NNE of Chickaloon, Alaska | 03:24 |
+| 🟢 2.0 | 12 km SW of Pāhoa, Hawaii | 03:10 |
+| 🟢 0.9 | 21 km NNE of Indio, CA | 03:07 |
+| 🟢 1.0 | 6 km WNW of The Geysers, CA | 03:06 |
+| 🟢 0.8 | 15 km ESE of Julian, CA | 03:03 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
