@@ -2,19 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2012:42:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-379ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2013:32:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-763ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.2 | 12 km ENE of Coso Junction, CA | 13:28 |
+| 🟢 1.6 | 12 km ENE of Coso Junction, CA | 13:24 |
+| 🟢 0.7 | 18 km E of Julian, CA | 13:24 |
+| 🟢 1.3 | 16 km NNW of Joshua Tree, CA | 13:20 |
+| 🟢 0.5 | 21 km NNE of Indio, CA | 13:17 |
+| 🟢 1.1 | 7 km NW of The Geysers, CA | 13:06 |
+| 🟢 2.1 | 25 km WNW of Nikiski, Alaska | 12:59 |
+| 🟢 0.7 | 21 km NNE of Indio, CA | 12:48 |
+| 🟢 1.0 | 10 km W of Pine Valley, CA | 12:47 |
 | 🟢 1.8 | 7 km ESE of Pearsall, Texas | 12:36 |
 | 🟢 1.0 | 9 km WSW of Morongo Valley, CA | 12:32 |
-| 🟢 1.0 | 10 km W of Pine Valley, CA | 12:28 |
-| 🟢 2.7 | 15 km NNW of Susanville, CA | 12:19 |
-| 🟢 0.6 | 21 km NNE of Indio, CA | 12:15 |
-| 🟢 0.6 | 21 km NNE of Indio, CA | 12:12 |
-| 🟢 2.2 | 21 km NNE of Indio, CA | 12:08 |
-| 🟢 1.2 | 17 km NNE of Indio, CA | 11:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
