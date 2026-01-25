@@ -2,22 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2004:52:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-377ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2005:28:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-1.072s-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.2 | 21 km NNE of Indio, CA | 05:25 |
+| 🟢 1.7 | 18 km WSW of Ester, Alaska | 05:17 |
+| 🟢 0.8 | 14 km W of Johannesburg, CA | 05:09 |
+| 🟢 1.8 | 12 km NE of Pāhala, Hawaii | 05:05 |
+| 🟢 0.2 | 8 km S of Hemet, CA | 04:59 |
+| 🟠 4.9 | Fiji region | 04:46 |
 | 🟢 0.8 | 21 km NNE of Indio, CA | 04:34 |
 | 🟢 1.6 | 16 km WSW of Dana Point, CA | 04:32 |
 | 🟢 1.1 | 9 km NE of Girdwood, Alaska | 04:30 |
-| 🟢 1.7 | 33 km N of Chickaloon, Alaska | 04:19 |
-| 🟢 2.0 | 31 km SSE of Fern Forest, Hawaii | 04:14 |
-| 🔴 5.2 | south of the Fiji Islands | 04:13 |
-| 🟢 2.4 | 3 km N of Sabana Eneas, Puerto Rico | 04:08 |
-| 🟢 1.7 | 61 km SSW of Whites City, New Mexico | 04:08 |
-| 🟢 1.0 | 16 km W of Johannesburg, CA | 03:59 |
-| 🟠 4.1 | 106 km N of Yakutat, Alaska | 03:56 |
-| 🟠 3.1 | 87 km N of Cruz Bay, U.S. Virgin Islands | 03:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
