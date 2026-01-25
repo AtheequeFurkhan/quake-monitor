@@ -2,20 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2006:32:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-465ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2007:21:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-357ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.0 | 11 km ENE of Coso Junction, CA | 07:18 |
+| 🟢 1.6 | 6 km WNW of Cobb, CA | 07:17 |
+| 🟢 1.1 | 7 km NNE of Westmorland, CA | 07:16 |
+| 🟢 1.0 | 8 km NNE of Banning, CA | 07:14 |
+| 🟢 2.5 | 48 km ESE of Whittier, Alaska | 07:06 |
+| 🟠 5.0 | Bonin Islands, Japan region | 06:49 |
+| 🟢 0.5 | 8 km S of Idyllwild, CA | 06:28 |
+| 🟢 1.7 | 5 km SW of Volcano, Hawaii | 06:28 |
 | 🟢 0.7 | 5 km WNW of Cobb, CA | 06:23 |
 | 🟢 1.2 | 25 km SW of Maricopa, CA | 06:23 |
-| 🟢 1.6 | 16 km W of Johannesburg, CA | 06:16 |
-| 🟢 0.7 | 17 km N of Indio, CA | 06:12 |
-| 🟢 1.5 | 85 km ESE of Cantwell, Alaska | 06:00 |
-| 🟢 1.8 | 13 km SE of Pāhala, Hawaii | 05:55 |
-| 🟢 1.6 | 14 km W of Johannesburg, CA | 05:51 |
-| 🟢 1.8 | 7 km W of Oxnard, CA | 05:39 |
-| 🟢 1.9 | 14 km SSW of Puako, Hawaii | 05:34 |
+| 🔴 5.1 | 251 km WSW of Tual, Indonesia | 06:22 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
