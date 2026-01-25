@@ -2,18 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2024%20Jan%202026%2023:19:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-299ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2001:54:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-213ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 22 km ESE of Chase, Alaska | 23:16 |
-| 🟢 1.4 | 18 km N of Indio, CA | 23:16 |
-| 🟢 1.5 | 18 km NNE of Indio, CA | 23:03 |
-| 🟢 2.2 | 14 km SSW of Volcano, Hawaii | 23:02 |
-| 🟢 0.6 | 19 km ESE of Anza, CA | 22:56 |
-| 🟢 1.3 | 12 km WSW of Valdez, Alaska | 22:54 |
-| 🟢 2.4 | 51 km E of Pedro Bay, Alaska | 22:27 |
+| 🟢 0.7 | 17 km NNE of Indio, CA | 01:50 |
+| 🟢 1.8 | 15 km S of Volcano, Hawaii | 01:37 |
+| 🟢 1.2 | 5 km WSW of Holtville, CA | 01:35 |
+| 🟢 2.3 | 23 km W of Petersville, Alaska | 01:16 |
+| 🟢 1.8 | 17 km NNE of Indio, CA | 01:10 |
+| 🟢 1.6 | 53 km W of Tatitlek, Alaska | 01:08 |
+| 🟢 1.2 | 19 km N of Indio, CA | 01:02 |
+| 🟢 0.8 | 4 km NNW of The Geysers, CA | 01:01 |
+| 🟢 1.4 | 8 km NW of The Geysers, CA | 01:00 |
+| 🟢 1.4 | 16 km ESE of Anza, CA | 00:58 |
+| 🟠 3.5 | 52 km SSW of Whites City, New Mexico | 00:55 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
