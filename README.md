@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2011:18:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-498ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2012:42:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-379ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 10 km W of Pine Valley, CA | 11:12 |
-| 🟢 0.8 | 21 km NNE of Indio, CA | 11:05 |
-| 🟢 1.2 | 18 km NNE of Indio, CA | 10:57 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 10:42 |
-| 🟢 1.7 | 14 km NNW of Westmorland, CA | 10:31 |
-| 🟢 2.0 | 57 km S of Whites City, New Mexico | 10:26 |
-| 🟢 1.3 | 9 km NW of The Geysers, CA | 10:19 |
+| 🟢 1.8 | 7 km ESE of Pearsall, Texas | 12:36 |
+| 🟢 1.0 | 9 km WSW of Morongo Valley, CA | 12:32 |
+| 🟢 1.0 | 10 km W of Pine Valley, CA | 12:28 |
+| 🟢 2.7 | 15 km NNW of Susanville, CA | 12:19 |
+| 🟢 0.6 | 21 km NNE of Indio, CA | 12:15 |
+| 🟢 0.6 | 21 km NNE of Indio, CA | 12:12 |
+| 🟢 2.2 | 21 km NNE of Indio, CA | 12:08 |
+| 🟢 1.2 | 17 km NNE of Indio, CA | 11:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
