@@ -2,17 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2018:30:14%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-254ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2019:16:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-199ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 23 km ENE of Coachella, CA | 18:27 |
-| 🟢 1.6 | 13 km NE of Hydesville, CA | 18:08 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 18:08 |
-| 🟢 1.5 | 59 km S of Whites City, New Mexico | 18:06 |
-| 🟠 4.1 | 4 km S of Epitálio, Greece | 17:56 |
-| 🟢 1.4 | 18 km NNE of Hollister, CA | 17:48 |
+| 🟢 1.1 | 14 km WSW of Johannesburg, CA | 19:09 |
+| 🟢 1.6 | 71 km WSW of Cantwell, Alaska | 19:05 |
+| 🟢 1.7 | 4 km SE of Pinnacles, CA | 19:01 |
+| 🟢 2.6 | 18 km WNW of Happy Valley, Alaska | 18:57 |
+| 🟢 1.2 | 1 km NNW of Placentia, CA | 18:44 |
+| 🟢 2.1 | 59 km W of Anchor Point, Alaska | 18:35 |
+| 🟢 1.1 | 23 km ENE of Coachella, CA | 18:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
