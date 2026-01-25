@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2020:24:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-192ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2021:19:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-204ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 18 km NNE of Indio, CA | 20:12 |
-| 🟢 1.8 | 24 km SSW of Ludlow, CA | 20:09 |
-| 🟢 1.4 | 4 km WSW of Port Alsworth, Alaska | 20:09 |
-| 🟠 3.8 | 77 km S of Point Hope, Alaska | 19:51 |
-| 🟢 2.2 | 20 km NNE of Indio, CA | 19:38 |
-| 🟢 2.2 | 37 km S of Mina, Nevada | 19:34 |
-| 🟢 0.7 | 9 km WNW of The Geysers, CA | 19:29 |
-| 🟠 4.5 | 41 km WNW of Illapel, Chile | 19:24 |
+| 🟢 0.7 | 4 km W of Cobb, CA | 20:59 |
+| 🟢 0.7 | 21 km NNE of Indio, CA | 20:50 |
+| 🟢 1.1 | 7 km SSW of Salton City, CA | 20:43 |
+| 🟢 1.0 | 20 km NNE of Indio, CA | 20:40 |
+| 🟢 0.8 | 72 km S of Cantwell, Alaska | 20:39 |
+| 🟢 0.6 | 31 km ESE of Minto, Alaska | 20:32 |
+| 🟠 4.6 | 16 km NNE of Honoria, Peru | 20:29 |
+| 🟢 1.1 | 13 km SW of Searles Valley, CA | 20:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
