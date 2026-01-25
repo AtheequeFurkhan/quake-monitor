@@ -2,18 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2017:17:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-409ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2018:30:14%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-254ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 13 km ENE of Cloverdale, CA | 17:14 |
-| 🟢 1.9 | 2 km WNW of Pāhala, Hawaii | 17:02 |
-| 🟢 1.4 | 7 km WNW of Cobb, CA | 17:01 |
-| 🟢 1.1 | 5 km W of Cobb, CA | 16:52 |
-| 🟢 1.1 | 10 km W of Pine Valley, CA | 16:50 |
-| 🟢 2.9 | 8 km ESE of Puebla, B.C., MX | 16:43 |
-| 🟢 1.7 | 11 km ENE of Susitna North, Alaska | 16:41 |
+| 🟢 1.2 | 23 km ENE of Coachella, CA | 18:27 |
+| 🟢 1.6 | 13 km NE of Hydesville, CA | 18:08 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 18:08 |
+| 🟢 1.5 | 59 km S of Whites City, New Mexico | 18:06 |
+| 🟠 4.1 | 4 km S of Epitálio, Greece | 17:56 |
+| 🟢 1.4 | 18 km NNE of Hollister, CA | 17:48 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
