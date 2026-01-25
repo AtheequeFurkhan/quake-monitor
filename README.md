@@ -2,21 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2008:27:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-381ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2009:21:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-172ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 4 km NW of The Geysers, CA | 08:17 |
-| 🟢 0.8 | 5 km WNW of Cobb, CA | 08:04 |
-| 🟢 0.4 | 6 km NW of The Geysers, CA | 07:57 |
-| 🟢 1.1 | 6 km NW of The Geysers, CA | 07:49 |
-| 🟢 2.9 | 2 km SE of Adjuntas, Puerto Rico | 07:45 |
-| 🟢 0.7 | 6 km NNW of The Geysers, CA | 07:40 |
-| 🟢 1.4 | 18 km W of Trapper Creek, Alaska | 07:40 |
-| 🟢 1.0 | 5 km NNW of The Geysers, CA | 07:40 |
-| 🟢 1.3 | 19 km NNE of Indio, CA | 07:35 |
-| 🟢 1.5 | 7 km S of Willow, Alaska | 07:35 |
+| 🟢 1.0 | 7 km NW of The Geysers, CA | 09:16 |
+| 🟠 3.7 | 67 km SSE of Halibut Cove, Alaska | 09:12 |
+| 🟢 2.2 | 15 km W of Karluk, Alaska | 08:55 |
+| 🟢 0.9 | 5 km NW of The Geysers, CA | 08:51 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 08:50 |
+| 🟢 0.5 | 6 km NNW of The Geysers, CA | 08:49 |
+| 🟢 1.7 | 6 km NW of The Geysers, CA | 08:48 |
+| 🟢 2.2 | 53 km SSW of Whites City, New Mexico | 08:47 |
+| 🟢 0.8 | 21 km NNE of Indio, CA | 08:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
