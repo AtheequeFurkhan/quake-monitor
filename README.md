@@ -2,20 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2010:21:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-410ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2011:18:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-498ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.1 | 10 km W of Pine Valley, CA | 11:12 |
+| 🟢 0.8 | 21 km NNE of Indio, CA | 11:05 |
+| 🟢 1.2 | 18 km NNE of Indio, CA | 10:57 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 10:42 |
+| 🟢 1.7 | 14 km NNW of Westmorland, CA | 10:31 |
+| 🟢 2.0 | 57 km S of Whites City, New Mexico | 10:26 |
 | 🟢 1.3 | 9 km NW of The Geysers, CA | 10:19 |
-| 🟢 2.6 | 43 km WNW of Elfin Cove, Alaska | 10:14 |
-| 🟢 1.7 | 4 km WSW of Glen Ellen, CA | 10:07 |
-| 🟢 0.4 | 6 km WSW of Anza, CA | 09:35 |
-| 🟢 3.0 | 15 km N of Pittsburg, CA | 09:33 |
-| 🟢 1.3 | 11 km SW of Morongo Valley, CA | 09:31 |
-| 🟢 1.6 | 54 km SSW of Whites City, New Mexico | 09:26 |
-| 🟠 3.5 | 73 km N of Cruz Bay, U.S. Virgin Islands | 09:25 |
-| 🟢 1.2 | 34 km NNW of Valdez, Alaska | 09:22 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
