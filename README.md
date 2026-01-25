@@ -2,19 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2022:20:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-397ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2023:20:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-415ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 18 km N of Indio, CA | 22:16 |
-| 🟢 1.1 | 4 km ESE of Beaumont, CA | 22:06 |
-| 🟢 0.7 | 19 km N of Indio, CA | 22:02 |
-| 🟠 5.0 | Volcano Islands, Japan region | 22:02 |
-| 🟢 1.1 | 21 km NNE of Indio, CA | 22:01 |
-| 🟢 1.0 | 11 km NW of Ocotillo Wells, CA | 21:58 |
-| 🟢 0.2 | 21 km ENE of Minto, Alaska | 21:24 |
-| 🟢 1.1 | 86 km SSW of McCarthy, Alaska | 21:22 |
+| 🟢 1.6 | 102 km NW of Yakutat, Alaska | 22:55 |
+| 🟢 1.2 | 21 km SE of Glacier View, Alaska | 22:50 |
+| 🟢 1.5 | 57 km NNE of Chase, Alaska | 22:46 |
+| 🟢 1.4 | 12 km SE of Sunol, CA | 22:43 |
+| 🟢 1.5 | 20 km SE of Chickaloon, Alaska | 22:41 |
+| 🟢 2.0 | 5 km E of Pearsall, Texas | 22:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
