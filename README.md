@@ -2,22 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2007:21:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-357ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2025%20Jan%202026%2008:27:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-381ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 11 km ENE of Coso Junction, CA | 07:18 |
-| 🟢 1.6 | 6 km WNW of Cobb, CA | 07:17 |
-| 🟢 1.1 | 7 km NNE of Westmorland, CA | 07:16 |
-| 🟢 1.0 | 8 km NNE of Banning, CA | 07:14 |
-| 🟢 2.5 | 48 km ESE of Whittier, Alaska | 07:06 |
-| 🟠 5.0 | Bonin Islands, Japan region | 06:49 |
-| 🟢 0.5 | 8 km S of Idyllwild, CA | 06:28 |
-| 🟢 1.7 | 5 km SW of Volcano, Hawaii | 06:28 |
-| 🟢 0.7 | 5 km WNW of Cobb, CA | 06:23 |
-| 🟢 1.2 | 25 km SW of Maricopa, CA | 06:23 |
-| 🔴 5.1 | 251 km WSW of Tual, Indonesia | 06:22 |
+| 🟢 0.8 | 4 km NW of The Geysers, CA | 08:17 |
+| 🟢 0.8 | 5 km WNW of Cobb, CA | 08:04 |
+| 🟢 0.4 | 6 km NW of The Geysers, CA | 07:57 |
+| 🟢 1.1 | 6 km NW of The Geysers, CA | 07:49 |
+| 🟢 2.9 | 2 km SE of Adjuntas, Puerto Rico | 07:45 |
+| 🟢 0.7 | 6 km NNW of The Geysers, CA | 07:40 |
+| 🟢 1.4 | 18 km W of Trapper Creek, Alaska | 07:40 |
+| 🟢 1.0 | 5 km NNW of The Geysers, CA | 07:40 |
+| 🟢 1.3 | 19 km NNE of Indio, CA | 07:35 |
+| 🟢 1.5 | 7 km S of Willow, Alaska | 07:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
