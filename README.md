@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2003:57:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-366ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2004:58:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-372ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🔴 5.4 | 74 km S of ‘Ohonua, Tonga | 03:31 |
-| 🟢 2.0 | 55 km SSW of Whites City, New Mexico | 03:30 |
-| 🟢 2.7 | 71 km NW of Yakutat, Alaska | 03:27 |
-| 🟢 1.0 | 20 km E of Coso Junction, CA | 03:26 |
-| 🟢 1.0 | 15 km NE of Ridgecrest, CA | 03:18 |
-| 🟢 1.7 | 6 km NNW of The Geysers, CA | 02:59 |
-| 🟠 4.6 | Izu Islands, Japan region | 02:58 |
+| 🟢 1.6 | 84 km NW of Karluk, Alaska | 04:47 |
+| 🟢 0.8 | 3 km NE of Fontana, CA | 04:32 |
+| 🟢 2.1 | 6 km E of Pearsall, Texas | 04:21 |
+| 🟢 0.7 | 4 km NNW of Big Bear City, CA | 04:16 |
+| 🟢 0.8 | 5 km WNW of Cobb, CA | 04:15 |
+| 🟢 1.0 | 8 km N of Four Mile Road, Alaska | 04:10 |
+| 🟢 2.7 | 12 km WSW of Anacortes, Washington | 04:04 |
+| 🟢 1.5 | 7 km ENE of Toyah, Texas | 03:59 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
