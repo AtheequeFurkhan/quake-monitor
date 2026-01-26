@@ -2,21 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2016:34:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-399ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2017:29:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-191ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 24 km NNW of Westbrook, Texas | 16:22 |
-| 🟢 1.8 | 18 km NNE of Indio, CA | 16:21 |
-| 🟢 0.9 | 7 km NW of The Geysers, CA | 16:15 |
-| 🟢 1.7 | 41 km NNW of Gabbs, Nevada | 16:10 |
-| 🟢 1.0 | 36 km NNW of Toyah, Texas | 16:04 |
-| 🟢 1.8 | 113 km S of McCarthy, Alaska | 15:58 |
-| 🟢 0.3 | 85 km NW of Karluk, Alaska | 15:48 |
-| 🟢 1.5 | 9 km WNW of The Geysers, CA | 15:45 |
-| 🟢 1.2 | 68 km E of McCarthy, Alaska | 15:40 |
-| 🟢 1.1 | 24 km SW of Snyder, Texas | 15:39 |
+| 🟢 0.9 | 23 km SW of Snyder, Texas | 17:24 |
+| 🔴 5.6 | 40 km SSW of Mendi, Papua New Guinea | 17:06 |
+| 🟢 1.2 | 7 km ENE of Ridgecrest, CA | 17:00 |
+| 🟢 1.1 | 11 km N of Mojave, CA | 16:59 |
+| 🟢 2.0 | 14 km NE of Pāhala, Hawaii | 16:51 |
+| 🟢 1.7 | 11 km NNW of Mojave, CA | 16:49 |
+| 🟢 2.1 | 48 km NW of Toyah, Texas | 16:42 |
+| 🟢 0.7 | 7 km NW of The Geysers, CA | 16:40 |
+| 🟢 2.9 | 86 km W of Petrolia, CA | 16:33 |
+| 🔴 5.2 | Kermadec Islands, New Zealand | 16:29 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
