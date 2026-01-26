@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2014:28:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-224ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2015:29:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-313ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 40 km NNW of Valdez, Alaska | 14:23 |
-| 🟢 1.3 | 57 km NNE of Chase, Alaska | 14:19 |
-| 🟢 1.7 | 7 km SSW of Pāhala, Hawaii | 14:01 |
-| 🟢 1.2 | 3 km SE of Pacifica, CA | 13:45 |
-| 🟠 4.1 | 40 km S of Dalbandin, Pakistan | 13:44 |
-| 🟢 3.0 | 36 km NNW of Nelson Lagoon, Alaska | 13:43 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 13:33 |
-| 🟢 1.8 | 13 km SSE of Volcano, Hawaii | 13:28 |
+| 🟢 0.8 | 87 km NNW of Karluk, Alaska | 15:11 |
+| 🟢 2.2 | 33 km SE of Mina, Nevada | 15:00 |
+| 🟢 1.8 | 9 km ESE of Puebla, B.C., MX | 14:53 |
+| 🔴 5.2 | 139 km ESE of Severo-Kuril’sk, Russia | 14:44 |
+| 🟢 2.1 | 72 km WNW of Happy Valley, Alaska | 14:42 |
+| 🟢 1.8 | 16 km SE of Honey Lake, CA | 14:39 |
+| 🟠 3.6 | 4 km SW of Big Lake, Alaska | 14:38 |
+| 🟢 1.0 | 13 km N of Borrego Springs, CA | 14:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
