@@ -2,19 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2015:29:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-313ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2016:34:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-399ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 87 km NNW of Karluk, Alaska | 15:11 |
-| 🟢 2.2 | 33 km SE of Mina, Nevada | 15:00 |
-| 🟢 1.8 | 9 km ESE of Puebla, B.C., MX | 14:53 |
-| 🔴 5.2 | 139 km ESE of Severo-Kuril’sk, Russia | 14:44 |
-| 🟢 2.1 | 72 km WNW of Happy Valley, Alaska | 14:42 |
-| 🟢 1.8 | 16 km SE of Honey Lake, CA | 14:39 |
-| 🟠 3.6 | 4 km SW of Big Lake, Alaska | 14:38 |
-| 🟢 1.0 | 13 km N of Borrego Springs, CA | 14:34 |
+| 🟢 1.2 | 24 km NNW of Westbrook, Texas | 16:22 |
+| 🟢 1.8 | 18 km NNE of Indio, CA | 16:21 |
+| 🟢 0.9 | 7 km NW of The Geysers, CA | 16:15 |
+| 🟢 1.7 | 41 km NNW of Gabbs, Nevada | 16:10 |
+| 🟢 1.0 | 36 km NNW of Toyah, Texas | 16:04 |
+| 🟢 1.8 | 113 km S of McCarthy, Alaska | 15:58 |
+| 🟢 0.3 | 85 km NW of Karluk, Alaska | 15:48 |
+| 🟢 1.5 | 9 km WNW of The Geysers, CA | 15:45 |
+| 🟢 1.2 | 68 km E of McCarthy, Alaska | 15:40 |
+| 🟢 1.1 | 24 km SW of Snyder, Texas | 15:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
