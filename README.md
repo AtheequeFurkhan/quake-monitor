@@ -2,18 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2021:24:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-233ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2022:21:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-533ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 5 km W of Cobb, CA | 21:14 |
-| 🟢 0.6 | 86 km NNW of Karluk, Alaska | 20:50 |
-| 🟢 1.7 | 31 km SE of Denali National Park, Alaska | 20:44 |
-| 🟢 2.2 | 13 km NW of Ferry, Alaska | 20:41 |
-| 🟢 1.5 | 2 km SSE of Home Gardens, CA | 20:36 |
-| 🟢 1.6 | 18 km WSW of Johannesburg, CA | 20:30 |
-| 🟢 0.7 | 5 km WNW of Cobb, CA | 20:27 |
+| 🟢 1.5 | 2 km NE of Grand Terrace, CA | 22:10 |
+| 🟢 1.3 | 20 km N of Indio, CA | 22:06 |
+| 🟢 1.4 | 99 km NNW of Yakutat, Alaska | 22:05 |
+| 🟢 1.8 | 15 km NNW of Tatitlek, Alaska | 22:02 |
+| 🟠 4.6 | 54 km SSW of Mendi, Papua New Guinea | 21:53 |
+| 🟢 2.2 | 16 km NNE of Hawthorne, Nevada | 21:38 |
+| 🟢 1.8 | 13 km SSE of Volcano, Hawaii | 21:37 |
+| 🟢 1.4 | 10 km N of Hollister, CA | 21:36 |
+| 🟢 1.1 | 13 km WSW of Stanton, Texas | 21:23 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
