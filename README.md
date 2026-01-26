@@ -2,23 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2006:37:14%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-188ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2007:27:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-379ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.8 | 2 km WSW of Anderson Springs, CA | 07:18 |
+| 🟢 1.8 | 4 km WNW of Happy Valley, Alaska | 07:12 |
+| 🟢 0.7 | 4 km W of Cobb, CA | 07:09 |
+| 🟢 1.8 | 7 km E of Pāhala, Hawaii | 07:08 |
+| 🟢 1.9 | 2 km E of Pearsall, Texas | 07:07 |
+| 🟢 2.3 | 53 km S of Cantwell, Alaska | 07:04 |
+| 🟢 3.0 | 68 km SE of Denali National Park, Alaska | 07:01 |
+| 🔴 5.5 | 9 km ESE of Dianga, China | 06:56 |
+| 🟢 1.4 | 3 km WSW of Brawley, CA | 06:42 |
 | 🟢 2.2 | 9 km S of Leilani Estates, Hawaii | 06:32 |
 | 🟢 1.3 | 8 km NW of The Geysers, CA | 06:31 |
-| 🟢 2.0 | 8 km W of Cobb, CA | 06:25 |
-| 🟢 2.4 | 21 km N of Valdez, Alaska | 06:22 |
-| 🟢 0.7 | 20 km E of Little Lake, CA | 06:19 |
-| 🟢 0.5 | 20 km SE of Livengood, Alaska | 06:18 |
-| 🟢 1.8 | 17 km NNE of Indio, CA | 06:11 |
-| 🔴 5.7 | west of Macquarie Island | 06:07 |
-| 🟢 0.5 | 8 km SSW of Borrego Springs, CA | 06:06 |
-| 🟢 2.1 | 39 km SSW of Dry Creek, Alaska | 06:04 |
-| 🟢 1.1 | 19 km NNE of Indio, CA | 05:56 |
-| 🟢 2.1 | 12 km W of Ludlow, CA | 05:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
