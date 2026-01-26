@@ -2,20 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2022:21:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-533ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2023:22:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-530ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 2 km NE of Grand Terrace, CA | 22:10 |
-| 🟢 1.3 | 20 km N of Indio, CA | 22:06 |
-| 🟢 1.4 | 99 km NNW of Yakutat, Alaska | 22:05 |
-| 🟢 1.8 | 15 km NNW of Tatitlek, Alaska | 22:02 |
-| 🟠 4.6 | 54 km SSW of Mendi, Papua New Guinea | 21:53 |
-| 🟢 2.2 | 16 km NNE of Hawthorne, Nevada | 21:38 |
-| 🟢 1.8 | 13 km SSE of Volcano, Hawaii | 21:37 |
-| 🟢 1.4 | 10 km N of Hollister, CA | 21:36 |
-| 🟢 1.1 | 13 km WSW of Stanton, Texas | 21:23 |
+| 🟢 1.3 | 14 km WNW of Eureka Roadhouse, Alaska | 23:17 |
+| 🟢 1.0 | 8 km WNW of The Geysers, CA | 23:14 |
+| 🟢 1.9 | 22 km SE of Pope-Vannoy Landing, Alaska | 23:09 |
+| 🟢 0.6 | 4 km W of Cobb, CA | 23:08 |
+| 🟢 1.0 | 3 km NNW of The Geysers, CA | 23:05 |
+| 🟢 2.5 | 64 km ESE of Adak, Alaska | 22:50 |
+| 🟢 2.0 | 128 km E of McCarthy, Alaska | 22:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
