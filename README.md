@@ -2,26 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2011:20:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-336ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2012:48:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-539ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 24 km NNW of Westbrook, Texas | 11:14 |
-| 🟢 1.3 | 23 km NNW of Westbrook, Texas | 11:06 |
-| 🟠 4.0 | 20 km WNW of Tatitlek, Alaska | 10:56 |
-| 🟢 1.2 | 11 km N of Piru, CA | 10:51 |
-| 🟢 1.0 | 6 km NNE of Banning, CA | 10:47 |
-| 🟢 1.9 | 23 km SW of Snyder, Texas | 10:47 |
-| 🟢 1.1 | 5 km WNW of Cobb, CA | 10:42 |
-| 🟢 2.3 | 22 km W of Petrolia, CA | 10:41 |
-| 🟢 1.6 | 29 km SE of Minto, Alaska | 10:38 |
-| 🟢 1.6 | 23 km NNW of Westbrook, Texas | 10:35 |
-| 🟢 1.2 | 2 km NW of Danville, CA | 10:29 |
-| 🟢 1.5 | 18 km SE of Gail, Texas | 10:28 |
-| 🟢 0.7 | 8 km NNE of Borrego Springs, CA | 10:27 |
-| 🟠 4.3 | 23 km SW of Snyder, Texas | 10:22 |
-| 🔴 5.1 | 175 km SE of Vilyuchinsk, Russia | 10:21 |
+| 🟢 1.2 | 4 km ESE of Yorba Linda, CA | 12:38 |
+| 🟢 1.6 | 35 km ENE of Nixon, Nevada | 12:32 |
+| 🟢 0.2 | 9 km S of Idyllwild, CA | 12:29 |
+| 🟢 0.4 | 5 km ENE of Anza, CA | 12:25 |
+| 🟢 1.4 | 4 km ENE of Anza, CA | 12:24 |
+| 🟢 2.1 | 18 km ESE of Anderson, CA | 12:17 |
+| 🟢 1.4 | 24 km SW of Snyder, Texas | 12:10 |
+| 🟢 2.1 | 22 km WNW of Tatitlek, Alaska | 12:10 |
+| 🟢 0.6 | 23 km SSW of La Quinta, CA | 11:53 |
+| 🟢 2.2 | 61 km W of Anchor Point, Alaska | 11:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
