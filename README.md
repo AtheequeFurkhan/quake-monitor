@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2013:43:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-311ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2014:28:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-224ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.4 | 40 km NNW of Valdez, Alaska | 14:23 |
+| 🟢 1.3 | 57 km NNE of Chase, Alaska | 14:19 |
+| 🟢 1.7 | 7 km SSW of Pāhala, Hawaii | 14:01 |
+| 🟢 1.2 | 3 km SE of Pacifica, CA | 13:45 |
+| 🟠 4.1 | 40 km S of Dalbandin, Pakistan | 13:44 |
+| 🟢 3.0 | 36 km NNW of Nelson Lagoon, Alaska | 13:43 |
 | 🟢 0.7 | 6 km WNW of Cobb, CA | 13:33 |
 | 🟢 1.8 | 13 km SSE of Volcano, Hawaii | 13:28 |
-| 🟢 1.8 | 26 km S of Westbrook, Texas | 13:25 |
-| 🟢 2.4 | 7 km NW of Point MacKenzie, Alaska | 13:20 |
-| 🟢 1.0 | 4 km NNW of Big Bear City, CA | 13:19 |
-| 🟢 2.5 | 27 km WNW of Anchor Point, Alaska | 13:18 |
-| 🔴 5.1 | 50 km SE of ‘Ohonua, Tonga | 13:02 |
-| 🟢 1.0 | 127 km NW of Yakutat, Alaska | 13:01 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
