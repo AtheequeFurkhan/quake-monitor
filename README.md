@@ -2,17 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2008:33:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-210ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2009:34:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-191ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 5 km NW of The Geysers, CA | 08:13 |
-| 🟢 0.8 | 6 km WNW of Cobb, CA | 07:54 |
-| 🟢 2.4 | 55 km SSW of Whites City, New Mexico | 07:46 |
-| 🟢 0.9 | 79 km NNW of Karluk, Alaska | 07:45 |
-| 🟢 0.6 | 17 km W of Searles Valley, CA | 07:41 |
-| 🟢 3.0 | 16 km S of Cruz Bay, U.S. Virgin Islands | 07:37 |
+| 🟢 1.0 | 14 km E of Ocotillo Wells, CA | 09:23 |
+| 🟢 0.9 | 19 km NNE of Indio, CA | 09:12 |
+| 🟢 2.3 | 63 km SE of Denali National Park, Alaska | 09:09 |
+| 🟢 2.2 | 17 km NNE of Indio, CA | 08:54 |
+| 🟢 1.5 | 18 km E of Goldfield, Nevada | 08:54 |
+| 🟢 1.1 | 16 km W of Johannesburg, CA | 08:54 |
+| 🟢 1.3 | 36 km NW of Stanton, Texas | 08:39 |
+| 🟢 1.1 | 6 km NW of The Geysers, CA | 08:39 |
+| 🟢 1.0 | 7 km NW of The Geysers, CA | 08:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
