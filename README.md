@@ -2,20 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2009:34:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-191ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2010:26:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-509ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 14 km E of Ocotillo Wells, CA | 09:23 |
-| 🟢 0.9 | 19 km NNE of Indio, CA | 09:12 |
-| 🟢 2.3 | 63 km SE of Denali National Park, Alaska | 09:09 |
-| 🟢 2.2 | 17 km NNE of Indio, CA | 08:54 |
-| 🟢 1.5 | 18 km E of Goldfield, Nevada | 08:54 |
-| 🟢 1.1 | 16 km W of Johannesburg, CA | 08:54 |
-| 🟢 1.3 | 36 km NW of Stanton, Texas | 08:39 |
-| 🟢 1.1 | 6 km NW of The Geysers, CA | 08:39 |
-| 🟢 1.0 | 7 km NW of The Geysers, CA | 08:36 |
+| 🟢 1.3 | 1 km NW of Danville, CA | 10:11 |
+| 🟢 0.7 | 4 km WNW of Julian, CA | 10:07 |
+| 🟢 0.4 | 16 km SSE of Bombay Beach, CA | 10:04 |
+| 🟢 1.5 | 6 km NNW of The Geysers, CA | 10:02 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
