@@ -2,20 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2001:54:22%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-207ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2003:57:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-366ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 10 km S of Willow, Alaska | 01:46 |
-| 🟢 1.7 | 17 km NNE of Indio, CA | 01:45 |
-| 🟢 1.5 | 17 km S of Tres Pinos, CA | 01:44 |
-| 🟢 2.6 | 7 km S of Willow, Alaska | 01:24 |
-| 🟢 0.8 | 12 km SSE of Anza, CA | 01:18 |
-| 🟢 0.7 | 6 km W of Cobb, CA | 01:16 |
-| 🟢 0.8 | 10 km WNW of The Geysers, CA | 01:05 |
-| 🟢 0.8 | 10 km WNW of The Geysers, CA | 01:04 |
-| 🔴 5.2 | 134 km NE of Lospalos, Timor Leste | 00:54 |
+| 🔴 5.4 | 74 km S of ‘Ohonua, Tonga | 03:31 |
+| 🟢 2.0 | 55 km SSW of Whites City, New Mexico | 03:30 |
+| 🟢 2.7 | 71 km NW of Yakutat, Alaska | 03:27 |
+| 🟢 1.0 | 20 km E of Coso Junction, CA | 03:26 |
+| 🟢 1.0 | 15 km NE of Ridgecrest, CA | 03:18 |
+| 🟢 1.7 | 6 km NNW of The Geysers, CA | 02:59 |
+| 🟠 4.6 | Izu Islands, Japan region | 02:58 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
