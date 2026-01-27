@@ -2,17 +2,26 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2019:26:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-288ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2020:23:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-373ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 10 km WNW of The Geysers, CA | 19:21 |
-| 🟢 1.1 | 10 km WNW of The Geysers, CA | 19:14 |
-| 🟢 0.8 | 10 km WNW of The Geysers, CA | 19:14 |
-| 🟢 1.0 | 13 km WNW of Searles Valley, CA | 19:06 |
-| 🟢 0.4 | 6 km WNW of Cobb, CA | 19:06 |
-| 🟢 0.7 | 9 km NW of The Geysers, CA | 18:36 |
+| 🟢 1.1 | 10 km WNW of The Geysers, CA | 20:20 |
+| 🟢 1.1 | 24 km SSW of La Quinta, CA | 20:14 |
+| 🟢 0.9 | 21 km NNE of Indio, CA | 20:10 |
+| 🟢 0.8 | 10 km WNW of The Geysers, CA | 20:10 |
+| 🟢 1.8 | 1 km NW of Pāhala, Hawaii | 20:09 |
+| 🟢 1.1 | 7 km NE of Coso Junction, CA | 20:03 |
+| 🟢 1.2 | 7 km S of Mojave, CA | 20:00 |
+| 🟢 1.1 | 10 km WNW of The Geysers, CA | 19:50 |
+| 🟢 0.9 | 34 km S of Silver Gate, Montana | 19:49 |
+| 🟢 0.8 | 20 km ESE of Little Lake, CA | 19:48 |
+| 🟢 0.7 | 10 km WNW of The Geysers, CA | 19:34 |
+| 🟢 1.8 | 39 km N of Glacier View, Alaska | 19:32 |
+| 🟢 1.1 | 4 km N of Ocotillo Wells, CA | 19:30 |
+| 🟢 1.5 | 10 km WNW of The Geysers, CA | 19:27 |
+| 🟢 1.2 | 10 km WNW of The Geysers, CA | 19:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
