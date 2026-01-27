@@ -2,19 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2018:39:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-5.225s-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2019:26:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-288ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 54 km SSE of Denali National Park, Alaska | 18:25 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 18:07 |
-| 🟢 1.1 | 7 km ENE of Coso Junction, CA | 18:05 |
-| 🟠 4.7 | 65 km WSW of Lithakiá, Greece | 17:53 |
-| 🟢 0.7 | 4 km WNW of Coso Junction, CA | 17:44 |
-| 🟠 4.7 | 28 km W of Sangay, Philippines | 17:43 |
-| 🟢 2.2 | 9 km WNW of The Geysers, CA | 17:40 |
-| 🟢 2.9 | 11 km S of Forsan, Texas | 17:39 |
+| 🟢 2.2 | 10 km WNW of The Geysers, CA | 19:21 |
+| 🟢 1.1 | 10 km WNW of The Geysers, CA | 19:14 |
+| 🟢 0.8 | 10 km WNW of The Geysers, CA | 19:14 |
+| 🟢 1.0 | 13 km WNW of Searles Valley, CA | 19:06 |
+| 🟢 0.4 | 6 km WNW of Cobb, CA | 19:06 |
+| 🟢 0.7 | 9 km NW of The Geysers, CA | 18:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
