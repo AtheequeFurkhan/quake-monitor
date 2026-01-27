@@ -2,20 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2013:47:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-379ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2014:29:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-390ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.9 | 8 km SE of Valle Vista, CA | 14:20 |
+| 🟢 1.7 | 14 km SW of Volcano, Hawaii | 14:15 |
+| 🟢 1.1 | 14 km ENE of Livengood, Alaska | 14:13 |
+| 🟢 1.3 | 41 km NW of Toyah, Texas | 14:06 |
+| 🟢 1.0 | 11 km WNW of Bodfish, CA | 14:05 |
+| 🟢 1.7 | 26 km WNW of Ludlow, CA | 13:58 |
+| 🟢 2.6 | 5 km NNW of Aguas Buenas, Puerto Rico | 13:49 |
 | 🟢 2.1 | 8 km WNW of Cobb, CA | 13:40 |
 | 🟢 2.0 | 27 km N of Snyder, Texas | 13:38 |
 | 🟢 1.3 | 20 km ENE of Little Lake, CA | 13:38 |
 | 🟢 0.8 | 16 km NNE of Indio, CA | 13:30 |
-| 🟢 0.3 | 6 km WNW of Cobb, CA | 13:20 |
-| 🟢 1.4 | 6 km NNW of The Geysers, CA | 13:20 |
-| 🟢 2.0 | 13 km ENE of Willow, Alaska | 13:13 |
-| 🟢 1.8 | 5 km N of North Enid, Oklahoma | 13:07 |
-| 🟢 0.7 | 17 km NNE of Indio, CA | 12:54 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
