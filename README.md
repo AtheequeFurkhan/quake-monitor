@@ -2,23 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2010:27:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-296ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2011:22:55%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-345ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.2 | 6 km WNW of Cobb, CA | 10:20 |
-| 🟢 1.6 | 10 km SW of Furnace Creek, California | 10:20 |
-| 🟢 1.3 | 17 km NNE of Indio, CA | 10:17 |
-| 🟢 1.0 | 16 km W of Johannesburg, CA | 10:09 |
-| 🟢 1.0 | 45 km NW of Tatitlek, Alaska | 09:58 |
-| 🟢 0.8 | 9 km WNW of The Geysers, CA | 09:54 |
-| 🟢 0.9 | 9 km WNW of The Geysers, CA | 09:53 |
-| 🟢 0.4 | 8 km SW of Idyllwild, CA | 09:52 |
-| 🟢 1.7 | 14 km S of Volcano, Hawaii | 09:48 |
-| 🟢 1.4 | 13 km N of Morgan Hill, CA | 09:45 |
-| 🟢 1.4 | 17 km NNE of Indio, CA | 09:41 |
-| 🟠 4.2 | 2 km NW of Pāhala, Hawaii | 09:37 |
+| 🟢 0.7 | 6 km NW of The Geysers, CA | 11:12 |
+| 🟢 0.7 | 4 km WNW of Julian, CA | 11:11 |
+| 🟢 2.4 | 81 km S of Cordova, Alaska | 11:11 |
+| 🟢 0.6 | 21 km NNE of Indio, CA | 11:10 |
+| 🟢 1.8 | 20 km WSW of Point MacKenzie, Alaska | 11:10 |
+| 🟢 1.8 | 10 km WSW of Pepeekeo, Hawaii | 11:02 |
+| 🟢 1.5 | 3 km SE of Pacifica, CA | 10:50 |
+| 🟢 0.5 | 4 km NNW of The Geysers, CA | 10:49 |
+| 🟠 3.3 | 48 km ESE of Whittier, Alaska | 10:44 |
+| 🟢 2.4 | 38 km W of Veyo, Utah | 10:40 |
+| 🟢 2.1 | 7 km E of Pearsall, Texas | 10:33 |
+| 🟢 0.6 | 5 km S of Idyllwild, CA | 10:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
