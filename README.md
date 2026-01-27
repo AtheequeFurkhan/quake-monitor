@@ -2,24 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2021:21:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-216ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2022:22:47%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-172ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 27 km E of Goodsprings, Nevada | 21:12 |
-| 🟢 1.0 | 3 km WSW of Cobb, CA | 21:03 |
-| 🟢 2.2 | 69 km ENE of Pedro Bay, Alaska | 21:00 |
-| 🟢 2.8 | 114 km NNW of San Antonio, Puerto Rico | 20:58 |
-| 🟢 1.1 | 37 km NW of Stanton, Texas | 20:53 |
-| 🟢 2.5 | 18 km SW of Susitna, Alaska | 20:53 |
-| 🟢 1.6 | 54 km NW of Karluk, Alaska | 20:51 |
-| 🟢 2.0 | 52 km SSE of Denali National Park, Alaska | 20:46 |
-| 🟢 1.1 | 84 km NNW of Karluk, Alaska | 20:46 |
-| 🟢 1.5 | 11 km W of Pine Valley, CA | 20:44 |
-| 🟢 2.3 | 5 km ESE of Elgin, South Carolina | 20:32 |
-| 🟢 1.3 | 86 km NNW of Karluk, Alaska | 20:26 |
-| 🟢 2.1 | 11 km NNE of Selah, Washington | 20:22 |
+| 🟢 2.1 | 7 km ESE of Pearsall, Texas | 22:05 |
+| 🟢 1.8 | 2 km E of North Pearsall, Texas | 22:01 |
+| 🟢 0.4 | 3 km NNW of The Geysers, CA | 21:52 |
+| 🟢 0.9 | 10 km SSW of Valle Vista, CA | 21:48 |
+| 🟢 1.5 | 26 km E of Bridgeport, California | 21:40 |
+| 🟠 3.0 | 12 km SSE of Port Orford, Oregon | 21:25 |
+| 🟢 1.2 | 21 km SE of Livengood, Alaska | 21:22 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
