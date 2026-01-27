@@ -2,20 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2005:26:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-511ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2006:35:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-545ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 5 km NW of The Geysers, CA | 05:01 |
-| 🟢 1.5 | 23 km SW of Snyder, Texas | 05:01 |
-| 🟢 1.8 | 6 km E of Pearsall, Texas | 04:53 |
-| 🟢 1.1 | 15 km NW of Stanton, Texas | 04:53 |
-| 🟢 1.8 | 17 km NW of Fishhook, Alaska | 04:46 |
-| 🟢 1.8 | 14 km N of Santa Cruz Is. (NW end), CA | 04:46 |
-| 🟢 2.5 | 8 km ESE of Puebla, B.C., MX | 04:36 |
-| 🟢 1.6 | 21 km WNW of Stanton, Texas | 04:30 |
-| 🔴 5.1 | 258 km ESE of Ozernovskiy, Russia | 04:29 |
+| 🟢 0.5 | 9 km SSW of Idyllwild, CA | 06:14 |
+| 🟢 2.2 | 55 km ESE of Whittier, Alaska | 06:06 |
+| 🟢 0.7 | 11 km NNE of Ocotillo Wells, CA | 05:46 |
+| 🟢 1.2 | 10 km WSW of Stanton, Texas | 05:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
