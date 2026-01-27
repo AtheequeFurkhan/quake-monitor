@@ -2,23 +2,14 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2011:22:55%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-345ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2012:50:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-283ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 6 km NW of The Geysers, CA | 11:12 |
-| 🟢 0.7 | 4 km WNW of Julian, CA | 11:11 |
-| 🟢 2.4 | 81 km S of Cordova, Alaska | 11:11 |
-| 🟢 0.6 | 21 km NNE of Indio, CA | 11:10 |
-| 🟢 1.8 | 20 km WSW of Point MacKenzie, Alaska | 11:10 |
-| 🟢 1.8 | 10 km WSW of Pepeekeo, Hawaii | 11:02 |
-| 🟢 1.5 | 3 km SE of Pacifica, CA | 10:50 |
-| 🟢 0.5 | 4 km NNW of The Geysers, CA | 10:49 |
-| 🟠 3.3 | 48 km ESE of Whittier, Alaska | 10:44 |
-| 🟢 2.4 | 38 km W of Veyo, Utah | 10:40 |
-| 🟢 2.1 | 7 km E of Pearsall, Texas | 10:33 |
-| 🟢 0.6 | 5 km S of Idyllwild, CA | 10:26 |
+| 🟢 0.7 | 20 km NNE of Indio, CA | 12:35 |
+| 🟢 2.3 | 4 km SSE of Toledo, Oregon | 12:29 |
+| 🟢 1.5 | 4 km SE of Julian, CA | 11:57 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
