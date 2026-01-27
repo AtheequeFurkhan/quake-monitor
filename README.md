@@ -2,14 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2012:50:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-283ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2013:47:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-379ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 20 km NNE of Indio, CA | 12:35 |
-| 🟢 2.3 | 4 km SSE of Toledo, Oregon | 12:29 |
-| 🟢 1.5 | 4 km SE of Julian, CA | 11:57 |
+| 🟢 2.1 | 8 km WNW of Cobb, CA | 13:40 |
+| 🟢 2.0 | 27 km N of Snyder, Texas | 13:38 |
+| 🟢 1.3 | 20 km ENE of Little Lake, CA | 13:38 |
+| 🟢 0.8 | 16 km NNE of Indio, CA | 13:30 |
+| 🟢 0.3 | 6 km WNW of Cobb, CA | 13:20 |
+| 🟢 1.4 | 6 km NNW of The Geysers, CA | 13:20 |
+| 🟢 2.0 | 13 km ENE of Willow, Alaska | 13:13 |
+| 🟢 1.8 | 5 km N of North Enid, Oklahoma | 13:07 |
+| 🟢 0.7 | 17 km NNE of Indio, CA | 12:54 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
