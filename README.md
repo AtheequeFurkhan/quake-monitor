@@ -2,16 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2001:51:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-581ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2003:47:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-371ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 25 km SW of Snyder, Texas | 01:35 |
-| 🔴 5.2 | South Sandwich Islands region | 01:31 |
-| 🟢 1.1 | 14 km ESE of Little Lake, CA | 01:29 |
-| 🔴 5.7 | 20 km SE of Jatiroto, Indonesia | 01:20 |
-| 🟢 3.0 | 64 km WNW of Happy Valley, Alaska | 01:04 |
+| 🟢 0.3 | 10 km WNW of The Geysers, CA | 03:42 |
+| 🟢 1.9 | 54 km NW of Toyah, Texas | 03:39 |
+| 🟢 1.3 | 25 km NNW of Westbrook, Texas | 03:24 |
+| 🟢 2.2 | 17 km W of Alberto Oviedo Mota, B.C., MX | 03:17 |
+| 🟢 1.7 | 3 km NE of Oakland, CA | 03:16 |
+| 🟢 2.0 | 35 km SSE of Denali National Park, Alaska | 03:13 |
+| 🟢 0.6 | 93 km ESE of King Salmon, Alaska | 03:11 |
+| 🟢 2.1 | 27 km SSE of Caliente, Nevada | 03:08 |
+| 🟢 0.6 | 9 km SW of Idyllwild, CA | 02:53 |
+| 🟠 5.0 | 72 km SE of Nemuro, Japan | 02:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
