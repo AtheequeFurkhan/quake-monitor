@@ -2,17 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2004:46:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-478ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2005:26:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-511ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.9 | 5 km NW of The Geysers, CA | 05:01 |
+| 🟢 1.5 | 23 km SW of Snyder, Texas | 05:01 |
+| 🟢 1.8 | 6 km E of Pearsall, Texas | 04:53 |
+| 🟢 1.1 | 15 km NW of Stanton, Texas | 04:53 |
+| 🟢 1.8 | 17 km NW of Fishhook, Alaska | 04:46 |
+| 🟢 1.8 | 14 km N of Santa Cruz Is. (NW end), CA | 04:46 |
 | 🟢 2.5 | 8 km ESE of Puebla, B.C., MX | 04:36 |
 | 🟢 1.6 | 21 km WNW of Stanton, Texas | 04:30 |
-| 🟢 1.9 | 13 km NE of Carpinteria, CA | 04:20 |
-| 🟢 1.3 | 25 km SSE of Chickaloon, Alaska | 04:01 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 03:50 |
-| 🟢 1.6 | 13 km SSW of Manley Hot Springs, Alaska | 03:46 |
+| 🔴 5.1 | 258 km ESE of Ozernovskiy, Russia | 04:29 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
