@@ -2,18 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2026%20Jan%202026%2023:22:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-530ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2001:51:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-581ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 14 km WNW of Eureka Roadhouse, Alaska | 23:17 |
-| 🟢 1.0 | 8 km WNW of The Geysers, CA | 23:14 |
-| 🟢 1.9 | 22 km SE of Pope-Vannoy Landing, Alaska | 23:09 |
-| 🟢 0.6 | 4 km W of Cobb, CA | 23:08 |
-| 🟢 1.0 | 3 km NNW of The Geysers, CA | 23:05 |
-| 🟢 2.5 | 64 km ESE of Adak, Alaska | 22:50 |
-| 🟢 2.0 | 128 km E of McCarthy, Alaska | 22:43 |
+| 🟢 1.4 | 25 km SW of Snyder, Texas | 01:35 |
+| 🔴 5.2 | South Sandwich Islands region | 01:31 |
+| 🟢 1.1 | 14 km ESE of Little Lake, CA | 01:29 |
+| 🔴 5.7 | 20 km SE of Jatiroto, Indonesia | 01:20 |
+| 🟢 3.0 | 64 km WNW of Happy Valley, Alaska | 01:04 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
