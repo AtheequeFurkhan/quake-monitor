@@ -2,21 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2003:47:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-371ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2004:46:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-478ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.3 | 10 km WNW of The Geysers, CA | 03:42 |
-| 🟢 1.9 | 54 km NW of Toyah, Texas | 03:39 |
-| 🟢 1.3 | 25 km NNW of Westbrook, Texas | 03:24 |
-| 🟢 2.2 | 17 km W of Alberto Oviedo Mota, B.C., MX | 03:17 |
-| 🟢 1.7 | 3 km NE of Oakland, CA | 03:16 |
-| 🟢 2.0 | 35 km SSE of Denali National Park, Alaska | 03:13 |
-| 🟢 0.6 | 93 km ESE of King Salmon, Alaska | 03:11 |
-| 🟢 2.1 | 27 km SSE of Caliente, Nevada | 03:08 |
-| 🟢 0.6 | 9 km SW of Idyllwild, CA | 02:53 |
-| 🟠 5.0 | 72 km SE of Nemuro, Japan | 02:47 |
+| 🟢 2.5 | 8 km ESE of Puebla, B.C., MX | 04:36 |
+| 🟢 1.6 | 21 km WNW of Stanton, Texas | 04:30 |
+| 🟢 1.9 | 13 km NE of Carpinteria, CA | 04:20 |
+| 🟢 1.3 | 25 km SSE of Chickaloon, Alaska | 04:01 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 03:50 |
+| 🟢 1.6 | 13 km SSW of Manley Hot Springs, Alaska | 03:46 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
