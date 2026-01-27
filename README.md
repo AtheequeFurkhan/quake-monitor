@@ -2,21 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2015:30:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-406ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2016:30:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-390ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.3 | 57 km E of Pedro Bay, Alaska | 15:24 |
-| 🟢 1.9 | 97 km S of Kokhanok, Alaska | 15:18 |
-| 🟢 1.4 | 27 km WNW of Ludlow, CA | 15:13 |
-| 🟢 0.5 | 6 km NW of The Geysers, CA | 15:12 |
-| 🟢 1.3 | 52 km S of Glacier View, Alaska | 15:10 |
-| 🟢 0.9 | 3 km NW of The Geysers, CA | 15:07 |
-| 🟢 0.8 | 4 km WNW of The Geysers, CA | 14:57 |
-| 🟢 2.0 | 34 km NE of Paxson, Alaska | 14:51 |
-| 🟢 1.1 | 10 km WSW of Stanton, Texas | 14:38 |
-| 🟢 2.1 | 14 km NE of Pāhala, Hawaii | 14:33 |
+| 🟢 0.2 | 89 km NNW of Karluk, Alaska | 16:27 |
+| 🟢 1.7 | 54 km S of Whites City, New Mexico | 16:24 |
+| 🟢 1.5 | 53 km E of Whittier, Alaska | 16:12 |
+| 🟢 1.0 | 2 km N of The Geysers, CA | 16:08 |
+| 🟢 0.7 | 10 km NNW of Anza, CA | 15:59 |
+| 🟢 1.1 | 38 km NW of Stanton, Texas | 15:57 |
+| 🟢 0.4 | 6 km WNW of Cobb, CA | 15:56 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 15:55 |
+| 🟠 4.9 | 39 km WSW of Sangay, Philippines | 15:50 |
+| 🟢 2.2 | 67 km WSW of Coronado, CA | 15:48 |
+| 🟢 1.4 | 37 km NW of Stanton, Texas | 15:44 |
+| 🟢 1.8 | 63 km WNW of Aleneva, Alaska | 15:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
