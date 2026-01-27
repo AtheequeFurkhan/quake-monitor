@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2008:33:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-531ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2009:33:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-459ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 3 km WNW of Anderson Springs, CA | 08:30 |
-| 🟢 1.2 | 21 km NNE of Indio, CA | 08:29 |
-| 🟢 0.7 | 21 km NNE of Indio, CA | 08:24 |
-| 🟢 0.7 | 22 km NE of Four Mile Road, Alaska | 08:21 |
-| 🟢 1.4 | 2 km NNW of The Geysers, CA | 08:01 |
-| 🟢 3.0 | 51 km SE of Bettles, Alaska | 07:57 |
-| 🟠 4.2 | south of the Fiji Islands | 07:54 |
-| 🟢 1.2 | 6 km NNW of The Geysers, CA | 07:37 |
-| 🟢 2.3 | 3 km SW of Pāhala, Hawaii | 07:34 |
+| 🟢 1.4 | 4 km WNW of Julian, CA | 09:06 |
+| 🟢 0.8 | 19 km N of Indio, CA | 08:57 |
+| 🟢 0.5 | 6 km NW of The Geysers, CA | 08:55 |
+| 🟢 0.7 | 30 km NE of Los Alamos, CA | 08:46 |
+| 🟢 0.7 | 30 km NE of Los Alamos, CA | 08:42 |
+| 🟢 1.8 | 8 km E of Pearsall, Texas | 08:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
