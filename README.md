@@ -2,26 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2020:23:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-373ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2021:21:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-216ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 10 km WNW of The Geysers, CA | 20:20 |
-| 🟢 1.1 | 24 km SSW of La Quinta, CA | 20:14 |
-| 🟢 0.9 | 21 km NNE of Indio, CA | 20:10 |
-| 🟢 0.8 | 10 km WNW of The Geysers, CA | 20:10 |
-| 🟢 1.8 | 1 km NW of Pāhala, Hawaii | 20:09 |
-| 🟢 1.1 | 7 km NE of Coso Junction, CA | 20:03 |
-| 🟢 1.2 | 7 km S of Mojave, CA | 20:00 |
-| 🟢 1.1 | 10 km WNW of The Geysers, CA | 19:50 |
-| 🟢 0.9 | 34 km S of Silver Gate, Montana | 19:49 |
-| 🟢 0.8 | 20 km ESE of Little Lake, CA | 19:48 |
-| 🟢 0.7 | 10 km WNW of The Geysers, CA | 19:34 |
-| 🟢 1.8 | 39 km N of Glacier View, Alaska | 19:32 |
-| 🟢 1.1 | 4 km N of Ocotillo Wells, CA | 19:30 |
-| 🟢 1.5 | 10 km WNW of The Geysers, CA | 19:27 |
-| 🟢 1.2 | 10 km WNW of The Geysers, CA | 19:27 |
+| 🟢 2.0 | 27 km E of Goodsprings, Nevada | 21:12 |
+| 🟢 1.0 | 3 km WSW of Cobb, CA | 21:03 |
+| 🟢 2.2 | 69 km ENE of Pedro Bay, Alaska | 21:00 |
+| 🟢 2.8 | 114 km NNW of San Antonio, Puerto Rico | 20:58 |
+| 🟢 1.1 | 37 km NW of Stanton, Texas | 20:53 |
+| 🟢 2.5 | 18 km SW of Susitna, Alaska | 20:53 |
+| 🟢 1.6 | 54 km NW of Karluk, Alaska | 20:51 |
+| 🟢 2.0 | 52 km SSE of Denali National Park, Alaska | 20:46 |
+| 🟢 1.1 | 84 km NNW of Karluk, Alaska | 20:46 |
+| 🟢 1.5 | 11 km W of Pine Valley, CA | 20:44 |
+| 🟢 2.3 | 5 km ESE of Elgin, South Carolina | 20:32 |
+| 🟢 1.3 | 86 km NNW of Karluk, Alaska | 20:26 |
+| 🟢 2.1 | 11 km NNE of Selah, Washington | 20:22 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
