@@ -2,15 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2027%20Jan%202026%2023:22:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-405ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2001:47:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-344ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 6 km NW of The Geysers, CA | 23:10 |
-| 🟢 2.2 | 6 km ENE of Pearsall, Texas | 22:50 |
-| 🟠 3.1 | 27 km WSW of Point MacKenzie, Alaska | 22:35 |
-| 🟢 2.6 | 11 km SSE of Port Orford, Oregon | 22:26 |
+| 🟢 1.1 | 2 km ENE of Oakland, CA | 01:39 |
+| 🟢 0.6 | 7 km N of Anza, CA | 01:37 |
+| 🟢 1.0 | 11 km W of Pine Valley, CA | 01:30 |
+| 🟢 1.5 | 39 km WNW of Rachel, Nevada | 01:30 |
+| 🟢 1.1 | 3 km WNW of Anderson Springs, CA | 01:29 |
+| 🟢 1.1 | 6 km WNW of Cobb, CA | 01:28 |
+| 🟢 1.3 | 5 km SW of Loyola, CA | 01:21 |
+| 🟢 1.7 | 7 km ESE of Hiko, Nevada | 01:19 |
+| 🟢 1.9 | 24 km ENE of Thermal, CA | 01:16 |
+| 🟢 2.8 | 65 km N of Petersville, Alaska | 01:11 |
+| 🟢 1.4 | 7 km WSW of Holtville, CA | 01:08 |
+| 🟢 1.6 | 2 km NW of The Geysers, CA | 01:08 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
