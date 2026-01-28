@@ -2,20 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2019:28:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-317ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2020:31:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-343ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 9 km WSW of Pine Valley, CA | 19:23 |
-| 🟢 2.0 | 2 km ENE of Aromas, CA | 19:07 |
-| 🟢 0.9 | 1 km N of The Geysers, CA | 18:53 |
-| 🟠 4.8 | 95 km NNE of Gorontalo, Indonesia | 18:52 |
-| 🟢 0.2 | 1 km NW of The Geysers, CA | 18:52 |
-| 🟢 1.3 | 4 km W of Cobb, CA | 18:48 |
-| 🟢 0.7 | 5 km WNW of Cobb, CA | 18:40 |
-| 🟢 0.9 | 8 km NW of The Geysers, CA | 18:31 |
-| 🔴 5.1 | 17 km SW of Dompu, Indonesia | 18:30 |
+| 🟢 1.6 | 5 km N of Beaumont, CA | 20:16 |
+| 🟢 1.2 | 10 km NW of The Geysers, CA | 20:10 |
+| 🟢 1.3 | 0 km SW of Loma Linda, CA | 19:56 |
+| 🟢 2.3 | 10 km SSE of Forsan, Texas | 19:56 |
+| 🟢 1.5 | 2 km NW of Garden City, Texas | 19:45 |
+| 🟢 1.2 | 4 km NW of Garden City, Texas | 19:36 |
+| 🟢 1.6 | 83 km NNW of Karluk, Alaska | 19:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
