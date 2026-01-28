@@ -2,16 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2018:37:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-234ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2019:28:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-317ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.4 | 9 km WSW of Pine Valley, CA | 19:23 |
+| 🟢 2.0 | 2 km ENE of Aromas, CA | 19:07 |
+| 🟢 0.9 | 1 km N of The Geysers, CA | 18:53 |
+| 🟠 4.8 | 95 km NNE of Gorontalo, Indonesia | 18:52 |
+| 🟢 0.2 | 1 km NW of The Geysers, CA | 18:52 |
+| 🟢 1.3 | 4 km W of Cobb, CA | 18:48 |
+| 🟢 0.7 | 5 km WNW of Cobb, CA | 18:40 |
 | 🟢 0.9 | 8 km NW of The Geysers, CA | 18:31 |
-| 🟢 0.8 | 5 km NW of The Geysers, CA | 18:07 |
-| 🟢 0.7 | 8 km WNW of Cobb, CA | 17:44 |
-| 🟢 1.8 | 34 km WSW of Cantwell, Alaska | 17:39 |
-| 🟢 1.3 | 24 km SW of Snyder, Texas | 17:38 |
+| 🔴 5.1 | 17 km SW of Dompu, Indonesia | 18:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
