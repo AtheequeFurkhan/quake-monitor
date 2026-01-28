@@ -2,28 +2,28 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2009:34:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-211ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2010:28:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-373ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.5 | 37 km WSW of Anchor Point, Alaska | 09:26 |
-| 🟢 1.3 | 13 km WSW of Stanton, Texas | 09:20 |
-| 🟢 1.2 | 21 km NNE of Indio, CA | 09:16 |
-| 🟢 1.9 | 11 km E of Pearsall, Texas | 09:15 |
-| 🔴 5.2 | 174 km SSE of Vilyuchinsk, Russia | 09:14 |
-| 🟢 0.8 | 3 km WNW of Big Bear City, CA | 09:12 |
-| 🟢 0.5 | 6 km N of Valle Vista, CA | 09:08 |
-| 🟢 1.7 | 61 km S of Whites City, New Mexico | 08:59 |
-| 🟢 1.6 | 58 km S of Whites City, New Mexico | 08:59 |
-| 🟢 1.6 | 2 km SW of Indios, Puerto Rico | 08:48 |
-| 🟢 1.9 | 39 km NNW of Toyah, Texas | 08:47 |
-| 🟠 3.2 | 38 km NNW of Toyah, Texas | 08:43 |
-| 🔴 5.1 | 3 km SW of Bantogon, Philippines | 08:43 |
-| 🟢 1.4 | 20 km NNE of Indio, CA | 08:40 |
-| 🟢 0.7 | 15 km ENE of Thousand Palms, CA | 08:39 |
-| 🔴 5.6 | 37 km W of Bantogon, Philippines | 08:38 |
-| 🔴 5.7 | 39 km W of Bantogon, Philippines | 08:34 |
+| 🟢 1.3 | 4 km SE of San Ramon, CA | 10:24 |
+| 🟢 2.2 | 11 km E of Pāhala, Hawaii | 10:23 |
+| 🟢 1.3 | 12 km E of Coso Junction, CA | 10:16 |
+| 🟢 1.5 | 4 km WNW of The Geysers, CA | 10:11 |
+| 🟢 0.9 | 6 km SW of Anza, CA | 10:08 |
+| 🟢 1.2 | 9 km E of Coahoma, Texas | 10:06 |
+| 🟢 1.3 | 11 km WSW of Stanton, Texas | 10:00 |
+| 🟢 1.0 | 21 km NNE of Indio, CA | 09:59 |
+| 🟢 1.3 | 8 km N of Delano, CA | 09:54 |
+| 🟢 0.4 | 7 km N of Anza, CA | 09:52 |
+| 🟢 1.7 | 4 km NNE of Chickaloon, Alaska | 09:51 |
+| 🟢 0.4 | 10 km SE of Winchester, CA | 09:46 |
+| 🟢 1.7 | 13 km WSW of Stanton, Texas | 09:44 |
+| 🟢 0.9 | 6 km WSW of Anza, CA | 09:42 |
+| 🟢 0.9 | 11 km SW of Anza, CA | 09:36 |
+| 🟢 1.1 | 12 km ENE of Gail, Texas | 09:29 |
+| 🟢 1.1 | 16 km ESE of Stanton, Texas | 09:29 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
