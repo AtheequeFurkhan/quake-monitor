@@ -2,19 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2007:26:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-306ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2008:32:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-122ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 15 km N of Borrego Springs, CA | 07:21 |
-| 🟢 1.8 | 27 km NNW of Manley Hot Springs, Alaska | 07:11 |
-| 🟠 3.3 | 27 km ESE of Skwentna, Alaska | 07:05 |
-| 🟢 1.6 | 15 km ESE of Maricopa, CA | 06:54 |
-| 🔴 5.9 | 29 km W of Sangay, Philippines | 06:47 |
-| 🟢 1.8 | 7 km SE of Pāhala, Hawaii | 06:32 |
-| 🔴 5.1 | 24 km WSW of Sangay, Philippines | 06:31 |
-| 🟢 2.5 | 91 km ESE of Maneadero, B.C., MX | 06:30 |
+| 🟢 1.5 | 100 km E of McCarthy, Alaska | 08:27 |
+| 🟢 0.8 | 21 km NE of Trona, CA | 08:19 |
+| 🟢 0.8 | 5 km NW of The Geysers, CA | 08:16 |
+| 🟢 1.1 | 9 km WNW of Cobb, CA | 08:15 |
+| 🟢 2.4 | 15 km S of Tres Pinos, CA | 08:11 |
+| 🟢 1.3 | 18 km SSW of Lamont, CA | 08:09 |
+| 🟢 0.4 | 18 km ENE of Borrego Springs, CA | 08:09 |
+| 🟢 1.7 | 13 km W of Stanton, Texas | 08:03 |
+| 🟢 0.7 | 10 km NW of The Geysers, CA | 07:59 |
+| 🟠 5.0 | 185 km SSE of Vilyuchinsk, Russia | 07:57 |
+| 🟢 1.6 | 11 km NE of Coso Junction, CA | 07:49 |
+| 🟢 0.4 | 10 km NNW of Anza, CA | 07:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
