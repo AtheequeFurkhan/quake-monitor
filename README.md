@@ -2,24 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2011:23:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-300ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2012:50:47%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-456ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 3 km NNW of The Geysers, CA | 11:19 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 11:18 |
-| 🟢 0.8 | 15 km W of Johannesburg, CA | 11:09 |
-| 🟢 1.2 | 13 km ENE of Cloverdale, CA | 11:00 |
-| 🟢 1.6 | 13 km ENE of Cloverdale, CA | 11:00 |
-| 🟢 0.9 | 23 km ESE of Johannesburg, CA | 10:54 |
-| 🟢 1.1 | 23 km SW of Snyder, Texas | 10:48 |
-| 🔴 5.1 | 107 km E of Noda, Japan | 10:45 |
-| 🟢 1.4 | 13 km WSW of Stanton, Texas | 10:42 |
-| 🟢 1.3 | 23 km SW of Snyder, Texas | 10:35 |
-| 🟠 4.4 | 54 km WSW of Sangay, Philippines | 10:28 |
-| 🟢 1.3 | 4 km SE of San Ramon, CA | 10:24 |
-| 🟢 2.2 | 11 km E of Pāhala, Hawaii | 10:23 |
+| 🟢 1.8 | 0 km SW of Hilo, Hawaii | 12:41 |
+| 🟢 0.8 | 7 km WNW of Cobb, CA | 12:33 |
+| 🟢 1.6 | 18 km N of Indio, CA | 12:22 |
+| 🟢 1.6 | 14 km ENE of Indio, CA | 12:20 |
+| 🟢 1.3 | 23 km SW of Snyder, Texas | 12:18 |
+| 🟢 2.4 | 25 km SSE of Fern Forest, Hawaii | 12:03 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
