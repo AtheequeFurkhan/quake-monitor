@@ -2,23 +2,28 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2008:32:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-122ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2009:34:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-211ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 100 km E of McCarthy, Alaska | 08:27 |
-| 🟢 0.8 | 21 km NE of Trona, CA | 08:19 |
-| 🟢 0.8 | 5 km NW of The Geysers, CA | 08:16 |
-| 🟢 1.1 | 9 km WNW of Cobb, CA | 08:15 |
-| 🟢 2.4 | 15 km S of Tres Pinos, CA | 08:11 |
-| 🟢 1.3 | 18 km SSW of Lamont, CA | 08:09 |
-| 🟢 0.4 | 18 km ENE of Borrego Springs, CA | 08:09 |
-| 🟢 1.7 | 13 km W of Stanton, Texas | 08:03 |
-| 🟢 0.7 | 10 km NW of The Geysers, CA | 07:59 |
-| 🟠 5.0 | 185 km SSE of Vilyuchinsk, Russia | 07:57 |
-| 🟢 1.6 | 11 km NE of Coso Junction, CA | 07:49 |
-| 🟢 0.4 | 10 km NNW of Anza, CA | 07:34 |
+| 🟢 2.5 | 37 km WSW of Anchor Point, Alaska | 09:26 |
+| 🟢 1.3 | 13 km WSW of Stanton, Texas | 09:20 |
+| 🟢 1.2 | 21 km NNE of Indio, CA | 09:16 |
+| 🟢 1.9 | 11 km E of Pearsall, Texas | 09:15 |
+| 🔴 5.2 | 174 km SSE of Vilyuchinsk, Russia | 09:14 |
+| 🟢 0.8 | 3 km WNW of Big Bear City, CA | 09:12 |
+| 🟢 0.5 | 6 km N of Valle Vista, CA | 09:08 |
+| 🟢 1.7 | 61 km S of Whites City, New Mexico | 08:59 |
+| 🟢 1.6 | 58 km S of Whites City, New Mexico | 08:59 |
+| 🟢 1.6 | 2 km SW of Indios, Puerto Rico | 08:48 |
+| 🟢 1.9 | 39 km NNW of Toyah, Texas | 08:47 |
+| 🟠 3.2 | 38 km NNW of Toyah, Texas | 08:43 |
+| 🔴 5.1 | 3 km SW of Bantogon, Philippines | 08:43 |
+| 🟢 1.4 | 20 km NNE of Indio, CA | 08:40 |
+| 🟢 0.7 | 15 km ENE of Thousand Palms, CA | 08:39 |
+| 🔴 5.6 | 37 km W of Bantogon, Philippines | 08:38 |
+| 🔴 5.7 | 39 km W of Bantogon, Philippines | 08:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
