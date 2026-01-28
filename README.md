@@ -2,19 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2016:37:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-409ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2017:32:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-490ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 4 km ENE of Saint Helena, CA | 16:09 |
-| 🟢 1.6 | 61 km S of Whites City, New Mexico | 16:01 |
-| 🟢 1.0 | 15 km E of Ocotillo Wells, CA | 16:01 |
-| 🔴 5.1 | 37 km W of Sangay, Philippines | 15:58 |
-| 🟢 2.3 | 17 km ESE of Lake Pillsbury, CA | 15:54 |
-| 🟢 2.0 | 5 km W of Borrego Springs, CA | 15:51 |
-| 🟢 1.7 | 15 km N of Brooktrails, CA | 15:51 |
-| 🟢 1.8 | 17 km ESE of Lake Pillsbury, CA | 15:49 |
+| 🟢 1.7 | 16 km ESE of Lake Pillsbury, CA | 17:29 |
+| 🟢 2.1 | 4 km SW of Greenville, CA | 17:21 |
+| 🟢 1.3 | 15 km ESE of Lake Pillsbury, CA | 17:14 |
+| 🟢 0.8 | 2 km ESE of Fairbanks, Alaska | 17:09 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
