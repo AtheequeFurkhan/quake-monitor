@@ -2,14 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2021:29:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-451ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2022:26:55%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-356ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 7 km NW of The Geysers, CA | 21:05 |
-| 🟢 1.2 | 4 km NW of The Geysers, CA | 21:04 |
-| 🟢 1.1 | 6 km ESE of Chula Vista, CA | 20:32 |
+| 🟢 1.5 | 3 km NNW of Garden City, Texas | 22:13 |
+| 🟢 1.5 | 20 km NW of Parkfield, CA | 21:52 |
+| 🟢 2.0 | 14 km W of Midland, Texas | 21:51 |
+| 🟢 1.7 | 68 km ESE of Cantwell, Alaska | 21:50 |
+| 🟢 1.1 | 3 km NW of The Geysers, CA | 21:38 |
+| 🟢 1.5 | 5 km ESE of Sunol, CA | 21:36 |
+| 🟢 0.3 | 6 km NW of The Geysers, CA | 21:32 |
+| 🟢 1.6 | 48 km S of Glacier View, Alaska | 21:31 |
+| 🟢 0.3 | 10 km WNW of Cobb, CA | 21:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
