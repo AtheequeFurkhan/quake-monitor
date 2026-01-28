@@ -2,20 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2014:30:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-395ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2015:32:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-312ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 6 km SW of Furnace Creek, CA | 14:18 |
-| 🟢 2.4 | 15 km WSW of Johannesburg, CA | 14:09 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 14:00 |
-| 🟢 0.4 | 3 km NNW of Valle Vista, CA | 13:59 |
-| 🟢 1.7 | 17 km ESE of Lake Pillsbury, CA | 13:59 |
-| 🟢 1.3 | 9 km NNE of Borrego Springs, CA | 13:56 |
-| 🟢 0.6 | 88 km NW of Karluk, Alaska | 13:56 |
-| 🟢 0.7 | 3 km SW of Idyllwild, CA | 13:45 |
-| 🟢 1.1 | 8 km W of Cobb, CA | 13:35 |
+| 🟢 2.1 | 33 km ENE of Susitna North, Alaska | 15:22 |
+| 🟢 1.7 | 16 km NW of Parkfield, CA | 15:14 |
+| 🟢 1.8 | 56 km S of Whites City, New Mexico | 15:08 |
+| 🟢 1.6 | 3 km ESE of San Ramon, CA | 15:04 |
+| 🟢 1.3 | 18 km WNW of Tehachapi, CA | 14:41 |
+| 🟢 1.6 | 11 km W of Stanton, Texas | 14:41 |
+| 🟠 4.9 | 25 km W of Sangay, Philippines | 14:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
