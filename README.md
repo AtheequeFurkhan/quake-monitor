@@ -2,17 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2012:50:47%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-456ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2013:49:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-424ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 0 km SW of Hilo, Hawaii | 12:41 |
-| 🟢 0.8 | 7 km WNW of Cobb, CA | 12:33 |
-| 🟢 1.6 | 18 km N of Indio, CA | 12:22 |
-| 🟢 1.6 | 14 km ENE of Indio, CA | 12:20 |
-| 🟢 1.3 | 23 km SW of Snyder, Texas | 12:18 |
-| 🟢 2.4 | 25 km SSE of Fern Forest, Hawaii | 12:03 |
+| 🟢 1.1 | 8 km W of Cobb, CA | 13:35 |
+| 🟢 2.3 | 34 km NW of Beluga, Alaska | 13:29 |
+| 🟢 0.8 | 4 km WNW of The Geysers, CA | 13:21 |
+| 🟢 1.0 | 7 km NW of The Geysers, CA | 13:19 |
+| 🟢 1.1 | 19 km NNE of Indio, CA | 13:12 |
+| 🟢 2.0 | 2 km NE of Dibble, Oklahoma | 13:11 |
+| 🟢 1.5 | 8 km NW of The Geysers, CA | 13:09 |
+| 🟢 1.3 | 2 km WNW of Anderson Springs, CA | 12:57 |
+| 🟠 4.6 | 31 km SW of Sangay, Philippines | 12:55 |
+| 🟠 3.4 | 1 km NW of Pāhala, Hawaii | 12:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
