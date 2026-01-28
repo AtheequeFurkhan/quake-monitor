@@ -2,20 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2022:26:55%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-356ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2023:26:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-302ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 3 km NNW of Garden City, Texas | 22:13 |
-| 🟢 1.5 | 20 km NW of Parkfield, CA | 21:52 |
-| 🟢 2.0 | 14 km W of Midland, Texas | 21:51 |
-| 🟢 1.7 | 68 km ESE of Cantwell, Alaska | 21:50 |
-| 🟢 1.1 | 3 km NW of The Geysers, CA | 21:38 |
-| 🟢 1.5 | 5 km ESE of Sunol, CA | 21:36 |
-| 🟢 0.3 | 6 km NW of The Geysers, CA | 21:32 |
-| 🟢 1.6 | 48 km S of Glacier View, Alaska | 21:31 |
-| 🟢 0.3 | 10 km WNW of Cobb, CA | 21:27 |
+| 🟢 2.0 | 10 km NNW of Pinnacles, CA | 23:21 |
+| 🟢 2.4 | 11 km SSW of Karluk, Alaska | 23:16 |
+| 🟢 0.3 | 9 km WNW of The Geysers, CA | 23:13 |
+| 🟢 1.9 | 14 km NE of Pāhala, Hawaii | 23:08 |
+| 🟢 1.9 | 0 km SW of Volcano, Hawaii | 22:59 |
+| 🟢 2.6 | 23 km SSE of Larsen Bay, Alaska | 22:57 |
+| 🟢 1.5 | 23 km E of Denali Park, Alaska | 22:47 |
+| 🟢 1.9 | 17 km NE of Boulder City, Nevada | 22:42 |
+| 🟢 0.9 | 27 km WSW of Ackerly, Texas | 22:33 |
+| 🔴 5.2 | Galapagos Triple Junction region | 22:30 |
+| 🟢 0.7 | 4 km W of Cobb, CA | 22:26 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
