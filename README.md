@@ -2,24 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2006:36:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-492ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2007:26:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-306ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.5 | 15 km N of Borrego Springs, CA | 07:21 |
+| 🟢 1.8 | 27 km NNW of Manley Hot Springs, Alaska | 07:11 |
+| 🟠 3.3 | 27 km ESE of Skwentna, Alaska | 07:05 |
+| 🟢 1.6 | 15 km ESE of Maricopa, CA | 06:54 |
+| 🔴 5.9 | 29 km W of Sangay, Philippines | 06:47 |
+| 🟢 1.8 | 7 km SE of Pāhala, Hawaii | 06:32 |
+| 🔴 5.1 | 24 km WSW of Sangay, Philippines | 06:31 |
 | 🟢 2.5 | 91 km ESE of Maneadero, B.C., MX | 06:30 |
-| 🟢 1.7 | 56 km SSE of Denali National Park, Alaska | 06:24 |
-| 🟢 1.4 | 2 km NNE of The Geysers, CA | 06:20 |
-| 🟢 0.6 | 9 km NW of Morongo Valley, CA | 06:16 |
-| 🟢 0.8 | 10 km WSW of Pine Valley, CA | 06:15 |
-| 🟢 1.6 | 55 km WNW of Happy Valley, Alaska | 06:11 |
-| 🟢 0.4 | 11 km NW of Anza, CA | 06:02 |
-| 🟢 1.1 | 5 km NW of The Geysers, CA | 05:49 |
-| 🟢 1.0 | 19 km NNE of Indio, CA | 05:45 |
-| 🟢 2.4 | 64 km ENE of Ensenada, B.C., MX | 05:42 |
-| 🟢 1.9 | 4 km SE of Jagual, Puerto Rico | 05:39 |
-| 🟢 2.1 | 23 km E of Honaunau-Napoopoo, Hawaii | 05:37 |
-| 🟢 2.0 | 10 km WSW of Volcano, Hawaii | 05:37 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
