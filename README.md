@@ -2,28 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2010:28:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-373ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2011:23:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-300ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.1 | 3 km NNW of The Geysers, CA | 11:19 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 11:18 |
+| 🟢 0.8 | 15 km W of Johannesburg, CA | 11:09 |
+| 🟢 1.2 | 13 km ENE of Cloverdale, CA | 11:00 |
+| 🟢 1.6 | 13 km ENE of Cloverdale, CA | 11:00 |
+| 🟢 0.9 | 23 km ESE of Johannesburg, CA | 10:54 |
+| 🟢 1.1 | 23 km SW of Snyder, Texas | 10:48 |
+| 🔴 5.1 | 107 km E of Noda, Japan | 10:45 |
+| 🟢 1.4 | 13 km WSW of Stanton, Texas | 10:42 |
+| 🟢 1.3 | 23 km SW of Snyder, Texas | 10:35 |
+| 🟠 4.4 | 54 km WSW of Sangay, Philippines | 10:28 |
 | 🟢 1.3 | 4 km SE of San Ramon, CA | 10:24 |
 | 🟢 2.2 | 11 km E of Pāhala, Hawaii | 10:23 |
-| 🟢 1.3 | 12 km E of Coso Junction, CA | 10:16 |
-| 🟢 1.5 | 4 km WNW of The Geysers, CA | 10:11 |
-| 🟢 0.9 | 6 km SW of Anza, CA | 10:08 |
-| 🟢 1.2 | 9 km E of Coahoma, Texas | 10:06 |
-| 🟢 1.3 | 11 km WSW of Stanton, Texas | 10:00 |
-| 🟢 1.0 | 21 km NNE of Indio, CA | 09:59 |
-| 🟢 1.3 | 8 km N of Delano, CA | 09:54 |
-| 🟢 0.4 | 7 km N of Anza, CA | 09:52 |
-| 🟢 1.7 | 4 km NNE of Chickaloon, Alaska | 09:51 |
-| 🟢 0.4 | 10 km SE of Winchester, CA | 09:46 |
-| 🟢 1.7 | 13 km WSW of Stanton, Texas | 09:44 |
-| 🟢 0.9 | 6 km WSW of Anza, CA | 09:42 |
-| 🟢 0.9 | 11 km SW of Anza, CA | 09:36 |
-| 🟢 1.1 | 12 km ENE of Gail, Texas | 09:29 |
-| 🟢 1.1 | 16 km ESE of Stanton, Texas | 09:29 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
