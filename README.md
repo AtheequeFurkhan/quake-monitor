@@ -2,25 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2013:49:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-424ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2014:30:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-395ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.2 | 6 km SW of Furnace Creek, CA | 14:18 |
+| 🟢 2.4 | 15 km WSW of Johannesburg, CA | 14:09 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 14:00 |
+| 🟢 0.4 | 3 km NNW of Valle Vista, CA | 13:59 |
+| 🟢 1.7 | 17 km ESE of Lake Pillsbury, CA | 13:59 |
+| 🟢 1.3 | 9 km NNE of Borrego Springs, CA | 13:56 |
+| 🟢 0.6 | 88 km NW of Karluk, Alaska | 13:56 |
+| 🟢 0.7 | 3 km SW of Idyllwild, CA | 13:45 |
 | 🟢 1.1 | 8 km W of Cobb, CA | 13:35 |
-| 🟢 2.3 | 34 km NW of Beluga, Alaska | 13:29 |
-| 🟢 0.8 | 4 km WNW of The Geysers, CA | 13:21 |
-| 🟢 1.0 | 7 km NW of The Geysers, CA | 13:19 |
-| 🟢 1.1 | 19 km NNE of Indio, CA | 13:12 |
-| 🟢 2.0 | 2 km NE of Dibble, Oklahoma | 13:11 |
-| 🟢 1.5 | 8 km NW of The Geysers, CA | 13:09 |
-| 🟢 1.3 | 2 km WNW of Anderson Springs, CA | 12:57 |
-| 🟠 4.6 | 31 km SW of Sangay, Philippines | 12:55 |
-| 🟠 3.4 | 1 km NW of Pāhala, Hawaii | 12:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
+- ⛈️ **Severe Storms**: [Tropical Cyclone 18P](https://www.metoc.navy.mil/jtwc/products/sh1826.tcw) (Jan 28)
 - 🔥 **Wildfires**: [SACATON RX Prescribed Fire, Socorro, New Mexico](https://irwin.doi.gov/observer/incidents/5b75ae4d-68dc-4b93-9d8f-cf8befdfcdb6) (Jan 23)
 - ⛈️ **Severe Storms**: [Tropical Cyclone 17S](https://www.metoc.navy.mil/jtwc/products/sh1726.tcw) (Jan 24)
 - 🔥 **Wildfires**: [RX Nueces 0577 Prescribed Fire, Nueces, Texas](https://irwin.doi.gov/observer/incidents/67ef0367-bcc6-4feb-bf85-b97d1dc9d6f6) (Jan 22)
@@ -30,7 +30,6 @@
 - 🔥 **Wildfires**: [ANF BU 50 Queens Bay Rx 0121 Prescribed Fire, Liberty, Florida](https://irwin.doi.gov/observer/incidents/54b40047-d2c9-4631-a249-794c5223822b) (Jan 21)
 - 🔥 **Wildfires**: [Silver Lake Wildfire, Wakulla, Florida](https://irwin.doi.gov/observer/incidents/4e948e9c-0765-4d23-a659-19f554eca9f4) (Jan 20)
 - 🔥 **Wildfires**: [Rx BUFF South River Road BIL Prescribed Fire, Newton, Arkansas](https://irwin.doi.gov/observer/incidents/9e8e24dc-8e07-4e0e-bbca-2087f218082f) (Jan 20)
-- 🔥 **Wildfires**: [RX South Waldron Ridge 8 &amp; 9 Prescribed Fire, Scott, Arkansas](https://irwin.doi.gov/observer/incidents/fabdfb65-de9e-4189-9521-f5ed9cfc6072) (Jan 20)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
