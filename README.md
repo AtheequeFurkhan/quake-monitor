@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2004:43:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2005:27:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-178ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.8 | 60 km S of Whites City, New Mexico | 05:23 |
+| 🟢 0.9 | 20 km ESE of Little Lake, CA | 05:16 |
+| 🟢 1.8 | 14 km ESE of Pāhala, Hawaii | 05:09 |
+| 🟢 1.6 | 26 km SSW of Central, Alaska | 04:57 |
+| 🟢 0.9 | 7 km NE of Coso Junction, CA | 04:47 |
 | 🟢 0.8 | 8 km NW of The Geysers, CA | 04:40 |
-| 🟢 1.3 | 2 km NW of The Geysers, CA | 04:17 |
-| 🟢 1.5 | 13 km ESE of Stanton, Texas | 04:06 |
-| 🟢 1.7 | 13 km NW of Belfair, Washington | 04:04 |
-| 🟠 3.1 | 18 km W of Empire, Nevada | 04:04 |
-| 🟠 4.1 | 24 km ESE of Amigo Beach, Canada | 03:59 |
-| 🟢 1.6 | 37 km NE of Chase, Alaska | 03:49 |
-| 🟢 1.0 | 10 km W of Pine Valley, CA | 03:47 |
-| 🟢 1.7 | 17 km SSW of Jal, New Mexico | 03:46 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
