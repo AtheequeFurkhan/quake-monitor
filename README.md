@@ -2,16 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2008:39:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-506ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2009:42:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-411ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 9 km E of Alum Rock, CA | 07:55 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 07:54 |
-| 🟢 1.1 | 3 km SSW of Cobb, CA | 07:48 |
-| 🟢 1.1 | 15 km W of Johannesburg, CA | 07:45 |
-| 🟢 0.7 | 4 km W of Cobb, CA | 07:40 |
+| 🟢 1.9 | 67 km WNW of Aleneva, Alaska | 09:36 |
+| 🟢 1.7 | 29 km S of Chickaloon, Alaska | 09:33 |
+| 🟢 1.0 | 3 km W of Anderson Springs, CA | 09:23 |
+| 🟢 2.3 | 5 km W of Borrego Springs, CA | 09:15 |
+| 🟢 0.8 | 10 km W of Pine Valley, CA | 09:14 |
+| 🟢 1.3 | 19 km NNE of Indio, CA | 09:13 |
+| 🟢 1.4 | 21 km NNE of Indio, CA | 09:08 |
+| 🟢 1.8 | 17 km NE of Girdwood, Alaska | 09:05 |
+| 🟢 0.8 | 4 km NW of The Geysers, CA | 08:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
