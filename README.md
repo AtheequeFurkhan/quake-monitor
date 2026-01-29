@@ -2,24 +2,26 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2004:26:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-1.132s-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2005:42:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-286ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 17 km NW of Parkfield, CA | 04:02 |
-| 🟢 0.8 | 2 km N of The Geysers, CA | 04:01 |
-| 🟢 2.0 | 4 km SSW of Yountville, CA | 04:00 |
-| 🟢 0.8 | 30 km NE of Four Mile Road, Alaska | 03:58 |
-| 🟢 1.0 | 27 km E of Coso Junction, CA | 03:57 |
-| 🟢 2.0 | 15 km WSW of Petrolia, CA | 03:50 |
-| 🟢 0.6 | 36 km SSE of Livengood, Alaska | 03:46 |
-| 🟢 2.5 | 36 km SSE of Livengood, Alaska | 03:41 |
+| 🟢 3.0 | 50 km SW of Fort Greely, Alaska | 05:41 |
+| 🟢 2.3 | 14 km ENE of Pāhala, Hawaii | 05:38 |
+| 🟢 2.5 | 14 km SE of Pāhala, Hawaii | 05:37 |
+| 🟢 2.0 | 20 km NNE of Indio, CA | 05:34 |
+| 🟢 0.5 | 8 km WNW of The Geysers, CA | 05:28 |
+| 🟢 1.7 | 11 km NE of Ocotillo Wells, CA | 05:23 |
+| 🟢 1.9 | 37 km NNW of Toyah, Texas | 05:23 |
+| 🟢 1.0 | 83 km NNW of Karluk, Alaska | 05:09 |
+| 🟢 1.1 | 27 km E of Coso Junction, CA | 04:46 |
+| 🟢 2.0 | 10 km E of Waimea, Hawaii | 04:45 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
-- ⛈️ **Severe Storms**: [Tropical Cyclone 18P](https://www.metoc.navy.mil/jtwc/products/sh1826.tcw) (Jan 28)
+- ⛈️ **Severe Storms**: [Tropical Cyclone 18P](https://www.metoc.navy.mil/jtwc/products/sh1826.tcw) (Jan 29)
 - 🔥 **Wildfires**: [SACATON RX Prescribed Fire, Socorro, New Mexico](https://irwin.doi.gov/observer/incidents/5b75ae4d-68dc-4b93-9d8f-cf8befdfcdb6) (Jan 23)
 - ⛈️ **Severe Storms**: [Tropical Cyclone 17S](https://www.metoc.navy.mil/jtwc/products/sh1726.tcw) (Jan 24)
 - 🔥 **Wildfires**: [RX Nueces 0577 Prescribed Fire, Nueces, Texas](https://irwin.doi.gov/observer/incidents/67ef0367-bcc6-4feb-bf85-b97d1dc9d6f6) (Jan 22)
