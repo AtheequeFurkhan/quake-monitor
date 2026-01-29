@@ -2,22 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2028%20Jan%202026%2023:26:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-302ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2002:00:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-156ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 10 km NNW of Pinnacles, CA | 23:21 |
-| 🟢 2.4 | 11 km SSW of Karluk, Alaska | 23:16 |
-| 🟢 0.3 | 9 km WNW of The Geysers, CA | 23:13 |
-| 🟢 1.9 | 14 km NE of Pāhala, Hawaii | 23:08 |
-| 🟢 1.9 | 0 km SW of Volcano, Hawaii | 22:59 |
-| 🟢 2.6 | 23 km SSE of Larsen Bay, Alaska | 22:57 |
-| 🟢 1.5 | 23 km E of Denali Park, Alaska | 22:47 |
-| 🟢 1.9 | 17 km NE of Boulder City, Nevada | 22:42 |
-| 🟢 0.9 | 27 km WSW of Ackerly, Texas | 22:33 |
-| 🔴 5.2 | Galapagos Triple Junction region | 22:30 |
-| 🟢 0.7 | 4 km W of Cobb, CA | 22:26 |
+| 🟢 1.5 | 16 km NNW of Toyah, Texas | 01:43 |
+| 🟢 1.2 | 15 km W of Johannesburg, CA | 01:35 |
+| 🟢 1.0 | 8 km WNW of Cobb, CA | 01:31 |
+| 🟠 4.6 | 1 km S of Wada, Japan | 01:25 |
+| 🟢 0.5 | 10 km SSW of Idyllwild, CA | 01:20 |
+| 🟢 0.8 | 21 km NNE of Indio, CA | 01:10 |
+| 🟢 1.7 | 16 km NNW of Toyah, Texas | 01:09 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
