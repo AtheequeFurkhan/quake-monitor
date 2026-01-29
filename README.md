@@ -2,21 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2005:42:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-286ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2006:48:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-408ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 3.0 | 50 km SW of Fort Greely, Alaska | 05:41 |
-| 🟢 2.3 | 14 km ENE of Pāhala, Hawaii | 05:38 |
-| 🟢 2.5 | 14 km SE of Pāhala, Hawaii | 05:37 |
-| 🟢 2.0 | 20 km NNE of Indio, CA | 05:34 |
-| 🟢 0.5 | 8 km WNW of The Geysers, CA | 05:28 |
-| 🟢 1.7 | 11 km NE of Ocotillo Wells, CA | 05:23 |
-| 🟢 1.9 | 37 km NNW of Toyah, Texas | 05:23 |
-| 🟢 1.0 | 83 km NNW of Karluk, Alaska | 05:09 |
-| 🟢 1.1 | 27 km E of Coso Junction, CA | 04:46 |
-| 🟢 2.0 | 10 km E of Waimea, Hawaii | 04:45 |
+| 🟢 1.8 | 0 km NE of Redlands, CA | 06:43 |
+| 🟢 1.9 | 4 km SSW of Yountville, CA | 06:35 |
+| 🟢 0.7 | 5 km WNW of Cobb, CA | 06:27 |
+| 🟢 2.3 | 75 km NNE of Petersville, Alaska | 06:17 |
+| 🟢 2.1 | 13 km SSE of Fern Forest, Hawaii | 06:04 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 05:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
