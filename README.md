@@ -2,19 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2021:26:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-281ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2022:27:46%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-199ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 19 km NNE of Indio, CA | 21:18 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 21:07 |
-| 🟢 1.3 | 87 km SE of King Salmon, Alaska | 21:02 |
-| 🟢 1.0 | 6 km NNE of Beaumont, CA | 20:53 |
-| 🟢 1.7 | 44 km SE of Mammoth, Wyoming | 20:38 |
-| 🟢 1.7 | 13 km SSE of Volcano, Hawaii | 20:35 |
-| 🟠 5.0 | 200 km WNW of Panguna, Papua New Guinea | 20:28 |
-| 🟢 1.1 | 82 km NW of Karluk, Alaska | 20:26 |
+| 🟢 2.1 | 22 km ENE of Willow, Alaska | 22:18 |
+| 🟢 1.0 | 7 km S of Pearblossom, CA | 22:08 |
+| 🟢 1.7 | 59 km SW of Cantwell, Alaska | 22:07 |
+| 🟢 1.1 | 9 km WNW of The Geysers, CA | 22:05 |
+| 🟢 0.9 | 9 km WNW of The Geysers, CA | 22:05 |
+| 🟢 1.5 | 4 km NW of The Geysers, CA | 22:04 |
+| 🟢 1.0 | 39 km E of McKinney Acres, Texas | 21:54 |
+| 🟢 1.2 | 14 km WSW of Stanton, Texas | 21:44 |
+| 🟢 1.0 | 14 km W of Mojave, CA | 21:44 |
+| 🟢 2.1 | 13 km S of Volcano, Hawaii | 21:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
