@@ -2,28 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2010:36:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-413ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2011:30:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-615ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 4 km N of Dibble, Oklahoma | 10:28 |
-| 🟠 3.1 | 103 km WNW of Yakutat, Alaska | 10:28 |
-| 🟢 2.2 | 79 km NW of Aleneva, Alaska | 10:22 |
-| 🟢 1.7 | 18 km WSW of Johannesburg, CA | 10:22 |
-| 🟢 2.2 | 3 km SSW of Pāhala, Hawaii | 10:21 |
-| 🟢 0.9 | 6 km W of Cobb, CA | 10:16 |
-| 🟢 2.1 | 4 km SSW of Pāhala, Hawaii | 10:16 |
-| 🟢 2.4 | 7 km S of Pāhala, Hawaii | 10:15 |
-| 🟢 1.3 | 20 km NNE of Four Mile Road, Alaska | 10:15 |
-| 🟢 2.0 | 17 km N of Fishhook, Alaska | 10:12 |
-| 🟢 1.2 | 0 km NE of Redlands, CA | 10:11 |
-| 🟢 1.7 | 4 km SSW of Pāhala, Hawaii | 10:08 |
-| 🟢 2.3 | 3 km SSW of Pāhala, Hawaii | 10:04 |
-| 🟢 2.3 | 4 km SW of Pāhala, Hawaii | 10:03 |
-| 🟢 2.3 | 5 km SSW of Pāhala, Hawaii | 09:58 |
-| 🟢 2.4 | 4 km SSW of Pāhala, Hawaii | 09:56 |
-| 🟢 1.9 | 67 km WNW of Aleneva, Alaska | 09:36 |
+| 🟢 1.6 | 9 km NW of Malibu, CA | 11:26 |
+| 🟢 1.9 | 4 km SSW of Pāhala, Hawaii | 11:26 |
+| 🟢 1.0 | 6 km WNW of Cobb, CA | 11:09 |
+| 🟢 1.5 | 20 km NNE of Indio, CA | 10:59 |
+| 🟠 3.3 | 102 km WNW of Yakutat, Alaska | 10:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
