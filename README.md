@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2002:00:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-156ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2004:26:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-1.132s-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 16 km NNW of Toyah, Texas | 01:43 |
-| 🟢 1.2 | 15 km W of Johannesburg, CA | 01:35 |
-| 🟢 1.0 | 8 km WNW of Cobb, CA | 01:31 |
-| 🟠 4.6 | 1 km S of Wada, Japan | 01:25 |
-| 🟢 0.5 | 10 km SSW of Idyllwild, CA | 01:20 |
-| 🟢 0.8 | 21 km NNE of Indio, CA | 01:10 |
-| 🟢 1.7 | 16 km NNW of Toyah, Texas | 01:09 |
+| 🟢 0.7 | 17 km NW of Parkfield, CA | 04:02 |
+| 🟢 0.8 | 2 km N of The Geysers, CA | 04:01 |
+| 🟢 2.0 | 4 km SSW of Yountville, CA | 04:00 |
+| 🟢 0.8 | 30 km NE of Four Mile Road, Alaska | 03:58 |
+| 🟢 1.0 | 27 km E of Coso Junction, CA | 03:57 |
+| 🟢 2.0 | 15 km WSW of Petrolia, CA | 03:50 |
+| 🟢 0.6 | 36 km SSE of Livengood, Alaska | 03:46 |
+| 🟢 2.5 | 36 km SSE of Livengood, Alaska | 03:41 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
