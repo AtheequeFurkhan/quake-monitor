@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2016:43:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-516ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2017:37:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-270ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.1 | 17 km NNE of Indio, CA | 17:30 |
+| 🟢 1.3 | 6 km WSW of Gilroy, CA | 17:28 |
+| 🟢 2.4 | 50 km SW of Fort Greely, Alaska | 17:22 |
+| 🟢 1.4 | 8 km NW of The Geysers, CA | 17:07 |
+| 🟢 1.9 | 138 km SSE of McCarthy, Alaska | 17:03 |
+| 🟢 1.2 | 6 km NE of Imperial, CA | 16:45 |
+| 🟠 3.3 | 133 km NNE of Vieques, Puerto Rico | 16:41 |
 | 🟢 1.1 | 13 km ENE of Cloverdale, CA | 16:40 |
-| 🟢 1.6 | 21 km N of Indio, CA | 16:33 |
-| 🟢 0.8 | 4 km NW of The Geysers, CA | 16:31 |
-| 🟢 1.5 | 35 km NW of Toyah, Texas | 16:12 |
-| 🟢 0.8 | 13 km NW of The Geysers, CA | 16:12 |
-| 🟢 0.8 | 8 km NW of Borrego Springs, CA | 16:06 |
-| 🟢 1.8 | 64 km SE of Denali National Park, Alaska | 16:00 |
-| 🟢 0.6 | 22 km SSW of La Quinta, CA | 15:45 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
