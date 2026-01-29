@@ -2,22 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2019:30:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-363ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2020:30:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-353ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 10 km NE of Pāhala, Hawaii | 19:25 |
-| 🟢 0.8 | 5 km NW of The Geysers, CA | 19:25 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 19:17 |
-| 🟢 1.3 | 3 km SE of The Geysers, CA | 19:12 |
-| 🟢 1.5 | 7 km NW of The Geysers, CA | 18:59 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 18:55 |
-| 🟢 1.6 | 14 km N of Fillmore, CA | 18:52 |
-| 🟢 2.0 | 11 km E of Pearsall, Texas | 18:42 |
-| 🟠 3.5 | 94 km N of Yakutat, Alaska | 18:37 |
-| 🟢 1.9 | 14 km E of Pinnacles, CA | 18:33 |
-| 🟢 2.4 | 36 km NW of Toyah, Texas | 18:32 |
+| 🟢 1.1 | 82 km NW of Karluk, Alaska | 20:26 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 20:21 |
+| 🟢 1.9 | 2 km E of South Whittier, CA | 20:16 |
+| 🟢 0.7 | 6 km W of Cobb, CA | 19:56 |
+| 🟢 0.3 | 6 km W of Cobb, CA | 19:56 |
+| 🟢 1.9 | 4 km SSW of Pāhala, Hawaii | 19:43 |
+| 🟠 4.2 | 8 km NE of Black Eagle, Montana | 19:41 |
+| 🟢 1.4 | 2 km NW of The Geysers, CA | 19:40 |
+| 🟢 0.8 | 0 km SE of The Geysers, CA | 19:38 |
+| 🟢 0.9 | 3 km S of Cobb, CA | 19:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
