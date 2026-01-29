@@ -2,21 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2007:39:38%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-197ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2008:39:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-506ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 14 km S of Joshua Tree, CA | 07:36 |
-| 🟢 1.1 | 8 km E of Ocotillo, CA | 07:35 |
-| 🟢 0.4 | 7 km NW of The Geysers, CA | 07:32 |
-| 🟢 0.8 | 3 km NNW of The Geysers, CA | 07:23 |
-| 🟢 1.0 | 10 km W of Pine Valley, CA | 07:17 |
-| 🟢 0.7 | 3 km ESE of Lake Henshaw, CA | 07:14 |
-| 🟢 0.9 | 9 km WNW of The Geysers, CA | 07:12 |
-| 🟢 0.3 | 8 km NW of The Geysers, CA | 06:57 |
-| 🟢 1.9 | 2 km N of Yauco, Puerto Rico | 06:47 |
-| 🟢 1.8 | 0 km NE of Redlands, CA | 06:43 |
+| 🟢 1.9 | 9 km E of Alum Rock, CA | 07:55 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 07:54 |
+| 🟢 1.1 | 3 km SSW of Cobb, CA | 07:48 |
+| 🟢 1.1 | 15 km W of Johannesburg, CA | 07:45 |
+| 🟢 0.7 | 4 km W of Cobb, CA | 07:40 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
