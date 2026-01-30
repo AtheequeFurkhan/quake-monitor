@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2015:34:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-400ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2016:38:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-464ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 15 km W of Johannesburg, CA | 15:31 |
-| 🟢 1.5 | 58 km S of Whites City, New Mexico | 15:30 |
-| 🟢 1.4 | 12 km NW of Coso Junction, CA | 15:18 |
-| 🟢 1.1 | 3 km W of Anderson Springs, CA | 15:17 |
-| 🟢 1.2 | 82 km NNW of Karluk, Alaska | 15:08 |
-| 🟢 1.1 | 22 km ESE of Little Lake, CA | 14:57 |
-| 🟢 2.3 | 6 km ESE of Pearsall, Texas | 14:55 |
-| 🟢 1.5 | 10 km W of Forsan, Texas | 14:41 |
+| 🟢 1.0 | 5 km WNW of Borrego Springs, CA | 16:35 |
+| 🟢 2.2 | 52 km ENE of Pedro Bay, Alaska | 16:22 |
+| 🟢 1.8 | 48 km NW of Tatitlek, Alaska | 16:20 |
+| 🟢 0.8 | 21 km NNE of Indio, CA | 16:10 |
+| 🟢 1.3 | 91 km N of Karluk, Alaska | 15:59 |
+| 🟢 1.9 | 1 km E of Moose Creek, Alaska | 15:47 |
+| 🟢 0.9 | 21 km NNE of Indio, CA | 15:41 |
+| 🟢 1.7 | 17 km SSE of Girdwood, Alaska | 15:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
