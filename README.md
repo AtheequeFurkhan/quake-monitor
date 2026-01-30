@@ -2,30 +2,29 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2013:56:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-187ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2014:38:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-408ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.5 | 2 km SW of Hollister, CA | 14:22 |
 | 🟢 1.3 | 3 km W of Anderson Springs, CA | 13:43 |
 | 🟢 2.4 | 5 km SSW of Pāhala, Hawaii | 13:41 |
 | 🟢 2.1 | 31 km ENE of Honaunau-Napoopoo, Hawaii | 13:40 |
-| 🟢 0.7 | 7 km NW of The Geysers, CA | 13:13 |
-| 🟢 1.7 | 55 km NW of Toyah, Texas | 13:00 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
+- ⛈️ **Severe Storms**: [Tropical Cyclone Fytia](https://www.metoc.navy.mil/jtwc/products/sh1926.tcw) (Jan 29)
+- 🔥 **Wildfires**: [540 RX Prescribed Fire, Cleburne, Alabama](https://irwin.doi.gov/observer/incidents/5dd53b40-3336-4412-98a4-0f704a89a9f9) (Jan 29)
+- 🔥 **Wildfires**: [LXR Northwest Rx 0129 Prescribed Fire, Palm Beach, Florida](https://irwin.doi.gov/observer/incidents/edecd30c-a91f-40cd-bfd2-b85e58cbc591) (Jan 29)
+- 🔥 **Wildfires**: [APQ Area NC Rx 0128 Prescribed Fire, Polk, Florida](https://irwin.doi.gov/observer/incidents/8e469c89-b8dc-4c4d-aac1-e67d6ec1ac81) (Jan 28)
+- 🔥 **Wildfires**: [CRO C-15 Pinecliff RX Prescribed Fire, Craven, North Carolina](https://irwin.doi.gov/observer/incidents/cbb57631-7da1-4e37-bede-e4c5d9b44fcb) (Jan 28)
+- 🔥 **Wildfires**: [ANF BU 47 Rx 0128 Prescribed Fire, Liberty, Florida](https://irwin.doi.gov/observer/incidents/a5e10f23-9159-43ec-a386-0b679356b992) (Jan 28)
 - ⛈️ **Severe Storms**: [Tropical Cyclone 18P](https://www.metoc.navy.mil/jtwc/products/sh1826.tcw) (Jan 29)
-- 🔥 **Wildfires**: [SACATON RX Prescribed Fire, Socorro, New Mexico](https://irwin.doi.gov/observer/incidents/5b75ae4d-68dc-4b93-9d8f-cf8befdfcdb6) (Jan 23)
-- 🔥 **Wildfires**: [RX Nueces 0577 Prescribed Fire, Nueces, Texas](https://irwin.doi.gov/observer/incidents/67ef0367-bcc6-4feb-bf85-b97d1dc9d6f6) (Jan 22)
-- 🔥 **Wildfires**: [APQ Area 5 Rx 0122 Prescribed Fire, Polk, Florida](https://irwin.doi.gov/observer/incidents/b1aa95bd-045f-4045-8b42-7c8e15dc3a77) (Jan 22)
-- 🔥 **Wildfires**: [East Lake (11) Wildfire, Collier, Florida](https://irwin.doi.gov/observer/incidents/feb87463-d914-4e47-9768-dbce5910ecb4) (Jan 21)
-- 🔥 **Wildfires**: [Long Teal Wildfire, Chambers, Texas](https://irwin.doi.gov/observer/incidents/c39e59e4-71e7-4d56-a78e-09bafe6c2522) (Jan 21)
-- 🔥 **Wildfires**: [ANF BU 50 Queens Bay Rx 0121 Prescribed Fire, Liberty, Florida](https://irwin.doi.gov/observer/incidents/54b40047-d2c9-4631-a249-794c5223822b) (Jan 21)
-- 🔥 **Wildfires**: [Silver Lake Wildfire, Wakulla, Florida](https://irwin.doi.gov/observer/incidents/4e948e9c-0765-4d23-a659-19f554eca9f4) (Jan 20)
-- 🔥 **Wildfires**: [Rx BUFF South River Road BIL Prescribed Fire, Newton, Arkansas](https://irwin.doi.gov/observer/incidents/9e8e24dc-8e07-4e0e-bbca-2087f218082f) (Jan 20)
-- 🔥 **Wildfires**: [RX South Waldron Ridge 8 &amp; 9 Prescribed Fire, Scott, Arkansas](https://irwin.doi.gov/observer/incidents/fabdfb65-de9e-4189-9521-f5ed9cfc6072) (Jan 20)
+- 🔥 **Wildfires**: [Gold Mine RX Prescribed Fire, Cleburne, Alabama](https://irwin.doi.gov/observer/incidents/40e3fc42-9925-4c8c-80d8-86261754e7a4) (Jan 27)
+- 🔥 **Wildfires**: [Rx Newton 0582 Prescribed Fire, Newton, Texas](https://irwin.doi.gov/observer/incidents/889ee85a-3417-4aec-9abd-8e3e5b116ad4) (Jan 27)
+- 🔥 **Wildfires**: [Rx Newton 0644 Prescribed Fire, Newton, Texas](https://irwin.doi.gov/observer/incidents/8686cf2c-6f16-48e1-9a0b-67efefeca27b) (Jan 27)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
