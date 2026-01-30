@@ -2,18 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2004:40:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-177ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2005:46:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-207ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.4 | 12 km NW of Fox River, Alaska | 04:35 |
-| 🟢 1.8 | 6 km SSE of Pāhala, Hawaii | 04:30 |
-| 🟢 1.2 | 12 km SW of Salton City, CA | 04:26 |
-| 🟢 0.6 | 19 km ESE of Little Lake, CA | 04:18 |
-| 🟢 2.0 | 10 km ENE of Pāhala, Hawaii | 03:57 |
-| 🟢 1.4 | 12 km SW of Salton City, CA | 03:54 |
-| 🟢 1.8 | 15 km ENE of Pāhala, Hawaii | 03:50 |
+| 🟢 2.1 | 5 km S of Pāhala, Hawaii | 05:41 |
+| 🟢 2.4 | 13 km S of Nelchina, Alaska | 05:40 |
+| 🟢 1.9 | 10 km NNE of Trabuco Canyon, CA | 05:34 |
+| 🟠 3.5 | 259 km WSW of Pistol River, Oregon | 05:30 |
+| 🟢 1.3 | 2 km NNE of The Geysers, CA | 05:29 |
+| 🟢 1.2 | 13 km WSW of Stanton, Texas | 05:08 |
+| 🟢 1.6 | 4 km ESE of San Ramon, CA | 04:49 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
