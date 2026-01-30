@@ -2,21 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2021:28:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-122ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2022:25:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-138ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 3 km NNW of Palomar Observatory, CA | 21:20 |
-| 🟢 0.4 | 9 km WNW of The Geysers, CA | 21:12 |
-| 🟢 0.8 | 9 km WNW of The Geysers, CA | 21:00 |
-| 🟢 0.8 | 9 km WNW of The Geysers, CA | 20:59 |
-| 🟢 1.3 | 9 km WNW of The Geysers, CA | 20:58 |
-| 🟢 0.4 | 9 km NW of The Geysers, CA | 20:58 |
-| 🟢 1.1 | 9 km WNW of The Geysers, CA | 20:58 |
-| 🟢 2.4 | 9 km NW of The Geysers, CA | 20:57 |
-| 🟢 1.5 | 3 km NW of The Geysers, CA | 20:56 |
-| 🟢 2.4 | 6 km NNE of Whitehouse Station, New Jersey | 20:42 |
+| 🟢 2.3 | 50 km W of Happy Valley, Alaska | 22:14 |
+| 🟢 1.2 | 3 km S of Cobb, CA | 22:07 |
+| 🟠 3.3 | 14 km SE of Elmendorf Air Force Base, Alaska | 22:06 |
+| 🟢 1.5 | 9 km WNW of Lake Elsinore, CA | 21:59 |
+| 🟢 0.6 | 21 km ENE of Little Lake, CA | 21:45 |
+| 🟠 4.3 | 48 km SW of Cantwell, Alaska | 21:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
