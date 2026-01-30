@@ -2,17 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2011:28:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-314ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2012:55:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-189ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 14 km SE of Fern Forest, Hawaii | 11:14 |
-| 🟢 2.9 | 8 km SW of Charlotte Amalie, U.S. Virgin Islands | 10:58 |
-| 🟢 1.3 | 8 km NW of The Geysers, CA | 10:53 |
-| 🟢 0.9 | 12 km ENE of Desert Hot Springs, CA | 10:49 |
-| 🟢 2.3 | 11 km SW of Pa‘auilo, Hawaii | 10:46 |
-| 🟢 1.8 | 26 km SE of Naalehu, Hawaii | 10:31 |
+| 🟢 0.5 | 5 km WNW of Cobb, CA | 12:47 |
+| 🟢 0.8 | 5 km WNW of Cobb, CA | 12:46 |
+| 🟢 1.1 | 7 km NW of The Geysers, CA | 12:44 |
+| 🟢 0.6 | 7 km N of Anza, CA | 12:40 |
+| 🟢 2.8 | 18 km E of Dilley, Texas | 12:38 |
+| 🟢 2.8 | 4 km SSW of Pāhala, Hawaii | 12:37 |
+| 🟢 0.8 | 21 km NNE of Indio, CA | 12:23 |
+| 🟢 1.2 | 2 km SW of Hollister, CA | 12:15 |
+| 🟠 5.0 | Kermadec Islands region | 12:04 |
+| 🟢 2.0 | 44 km NNW of Valdez, Alaska | 11:58 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
