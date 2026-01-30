@@ -2,20 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2020:29:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-379ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2021:28:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-122ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 10 km ENE of Ridgecrest, CA | 20:24 |
-| 🟢 2.7 | 49 km E of Port Alsworth, Alaska | 20:14 |
-| 🟢 2.1 | 43 km WNW of Clam Gulch, Alaska | 20:04 |
-| 🟢 1.7 | 8 km SSW of Mojave, CA | 20:00 |
-| 🟢 1.1 | 13 km SE of Tehachapi, CA | 19:55 |
-| 🟢 2.2 | 62 km WSW of Anchor Point, Alaska | 19:51 |
-| 🟢 1.7 | 5 km N of Dublin, CA | 19:46 |
-| 🟢 2.0 | 5 km WSW of Fuig, Puerto Rico | 19:44 |
-| 🟢 1.8 | 57 km SSW of Cantwell, Alaska | 19:37 |
+| 🟢 0.8 | 3 km NNW of Palomar Observatory, CA | 21:20 |
+| 🟢 0.4 | 9 km WNW of The Geysers, CA | 21:12 |
+| 🟢 0.8 | 9 km WNW of The Geysers, CA | 21:00 |
+| 🟢 0.8 | 9 km WNW of The Geysers, CA | 20:59 |
+| 🟢 1.3 | 9 km WNW of The Geysers, CA | 20:58 |
+| 🟢 0.4 | 9 km NW of The Geysers, CA | 20:58 |
+| 🟢 1.1 | 9 km WNW of The Geysers, CA | 20:58 |
+| 🟢 2.4 | 9 km NW of The Geysers, CA | 20:57 |
+| 🟢 1.5 | 3 km NW of The Geysers, CA | 20:56 |
+| 🟢 2.4 | 6 km NNE of Whitehouse Station, New Jersey | 20:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
