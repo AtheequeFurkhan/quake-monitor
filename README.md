@@ -2,18 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2018:42:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-376ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2019:31:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-110ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.7 | 9 km NW of The Geysers, CA | 19:13 |
+| 🟢 0.7 | 7 km NW of The Geysers, CA | 19:11 |
+| 🟢 0.7 | 9 km SW of Salton City, CA | 18:52 |
+| 🟢 2.0 | 5 km NNW of Dublin, CA | 18:33 |
 | 🟠 3.4 | 5 km SE of San Ramon, CA | 18:33 |
-| 🟢 0.3 | 5 km WNW of The Geysers, CA | 18:30 |
-| 🟢 1.3 | 5 km WNW of Cobb, CA | 18:26 |
-| 🟢 2.2 | 67 km N of Larsen Bay, Alaska | 18:13 |
-| 🟢 1.1 | 8 km SE of Gardendale, Texas | 18:11 |
-| 🟢 1.6 | 2 km W of Garden City, Texas | 17:51 |
-| 🟠 3.3 | 244 km ESE of Chiniak, Alaska | 17:46 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
