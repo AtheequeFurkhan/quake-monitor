@@ -2,24 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2016:38:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-464ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2017:33:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-295ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 5 km WNW of Borrego Springs, CA | 16:35 |
-| 🟢 2.2 | 52 km ENE of Pedro Bay, Alaska | 16:22 |
-| 🟢 1.8 | 48 km NW of Tatitlek, Alaska | 16:20 |
-| 🟢 0.8 | 21 km NNE of Indio, CA | 16:10 |
-| 🟢 1.3 | 91 km N of Karluk, Alaska | 15:59 |
-| 🟢 1.9 | 1 km E of Moose Creek, Alaska | 15:47 |
-| 🟢 0.9 | 21 km NNE of Indio, CA | 15:41 |
-| 🟢 1.7 | 17 km SSE of Girdwood, Alaska | 15:39 |
+| 🟢 1.1 | 5 km WNW of The Geysers, CA | 17:22 |
+| 🟢 1.5 | 5 km WNW of The Geysers, CA | 17:21 |
+| 🟢 2.4 | 1 km N of Pāhala, Hawaii | 17:05 |
+| 🟢 0.8 | 3 km NW of Julian, CA | 16:59 |
+| 🟢 1.1 | 3 km SE of The Geysers, CA | 16:54 |
+| 🟢 1.5 | 11 km W of Forsan, Texas | 16:50 |
+| 🟠 3.2 | 138 km E of McCarthy, Alaska | 16:47 |
+| 🟢 0.8 | 5 km WNW of Borrego Springs, CA | 16:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
-- ⛈️ **Severe Storms**: [Tropical Cyclone Fytia](https://www.metoc.navy.mil/jtwc/products/sh1926.tcw) (Jan 29)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Fytia](https://www.metoc.navy.mil/jtwc/products/sh1926.tcw) (Jan 30)
 - 🔥 **Wildfires**: [540 RX Prescribed Fire, Cleburne, Alabama](https://irwin.doi.gov/observer/incidents/5dd53b40-3336-4412-98a4-0f704a89a9f9) (Jan 29)
 - 🔥 **Wildfires**: [LXR Northwest Rx 0129 Prescribed Fire, Palm Beach, Florida](https://irwin.doi.gov/observer/incidents/edecd30c-a91f-40cd-bfd2-b85e58cbc591) (Jan 29)
 - 🔥 **Wildfires**: [APQ Area NC Rx 0128 Prescribed Fire, Polk, Florida](https://irwin.doi.gov/observer/incidents/8e469c89-b8dc-4c4d-aac1-e67d6ec1ac81) (Jan 28)
