@@ -2,18 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2005:46:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-207ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2006:49:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-368ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 5 km S of Pāhala, Hawaii | 05:41 |
-| 🟢 2.4 | 13 km S of Nelchina, Alaska | 05:40 |
-| 🟢 1.9 | 10 km NNE of Trabuco Canyon, CA | 05:34 |
-| 🟠 3.5 | 259 km WSW of Pistol River, Oregon | 05:30 |
-| 🟢 1.3 | 2 km NNE of The Geysers, CA | 05:29 |
-| 🟢 1.2 | 13 km WSW of Stanton, Texas | 05:08 |
-| 🟢 1.6 | 4 km ESE of San Ramon, CA | 04:49 |
+| 🟢 2.3 | 30 km ENE of Honaunau-Napoopoo, Hawaii | 06:27 |
+| 🟢 0.9 | 18 km WSW of Johannesburg, CA | 06:21 |
+| 🟢 1.8 | 56 km NW of Eureka Roadhouse, Alaska | 06:15 |
+| 🟢 0.6 | 17 km NNE of Ridgecrest, CA | 06:06 |
+| 🟢 1.0 | 13 km WSW of Stanton, Texas | 05:52 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 05:52 |
+| 🟢 0.5 | 6 km S of Beaumont, CA | 05:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
