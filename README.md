@@ -2,17 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2022:25:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-138ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2023:25:22%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-187ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.3 | 50 km W of Happy Valley, Alaska | 22:14 |
-| 🟢 1.2 | 3 km S of Cobb, CA | 22:07 |
-| 🟠 3.3 | 14 km SE of Elmendorf Air Force Base, Alaska | 22:06 |
-| 🟢 1.5 | 9 km WNW of Lake Elsinore, CA | 21:59 |
-| 🟢 0.6 | 21 km ENE of Little Lake, CA | 21:45 |
-| 🟠 4.3 | 48 km SW of Cantwell, Alaska | 21:27 |
+| 🟢 1.9 | 82 km NE of Tonopah, Nevada | 23:15 |
+| 🟢 1.5 | 18 km NNE of Indio, CA | 23:15 |
+| 🟢 1.5 | 10 km WSW of Stanton, Texas | 23:14 |
+| 🟢 1.9 | 9 km ENE of Gilroy, CA | 23:13 |
+| 🟠 4.9 | 35 km N of Lahat, Indonesia | 23:03 |
+| 🟢 0.7 | 2 km NNW of The Geysers, CA | 22:46 |
+| 🟢 1.2 | 2 km NNW of The Geysers, CA | 22:41 |
+| 🟢 2.1 | 36 km W of Karluk, Alaska | 22:34 |
+| 🟢 2.5 | 43 km SE of Denali National Park, Alaska | 22:32 |
+| 🟢 1.9 | 8 km E of Pearsall, Texas | 22:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
