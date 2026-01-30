@@ -2,19 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2010:33:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-300ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2011:28:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-314ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 18 km N of Indio, CA | 10:24 |
-| 🟢 2.2 | 3 km SSE of Pāhala, Hawaii | 10:12 |
-| 🟢 2.3 | 7 km SE of Pearsall, Texas | 09:46 |
-| 🟢 1.0 | 12 km SW of North Pole, Alaska | 09:42 |
-| 🟢 0.8 | 12 km NW of Ocotillo, CA | 09:40 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 09:37 |
-| 🟢 1.1 | 4 km SSE of Lake Henshaw, CA | 09:36 |
-| 🟢 0.7 | 11 km NE of Borrego Springs, CA | 09:35 |
+| 🟢 2.1 | 14 km SE of Fern Forest, Hawaii | 11:14 |
+| 🟢 2.9 | 8 km SW of Charlotte Amalie, U.S. Virgin Islands | 10:58 |
+| 🟢 1.3 | 8 km NW of The Geysers, CA | 10:53 |
+| 🟢 0.9 | 12 km ENE of Desert Hot Springs, CA | 10:49 |
+| 🟢 2.3 | 11 km SW of Pa‘auilo, Hawaii | 10:46 |
+| 🟢 1.8 | 26 km SE of Naalehu, Hawaii | 10:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
