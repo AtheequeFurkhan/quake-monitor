@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2009:37:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-203ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2010:33:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-300ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 16 km NNW of Toyah, Texas | 09:26 |
-| 🟢 1.7 | 21 km NNE of Indio, CA | 09:25 |
-| 🟢 1.9 | 12 km W of Manton, CA | 09:03 |
-| 🟢 1.1 | 20 km NNE of Indio, CA | 08:59 |
-| 🟢 0.8 | 17 km NE of Pine Valley, CA | 08:45 |
-| 🟢 0.9 | 21 km NNE of Indio, CA | 08:42 |
-| 🟢 0.9 | 20 km ENE of Little Lake, CA | 08:37 |
+| 🟢 0.9 | 18 km N of Indio, CA | 10:24 |
+| 🟢 2.2 | 3 km SSE of Pāhala, Hawaii | 10:12 |
+| 🟢 2.3 | 7 km SE of Pearsall, Texas | 09:46 |
+| 🟢 1.0 | 12 km SW of North Pole, Alaska | 09:42 |
+| 🟢 0.8 | 12 km NW of Ocotillo, CA | 09:40 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 09:37 |
+| 🟢 1.1 | 4 km SSE of Lake Henshaw, CA | 09:36 |
+| 🟢 0.7 | 11 km NE of Borrego Springs, CA | 09:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
