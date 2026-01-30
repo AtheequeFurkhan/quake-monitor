@@ -2,15 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2014:38:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-408ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2015:34:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-400ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 2 km SW of Hollister, CA | 14:22 |
-| 🟢 1.3 | 3 km W of Anderson Springs, CA | 13:43 |
-| 🟢 2.4 | 5 km SSW of Pāhala, Hawaii | 13:41 |
-| 🟢 2.1 | 31 km ENE of Honaunau-Napoopoo, Hawaii | 13:40 |
+| 🟢 1.8 | 15 km W of Johannesburg, CA | 15:31 |
+| 🟢 1.5 | 58 km S of Whites City, New Mexico | 15:30 |
+| 🟢 1.4 | 12 km NW of Coso Junction, CA | 15:18 |
+| 🟢 1.1 | 3 km W of Anderson Springs, CA | 15:17 |
+| 🟢 1.2 | 82 km NNW of Karluk, Alaska | 15:08 |
+| 🟢 1.1 | 22 km ESE of Little Lake, CA | 14:57 |
+| 🟢 2.3 | 6 km ESE of Pearsall, Texas | 14:55 |
+| 🟢 1.5 | 10 km W of Forsan, Texas | 14:41 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
