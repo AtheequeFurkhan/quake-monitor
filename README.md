@@ -2,18 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2006:49:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-368ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2007:39:59%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-381ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.3 | 30 km ENE of Honaunau-Napoopoo, Hawaii | 06:27 |
-| 🟢 0.9 | 18 km WSW of Johannesburg, CA | 06:21 |
-| 🟢 1.8 | 56 km NW of Eureka Roadhouse, Alaska | 06:15 |
-| 🟢 0.6 | 17 km NNE of Ridgecrest, CA | 06:06 |
-| 🟢 1.0 | 13 km WSW of Stanton, Texas | 05:52 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 05:52 |
-| 🟢 0.5 | 6 km S of Beaumont, CA | 05:50 |
+| 🟢 1.8 | 39 km E of Lee Vining, CA | 07:31 |
+| 🟢 2.7 | 12 km W of Stanton, Texas | 07:25 |
+| 🟢 1.6 | 39 km NW of Beatty, Nevada | 07:23 |
+| 🟢 1.4 | 26 km SW of Ackerly, Texas | 07:23 |
+| 🟠 3.9 | 32 km N of Cimarron, New Mexico | 07:20 |
+| 🟢 1.7 | 12 km W of Stanton, Texas | 07:15 |
+| 🟢 0.7 | 12 km ENE of Cloverdale, CA | 07:10 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
