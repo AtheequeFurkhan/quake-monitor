@@ -2,18 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2007:39:59%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-381ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2008:39:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-461ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 39 km E of Lee Vining, CA | 07:31 |
-| 🟢 2.7 | 12 km W of Stanton, Texas | 07:25 |
-| 🟢 1.6 | 39 km NW of Beatty, Nevada | 07:23 |
-| 🟢 1.4 | 26 km SW of Ackerly, Texas | 07:23 |
-| 🟠 3.9 | 32 km N of Cimarron, New Mexico | 07:20 |
-| 🟢 1.7 | 12 km W of Stanton, Texas | 07:15 |
-| 🟢 0.7 | 12 km ENE of Cloverdale, CA | 07:10 |
+| 🟢 1.1 | 23 km NNW of Borrego Springs, CA | 08:34 |
+| 🟢 1.0 | 18 km WSW of Johannesburg, CA | 08:34 |
+| 🟢 1.4 | 18 km E of Julian, CA | 08:32 |
+| 🟢 0.7 | 7 km S of Pearblossom, CA | 08:26 |
+| 🟢 1.0 | 21 km NNE of Indio, CA | 08:12 |
+| 🟢 2.2 | 22 km W of Petersville, Alaska | 08:06 |
+| 🟢 0.9 | 84 km NNW of Karluk, Alaska | 08:03 |
+| 🟢 1.2 | 14 km W of Stanton, Texas | 08:02 |
+| 🟢 2.1 | 7 km SE of Maricao, Puerto Rico | 07:54 |
+| 🟠 3.1 | 5 km ESE of Maricao, Puerto Rico | 07:53 |
+| 🟢 1.2 | 3 km WSW of Cobb, CA | 07:50 |
+| 🟢 1.1 | 2 km NNE of The Geysers, CA | 07:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
