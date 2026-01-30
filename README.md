@@ -2,23 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2008:39:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-461ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2009:37:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-203ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 23 km NNW of Borrego Springs, CA | 08:34 |
-| 🟢 1.0 | 18 km WSW of Johannesburg, CA | 08:34 |
-| 🟢 1.4 | 18 km E of Julian, CA | 08:32 |
-| 🟢 0.7 | 7 km S of Pearblossom, CA | 08:26 |
-| 🟢 1.0 | 21 km NNE of Indio, CA | 08:12 |
-| 🟢 2.2 | 22 km W of Petersville, Alaska | 08:06 |
-| 🟢 0.9 | 84 km NNW of Karluk, Alaska | 08:03 |
-| 🟢 1.2 | 14 km W of Stanton, Texas | 08:02 |
-| 🟢 2.1 | 7 km SE of Maricao, Puerto Rico | 07:54 |
-| 🟠 3.1 | 5 km ESE of Maricao, Puerto Rico | 07:53 |
-| 🟢 1.2 | 3 km WSW of Cobb, CA | 07:50 |
-| 🟢 1.1 | 2 km NNE of The Geysers, CA | 07:39 |
+| 🟢 1.9 | 16 km NNW of Toyah, Texas | 09:26 |
+| 🟢 1.7 | 21 km NNE of Indio, CA | 09:25 |
+| 🟢 1.9 | 12 km W of Manton, CA | 09:03 |
+| 🟢 1.1 | 20 km NNE of Indio, CA | 08:59 |
+| 🟢 0.8 | 17 km NE of Pine Valley, CA | 08:45 |
+| 🟢 0.9 | 21 km NNE of Indio, CA | 08:42 |
+| 🟢 0.9 | 20 km ENE of Little Lake, CA | 08:37 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
