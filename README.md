@@ -2,16 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2019:31:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-110ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2020:29:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-379ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 9 km NW of The Geysers, CA | 19:13 |
-| 🟢 0.7 | 7 km NW of The Geysers, CA | 19:11 |
-| 🟢 0.7 | 9 km SW of Salton City, CA | 18:52 |
-| 🟢 2.0 | 5 km NNW of Dublin, CA | 18:33 |
-| 🟠 3.4 | 5 km SE of San Ramon, CA | 18:33 |
+| 🟢 1.9 | 10 km ENE of Ridgecrest, CA | 20:24 |
+| 🟢 2.7 | 49 km E of Port Alsworth, Alaska | 20:14 |
+| 🟢 2.1 | 43 km WNW of Clam Gulch, Alaska | 20:04 |
+| 🟢 1.7 | 8 km SSW of Mojave, CA | 20:00 |
+| 🟢 1.1 | 13 km SE of Tehachapi, CA | 19:55 |
+| 🟢 2.2 | 62 km WSW of Anchor Point, Alaska | 19:51 |
+| 🟢 1.7 | 5 km N of Dublin, CA | 19:46 |
+| 🟢 2.0 | 5 km WSW of Fuig, Puerto Rico | 19:44 |
+| 🟢 1.8 | 57 km SSW of Cantwell, Alaska | 19:37 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
