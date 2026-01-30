@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2017:33:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-295ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2018:42:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-376ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 5 km WNW of The Geysers, CA | 17:22 |
-| 🟢 1.5 | 5 km WNW of The Geysers, CA | 17:21 |
-| 🟢 2.4 | 1 km N of Pāhala, Hawaii | 17:05 |
-| 🟢 0.8 | 3 km NW of Julian, CA | 16:59 |
-| 🟢 1.1 | 3 km SE of The Geysers, CA | 16:54 |
-| 🟢 1.5 | 11 km W of Forsan, Texas | 16:50 |
-| 🟠 3.2 | 138 km E of McCarthy, Alaska | 16:47 |
-| 🟢 0.8 | 5 km WNW of Borrego Springs, CA | 16:35 |
+| 🟠 3.4 | 5 km SE of San Ramon, CA | 18:33 |
+| 🟢 0.3 | 5 km WNW of The Geysers, CA | 18:30 |
+| 🟢 1.3 | 5 km WNW of Cobb, CA | 18:26 |
+| 🟢 2.2 | 67 km N of Larsen Bay, Alaska | 18:13 |
+| 🟢 1.1 | 8 km SE of Gardendale, Texas | 18:11 |
+| 🟢 1.6 | 2 km W of Garden City, Texas | 17:51 |
+| 🟠 3.3 | 244 km ESE of Chiniak, Alaska | 17:46 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
