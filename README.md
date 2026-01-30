@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2029%20Jan%202026%2023:26:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-109ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2002:01:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-282ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 17 km NNE of Indio, CA | 23:23 |
-| 🟢 1.0 | 20 km N of Indio, CA | 23:00 |
-| 🟠 3.7 | 74 km N of Yakutat, Alaska | 22:59 |
-| 🟠 3.3 | 18 km E of Honaunau-Napoopoo, Hawaii | 22:58 |
-| 🟢 1.0 | 6 km NNW of The Geysers, CA | 22:53 |
-| 🟢 1.0 | 6 km NNE of Beaumont, CA | 22:37 |
-| 🟢 1.6 | 18 km SW of Mina, Nevada | 22:29 |
-| 🟢 1.2 | 3 km NW of The Geysers, CA | 22:29 |
+| 🟢 1.9 | 70 km ENE of Chase, Alaska | 01:57 |
+| 🟢 2.3 | 4 km NNE of Dibble, Oklahoma | 01:30 |
+| 🟢 0.8 | 15 km NNE of Borrego Springs, CA | 01:28 |
+| 🔴 5.2 | Kermadec Islands, New Zealand | 01:28 |
+| 🟢 2.0 | 3 km W of Fuig, Puerto Rico | 01:21 |
+| 🟠 5.0 | 75 km S of Modisi, Indonesia | 01:15 |
+| 🟢 2.4 | 24 km ENE of Alum Rock, CA | 01:03 |
+| 🟢 1.3 | 15 km NE of San Simeon, CA | 01:02 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
