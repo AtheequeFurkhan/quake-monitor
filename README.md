@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2002:01:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-282ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2004:40:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-177ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 70 km ENE of Chase, Alaska | 01:57 |
-| 🟢 2.3 | 4 km NNE of Dibble, Oklahoma | 01:30 |
-| 🟢 0.8 | 15 km NNE of Borrego Springs, CA | 01:28 |
-| 🔴 5.2 | Kermadec Islands, New Zealand | 01:28 |
-| 🟢 2.0 | 3 km W of Fuig, Puerto Rico | 01:21 |
-| 🟠 5.0 | 75 km S of Modisi, Indonesia | 01:15 |
-| 🟢 2.4 | 24 km ENE of Alum Rock, CA | 01:03 |
-| 🟢 1.3 | 15 km NE of San Simeon, CA | 01:02 |
+| 🟢 2.4 | 12 km NW of Fox River, Alaska | 04:35 |
+| 🟢 1.8 | 6 km SSE of Pāhala, Hawaii | 04:30 |
+| 🟢 1.2 | 12 km SW of Salton City, CA | 04:26 |
+| 🟢 0.6 | 19 km ESE of Little Lake, CA | 04:18 |
+| 🟢 2.0 | 10 km ENE of Pāhala, Hawaii | 03:57 |
+| 🟢 1.4 | 12 km SW of Salton City, CA | 03:54 |
+| 🟢 1.8 | 15 km ENE of Pāhala, Hawaii | 03:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
