@@ -2,22 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2031%20Jan%202026%2008:30:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-178ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2031%20Jan%202026%2009:27:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-169ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 13 km WSW of Stanton, Texas | 08:26 |
-| 🟢 1.4 | 11 km NNE of Ocotillo Wells, CA | 08:12 |
-| 🟢 1.7 | 61 km NW of Skwentna, Alaska | 08:08 |
-| 🟢 1.8 | 34 km SSE of Volcano, Hawaii | 08:05 |
-| 🟢 0.9 | 81 km NNW of Karluk, Alaska | 07:54 |
-| 🟢 0.8 | 2 km NNW of The Geysers, CA | 07:49 |
-| 🟢 1.6 | 21 km W of Garden City, Texas | 07:43 |
-| 🟢 0.3 | 12 km ENE of Cloverdale, CA | 07:42 |
-| 🟢 1.7 | 23 km NE of Big Pine, California | 07:41 |
-| 🟢 0.7 | 15 km SE of Julian, CA | 07:36 |
-| 🟢 1.7 | 10 km ENE of Goldfield, Nevada | 07:34 |
+| 🟢 1.8 | 7 km SSW of Independence, CA | 09:06 |
+| 🟢 0.9 | 2 km NNW of Banning, CA | 08:53 |
+| 🟢 1.3 | 11 km NE of Coalinga, CA | 08:50 |
+| 🟢 0.8 | 15 km W of Johannesburg, CA | 08:45 |
+| 🟢 0.7 | 12 km NNE of Ocotillo Wells, CA | 08:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
