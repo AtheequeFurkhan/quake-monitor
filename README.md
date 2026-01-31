@@ -2,15 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2031%20Jan%202026%2011:20:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-388ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2031%20Jan%202026%2012:47:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-272ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟠 3.4 | 39 km W of Petrolia, CA | 11:06 |
-| 🟢 1.6 | 11 km NNW of Alamo, Nevada | 10:37 |
-| 🟠 4.8 | Bonin Islands, Japan region | 10:36 |
-| 🟢 0.6 | 21 km NNE of Indio, CA | 10:23 |
+| 🟢 1.3 | 11 km WSW of Stanton, Texas | 12:41 |
+| 🟢 0.5 | 86 km NW of Karluk, Alaska | 12:40 |
+| 🟢 1.5 | 26 km SSW of Central, Alaska | 12:24 |
+| 🟢 2.2 | 37 km ENE of Pedro Bay, Alaska | 12:11 |
+| 🟢 1.1 | 4 km W of Borrego Springs, CA | 12:05 |
+| 🟢 0.9 | 40 km SSW of North Pole, Alaska | 11:58 |
+| 🔴 5.3 | 110 km S of Akureyri, Iceland | 11:54 |
+| 🟢 0.5 | 7 km W of Cobb, CA | 11:48 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
