@@ -2,16 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2031%20Jan%202026%2009:27:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-169ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2031%20Jan%202026%2010:25:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-258ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 7 km SSW of Independence, CA | 09:06 |
-| 🟢 0.9 | 2 km NNW of Banning, CA | 08:53 |
-| 🟢 1.3 | 11 km NE of Coalinga, CA | 08:50 |
-| 🟢 0.8 | 15 km W of Johannesburg, CA | 08:45 |
-| 🟢 0.7 | 12 km NNE of Ocotillo Wells, CA | 08:43 |
+| 🟢 0.6 | 2 km NNW of Banning, CA | 10:17 |
+| 🟢 1.3 | 12 km E of Desert Hot Springs, CA | 10:08 |
+| 🟢 0.8 | 3 km NNW of The Geysers, CA | 09:59 |
+| 🟠 4.5 | 9 km NE of San Pedro Huamelula, Mexico | 09:58 |
+| 🟢 1.3 | 31 km SSW of Dry Creek, Alaska | 09:56 |
+| 🟢 0.2 | 6 km WNW of Cobb, CA | 09:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
