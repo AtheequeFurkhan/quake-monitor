@@ -2,23 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2031%20Jan%202026%2022:22:22%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-218ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2031%20Jan%202026%2023:22:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-501ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 20 km SSE of Pāhala, Hawaii | 22:06 |
-| 🟢 1.4 | 82 km ENE of McCarthy, Alaska | 22:03 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 22:02 |
-| 🟢 0.8 | 26 km WNW of Ocotillo, CA | 22:00 |
-| 🟢 2.6 | 2 km SW of Campo Rico, Puerto Rico | 21:48 |
-| 🟢 1.3 | 22 km NNW of Midland, Texas | 21:46 |
-| 🟢 2.5 | 10 km ENE of Calumet, Oklahoma | 21:43 |
-| 🟢 2.8 | 21 km NNW of Midland, Texas | 21:40 |
-| 🟢 1.8 | 14 km ESE of Pāhala, Hawaii | 21:37 |
-| 🟢 0.7 | 13 km ENE of Ridgecrest, CA | 21:32 |
-| 🟢 0.9 | 26 km WNW of Ocotillo, CA | 21:29 |
-| 🟠 4.7 | 251 km WSW of Tual, Indonesia | 21:21 |
+| 🟠 3.5 | 47 km SW of Harding-Birch Lakes, Alaska | 23:15 |
+| 🟢 1.1 | 82 km NNW of Karluk, Alaska | 23:14 |
+| 🟢 1.8 | 5 km NNW of Mulhall, Oklahoma | 23:13 |
+| 🟢 1.4 | 31 km SW of Cantwell, Alaska | 23:11 |
+| 🟢 1.1 | 7 km NW of The Geysers, CA | 22:36 |
+| 🟢 0.5 | 17 km W of Searles Valley, CA | 22:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
