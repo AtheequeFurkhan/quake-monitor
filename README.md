@@ -2,21 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2030%20Jan%202026%2023:25:22%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-187ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2031%20Jan%202026%2001:56:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-395ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 82 km NE of Tonopah, Nevada | 23:15 |
-| 🟢 1.5 | 18 km NNE of Indio, CA | 23:15 |
-| 🟢 1.5 | 10 km WSW of Stanton, Texas | 23:14 |
-| 🟢 1.9 | 9 km ENE of Gilroy, CA | 23:13 |
-| 🟠 4.9 | 35 km N of Lahat, Indonesia | 23:03 |
-| 🟢 0.7 | 2 km NNW of The Geysers, CA | 22:46 |
-| 🟢 1.2 | 2 km NNW of The Geysers, CA | 22:41 |
-| 🟢 2.1 | 36 km W of Karluk, Alaska | 22:34 |
-| 🟢 2.5 | 43 km SE of Denali National Park, Alaska | 22:32 |
-| 🟢 1.9 | 8 km E of Pearsall, Texas | 22:30 |
+| 🟢 0.4 | 8 km SSW of Idyllwild, CA | 01:48 |
+| 🟢 1.6 | 15 km ENE of Falls City, Texas | 01:34 |
+| 🟢 1.9 | 60 km N of Karluk, Alaska | 01:29 |
+| 🟢 2.4 | 38 km W of Petrolia, CA | 01:28 |
+| 🟢 2.6 | 10 km WSW of Stanton, Texas | 01:27 |
+| 🟢 0.9 | 9 km WNW of The Geysers, CA | 01:23 |
+| 🟢 0.6 | 85 km NNW of Karluk, Alaska | 01:15 |
+| 🟠 3.5 | 103 km SSE of Old Harbor, Alaska | 01:11 |
+| 🟠 4.9 | 50 km SSE of San Juan, Peru | 01:09 |
+| 🟢 2.2 | 5 km SE of San Ramon, CA | 01:06 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
