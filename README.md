@@ -2,16 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2031%20Jan%202026%2021:21:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-181ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2031%20Jan%202026%2022:22:22%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-218ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 6 km ESE of San Miguel, CA | 21:14 |
-| 🟢 0.8 | 3 km NW of The Geysers, CA | 21:13 |
-| 🟢 2.3 | 93 km ESE of Ruby, Alaska | 21:02 |
-| 🟢 0.5 | 9 km NW of The Geysers, CA | 21:00 |
-| 🟢 0.8 | 10 km NW of The Geysers, CA | 20:28 |
+| 🟢 1.8 | 20 km SSE of Pāhala, Hawaii | 22:06 |
+| 🟢 1.4 | 82 km ENE of McCarthy, Alaska | 22:03 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 22:02 |
+| 🟢 0.8 | 26 km WNW of Ocotillo, CA | 22:00 |
+| 🟢 2.6 | 2 km SW of Campo Rico, Puerto Rico | 21:48 |
+| 🟢 1.3 | 22 km NNW of Midland, Texas | 21:46 |
+| 🟢 2.5 | 10 km ENE of Calumet, Oklahoma | 21:43 |
+| 🟢 2.8 | 21 km NNW of Midland, Texas | 21:40 |
+| 🟢 1.8 | 14 km ESE of Pāhala, Hawaii | 21:37 |
+| 🟢 0.7 | 13 km ENE of Ridgecrest, CA | 21:32 |
+| 🟢 0.9 | 26 km WNW of Ocotillo, CA | 21:29 |
+| 🟠 4.7 | 251 km WSW of Tual, Indonesia | 21:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
