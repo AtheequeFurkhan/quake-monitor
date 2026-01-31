@@ -2,16 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2031%20Jan%202026%2005:38:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-274ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2031%20Jan%202026%2006:39:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-382ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 2 km NE of The Geysers, CA | 05:33 |
-| 🟢 0.2 | 7 km WNW of Cobb, CA | 05:26 |
-| 🟢 2.4 | 14 km NNE of Mineral, CA | 05:05 |
-| 🟢 1.6 | 10 km ENE of Goldfield, Nevada | 04:47 |
-| 🟢 0.6 | 24 km ESE of Anza, CA | 04:38 |
+| 🟢 1.1 | 3 km SSW of Redlands, CA | 06:27 |
+| 🟢 1.1 | 16 km ESE of Anza, CA | 06:25 |
+| 🟢 3.0 | 26 km WNW of Petersville, Alaska | 06:23 |
+| 🟠 5.0 | South Sandwich Islands region | 06:21 |
+| 🟢 0.7 | 5 km WNW of Cobb, CA | 06:13 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 06:12 |
+| 🟢 1.1 | 16 km NE of Coso Junction, CA | 06:09 |
+| 🟢 1.1 | 3 km WNW of Anderson Springs, CA | 05:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
