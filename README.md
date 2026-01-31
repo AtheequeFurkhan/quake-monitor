@@ -2,21 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2031%20Jan%202026%2001:56:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-395ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2031%20Jan%202026%2004:07:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-265ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.4 | 8 km SSW of Idyllwild, CA | 01:48 |
-| 🟢 1.6 | 15 km ENE of Falls City, Texas | 01:34 |
-| 🟢 1.9 | 60 km N of Karluk, Alaska | 01:29 |
-| 🟢 2.4 | 38 km W of Petrolia, CA | 01:28 |
-| 🟢 2.6 | 10 km WSW of Stanton, Texas | 01:27 |
-| 🟢 0.9 | 9 km WNW of The Geysers, CA | 01:23 |
-| 🟢 0.6 | 85 km NNW of Karluk, Alaska | 01:15 |
-| 🟠 3.5 | 103 km SSE of Old Harbor, Alaska | 01:11 |
-| 🟠 4.9 | 50 km SSE of San Juan, Peru | 01:09 |
-| 🟢 2.2 | 5 km SE of San Ramon, CA | 01:06 |
+| 🟢 0.3 | 2 km NNE of The Geysers, CA | 03:57 |
+| 🟢 2.4 | 62 km E of Pedro Bay, Alaska | 03:55 |
+| 🟢 1.5 | 19 km NNE of Indio, CA | 03:38 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 03:36 |
+| 🟢 0.8 | 16 km ESE of Arvin, CA | 03:17 |
+| 🟢 1.2 | 10 km SE of Winchester, CA | 03:12 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
