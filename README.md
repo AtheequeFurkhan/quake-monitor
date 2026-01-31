@@ -2,22 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2031%20Jan%202026%2004:07:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-265ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2031%20Jan%202026%2005:38:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-274ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.3 | 2 km NNE of The Geysers, CA | 03:57 |
-| 🟢 2.4 | 62 km E of Pedro Bay, Alaska | 03:55 |
-| 🟢 1.5 | 19 km NNE of Indio, CA | 03:38 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 03:36 |
-| 🟢 0.8 | 16 km ESE of Arvin, CA | 03:17 |
-| 🟢 1.2 | 10 km SE of Winchester, CA | 03:12 |
+| 🟢 1.5 | 2 km NE of The Geysers, CA | 05:33 |
+| 🟢 0.2 | 7 km WNW of Cobb, CA | 05:26 |
+| 🟢 2.4 | 14 km NNE of Mineral, CA | 05:05 |
+| 🟢 1.6 | 10 km ENE of Goldfield, Nevada | 04:47 |
+| 🟢 0.6 | 24 km ESE of Anza, CA | 04:38 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
-- ⛈️ **Severe Storms**: [Tropical Cyclone Fytia](https://www.metoc.navy.mil/jtwc/products/sh1926.tcw) (Jan 30)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Fytia](https://www.metoc.navy.mil/jtwc/products/sh1926.tcw) (Jan 31)
 - 🔥 **Wildfires**: [540 RX Prescribed Fire, Cleburne, Alabama](https://irwin.doi.gov/observer/incidents/5dd53b40-3336-4412-98a4-0f704a89a9f9) (Jan 29)
 - 🔥 **Wildfires**: [LXR Northwest Rx 0129 Prescribed Fire, Palm Beach, Florida](https://irwin.doi.gov/observer/incidents/edecd30c-a91f-40cd-bfd2-b85e58cbc591) (Jan 29)
 - 🔥 **Wildfires**: [APQ Area NC Rx 0128 Prescribed Fire, Polk, Florida](https://irwin.doi.gov/observer/incidents/8e469c89-b8dc-4c4d-aac1-e67d6ec1ac81) (Jan 28)
