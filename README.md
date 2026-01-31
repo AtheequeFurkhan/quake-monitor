@@ -2,19 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2031%20Jan%202026%2012:47:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-272ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2031%20Jan%202026%2013:41:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-982ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 11 km WSW of Stanton, Texas | 12:41 |
-| 🟢 0.5 | 86 km NW of Karluk, Alaska | 12:40 |
-| 🟢 1.5 | 26 km SSW of Central, Alaska | 12:24 |
-| 🟢 2.2 | 37 km ENE of Pedro Bay, Alaska | 12:11 |
-| 🟢 1.1 | 4 km W of Borrego Springs, CA | 12:05 |
-| 🟢 0.9 | 40 km SSW of North Pole, Alaska | 11:58 |
-| 🔴 5.3 | 110 km S of Akureyri, Iceland | 11:54 |
-| 🟢 0.5 | 7 km W of Cobb, CA | 11:48 |
+| 🟢 0.8 | 24 km ESE of Anza, CA | 13:21 |
+| 🟢 0.7 | 28 km N of Four Mile Road, Alaska | 13:11 |
+| 🟢 0.8 | 87 km NW of Karluk, Alaska | 13:05 |
+| 🟠 4.5 | 167 km SE of Vilyuchinsk, Russia | 12:45 |
+| 🟢 1.4 | 11 km WSW of Stanton, Texas | 12:41 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
