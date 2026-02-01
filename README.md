@@ -2,17 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2001%20Feb%202026%2021:23:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-140ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2001%20Feb%202026%2022:24:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-358ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 3 km E of San Jacinto, CA | 21:18 |
-| 🟢 1.1 | 55 km WNW of Toyah, Texas | 21:12 |
-| 🟢 1.0 | 95 km NNW of Karluk, Alaska | 20:52 |
-| 🟢 0.7 | 2 km NNW of Badger, Alaska | 20:52 |
-| 🟠 3.1 | 68 km N of Hatillo, Puerto Rico | 20:49 |
-| 🟢 0.7 | 7 km SSW of Redlands, CA | 20:24 |
+| 🟢 1.2 | 24 km W of Garden City, Texas | 22:20 |
+| 🟢 1.6 | 9 km SSE of Girdwood, Alaska | 22:18 |
+| 🟢 1.2 | 14 km NE of Ridgecrest, CA | 22:17 |
+| 🟢 1.1 | 20 km NNE of Indio, CA | 22:15 |
+| 🟢 1.7 | 56 km N of Karluk, Alaska | 22:13 |
+| 🟢 1.2 | 5 km E of Badger, Alaska | 22:09 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 21:31 |
+| 🟢 1.7 | 25 km W of Denali Park, Alaska | 21:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
