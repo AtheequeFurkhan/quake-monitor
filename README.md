@@ -2,17 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2001%20Feb%202026%2015:24:38%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-307ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2001%20Feb%202026%2016:29:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-183ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 20 km NNE of Indio, CA | 15:20 |
-| 🟢 2.1 | 43 km WNW of Beluga, Alaska | 15:06 |
-| 🟢 0.7 | 19 km NNE of Indio, CA | 14:45 |
-| 🟢 1.8 | 5 km SSW of Gilroy, CA | 14:37 |
-| 🟠 3.5 | 92 km NNE of Yakutat, Alaska | 14:28 |
-| 🟢 2.8 | 6 km SSW of Gilroy, CA | 14:27 |
+| 🟢 2.2 | 6 km ESE of Pearsall, Texas | 16:20 |
+| 🟢 0.6 | 24 km N of Borrego Springs, CA | 16:14 |
+| 🟢 2.0 | 6 km E of Pearsall, Texas | 16:13 |
+| 🟢 1.7 | 72 km NNE of Petersville, Alaska | 16:10 |
+| 🟢 0.5 | 17 km NNW of Borrego Springs, CA | 16:10 |
+| 🟢 1.0 | 32 km W of Ester, Alaska | 16:07 |
+| 🟢 0.7 | 15 km NNE of Ridgecrest, CA | 15:54 |
+| 🟢 1.0 | 24 km N of Borrego Springs, CA | 15:53 |
+| 🟠 4.5 | 97 km W of San Antonio de los Cobres, Argentina | 15:43 |
+| 🟢 1.7 | 15 km ENE of Brooktrails, CA | 15:35 |
+| 🟢 1.4 | 9 km ENE of Gilroy, CA | 15:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
