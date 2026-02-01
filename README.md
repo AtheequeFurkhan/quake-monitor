@@ -2,19 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2001%20Feb%202026%2022:24:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-358ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2001%20Feb%202026%2023:24:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-380ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 24 km W of Garden City, Texas | 22:20 |
-| 🟢 1.6 | 9 km SSE of Girdwood, Alaska | 22:18 |
-| 🟢 1.2 | 14 km NE of Ridgecrest, CA | 22:17 |
-| 🟢 1.1 | 20 km NNE of Indio, CA | 22:15 |
-| 🟢 1.7 | 56 km N of Karluk, Alaska | 22:13 |
-| 🟢 1.2 | 5 km E of Badger, Alaska | 22:09 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 21:31 |
-| 🟢 1.7 | 25 km W of Denali Park, Alaska | 21:27 |
+| 🟢 0.7 | 5 km NW of The Geysers, CA | 23:17 |
+| 🟢 2.0 | 31 km W of Empire, Nevada | 23:06 |
+| 🟢 0.8 | 5 km WSW of Yucaipa, CA | 23:04 |
+| 🟢 1.8 | 25 km W of Garden City, Texas | 23:00 |
+| 🟢 0.8 | 2 km NE of The Geysers, CA | 22:44 |
+| 🟢 2.1 | 17 km NW of Wink, Texas | 22:42 |
+| 🟢 2.6 | 25 km W of Garden City, Texas | 22:41 |
+| 🟢 0.3 | 8 km NW of The Geysers, CA | 22:26 |
+| 🟢 1.0 | 10 km WSW of Searles Valley, CA | 22:25 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
