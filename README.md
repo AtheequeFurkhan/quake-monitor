@@ -2,20 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2001%20Feb%202026%2005:00:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-117ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2001%20Feb%202026%2006:49:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-768ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 3 km SSE of Loma Linda, CA | 04:32 |
-| 🟢 1.8 | 18 km S of Tatitlek, Alaska | 04:31 |
-| 🟢 1.3 | 10 km SSW of San Lucas, CA | 04:24 |
-| 🟢 0.4 | 4 km E of Palomar Observatory, CA | 04:21 |
+| 🟢 1.7 | 12 km S of Skwentna, Alaska | 06:31 |
+| 🟢 1.2 | 20 km WSW of Ocotillo, CA | 06:18 |
+| 🟢 0.9 | 10 km WSW of Pine Valley, CA | 06:15 |
+| 🟢 1.7 | 8 km NW of Big Lake, Alaska | 06:12 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
-- ⛈️ **Severe Storms**: [Tropical Cyclone Fytia](https://www.metoc.navy.mil/jtwc/products/sh1926.tcw) (Jan 31)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Fytia](https://www.metoc.navy.mil/jtwc/products/sh1926.tcw) (Feb 01)
 - 🔥 **Wildfires**: [540 RX Prescribed Fire, Cleburne, Alabama](https://irwin.doi.gov/observer/incidents/5dd53b40-3336-4412-98a4-0f704a89a9f9) (Jan 29)
 - 🔥 **Wildfires**: [LXR Northwest Rx 0129 Prescribed Fire, Palm Beach, Florida](https://irwin.doi.gov/observer/incidents/edecd30c-a91f-40cd-bfd2-b85e58cbc591) (Jan 29)
 - 🔥 **Wildfires**: [APQ Area NC Rx 0128 Prescribed Fire, Polk, Florida](https://irwin.doi.gov/observer/incidents/8e469c89-b8dc-4c4d-aac1-e67d6ec1ac81) (Jan 28)
