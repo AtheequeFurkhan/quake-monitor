@@ -2,17 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2001%20Feb%202026%2007:36:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-141ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2001%20Feb%202026%2008:32:38%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-258ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 12 km SSW of Salton City, CA | 07:31 |
-| 🟢 1.4 | 1 km ESE of Beaumont, CA | 07:22 |
-| 🟢 0.8 | 1 km ESE of Beaumont, CA | 07:22 |
-| 🟢 2.5 | 47 km SW of Harding-Birch Lakes, Alaska | 06:50 |
-| 🟢 1.4 | 54 km N of Petersville, Alaska | 06:48 |
-| 🟢 1.6 | 20 km NNW of Stanton, Texas | 06:46 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 08:23 |
+| 🟢 1.8 | 68 km ESE of Cantwell, Alaska | 08:20 |
+| 🟢 0.6 | 8 km NW of The Geysers, CA | 08:07 |
+| 🟢 1.5 | 10 km WSW of Stanton, Texas | 08:01 |
+| 🟢 1.2 | 21 km NNE of Indio, CA | 08:01 |
+| 🟢 1.3 | 35 km WSW of Ackerly, Texas | 07:59 |
+| 🟢 1.8 | 8 km ESE of Pearsall, Texas | 07:51 |
+| 🟢 0.6 | 10 km SE of Winchester, CA | 07:42 |
+| 🟢 1.0 | 33 km WSW of Cantwell, Alaska | 07:42 |
+| 🟢 0.8 | 10 km WSW of Pine Valley, CA | 07:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
