@@ -2,22 +2,14 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2001%20Feb%202026%2016:29:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-183ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2001%20Feb%202026%2017:24:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-295ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 6 km ESE of Pearsall, Texas | 16:20 |
-| 🟢 0.6 | 24 km N of Borrego Springs, CA | 16:14 |
-| 🟢 2.0 | 6 km E of Pearsall, Texas | 16:13 |
-| 🟢 1.7 | 72 km NNE of Petersville, Alaska | 16:10 |
-| 🟢 0.5 | 17 km NNW of Borrego Springs, CA | 16:10 |
-| 🟢 1.0 | 32 km W of Ester, Alaska | 16:07 |
-| 🟢 0.7 | 15 km NNE of Ridgecrest, CA | 15:54 |
-| 🟢 1.0 | 24 km N of Borrego Springs, CA | 15:53 |
-| 🟠 4.5 | 97 km W of San Antonio de los Cobres, Argentina | 15:43 |
-| 🟢 1.7 | 15 km ENE of Brooktrails, CA | 15:35 |
-| 🟢 1.4 | 9 km ENE of Gilroy, CA | 15:31 |
+| 🟢 0.5 | 5 km NW of The Geysers, CA | 17:07 |
+| 🟢 2.0 | 55 km S of Whites City, New Mexico | 17:04 |
+| 🟢 1.8 | 6 km E of Pearsall, Texas | 16:27 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
