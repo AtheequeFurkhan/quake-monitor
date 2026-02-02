@@ -2,23 +2,37 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2014:05:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-325ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2015:37:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-373ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 108 km S of McCarthy, Alaska | 14:01 |
-| 🟢 1.3 | 6 km NW of The Geysers, CA | 13:43 |
-| 🟠 4.4 | 15 km NNE of Los Andes, Chile | 13:40 |
-| 🟢 1.2 | 17 km S of Tres Pinos, CA | 13:40 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 13:38 |
-| 🟢 1.8 | 19 km SSE of Manley Hot Springs, Alaska | 13:30 |
-| 🟢 1.0 | 27 km SSW of Ocotillo Wells, CA | 13:30 |
-| 🟢 0.7 | 4 km W of Borrego Springs, CA | 13:28 |
-| 🟢 2.6 | 19 km S of Manley Hot Springs, Alaska | 13:28 |
-| 🟢 1.5 | 44 km WNW of Tatitlek, Alaska | 13:27 |
-| 🟢 1.8 | 40 km SE of Goldfield, Nevada | 13:23 |
-| 🟢 0.8 | 94 km NNW of Karluk, Alaska | 13:19 |
+| 🟢 2.5 | 4 km SE of San Ramon, CA | 15:34 |
+| 🟢 2.6 | 4 km SE of San Ramon, CA | 15:32 |
+| 🟢 2.0 | 5 km SE of San Ramon, CA | 15:32 |
+| 🟢 1.8 | 4 km SE of San Ramon, CA | 15:31 |
+| 🟢 2.5 | 67 km E of Port Alsworth, Alaska | 15:31 |
+| 🟠 3.8 | 5 km SE of San Ramon, CA | 15:27 |
+| 🟢 2.1 | 4 km SE of San Ramon, CA | 15:26 |
+| 🟢 1.8 | 4 km SE of San Ramon, CA | 15:26 |
+| 🟠 3.0 | 4 km SE of San Ramon, CA | 15:23 |
+| 🟢 0.6 | 20 km N of Borrego Springs, CA | 15:20 |
+| 🟢 2.0 | 4 km ESE of San Ramon, CA | 15:14 |
+| 🟢 1.5 | 55 km S of Glacier View, Alaska | 15:10 |
+| 🟢 2.3 | 4 km SE of San Ramon, CA | 15:09 |
+| 🟢 2.8 | 4 km SE of San Ramon, CA | 15:07 |
+| 🟠 3.0 | 4 km ESE of San Ramon, CA | 15:06 |
+| 🟢 2.3 | 5 km N of Dublin, CA | 15:04 |
+| 🟢 2.2 | 31 km E of Skwentna, Alaska | 15:04 |
+| 🟢 2.7 | 3 km ESE of San Ramon, CA | 15:03 |
+| 🟠 4.2 | 4 km ESE of San Ramon, CA | 15:01 |
+| 🟢 2.1 | 2 km ENE of Magas Arriba, Puerto Rico | 15:00 |
+| 🟢 2.2 | 4 km SE of San Ramon, CA | 15:00 |
+| 🟠 3.1 | 13 km NW of Whites City, New Mexico | 15:00 |
+| 🟢 0.8 | 20 km NNE of Indio, CA | 14:58 |
+| 🟢 2.5 | 4 km ESE of San Ramon, CA | 14:56 |
+| 🟢 2.5 | 4 km ESE of San Ramon, CA | 14:48 |
+| 🟢 2.0 | 4 km ESE of San Ramon, CA | 14:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
