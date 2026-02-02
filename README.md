@@ -2,16 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2012:59:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-423ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2014:05:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-325ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.6 | 13 km NE of Ridgecrest, CA | 12:42 |
-| 🟢 1.2 | 21 km WSW of Gustine, CA | 12:42 |
-| 🟢 1.6 | 24 km W of Garden City, Texas | 12:28 |
-| 🟢 1.7 | 18 km NW of Pinnacles, CA | 12:15 |
-| 🟢 2.6 | 17 km S of Tres Pinos, CA | 12:13 |
+| 🟢 1.2 | 108 km S of McCarthy, Alaska | 14:01 |
+| 🟢 1.3 | 6 km NW of The Geysers, CA | 13:43 |
+| 🟠 4.4 | 15 km NNE of Los Andes, Chile | 13:40 |
+| 🟢 1.2 | 17 km S of Tres Pinos, CA | 13:40 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 13:38 |
+| 🟢 1.8 | 19 km SSE of Manley Hot Springs, Alaska | 13:30 |
+| 🟢 1.0 | 27 km SSW of Ocotillo Wells, CA | 13:30 |
+| 🟢 0.7 | 4 km W of Borrego Springs, CA | 13:28 |
+| 🟢 2.6 | 19 km S of Manley Hot Springs, Alaska | 13:28 |
+| 🟢 1.5 | 44 km WNW of Tatitlek, Alaska | 13:27 |
+| 🟢 1.8 | 40 km SE of Goldfield, Nevada | 13:23 |
+| 🟢 0.8 | 94 km NNW of Karluk, Alaska | 13:19 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
