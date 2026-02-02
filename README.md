@@ -2,20 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2001%20Feb%202026%2023:24:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-380ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2002:08:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-257ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 5 km NW of The Geysers, CA | 23:17 |
-| 🟢 2.0 | 31 km W of Empire, Nevada | 23:06 |
-| 🟢 0.8 | 5 km WSW of Yucaipa, CA | 23:04 |
-| 🟢 1.8 | 25 km W of Garden City, Texas | 23:00 |
-| 🟢 0.8 | 2 km NE of The Geysers, CA | 22:44 |
-| 🟢 2.1 | 17 km NW of Wink, Texas | 22:42 |
-| 🟢 2.6 | 25 km W of Garden City, Texas | 22:41 |
-| 🟢 0.3 | 8 km NW of The Geysers, CA | 22:26 |
-| 🟢 1.0 | 10 km WSW of Searles Valley, CA | 22:25 |
+| 🟢 1.3 | 86 km NW of Karluk, Alaska | 02:00 |
+| 🟢 0.7 | 5 km WNW of Cobb, CA | 01:39 |
+| 🟢 1.8 | 11 km SSW of Malibu Beach, CA | 01:18 |
+| 🟢 1.4 | 11 km WSW of Forsan, Texas | 01:10 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
