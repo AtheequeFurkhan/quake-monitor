@@ -2,23 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2017:37:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-473ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2018:43:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-229ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 8 km ESE of Atascadero, CA | 17:34 |
-| 🟢 2.5 | 3 km S of Guánica, Puerto Rico | 17:26 |
-| 🟢 1.7 | 55 km NW of Toyah, Texas | 17:19 |
-| 🟢 2.5 | 4 km ESE of San Ramon, CA | 17:03 |
-| 🟢 0.8 | 6 km ESE of Mammoth Lakes, CA | 17:00 |
-| 🟢 1.2 | 13 km E of Mammoth Lakes, CA | 16:51 |
-| 🟢 1.8 | 17 km S of Tres Pinos, CA | 16:50 |
-| 🟢 1.0 | 28 km SSW of Ocotillo Wells, CA | 16:49 |
-| 🟢 2.9 | 11 km NNW of Hays, Kansas | 16:48 |
-| 🟢 2.5 | 4 km ESE of San Ramon, CA | 16:44 |
-| 🟢 1.9 | 10 km NE of Coso Junction, CA | 16:42 |
-| 🟢 2.2 | 4 km ESE of San Ramon, CA | 16:38 |
+| 🟢 2.0 | 5 km N of Dublin, CA | 18:32 |
+| 🟢 1.2 | 17 km S of Tres Pinos, CA | 18:30 |
+| 🟢 1.8 | 4 km SE of San Ramon, CA | 18:25 |
+| 🟢 1.2 | 37 km NW of Stanton, Texas | 18:20 |
+| 🟢 0.6 | 22 km SSW of Mammoth, Wyoming | 18:19 |
+| 🟢 1.7 | 4 km SE of San Ramon, CA | 18:15 |
+| 🟢 1.3 | 5 km WNW of The Geysers, CA | 18:13 |
+| 🟢 2.2 | 43 km SE of Denali National Park, Alaska | 18:13 |
+| 🟢 1.4 | 3 km NE of Anderson Springs, CA | 18:11 |
+| 🟢 1.1 | 9 km NE of Coso Junction, CA | 17:56 |
+| 🟢 1.8 | 9 km NE of Coso Junction, CA | 17:54 |
+| 🟢 2.7 | 17 km S of Tres Pinos, CA | 17:49 |
+| 🟢 1.1 | 10 km NW of The Geysers, CA | 17:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
