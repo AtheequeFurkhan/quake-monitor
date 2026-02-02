@@ -2,37 +2,28 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2015:37:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-373ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2016:40:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-469ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.5 | 4 km SE of San Ramon, CA | 15:34 |
-| 🟢 2.6 | 4 km SE of San Ramon, CA | 15:32 |
-| 🟢 2.0 | 5 km SE of San Ramon, CA | 15:32 |
-| 🟢 1.8 | 4 km SE of San Ramon, CA | 15:31 |
-| 🟢 2.5 | 67 km E of Port Alsworth, Alaska | 15:31 |
-| 🟠 3.8 | 5 km SE of San Ramon, CA | 15:27 |
-| 🟢 2.1 | 4 km SE of San Ramon, CA | 15:26 |
-| 🟢 1.8 | 4 km SE of San Ramon, CA | 15:26 |
-| 🟠 3.0 | 4 km SE of San Ramon, CA | 15:23 |
-| 🟢 0.6 | 20 km N of Borrego Springs, CA | 15:20 |
-| 🟢 2.0 | 4 km ESE of San Ramon, CA | 15:14 |
-| 🟢 1.5 | 55 km S of Glacier View, Alaska | 15:10 |
-| 🟢 2.3 | 4 km SE of San Ramon, CA | 15:09 |
-| 🟢 2.8 | 4 km SE of San Ramon, CA | 15:07 |
-| 🟠 3.0 | 4 km ESE of San Ramon, CA | 15:06 |
-| 🟢 2.3 | 5 km N of Dublin, CA | 15:04 |
-| 🟢 2.2 | 31 km E of Skwentna, Alaska | 15:04 |
-| 🟢 2.7 | 3 km ESE of San Ramon, CA | 15:03 |
-| 🟠 4.2 | 4 km ESE of San Ramon, CA | 15:01 |
-| 🟢 2.1 | 2 km ENE of Magas Arriba, Puerto Rico | 15:00 |
-| 🟢 2.2 | 4 km SE of San Ramon, CA | 15:00 |
-| 🟠 3.1 | 13 km NW of Whites City, New Mexico | 15:00 |
-| 🟢 0.8 | 20 km NNE of Indio, CA | 14:58 |
-| 🟢 2.5 | 4 km ESE of San Ramon, CA | 14:56 |
-| 🟢 2.5 | 4 km ESE of San Ramon, CA | 14:48 |
-| 🟢 2.0 | 4 km ESE of San Ramon, CA | 14:39 |
+| 🟢 2.2 | 4 km ESE of San Ramon, CA | 16:38 |
+| 🟢 1.1 | 10 km NW of The Geysers, CA | 16:35 |
+| 🟢 0.6 | 15 km E of Little Lake, CA | 16:31 |
+| 🟢 1.6 | 4 km ESE of San Ramon, CA | 16:25 |
+| 🟢 2.2 | 4 km SE of San Ramon, CA | 16:19 |
+| 🟢 1.4 | 69 km ENE of Susitna North, Alaska | 16:06 |
+| 🟢 1.1 | 10 km E of Fox, Alaska | 16:03 |
+| 🟢 1.9 | 28 km WSW of Westley, CA | 15:59 |
+| 🟢 1.9 | 5 km ESE of San Ramon, CA | 15:58 |
+| 🟢 2.8 | 4 km ESE of San Ramon, CA | 15:54 |
+| 🟢 2.1 | 6 km S of Leilani Estates, Hawaii | 15:50 |
+| 🟢 2.6 | 5 km SE of San Ramon, CA | 15:48 |
+| 🟢 1.1 | 16 km ESE of Julian, CA | 15:48 |
+| 🟢 2.8 | 4 km ESE of San Ramon, CA | 15:42 |
+| 🟢 1.1 | 20 km NNE of Indio, CA | 15:41 |
+| 🟢 2.5 | 4 km ESE of San Ramon, CA | 15:41 |
+| 🟢 2.2 | 4 km SE of San Ramon, CA | 15:40 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
