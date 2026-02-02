@@ -2,18 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2008:42:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-357ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2009:50:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-159ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 60 km S of Whites City, New Mexico | 08:28 |
-| 🟢 1.7 | 59 km S of Whites City, New Mexico | 08:27 |
-| 🔴 5.3 | 189 km W of Riverton, New Zealand | 08:15 |
-| 🟢 0.3 | 5 km WNW of Cobb, CA | 08:10 |
-| 🟢 0.8 | 18 km N of Indio, CA | 08:02 |
-| 🟠 3.5 | 43 km SE of Denali National Park, Alaska | 07:49 |
-| 🟢 1.3 | 24 km W of Garden City, Texas | 07:42 |
+| 🟢 0.7 | 8 km SSE of Palomar Observatory, CA | 09:43 |
+| 🟢 0.7 | 21 km ESE of Julian, CA | 09:39 |
+| 🟢 1.1 | 7 km S of Lytle Creek, CA | 09:27 |
+| 🟢 1.1 | 6 km NNE of Running Springs, CA | 09:07 |
+| 🟢 1.2 | 28 km NE of Four Mile Road, Alaska | 08:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
