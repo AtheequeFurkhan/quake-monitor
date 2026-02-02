@@ -2,27 +2,27 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2010:43:38%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-197ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2011:35:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-339ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 4 km E of North Pearsall, Texas | 10:38 |
-| 🟢 1.0 | 12 km E of Mammoth Lakes, CA | 10:29 |
-| 🟢 1.2 | 13 km E of Mammoth Lakes, CA | 10:28 |
-| 🟢 1.6 | 12 km E of Mammoth Lakes, CA | 10:25 |
-| 🟢 1.2 | 13 km E of Mammoth Lakes, CA | 10:25 |
-| 🟢 1.1 | 8 km NNW of Pinnacles, CA | 10:24 |
-| 🟢 1.0 | 20 km NNE of Indio, CA | 10:21 |
-| 🟢 1.2 | 12 km E of Mammoth Lakes, CA | 10:20 |
-| 🟢 1.4 | 12 km E of Mammoth Lakes, CA | 10:20 |
-| 🟢 1.9 | 12 km E of Mammoth Lakes, CA | 10:19 |
-| 🟢 0.9 | 11 km E of Mammoth Lakes, CA | 10:17 |
-| 🟢 2.4 | 12 km E of Mammoth Lakes, CA | 10:14 |
-| 🟢 1.2 | 13 km E of Mammoth Lakes, CA | 10:05 |
-| 🟢 1.7 | 33 km WSW of Empire, Nevada | 10:02 |
-| 🟢 0.6 | 17 km SSW of Oasis, CA | 09:58 |
-| 🟢 0.7 | 8 km SSE of Palomar Observatory, CA | 09:43 |
+| 🟢 2.1 | 49 km WNW of Beluga, Alaska | 11:28 |
+| 🟢 1.4 | 104 km S of McCarthy, Alaska | 11:07 |
+| 🟢 1.3 | 13 km E of Mammoth Lakes, CA | 11:02 |
+| 🟢 0.7 | 12 km E of Mammoth Lakes, CA | 11:01 |
+| 🟢 0.9 | 2 km NW of Baldwin Park, CA | 11:01 |
+| 🟢 0.9 | 13 km E of Mammoth Lakes, CA | 11:00 |
+| 🟢 1.2 | 13 km E of Mammoth Lakes, CA | 11:00 |
+| 🟢 1.4 | 13 km E of Mammoth Lakes, CA | 10:59 |
+| 🟢 2.4 | 10 km ENE of Independence, California | 10:59 |
+| 🟢 1.1 | 14 km E of Mammoth Lakes, CA | 10:51 |
+| 🟢 1.5 | 12 km E of Mammoth Lakes, CA | 10:49 |
+| 🟢 0.9 | 12 km E of Mammoth Lakes, CA | 10:47 |
+| 🟢 1.8 | 13 km E of Mammoth Lakes, CA | 10:46 |
+| 🟢 0.9 | 12 km E of Mammoth Lakes, CA | 10:41 |
+| 🟢 2.1 | 7 km E of Pearsall, Texas | 10:38 |
+| 🟠 3.4 | 79 km NE of Punta Cana, Dominican Republic | 10:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
