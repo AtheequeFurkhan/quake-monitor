@@ -2,38 +2,41 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2018:43:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-229ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2023:28:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-370ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 5 km N of Dublin, CA | 18:32 |
-| 🟢 1.2 | 17 km S of Tres Pinos, CA | 18:30 |
-| 🟢 1.8 | 4 km SE of San Ramon, CA | 18:25 |
-| 🟢 1.2 | 37 km NW of Stanton, Texas | 18:20 |
-| 🟢 0.6 | 22 km SSW of Mammoth, Wyoming | 18:19 |
-| 🟢 1.7 | 4 km SE of San Ramon, CA | 18:15 |
-| 🟢 1.3 | 5 km WNW of The Geysers, CA | 18:13 |
-| 🟢 2.2 | 43 km SE of Denali National Park, Alaska | 18:13 |
-| 🟢 1.4 | 3 km NE of Anderson Springs, CA | 18:11 |
-| 🟢 1.1 | 9 km NE of Coso Junction, CA | 17:56 |
-| 🟢 1.8 | 9 km NE of Coso Junction, CA | 17:54 |
-| 🟢 2.7 | 17 km S of Tres Pinos, CA | 17:49 |
-| 🟢 1.1 | 10 km NW of The Geysers, CA | 17:47 |
+| 🟢 1.0 | 9 km NW of The Geysers, CA | 23:21 |
+| 🟢 2.2 | 7 km S of Badger, Alaska | 23:17 |
+| 🟢 1.0 | 1 km NE of The Geysers, CA | 23:10 |
+| 🟢 1.8 | 4 km ESE of San Ramon, CA | 23:10 |
+| 🟢 2.2 | 4 km ESE of San Ramon, CA | 23:09 |
+| 🟢 2.4 | 5 km SE of San Ramon, CA | 23:08 |
+| 🟢 2.9 | 5 km SE of San Ramon, CA | 23:06 |
+| 🟢 1.9 | 87 km N of Yakutat, Alaska | 23:05 |
+| 🟢 3.0 | 4 km ESE of San Ramon, CA | 23:04 |
+| 🟢 1.8 | 44 km NW of Tatitlek, Alaska | 23:01 |
+| 🟠 3.1 | 4 km ESE of San Ramon, CA | 22:56 |
+| 🟢 1.7 | 44 km W of Balmorhea, Texas | 22:54 |
+| 🟢 0.7 | 4 km SW of Idyllwild, CA | 22:51 |
+| 🟢 1.5 | 5 km SE of San Ramon, CA | 22:47 |
+| 🟢 2.2 | 5 km SE of San Ramon, CA | 22:38 |
+| 🟢 0.7 | 7 km NW of The Geysers, CA | 22:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
-- ⛈️ **Severe Storms**: [Tropical Cyclone Fytia](https://www.metoc.navy.mil/jtwc/products/sh1926.tcw) (Feb 02)
-- 🔥 **Wildfires**: [540 RX Prescribed Fire, Cleburne, Alabama](https://irwin.doi.gov/observer/incidents/5dd53b40-3336-4412-98a4-0f704a89a9f9) (Jan 29)
-- 🔥 **Wildfires**: [LXR Northwest Rx 0129 Prescribed Fire, Palm Beach, Florida](https://irwin.doi.gov/observer/incidents/edecd30c-a91f-40cd-bfd2-b85e58cbc591) (Jan 29)
-- 🔥 **Wildfires**: [APQ Area NC Rx 0128 Prescribed Fire, Polk, Florida](https://irwin.doi.gov/observer/incidents/8e469c89-b8dc-4c4d-aac1-e67d6ec1ac81) (Jan 28)
-- 🔥 **Wildfires**: [CRO C-15 Pinecliff RX Prescribed Fire, Craven, North Carolina](https://irwin.doi.gov/observer/incidents/cbb57631-7da1-4e37-bede-e4c5d9b44fcb) (Jan 28)
-- 🔥 **Wildfires**: [ANF BU 47 Rx 0128 Prescribed Fire, Liberty, Florida](https://irwin.doi.gov/observer/incidents/a5e10f23-9159-43ec-a386-0b679356b992) (Jan 28)
-- ⛈️ **Severe Storms**: [Tropical Cyclone 18P](https://www.metoc.navy.mil/jtwc/products/sh1826.tcw) (Jan 29)
-- 🔥 **Wildfires**: [Gold Mine RX Prescribed Fire, Cleburne, Alabama](https://irwin.doi.gov/observer/incidents/40e3fc42-9925-4c8c-80d8-86261754e7a4) (Jan 27)
-- 🔥 **Wildfires**: [Rx Newton 0582 Prescribed Fire, Newton, Texas](https://irwin.doi.gov/observer/incidents/889ee85a-3417-4aec-9abd-8e3e5b116ad4) (Jan 27)
-- 🔥 **Wildfires**: [Rx Newton 0644 Prescribed Fire, Newton, Texas](https://irwin.doi.gov/observer/incidents/8686cf2c-6f16-48e1-9a0b-67efefeca27b) (Jan 27)
+- 🔥 **Wildfires**: [Straw Riddle RX Prescribed Fire, Winston, Alabama](https://irwin.doi.gov/observer/incidents/68e02cb2-1283-4fb3-bf72-200d6debccbb) (Feb 02)
+- 🔥 **Wildfires**: [Compartment 40A RX Prescribed Fire, Bibb, Alabama](https://irwin.doi.gov/observer/incidents/001a6dac-601f-4743-ab4e-82df07edc9f2) (Feb 02)
+- 🔥 **Wildfires**: [RX KIS BU 15 Prescribed Fire, Natchitoches, Louisiana](https://irwin.doi.gov/observer/incidents/5c675fb6-3b53-4669-9162-bcfd28a14cb7) (Feb 02)
+- 🔥 **Wildfires**: [What Happened Here North RX Prescribed Fire, Cleburne, Alabama](https://irwin.doi.gov/observer/incidents/d27ff4c8-f58f-4009-a292-30e7069be207) (Feb 01)
+- 🔥 **Wildfires**: [SHNF C-1/2 North RX Prescribed Fire, Montgomery, Texas](https://irwin.doi.gov/observer/incidents/813c5764-ab43-4352-ad98-74c1b4ab52e6) (Feb 01)
+- 🔥 **Wildfires**: [Bienville CPT 10 RX Prescribed Fire, Scott, Mississippi](https://irwin.doi.gov/observer/incidents/449f3014-e404-4fff-a056-0455ff571e69) (Feb 01)
+- 🔥 **Wildfires**: [Pete White East RX Prescribed Fire, Clay, Alabama](https://irwin.doi.gov/observer/incidents/ba6eef49-6938-47b5-b06d-11a02afce52f) (Feb 01)
+- 🔥 **Wildfires**: [Upper Shoal A RX Prescribed Fire, Cleburne, Alabama](https://irwin.doi.gov/observer/incidents/ac582fd8-ea0d-410f-b7c0-b4d5216da38d) (Feb 01)
+- 🔥 **Wildfires**: [Compartment 129A RX Prescribed Fire, Chilton, Alabama](https://irwin.doi.gov/observer/incidents/279b9790-183e-47d9-bc52-43aede480e3d) (Feb 01)
+- 🔥 **Wildfires**: [Breezy Wildfire, Perry, Mississippi](https://irwin.doi.gov/observer/incidents/e04ed839-784e-4684-97a9-cc1853c38d9d) (Jan 31)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
