@@ -2,17 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2006:05:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-189ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2007:49:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-192ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 6 km NW of Delta, B.C., MX | 05:57 |
-| 🟢 0.9 | 5 km NW of The Geysers, CA | 05:55 |
-| 🟢 0.8 | 3 km NW of Fontana, CA | 05:54 |
-| 🟢 0.7 | 14 km SW of Searles Valley, CA | 05:17 |
-| 🟢 1.7 | 36 km W of Empire, Nevada | 05:12 |
-| 🟢 2.0 | 9 km SSE of Talkeetna, Alaska | 05:12 |
+| 🟢 1.2 | 24 km W of Garden City, Texas | 07:42 |
+| 🟢 0.9 | 7 km ESE of Big Bear City, CA | 07:35 |
+| 🟢 1.4 | 22 km WNW of Garden City, Texas | 07:33 |
+| 🟢 0.5 | 8 km SSE of Palomar Observatory, CA | 07:28 |
+| 🟢 1.8 | 44 km NW of Tatitlek, Alaska | 07:17 |
+| 🟢 1.5 | 16 km NE of Pine Valley, CA | 06:57 |
+| 🟢 1.3 | 8 km NW of The Geysers, CA | 06:54 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
