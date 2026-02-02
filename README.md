@@ -2,27 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2011:35:19%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-339ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2012:59:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-423ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 49 km WNW of Beluga, Alaska | 11:28 |
-| 🟢 1.4 | 104 km S of McCarthy, Alaska | 11:07 |
-| 🟢 1.3 | 13 km E of Mammoth Lakes, CA | 11:02 |
-| 🟢 0.7 | 12 km E of Mammoth Lakes, CA | 11:01 |
-| 🟢 0.9 | 2 km NW of Baldwin Park, CA | 11:01 |
-| 🟢 0.9 | 13 km E of Mammoth Lakes, CA | 11:00 |
-| 🟢 1.2 | 13 km E of Mammoth Lakes, CA | 11:00 |
-| 🟢 1.4 | 13 km E of Mammoth Lakes, CA | 10:59 |
-| 🟢 2.4 | 10 km ENE of Independence, California | 10:59 |
-| 🟢 1.1 | 14 km E of Mammoth Lakes, CA | 10:51 |
-| 🟢 1.5 | 12 km E of Mammoth Lakes, CA | 10:49 |
-| 🟢 0.9 | 12 km E of Mammoth Lakes, CA | 10:47 |
-| 🟢 1.8 | 13 km E of Mammoth Lakes, CA | 10:46 |
-| 🟢 0.9 | 12 km E of Mammoth Lakes, CA | 10:41 |
-| 🟢 2.1 | 7 km E of Pearsall, Texas | 10:38 |
-| 🟠 3.4 | 79 km NE of Punta Cana, Dominican Republic | 10:35 |
+| 🟢 0.6 | 13 km NE of Ridgecrest, CA | 12:42 |
+| 🟢 1.2 | 21 km WSW of Gustine, CA | 12:42 |
+| 🟢 1.6 | 24 km W of Garden City, Texas | 12:28 |
+| 🟢 1.7 | 18 km NW of Pinnacles, CA | 12:15 |
+| 🟢 2.6 | 17 km S of Tres Pinos, CA | 12:13 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
