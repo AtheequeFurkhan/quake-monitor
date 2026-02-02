@@ -2,16 +2,27 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2009:50:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-159ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2010:43:38%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-197ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.1 | 4 km E of North Pearsall, Texas | 10:38 |
+| 🟢 1.0 | 12 km E of Mammoth Lakes, CA | 10:29 |
+| 🟢 1.2 | 13 km E of Mammoth Lakes, CA | 10:28 |
+| 🟢 1.6 | 12 km E of Mammoth Lakes, CA | 10:25 |
+| 🟢 1.2 | 13 km E of Mammoth Lakes, CA | 10:25 |
+| 🟢 1.1 | 8 km NNW of Pinnacles, CA | 10:24 |
+| 🟢 1.0 | 20 km NNE of Indio, CA | 10:21 |
+| 🟢 1.2 | 12 km E of Mammoth Lakes, CA | 10:20 |
+| 🟢 1.4 | 12 km E of Mammoth Lakes, CA | 10:20 |
+| 🟢 1.9 | 12 km E of Mammoth Lakes, CA | 10:19 |
+| 🟢 0.9 | 11 km E of Mammoth Lakes, CA | 10:17 |
+| 🟢 2.4 | 12 km E of Mammoth Lakes, CA | 10:14 |
+| 🟢 1.2 | 13 km E of Mammoth Lakes, CA | 10:05 |
+| 🟢 1.7 | 33 km WSW of Empire, Nevada | 10:02 |
+| 🟢 0.6 | 17 km SSW of Oasis, CA | 09:58 |
 | 🟢 0.7 | 8 km SSE of Palomar Observatory, CA | 09:43 |
-| 🟢 0.7 | 21 km ESE of Julian, CA | 09:39 |
-| 🟢 1.1 | 7 km S of Lytle Creek, CA | 09:27 |
-| 🟢 1.1 | 6 km NNE of Running Springs, CA | 09:07 |
-| 🟢 1.2 | 28 km NE of Four Mile Road, Alaska | 08:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
