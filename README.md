@@ -2,26 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2020:36:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-192ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2021:34:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-298ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 3 km NW of The Geysers, CA | 20:28 |
-| 🟢 1.0 | 3 km NW of The Geysers, CA | 20:24 |
-| 🟢 0.6 | 9 km NE of Borrego Springs, CA | 20:18 |
-| 🟢 1.4 | 64 km WNW of Toyah, Texas | 20:16 |
-| 🟢 2.1 | 16 km NNW of Meadow Lakes, Alaska | 20:13 |
-| 🟢 0.7 | 7 km W of Cobb, CA | 20:12 |
-| 🟢 1.2 | 7 km W of Cobb, CA | 20:10 |
-| 🟢 1.1 | 14 km ENE of Fox, Alaska | 20:06 |
-| 🟢 1.6 | 7 km SSW of Mojave, CA | 20:00 |
-| 🟢 2.0 | 32 km SSE of Goodsprings, Nevada | 19:49 |
-| 🟢 0.9 | 7 km NW of The Geysers, CA | 19:45 |
-| 🟢 1.2 | 19 km NNE of Indio, CA | 19:41 |
-| 🟢 1.7 | 25 km SSE of Denali National Park, Alaska | 19:39 |
-| 🟢 1.7 | 3 km NW of The Geysers, CA | 19:39 |
-| 🟢 2.0 | 57 km S of Whites City, New Mexico | 19:39 |
+| 🟢 1.5 | 22 km N of Ridgecrest, CA | 21:25 |
+| 🟢 1.4 | 4 km SE of Pinnacles, CA | 21:05 |
+| 🟢 1.0 | 7 km NW of The Geysers, CA | 20:50 |
+| 🟢 2.0 | 3 km E of San Ramon, CA | 20:49 |
+| 🟢 1.9 | 16 km ESE of Boonville, CA | 20:48 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
