@@ -2,16 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2021:34:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-298ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2022:29:24%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-192ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 22 km N of Ridgecrest, CA | 21:25 |
-| 🟢 1.4 | 4 km SE of Pinnacles, CA | 21:05 |
-| 🟢 1.0 | 7 km NW of The Geysers, CA | 20:50 |
-| 🟢 2.0 | 3 km E of San Ramon, CA | 20:49 |
-| 🟢 1.9 | 16 km ESE of Boonville, CA | 20:48 |
+| 🟢 1.2 | 21 km N of Indio, CA | 22:17 |
+| 🟢 2.8 | 2 km W of Parkfield, CA | 22:16 |
+| 🟢 2.0 | 2 km W of Parkfield, CA | 22:11 |
+| 🟢 1.8 | 7 km WSW of Henderson, Nevada | 22:10 |
+| 🟢 0.4 | 14 km NE of Ridgecrest, CA | 21:55 |
+| 🟢 1.5 | 4 km SE of San Ramon, CA | 21:54 |
+| 🟢 2.4 | 8 km E of Pearsall, Texas | 21:50 |
+| 🟢 2.5 | 4 km ESE of San Ramon, CA | 21:45 |
+| 🟢 1.4 | 9 km NE of San Diego Country Estates, CA | 21:44 |
+| 🟢 1.7 | 21 km NNE of Indio, CA | 21:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
