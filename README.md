@@ -2,18 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2016:53:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-433ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2017:52:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-3.707s-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 23 km NNW of Borrego Springs, CA | 16:29 |
-| 🟢 1.6 | 44 km NW of Toyah, Texas | 16:28 |
-| 🟢 1.4 | 10 km SE of Winchester, CA | 16:27 |
-| 🟢 2.3 | 3 km SSW of Centerville, South Carolina | 16:24 |
-| 🟢 2.3 | 53 km W of Happy Valley, Alaska | 16:19 |
-| 🟢 1.3 | 3 km SE of San Ramon, CA | 15:58 |
-| 🟢 2.1 | 7 km ESE of Pearsall, Texas | 15:58 |
+| 🟢 0.7 | 5 km WNW of Cobb, CA | 17:44 |
+| 🟢 1.6 | 6 km SE of Sunol, CA | 17:44 |
+| 🟢 2.1 | 25 km WSW of Petersville, Alaska | 17:30 |
+| 🟢 1.6 | 3 km NNW of Redway, CA | 17:30 |
+| 🟢 1.1 | 88 km SE of McCarthy, Alaska | 17:20 |
+| 🟢 1.7 | 2 km ESE of The Geysers, CA | 17:19 |
+| 🟢 1.5 | 3 km W of San Ramon, CA | 17:18 |
+| 🟢 0.6 | 24 km N of Borrego Springs, CA | 17:12 |
+| 🟢 2.6 | 64 km E of Port Alsworth, Alaska | 17:02 |
+| 🟢 2.8 | 4 km ESE of San Ramon, CA | 17:01 |
+| 🟢 0.8 | 23 km N of Borrego Springs, CA | 16:55 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
