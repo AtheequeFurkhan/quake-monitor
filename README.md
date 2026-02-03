@@ -2,23 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2002:06:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-302ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2004:46:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-312ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.7 | 30 km NW of Valdez, Alaska | 01:46 |
-| 🟢 1.1 | 3 km W of Cobb, CA | 01:46 |
-| 🟢 2.5 | 25 km E of Honaunau-Napoopoo, Hawaii | 01:44 |
-| 🟢 2.3 | 3 km ESE of San Ramon, CA | 01:42 |
-| 🟢 2.8 | 39 km ESE of Denali National Park, Alaska | 01:39 |
-| 🟢 1.5 | 4 km ESE of San Ramon, CA | 01:38 |
-| 🟢 1.2 | 56 km SSW of Whites City, New Mexico | 01:35 |
-| 🟢 1.4 | 19 km ENE of Minto, Alaska | 01:29 |
-| 🟢 0.9 | 7 km NNE of Pinnacles, CA | 01:27 |
-| 🟢 2.6 | 5 km SE of San Ramon, CA | 01:24 |
-| 🟢 1.1 | 4 km W of Cobb, CA | 01:20 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 01:09 |
+| 🟢 1.0 | 17 km ESE of Julian, CA | 04:43 |
+| 🟢 0.9 | 8 km NW of The Geysers, CA | 04:32 |
+| 🟠 3.4 | 5 km SE of San Ramon, CA | 04:30 |
+| 🟢 1.2 | 36 km WSW of Ackerly, Texas | 04:20 |
+| 🟢 1.8 | 12 km E of Ninilchik, Alaska | 04:19 |
+| 🟢 1.2 | 5 km NNW of Odessa, Texas | 03:58 |
+| 🟢 0.4 | 11 km NW of Anza, CA | 03:57 |
+| 🟢 1.6 | 4 km SE of San Ramon, CA | 03:49 |
+| 🟢 1.6 | 20 km E of Christine, Texas | 03:48 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
