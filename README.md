@@ -2,20 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2004:46:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-312ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2005:50:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-188ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 17 km ESE of Julian, CA | 04:43 |
-| 🟢 0.9 | 8 km NW of The Geysers, CA | 04:32 |
-| 🟠 3.4 | 5 km SE of San Ramon, CA | 04:30 |
-| 🟢 1.2 | 36 km WSW of Ackerly, Texas | 04:20 |
-| 🟢 1.8 | 12 km E of Ninilchik, Alaska | 04:19 |
-| 🟢 1.2 | 5 km NNW of Odessa, Texas | 03:58 |
-| 🟢 0.4 | 11 km NW of Anza, CA | 03:57 |
-| 🟢 1.6 | 4 km SE of San Ramon, CA | 03:49 |
-| 🟢 1.6 | 20 km E of Christine, Texas | 03:48 |
+| 🟢 1.6 | 5 km SE of San Ramon, CA | 05:34 |
+| 🟢 2.4 | 19 km N of Indio, CA | 05:22 |
+| 🟢 2.1 | 8 km NE of Alum Rock, CA | 05:06 |
+| 🟢 0.8 | 14 km W of Johannesburg, CA | 05:04 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
