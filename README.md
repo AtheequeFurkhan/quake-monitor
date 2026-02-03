@@ -2,20 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2006:51:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-184ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2007:42:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-342ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 0.9 | 2 km SE of Rodeo, CA | 07:37 |
+| 🟢 2.2 | 5 km NE of Calumet, Oklahoma | 07:34 |
+| 🟢 1.1 | 5 km NW of The Geysers, CA | 07:14 |
+| 🟢 1.0 | 2 km SSW of Cobb, CA | 07:08 |
+| 🟢 1.5 | 17 km WSW of Toms Place, CA | 07:07 |
+| 🟢 1.6 | 0 km E of Moose Creek, Alaska | 07:07 |
+| 🟢 1.0 | 7 km NE of Coso Junction, CA | 07:03 |
+| 🟢 0.7 | 4 km NW of The Geysers, CA | 06:58 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 06:52 |
+| 🟢 1.4 | 39 km WSW of Ludlow, CA | 06:50 |
 | 🟢 0.9 | 8 km NW of The Geysers, CA | 06:46 |
 | 🟢 1.5 | 16 km WSW of Delta, B.C., MX | 06:45 |
 | 🟢 1.2 | 3 km ENE of The Geysers, CA | 06:42 |
-| 🟢 0.9 | 11 km NNW of Big Bear Lake, CA | 06:40 |
-| 🟢 2.3 | 4 km ESE of San Ramon, CA | 06:34 |
-| 🟢 1.6 | 18 km WSW of Delta, B.C., MX | 06:19 |
-| 🟢 1.0 | 4 km NNW of The Geysers, CA | 06:08 |
-| 🟢 1.5 | 4 km ESE of San Ramon, CA | 06:06 |
-| 🟢 1.9 | 2 km N of Pinnacles, CA | 05:58 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
