@@ -2,27 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2002%20Feb%202026%2023:28:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-370ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2002:06:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-302ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 9 km NW of The Geysers, CA | 23:21 |
-| 🟢 2.2 | 7 km S of Badger, Alaska | 23:17 |
-| 🟢 1.0 | 1 km NE of The Geysers, CA | 23:10 |
-| 🟢 1.8 | 4 km ESE of San Ramon, CA | 23:10 |
-| 🟢 2.2 | 4 km ESE of San Ramon, CA | 23:09 |
-| 🟢 2.4 | 5 km SE of San Ramon, CA | 23:08 |
-| 🟢 2.9 | 5 km SE of San Ramon, CA | 23:06 |
-| 🟢 1.9 | 87 km N of Yakutat, Alaska | 23:05 |
-| 🟢 3.0 | 4 km ESE of San Ramon, CA | 23:04 |
-| 🟢 1.8 | 44 km NW of Tatitlek, Alaska | 23:01 |
-| 🟠 3.1 | 4 km ESE of San Ramon, CA | 22:56 |
-| 🟢 1.7 | 44 km W of Balmorhea, Texas | 22:54 |
-| 🟢 0.7 | 4 km SW of Idyllwild, CA | 22:51 |
-| 🟢 1.5 | 5 km SE of San Ramon, CA | 22:47 |
-| 🟢 2.2 | 5 km SE of San Ramon, CA | 22:38 |
-| 🟢 0.7 | 7 km NW of The Geysers, CA | 22:32 |
+| 🟢 2.7 | 30 km NW of Valdez, Alaska | 01:46 |
+| 🟢 1.1 | 3 km W of Cobb, CA | 01:46 |
+| 🟢 2.5 | 25 km E of Honaunau-Napoopoo, Hawaii | 01:44 |
+| 🟢 2.3 | 3 km ESE of San Ramon, CA | 01:42 |
+| 🟢 2.8 | 39 km ESE of Denali National Park, Alaska | 01:39 |
+| 🟢 1.5 | 4 km ESE of San Ramon, CA | 01:38 |
+| 🟢 1.2 | 56 km SSW of Whites City, New Mexico | 01:35 |
+| 🟢 1.4 | 19 km ENE of Minto, Alaska | 01:29 |
+| 🟢 0.9 | 7 km NNE of Pinnacles, CA | 01:27 |
+| 🟢 2.6 | 5 km SE of San Ramon, CA | 01:24 |
+| 🟢 1.1 | 4 km W of Cobb, CA | 01:20 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 01:09 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
