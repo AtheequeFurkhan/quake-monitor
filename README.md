@@ -2,15 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2018:56:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-222ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2019:45:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-291ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 8 km WNW of Cobb, CA | 18:35 |
-| 🟢 2.8 | 43 km ESE of Fox River, Alaska | 18:30 |
-| 🟢 0.4 | 8 km NW of The Geysers, CA | 18:25 |
-| 🟢 1.4 | 4 km SW of Bingham Canyon, Utah | 18:16 |
+| 🟢 1.4 | 20 km NNE of Indio, CA | 19:41 |
+| 🟢 1.7 | 25 km SSE of Denali National Park, Alaska | 19:39 |
+| 🟢 1.7 | 3 km NW of The Geysers, CA | 19:39 |
+| 🟢 2.0 | 57 km S of Whites City, New Mexico | 19:39 |
+| 🟢 1.1 | 21 km SW of La Quinta, CA | 19:33 |
+| 🟢 1.1 | 6 km NW of The Geysers, CA | 19:23 |
+| 🟢 1.6 | 5 km NW of Boron, CA | 19:23 |
+| 🟢 1.1 | 6 km WNW of The Geysers, CA | 19:23 |
+| 🟢 1.4 | 52 km SSE of Whites City, New Mexico | 19:19 |
+| 🟢 1.3 | 3 km W of Anderson Springs, CA | 19:08 |
+| 🟢 1.1 | 8 km WNW of Cobb, CA | 19:03 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
