@@ -2,20 +2,14 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2014:08:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-351ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2015:50:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-303ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.3 | 5 km NE of Big Lake, Alaska | 13:50 |
-| 🟢 1.4 | 12 km SE of Middletown, CA | 13:48 |
-| 🟢 0.9 | 6 km SSW of Calimesa, CA | 13:45 |
-| 🟢 0.3 | 6 km W of Cobb, CA | 13:24 |
-| 🟢 2.0 | 4 km WNW of Yaurel, Puerto Rico | 13:12 |
-| 🟢 1.3 | 38 km W of Mentone, Texas | 13:11 |
-| 🟢 2.1 | 38 km W of Mentone, Texas | 13:11 |
-| 🟢 2.0 | 38 km WSW of Mentone, Texas | 13:11 |
-| 🟢 2.1 | 37 km W of Mentone, Texas | 13:11 |
+| 🟢 1.2 | 13 km N of La Verne, CA | 15:13 |
+| 🟢 1.5 | 40 km NW of Toyah, Texas | 15:10 |
+| 🟢 0.9 | 4 km W of Cobb, CA | 15:05 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
