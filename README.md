@@ -2,15 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2005:50:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-188ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2006:51:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-184ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 5 km SE of San Ramon, CA | 05:34 |
-| 🟢 2.4 | 19 km N of Indio, CA | 05:22 |
-| 🟢 2.1 | 8 km NE of Alum Rock, CA | 05:06 |
-| 🟢 0.8 | 14 km W of Johannesburg, CA | 05:04 |
+| 🟢 0.9 | 8 km NW of The Geysers, CA | 06:46 |
+| 🟢 1.5 | 16 km WSW of Delta, B.C., MX | 06:45 |
+| 🟢 1.2 | 3 km ENE of The Geysers, CA | 06:42 |
+| 🟢 0.9 | 11 km NNW of Big Bear Lake, CA | 06:40 |
+| 🟢 2.3 | 4 km ESE of San Ramon, CA | 06:34 |
+| 🟢 1.6 | 18 km WSW of Delta, B.C., MX | 06:19 |
+| 🟢 1.0 | 4 km NNW of The Geysers, CA | 06:08 |
+| 🟢 1.5 | 4 km ESE of San Ramon, CA | 06:06 |
+| 🟢 1.9 | 2 km N of Pinnacles, CA | 05:58 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
