@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2018:53:14%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-212ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2019:39:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-380ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.1 | 9 km WNW of The Geysers, CA | 19:26 |
+| 🟢 1.5 | 4 km ESE of San Ramon, CA | 19:15 |
+| 🟢 1.2 | 2 km SSE of Loma Linda, CA | 19:05 |
+| 🟢 1.2 | 4 km W of Cobb, CA | 19:02 |
+| 🟢 1.3 | 8 km SW of Beaumont, CA | 18:57 |
+| 🟢 2.2 | 7 km S of Princeton, Canada | 18:51 |
 | 🟢 1.6 | 4 km SE of San Ramon, CA | 18:42 |
-| 🟢 1.5 | 13 km NNW of Sutcliffe, Nevada | 18:37 |
-| 🟢 2.4 | 12 km SSW of Johnsville, CA | 18:34 |
-| 🟢 1.8 | 4 km ESE of San Ramon, CA | 18:34 |
-| 🟢 1.6 | 28 km NNE of Nellis Air Force Base, Nevada | 18:30 |
-| 🔴 5.5 | 105 km NE of Tatsugō, Japan | 18:20 |
-| 🟢 1.7 | 18 km NNE of Indio, CA | 18:13 |
-| 🟢 1.1 | 10 km WSW of Searles Valley, CA | 17:58 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
