@@ -2,21 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2005:48:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-492ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2006:52:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-254ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 107 km NW of Yakutat, Alaska | 05:45 |
-| 🟢 1.7 | 5 km SE of San Ramon, CA | 05:37 |
-| 🟢 1.6 | 12 km E of Yountville, CA | 05:30 |
-| 🟢 0.9 | 14 km NE of Ridgecrest, CA | 05:29 |
-| 🟢 1.6 | 7 km SE of Big Spring, Texas | 05:29 |
-| 🟢 0.8 | 6 km W of Cobb, CA | 05:22 |
-| 🟢 2.2 | 53 km S of South Van Horn, Alaska | 05:14 |
-| 🟠 4.9 | 262 km WSW of Houma, Tonga | 05:07 |
-| 🟢 1.1 | 6 km W of Imperial, CA | 05:01 |
-| 🟢 1.4 | 5 km ESE of San Ramon, CA | 04:57 |
+| 🟢 1.7 | 57 km S of Whites City, New Mexico | 06:48 |
+| 🟢 1.7 | 57 km S of Whites City, New Mexico | 06:48 |
+| 🟢 2.5 | 42 km E of Ouzinkie, Alaska | 06:46 |
+| 🟢 1.5 | 10 km WNW of Lake Elsinore, CA | 06:46 |
+| 🟢 1.9 | 4 km SE of San Ramon, CA | 06:10 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
