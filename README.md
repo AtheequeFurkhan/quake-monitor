@@ -2,17 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2022:29:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2023:29:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-177ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 3 km S of Point MacKenzie, Alaska | 22:14 |
-| 🟠 4.0 | 11 km E of Maliq, Albania | 22:11 |
-| 🟢 0.7 | 13 km NW of The Geysers, CA | 22:05 |
-| 🟢 1.7 | 42 km ESE of Knik River, Alaska | 21:41 |
-| 🟢 1.6 | 4 km SE of Home Gardens, CA | 21:36 |
-| 🟢 1.5 | 7 km SSW of Ojai, CA | 21:32 |
+| 🟢 1.4 | 6 km NW of The Geysers, CA | 23:18 |
+| 🟢 2.0 | 6 km NW of The Geysers, CA | 23:17 |
+| 🟢 2.1 | 6 km NNW of Petersville, Alaska | 23:08 |
+| 🟢 2.5 | 24 km ESE of Skwentna, Alaska | 22:57 |
+| 🟢 1.0 | 2 km NW of The Geysers, CA | 22:55 |
+| 🟢 1.1 | 18 km NNE of Indio, CA | 22:52 |
+| 🟢 1.0 | 18 km N of Indio, CA | 22:51 |
+| 🟢 1.0 | 3 km NW of The Geysers, CA | 22:51 |
+| 🟢 1.6 | 5 km W of Enoch, Utah | 22:36 |
+| 🟢 1.9 | 33 km W of Empire, Nevada | 22:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
