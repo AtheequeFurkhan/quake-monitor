@@ -2,18 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2003%20Feb%202026%2023:27:52%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-209ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2002:02:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-250ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 11 km NNW of Nellis Air Force Base, Nevada | 23:19 |
-| 🟢 2.9 | 10 km NW of Healdton, Oklahoma | 23:15 |
-| 🟢 2.1 | 6 km ESE of Leilani Estates, Hawaii | 23:06 |
-| 🟢 1.7 | 10 km WNW of Lake Elsinore, CA | 22:54 |
-| 🟢 1.6 | 17 km SSE of Glacier View, Alaska | 22:39 |
-| 🟢 1.6 | 16 km NNE of Thousand Palms, CA | 22:33 |
-| 🟠 4.4 | 169 km NW of Arawa, Papua New Guinea | 22:30 |
+| 🟢 2.1 | 21 km NNE of Indio, CA | 01:41 |
+| 🟢 1.0 | 85 km NNW of Karluk, Alaska | 01:25 |
+| 🟢 1.6 | 5 km ENE of Muscoy, CA | 01:24 |
+| 🟢 1.3 | 22 km S of Simmler, CA | 01:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
