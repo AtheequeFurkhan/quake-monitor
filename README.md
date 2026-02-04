@@ -2,16 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2015:42:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-396ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2016:48:47%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-409ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 29 km SSE of Midland, Texas | 15:34 |
-| 🟠 4.6 | 45 km NNW of Beluga, Alaska | 15:24 |
-| 🟢 1.4 | 9 km E of Alum Rock, CA | 15:20 |
-| 🟢 1.3 | 59 km WNW of Beluga, Alaska | 15:01 |
-| 🟢 1.2 | 26 km NW of Ocotillo, CA | 14:43 |
+| 🟢 1.4 | 16 km NW of Midland, Texas | 16:42 |
+| 🟢 1.0 | 6 km E of Borrego Springs, CA | 16:38 |
+| 🟢 1.5 | 9 km S of Pyote, Texas | 16:36 |
+| 🟢 2.0 | 14 km S of Tres Pinos, CA | 16:35 |
+| 🟢 0.6 | 5 km SW of Idyllwild, CA | 16:17 |
+| 🟢 2.1 | 12 km NW of Fishhook, Alaska | 16:11 |
+| 🟢 1.2 | 15 km NW of Midland, Texas | 16:02 |
+| 🟢 1.2 | 16 km NW of Midland, Texas | 15:59 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
