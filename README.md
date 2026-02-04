@@ -2,21 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2014:06:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-491ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2015:42:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-396ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 8 km NW of The Geysers, CA | 14:02 |
-| 🟢 2.0 | 56 km ESE of Lovelock, Nevada | 13:55 |
-| 🟢 1.1 | 3 km SSE of Loma Linda, CA | 13:54 |
-| 🟢 1.2 | 26 km NW of Ocotillo, CA | 13:50 |
-| 🟢 2.8 | 12 km NNE of Cantwell, Alaska | 13:48 |
-| 🟢 1.8 | 18 km WSW of Johannesburg, CA | 13:23 |
-| 🟢 1.8 | 7 km SW of Sand Springs, Texas | 13:22 |
-| 🟢 1.4 | 18 km N of Indio, CA | 13:16 |
-| 🟠 4.7 | 4 km SSE of Recodo, Philippines | 13:14 |
-| 🟢 1.3 | 4 km SE of San Ramon, CA | 13:12 |
+| 🟢 1.5 | 29 km SSE of Midland, Texas | 15:34 |
+| 🟠 4.6 | 45 km NNW of Beluga, Alaska | 15:24 |
+| 🟢 1.4 | 9 km E of Alum Rock, CA | 15:20 |
+| 🟢 1.3 | 59 km WNW of Beluga, Alaska | 15:01 |
+| 🟢 1.2 | 26 km NW of Ocotillo, CA | 14:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
