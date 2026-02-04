@@ -2,16 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2004:27:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-194ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2005:48:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-492ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 6 km NNW of The Geysers, CA | 04:09 |
-| 🟢 2.2 | 14 km N of Fishhook, Alaska | 03:46 |
-| 🟠 3.1 | 48 km N of Valdez, Alaska | 03:43 |
-| 🟢 1.7 | 21 km NNE of Indio, CA | 03:39 |
-| 🟢 1.1 | 7 km W of Cobb, CA | 03:28 |
+| 🟢 2.1 | 107 km NW of Yakutat, Alaska | 05:45 |
+| 🟢 1.7 | 5 km SE of San Ramon, CA | 05:37 |
+| 🟢 1.6 | 12 km E of Yountville, CA | 05:30 |
+| 🟢 0.9 | 14 km NE of Ridgecrest, CA | 05:29 |
+| 🟢 1.6 | 7 km SE of Big Spring, Texas | 05:29 |
+| 🟢 0.8 | 6 km W of Cobb, CA | 05:22 |
+| 🟢 2.2 | 53 km S of South Van Horn, Alaska | 05:14 |
+| 🟠 4.9 | 262 km WSW of Houma, Tonga | 05:07 |
+| 🟢 1.1 | 6 km W of Imperial, CA | 05:01 |
+| 🟢 1.4 | 5 km ESE of San Ramon, CA | 04:57 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
