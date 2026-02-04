@@ -2,16 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2006:52:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-254ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2007:43:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-393ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.0 | 31 km NW of Toyah, Texas | 07:34 |
+| 🟢 1.3 | 1 km SE of Anza, CA | 07:27 |
+| 🟢 2.2 | 1 km SW of Houston, Alaska | 07:26 |
+| 🟢 1.0 | 26 km NNE of Gardendale, Texas | 07:11 |
+| 🟠 4.9 | 31 km ENE of Cortes, Philippines | 07:11 |
+| 🟢 0.8 | 18 km W of Searles Valley, CA | 07:05 |
+| 🟢 1.7 | 91 km S of McCarthy, Alaska | 07:03 |
 | 🟢 1.7 | 57 km S of Whites City, New Mexico | 06:48 |
 | 🟢 1.7 | 57 km S of Whites City, New Mexico | 06:48 |
 | 🟢 2.5 | 42 km E of Ouzinkie, Alaska | 06:46 |
 | 🟢 1.5 | 10 km WNW of Lake Elsinore, CA | 06:46 |
-| 🟢 1.9 | 4 km SE of San Ramon, CA | 06:10 |
+| 🟠 4.7 | 190 km ESE of Severo-Kuril’sk, Russia | 06:46 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
