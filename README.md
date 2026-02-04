@@ -2,24 +2,14 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2011:32:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-171ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2012:58:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-112ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.3 | 6 km NW of The Geysers, CA | 11:28 |
-| 🟢 1.6 | 58 km S of Whites City, New Mexico | 11:17 |
-| 🟠 4.9 | Galapagos Islands, Ecuador region | 11:08 |
-| 🟢 2.1 | 4 km N of Dublin, CA | 11:06 |
-| 🟢 1.3 | 3 km N of Dublin, CA | 11:00 |
-| 🟢 2.1 | 56 km S of Whites City, New Mexico | 10:56 |
-| 🟢 1.5 | 58 km S of Whites City, New Mexico | 10:50 |
-| 🟠 3.1 | 56 km S of Whites City, New Mexico | 10:46 |
-| 🟢 1.7 | 11 km WSW of Stanton, Texas | 10:44 |
-| 🟢 1.5 | 32 km W of Mentone, Texas | 10:44 |
-| 🟢 2.8 | 56 km S of Whites City, New Mexico | 10:43 |
-| 🔴 6.1 | Kermadec Islands, New Zealand | 10:39 |
-| 🟢 1.2 | 55 km S of Whites City, New Mexico | 10:35 |
+| 🟢 1.8 | 33 km WSW of Empire, Nevada | 12:54 |
+| 🟢 0.8 | 7 km WNW of The Geysers, CA | 12:29 |
+| 🟢 1.8 | 9 km ESE of Pearsall, Texas | 12:18 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
