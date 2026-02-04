@@ -2,21 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2008:41:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-300ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2009:42:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-216ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 27 km E of Coso Junction, CA | 08:31 |
-| 🟢 1.9 | 25 km W of Garden City, Texas | 08:24 |
-| 🟢 0.5 | 15 km SE of Anza, CA | 08:16 |
-| 🟢 1.4 | 4 km N of Dublin, CA | 08:02 |
-| 🟠 4.8 | 38 km N of Calama, Chile | 08:01 |
-| 🟢 2.0 | 4 km N of Dublin, CA | 07:59 |
-| 🟢 1.9 | 110 km WNW of Yakutat, Alaska | 07:53 |
-| 🟢 0.8 | 13 km ENE of Cloverdale, CA | 07:53 |
-| 🟢 1.8 | 59 km S of Whites City, New Mexico | 07:51 |
-| 🟢 1.0 | 3 km SE of Lake Henshaw, CA | 07:46 |
+| 🟢 1.5 | 8 km NW of The Geysers, CA | 09:41 |
+| 🟢 1.1 | 5 km N of Little Lake, CA | 09:37 |
+| 🟢 2.8 | 9 km WNW of Delta, B.C., MX | 09:33 |
+| 🟢 0.7 | 7 km W of Cobb, CA | 09:21 |
+| 🟢 1.6 | 17 km W of Stanton, Texas | 09:18 |
+| 🟢 2.4 | 12 km ESE of Olancha, CA | 09:06 |
+| 🟢 0.2 | 6 km WNW of Cobb, CA | 09:02 |
+| 🟢 0.6 | 5 km N of Little Lake, CA | 08:43 |
+| 🟢 3.0 | 43 km ENE of Kodiak, Alaska | 08:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
