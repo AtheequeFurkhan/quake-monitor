@@ -2,14 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2012:58:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-112ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2014:06:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-491ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 33 km WSW of Empire, Nevada | 12:54 |
-| 🟢 0.8 | 7 km WNW of The Geysers, CA | 12:29 |
-| 🟢 1.8 | 9 km ESE of Pearsall, Texas | 12:18 |
+| 🟢 1.1 | 8 km NW of The Geysers, CA | 14:02 |
+| 🟢 2.0 | 56 km ESE of Lovelock, Nevada | 13:55 |
+| 🟢 1.1 | 3 km SSE of Loma Linda, CA | 13:54 |
+| 🟢 1.2 | 26 km NW of Ocotillo, CA | 13:50 |
+| 🟢 2.8 | 12 km NNE of Cantwell, Alaska | 13:48 |
+| 🟢 1.8 | 18 km WSW of Johannesburg, CA | 13:23 |
+| 🟢 1.8 | 7 km SW of Sand Springs, Texas | 13:22 |
+| 🟢 1.4 | 18 km N of Indio, CA | 13:16 |
+| 🟠 4.7 | 4 km SSE of Recodo, Philippines | 13:14 |
+| 🟢 1.3 | 4 km SE of San Ramon, CA | 13:12 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
