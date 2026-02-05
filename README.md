@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2005%20Feb%202026%2017:49:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-384ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2005%20Feb%202026%2018:50:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-424ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.4 | 13 km SSE of Port Orford, Oregon | 17:19 |
-| 🟢 1.0 | 30 km W of Ester, Alaska | 17:19 |
-| 🟢 1.4 | 32 km NW of Toyah, Texas | 17:18 |
-| 🟢 2.0 | 2 km SSE of San Ramon, CA | 17:12 |
-| 🟢 1.5 | 32 km NW of Toyah, Texas | 17:05 |
-| 🟢 0.7 | 10 km WNW of Lake Elsinore, CA | 17:00 |
-| 🟢 2.5 | 2 km SSE of San Ramon, CA | 16:55 |
-| 🟢 1.8 | 32 km NW of Toyah, Texas | 16:50 |
+| 🟢 1.8 | 7 km NNE of Anchorage, Alaska | 18:37 |
+| 🟢 1.9 | 50 km SSW of Skwentna, Alaska | 18:24 |
+| 🟠 5.0 | 5 km S of Dinagat, Philippines | 18:15 |
+| 🟢 1.0 | 6 km NW of The Geysers, CA | 18:13 |
+| 🟠 4.2 | 19 km ESE of Farkhār, Afghanistan | 18:09 |
+| 🟢 1.5 | 13 km SW of Searles Valley, CA | 18:08 |
+| 🔴 5.8 | 105 km SSW of Trenggalek, Indonesia | 18:06 |
+| 🟠 3.7 | 19 km NNW of Whites City, New Mexico | 18:05 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
