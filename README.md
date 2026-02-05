@@ -2,17 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2005%20Feb%202026%2019:38:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-531ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2005%20Feb%202026%2020:35:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-362ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 57 km S of Whites City, New Mexico | 19:28 |
-| 🟢 1.5 | 31 km ENE of Balmorhea, Texas | 19:20 |
-| 🟢 0.9 | 6 km NW of Parkfield, CA | 19:12 |
-| 🟢 0.2 | 8 km NW of The Geysers, CA | 19:07 |
-| 🟢 1.9 | 47 km NNE of Petersville, Alaska | 18:58 |
-| 🟢 1.5 | 10 km NNE of Odessa, Texas | 18:51 |
+| 🟢 1.4 | 5 km SSE of Home Gardens, CA | 20:31 |
+| 🟢 1.1 | 59 km SSE of King Salmon, Alaska | 20:27 |
+| 🟢 0.9 | 2 km ESE of The Geysers, CA | 20:02 |
+| 🟢 1.8 | 109 km N of Yakutat, Alaska | 20:00 |
+| 🟠 3.5 | 7 km WNW of Lehi, Utah | 19:53 |
+| 🟢 2.1 | 31 km NW of Toyah, Texas | 19:48 |
+| 🟢 1.7 | 11 km SSW of Honoka‘a, Hawaii | 19:41 |
+| 🟠 4.6 | 13 km WNW of Gyalshing, India | 19:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
