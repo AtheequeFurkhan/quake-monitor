@@ -2,23 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2005%20Feb%202026%2022:28:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-407ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2005%20Feb%202026%2023:24:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-376ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.1 | 4 km W of Cobb, CA | 23:14 |
+| 🟢 1.7 | 140 km ESE of McCarthy, Alaska | 23:13 |
+| 🟢 1.8 | 17 km NW of Pinnacles, CA | 23:12 |
+| 🟢 2.4 | 5 km SE of San Ramon, CA | 23:12 |
+| 🟢 1.2 | 2 km ESE of The Geysers, CA | 23:07 |
+| 🟢 1.7 | 3 km NNW of Westbrook, Texas | 22:56 |
+| 🟢 2.1 | 89 km N of Yakutat, Alaska | 22:55 |
+| 🟢 0.9 | 6 km WNW of Imperial Beach, CA | 22:55 |
+| 🟢 2.4 | 97 km N of Yakutat, Alaska | 22:48 |
+| 🟢 2.0 | 40 km NNW of Glacier View, Alaska | 22:46 |
+| 🟢 1.9 | 7 km ESE of Pearsall, Texas | 22:45 |
+| 🟢 2.0 | 112 km NNW of Yakutat, Alaska | 22:33 |
 | 🟢 0.9 | 7 km NW of The Geysers, CA | 22:26 |
-| 🟢 1.6 | 23 km S of Westbrook, Texas | 22:19 |
-| 🟢 1.0 | 6 km S of Loma Linda, CA | 22:18 |
-| 🟢 2.0 | 5 km SE of San Ramon, CA | 22:11 |
-| 🟢 2.1 | 2 km SSW of Indios, Puerto Rico | 22:07 |
-| 🟢 1.4 | 61 km E of Egegik, Alaska | 22:06 |
-| 🟢 1.2 | 10 km NNE of Ocotillo Wells, CA | 22:02 |
-| 🟢 2.2 | 5 km ESE of San Ramon, CA | 22:01 |
-| 🟢 0.9 | 5 km SSE of Cabazon, CA | 21:46 |
-| 🟢 1.4 | 14 km W of Searles Valley, CA | 21:35 |
-| 🟢 1.9 | 116 km N of Yakutat, Alaska | 21:31 |
-| 🟢 2.5 | 25 km NE of Pleasant Valley, Alaska | 21:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
