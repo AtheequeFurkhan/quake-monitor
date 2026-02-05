@@ -2,21 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2005%20Feb%202026%2002:07:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-419ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2005%20Feb%202026%2004:48:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-380ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 7 km E of Calimesa, CA | 02:03 |
-| 🟢 2.3 | 57 km NE of Chenega, Alaska | 01:57 |
-| 🟢 0.8 | 12 km N of Borrego Springs, CA | 01:54 |
-| 🟢 1.4 | 11 km SSW of San Lucas, CA | 01:54 |
-| 🟢 2.0 | 121 km WNW of Yakutat, Alaska | 01:53 |
-| 🟢 0.8 | 26 km ENE of Pine Valley, CA | 01:52 |
-| 🟢 2.4 | 13 km W of Kenai, Alaska | 01:45 |
-| 🟢 1.5 | 6 km E of Warner Springs, CA | 01:43 |
-| 🟢 0.4 | 8 km W of Cobb, CA | 01:32 |
-| 🟢 2.5 | 58 km ESE of King Salmon, Alaska | 01:16 |
+| 🟢 1.3 | 17 km S of Tres Pinos, CA | 04:44 |
+| 🟢 0.7 | 6 km NW of The Geysers, CA | 04:25 |
+| 🟢 1.1 | 17 km NNE of Indio, CA | 04:21 |
+| 🟢 0.5 | 4 km NW of Julian, CA | 04:20 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 04:15 |
+| 🟢 0.7 | 8 km W of Cobb, CA | 04:10 |
+| 🟢 1.6 | 19 km S of Westbrook, Texas | 04:08 |
+| 🟢 1.1 | 4 km ESE of San Ramon, CA | 04:08 |
+| 🟢 1.3 | 3 km E of San Ramon, CA | 04:04 |
+| 🟢 1.3 | 17 km NNE of Indio, CA | 04:03 |
+| 🟢 0.2 | 8 km WNW of Cobb, CA | 03:57 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
