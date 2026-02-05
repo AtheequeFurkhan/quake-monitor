@@ -2,21 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2004%20Feb%202026%2023:29:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-177ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2005%20Feb%202026%2002:07:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-419ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 6 km NW of The Geysers, CA | 23:18 |
-| 🟢 2.0 | 6 km NW of The Geysers, CA | 23:17 |
-| 🟢 2.1 | 6 km NNW of Petersville, Alaska | 23:08 |
-| 🟢 2.5 | 24 km ESE of Skwentna, Alaska | 22:57 |
-| 🟢 1.0 | 2 km NW of The Geysers, CA | 22:55 |
-| 🟢 1.1 | 18 km NNE of Indio, CA | 22:52 |
-| 🟢 1.0 | 18 km N of Indio, CA | 22:51 |
-| 🟢 1.0 | 3 km NW of The Geysers, CA | 22:51 |
-| 🟢 1.6 | 5 km W of Enoch, Utah | 22:36 |
-| 🟢 1.9 | 33 km W of Empire, Nevada | 22:30 |
+| 🟢 1.6 | 7 km E of Calimesa, CA | 02:03 |
+| 🟢 2.3 | 57 km NE of Chenega, Alaska | 01:57 |
+| 🟢 0.8 | 12 km N of Borrego Springs, CA | 01:54 |
+| 🟢 1.4 | 11 km SSW of San Lucas, CA | 01:54 |
+| 🟢 2.0 | 121 km WNW of Yakutat, Alaska | 01:53 |
+| 🟢 0.8 | 26 km ENE of Pine Valley, CA | 01:52 |
+| 🟢 2.4 | 13 km W of Kenai, Alaska | 01:45 |
+| 🟢 1.5 | 6 km E of Warner Springs, CA | 01:43 |
+| 🟢 0.4 | 8 km W of Cobb, CA | 01:32 |
+| 🟢 2.5 | 58 km ESE of King Salmon, Alaska | 01:16 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
