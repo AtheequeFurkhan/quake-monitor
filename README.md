@@ -2,19 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2005%20Feb%202026%2020:35:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-362ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2005%20Feb%202026%2021:30:14%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-207ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 5 km SSE of Home Gardens, CA | 20:31 |
-| 🟢 1.1 | 59 km SSE of King Salmon, Alaska | 20:27 |
-| 🟢 0.9 | 2 km ESE of The Geysers, CA | 20:02 |
-| 🟢 1.8 | 109 km N of Yakutat, Alaska | 20:00 |
-| 🟠 3.5 | 7 km WNW of Lehi, Utah | 19:53 |
-| 🟢 2.1 | 31 km NW of Toyah, Texas | 19:48 |
-| 🟢 1.7 | 11 km SSW of Honoka‘a, Hawaii | 19:41 |
-| 🟠 4.6 | 13 km WNW of Gyalshing, India | 19:39 |
+| 🟢 2.3 | 12 km N of Chico, CA | 21:25 |
+| 🟢 2.0 | 16 km E of Pāhala, Hawaii | 21:22 |
+| 🟢 0.9 | 22 km E of Julian, CA | 20:49 |
+| 🟢 2.4 | 30 km ENE of Pinnacles, CA | 20:48 |
+| 🟢 2.2 | 19 km NNE of Indio, CA | 20:40 |
+| 🟢 1.6 | 5 km SSE of Home Gardens, CA | 20:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
