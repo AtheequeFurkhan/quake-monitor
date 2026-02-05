@@ -2,22 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2005%20Feb%202026%2004:48:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-380ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2005%20Feb%202026%2005:56:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-377ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 17 km S of Tres Pinos, CA | 04:44 |
-| 🟢 0.7 | 6 km NW of The Geysers, CA | 04:25 |
-| 🟢 1.1 | 17 km NNE of Indio, CA | 04:21 |
-| 🟢 0.5 | 4 km NW of Julian, CA | 04:20 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 04:15 |
-| 🟢 0.7 | 8 km W of Cobb, CA | 04:10 |
-| 🟢 1.6 | 19 km S of Westbrook, Texas | 04:08 |
-| 🟢 1.1 | 4 km ESE of San Ramon, CA | 04:08 |
-| 🟢 1.3 | 3 km E of San Ramon, CA | 04:04 |
-| 🟢 1.3 | 17 km NNE of Indio, CA | 04:03 |
-| 🟢 0.2 | 8 km WNW of Cobb, CA | 03:57 |
+| 🟢 1.7 | 13 km ESE of Pearsall, Texas | 05:51 |
+| 🟢 2.3 | 44 km NNE of Rachel, Nevada | 05:46 |
+| 🟠 4.3 | 46 km SSE of La Libertad, El Salvador | 05:39 |
+| 🟢 0.5 | 9 km SSW of Idyllwild, CA | 05:36 |
+| 🟢 1.8 | 6 km WNW of Knik-Fairview, Alaska | 05:31 |
+| 🟢 1.1 | 8 km NW of The Geysers, CA | 05:30 |
+| 🟢 0.8 | 5 km W of Cobb, CA | 05:00 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
