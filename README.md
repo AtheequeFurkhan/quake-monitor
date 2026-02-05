@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2005%20Feb%202026%2016:51:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-191ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2005%20Feb%202026%2017:49:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-384ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 7 km W of Kailua-Kona, Hawaii | 16:46 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 16:40 |
-| 🟢 1.1 | 7 km NW of The Geysers, CA | 16:36 |
-| 🟢 1.0 | 8 km NW of The Geysers, CA | 16:22 |
-| 🟠 4.7 | 235 km E of Levuka, Fiji | 16:05 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 15:58 |
-| 🟢 1.6 | 21 km SSW of Mina, Nevada | 15:54 |
+| 🟢 2.4 | 13 km SSE of Port Orford, Oregon | 17:19 |
+| 🟢 1.0 | 30 km W of Ester, Alaska | 17:19 |
+| 🟢 1.4 | 32 km NW of Toyah, Texas | 17:18 |
+| 🟢 2.0 | 2 km SSE of San Ramon, CA | 17:12 |
+| 🟢 1.5 | 32 km NW of Toyah, Texas | 17:05 |
+| 🟢 0.7 | 10 km WNW of Lake Elsinore, CA | 17:00 |
+| 🟢 2.5 | 2 km SSE of San Ramon, CA | 16:55 |
+| 🟢 1.8 | 32 km NW of Toyah, Texas | 16:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
