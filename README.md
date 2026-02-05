@@ -2,15 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2005%20Feb%202026%2008:43:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-417ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2005%20Feb%202026%2009:46:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-412ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 10 km NE of Hilltop, Texas | 08:33 |
-| 🟢 0.9 | 19 km NNE of Indio, CA | 08:29 |
-| 🟢 1.2 | 32 km ESE of Minto, Alaska | 07:54 |
-| 🟢 0.5 | 4 km WNW of Borrego Springs, CA | 07:51 |
+| 🟢 1.0 | 2 km NW of The Geysers, CA | 09:39 |
+| 🟢 2.0 | 33 km NNW of Susitna, Alaska | 09:39 |
+| 🟢 0.7 | 9 km NNW of Idyllwild, CA | 09:37 |
+| 🟢 1.6 | 71 km N of Rachel, Nevada | 09:35 |
+| 🟢 1.4 | 1 km SW of Loma Linda, CA | 09:22 |
+| 🟢 3.0 | 85 km NNE of Cruz Bay, U.S. Virgin Islands | 09:14 |
+| 🟢 1.3 | 18 km WSW of Nenana, Alaska | 09:07 |
+| 🟢 1.5 | 4 km W of Cobb, CA | 08:55 |
+| 🟢 1.0 | 12 km E of Palomar Observatory, CA | 08:46 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
