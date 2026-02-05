@@ -2,19 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2005%20Feb%202026%2018:50:32%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-424ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2005%20Feb%202026%2019:38:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-531ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 7 km NNE of Anchorage, Alaska | 18:37 |
-| 🟢 1.9 | 50 km SSW of Skwentna, Alaska | 18:24 |
-| 🟠 5.0 | 5 km S of Dinagat, Philippines | 18:15 |
-| 🟢 1.0 | 6 km NW of The Geysers, CA | 18:13 |
-| 🟠 4.2 | 19 km ESE of Farkhār, Afghanistan | 18:09 |
-| 🟢 1.5 | 13 km SW of Searles Valley, CA | 18:08 |
-| 🔴 5.8 | 105 km SSW of Trenggalek, Indonesia | 18:06 |
-| 🟠 3.7 | 19 km NNW of Whites City, New Mexico | 18:05 |
+| 🟢 1.2 | 57 km S of Whites City, New Mexico | 19:28 |
+| 🟢 1.5 | 31 km ENE of Balmorhea, Texas | 19:20 |
+| 🟢 0.9 | 6 km NW of Parkfield, CA | 19:12 |
+| 🟢 0.2 | 8 km NW of The Geysers, CA | 19:07 |
+| 🟢 1.9 | 47 km NNE of Petersville, Alaska | 18:58 |
+| 🟢 1.5 | 10 km NNE of Odessa, Texas | 18:51 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
