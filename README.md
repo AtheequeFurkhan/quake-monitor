@@ -2,28 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2004:47:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-378ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2005:54:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-196ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 10 km E of Mina, Nevada | 04:37 |
-| 🟢 2.3 | 6 km SSW of Pāhala, Hawaii | 04:34 |
-| 🟢 0.2 | 5 km WNW of Cobb, CA | 04:33 |
-| 🔴 5.1 | 81 km E of Petropavlovsk-Kamchatsky, Russia | 04:24 |
-| 🟢 0.8 | 19 km E of Julian, CA | 04:17 |
-| 🟢 0.3 | 15 km S of Anza, CA | 04:08 |
-| 🟢 1.3 | 18 km N of Indio, CA | 04:07 |
-| 🟢 2.1 | 8 km SE of Point MacKenzie, Alaska | 04:00 |
-| 🟢 1.1 | 3 km SSW of Brawley, CA | 03:55 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 03:54 |
+| 🟢 1.5 | 67 km ESE of Cantwell, Alaska | 05:32 |
+| 🟢 1.2 | 6 km NE of Ridgemark, CA | 05:31 |
+| 🟢 2.1 | 56 km SSE of Kokhanok, Alaska | 05:25 |
+| 🟢 1.6 | 98 km NW of Yakutat, Alaska | 05:00 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
 - 🔥 **Wildfires**: [RX Cheyenne Point Prescribed Fire, Custer, Oklahoma](https://irwin.doi.gov/observer/incidents/20d222a4-26e5-4440-b30f-da9a97511073) (Feb 05)
 - 🔥 **Wildfires**: [SHNF C-104/107 RX Prescribed Fire, San Jacinto, Texas](https://irwin.doi.gov/observer/incidents/82e148ea-6760-4d25-9683-7f02d0543c13) (Feb 05)
-- ⛈️ **Severe Storms**: [Tropical Storm Penha](https://www.metoc.navy.mil/jtwc/products/wp0226.tcw) (Feb 05)
+- ⛈️ **Severe Storms**: [Tropical Storm Penha](https://www.metoc.navy.mil/jtwc/products/wp0226.tcw) (Feb 06)
 - 🔥 **Wildfires**: [ST-1 Alpha Wildfire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/87ceaf02-d700-4480-8bf7-ba6f5c2dd38a) (Feb 03)
 - 🔥 **Wildfires**: [Pearl River Connie Hariel Rd Wildfire, Pearl River, Mississippi](https://irwin.doi.gov/observer/incidents/3525af6b-d678-4921-8179-ee50e0b6a7f2) (Feb 03)
 - 🔥 **Wildfires**: [HORSESHOE CREEK (23) Wildfire, Gulf, Florida](https://irwin.doi.gov/observer/incidents/0f0a1d73-7dfe-4113-852f-67a03354b66a) (Feb 02)
