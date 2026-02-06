@@ -2,25 +2,14 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2021:32:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-288ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2022:25:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-377ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 81 km NNW of Karluk, Alaska | 21:17 |
-| 🟢 1.7 | 5 km SE of Mineral, Washington | 21:13 |
-| 🟢 2.0 | 5 km E of La Parguera, Puerto Rico | 21:12 |
-| 🟢 1.0 | 3 km ENE of The Geysers, CA | 21:07 |
-| 🟢 1.2 | 3 km SE of Loma Linda, CA | 21:05 |
-| 🟢 0.8 | 4 km W of Cobb, CA | 21:05 |
-| 🟢 1.2 | 24 km NNW of Westbrook, Texas | 21:04 |
-| 🟢 2.3 | 62 km SE of Pope-Vannoy Landing, Alaska | 20:58 |
-| 🟢 1.4 | 36 km NNW of Beluga, Alaska | 20:57 |
-| 🟢 1.1 | 3 km W of Ridgemark, CA | 20:55 |
-| 🟢 1.4 | 7 km ENE of Borrego Springs, CA | 20:53 |
-| 🟢 1.5 | 8 km W of Cobb, CA | 20:35 |
-| 🟢 0.8 | 5 km WNW of The Geysers, CA | 20:34 |
-| 🟢 1.6 | 40 km NNW of Glacier View, Alaska | 20:32 |
+| 🟢 1.1 | 4 km W of Cobb, CA | 22:01 |
+| 🟢 1.1 | 2 km ESE of Tres Pinos, CA | 22:00 |
+| 🟢 0.8 | 8 km SSE of Lake Henshaw, CA | 21:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
