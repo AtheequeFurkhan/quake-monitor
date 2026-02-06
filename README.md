@@ -2,24 +2,28 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2009:43:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2010:40:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-242ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 7 km W of Cobb, CA | 09:34 |
-| 🟢 1.4 | 5 km NW of Ridgeway, Alaska | 09:20 |
-| 🟢 1.7 | 53 km WNW of Happy Valley, Alaska | 09:15 |
-| 🟢 0.7 | 5 km E of Borrego Springs, CA | 09:11 |
-| 🟢 1.0 | 8 km W of Cobb, CA | 09:11 |
-| 🟢 1.1 | 6 km NNW of The Geysers, CA | 09:08 |
-| 🟢 1.2 | 8 km SE of Gardendale, Texas | 09:05 |
-| 🟢 0.7 | 13 km NW of The Geysers, CA | 09:00 |
-| 🟢 0.8 | 10 km SSW of Idyllwild, CA | 09:00 |
-| 🟢 0.5 | 10 km SSW of Idyllwild, CA | 08:57 |
-| 🟢 2.3 | 16 km NE of Susitna, Alaska | 08:54 |
-| 🟢 0.8 | 12 km ESE of Coso Junction, CA | 08:54 |
-| 🟢 2.4 | 16 km WNW of Bridgeport, CA | 08:44 |
+| 🟢 1.4 | 31 km NE of Pinnacles, CA | 10:38 |
+| 🟢 1.8 | 24 km SE of Kasilof, Alaska | 10:37 |
+| 🟢 1.1 | 77 km NW of Eureka Roadhouse, Alaska | 10:35 |
+| 🟢 1.3 | 4 km W of Cobb, CA | 10:28 |
+| 🟢 1.7 | 4 km W of Cobb, CA | 10:28 |
+| 🟢 2.7 | 26 km NW of Toyah, Texas | 10:27 |
+| 🟢 1.3 | 22 km SW of Snyder, Texas | 10:26 |
+| 🟠 3.5 | 9 km WNW of Pedro Bay, Alaska | 10:21 |
+| 🟢 1.1 | 24 km NW of Parkfield, CA | 10:21 |
+| 🟢 2.4 | 48 km ESE of Ugashik, Alaska | 10:20 |
+| 🟢 0.7 | 17 km NNE of Indio, CA | 10:06 |
+| 🟢 0.5 | 10 km ENE of Ridgecrest, CA | 10:03 |
+| 🟢 1.6 | 58 km S of Whites City, New Mexico | 10:03 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 09:59 |
+| 🟢 0.9 | 19 km NNE of Indio, CA | 09:49 |
+| 🟢 1.1 | 11 km N of Piru, CA | 09:48 |
+| 🟢 2.7 | 14 km N of Ninilchik, Alaska | 09:45 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
