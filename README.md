@@ -2,32 +2,35 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2002:07:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-394ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2004:47:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-378ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 3 km NNW of The Geysers, CA | 01:59 |
-| 🟢 1.1 | 3 km W of Cobb, CA | 01:51 |
-| 🟢 2.0 | 15 km WNW of Progreso, B.C., MX | 01:37 |
-| 🟢 0.9 | 2 km NNE of The Geysers, CA | 01:36 |
-| 🟢 0.6 | 9 km NW of The Geysers, CA | 01:19 |
-| 🟢 2.2 | 60 km NNW of Rachel, Nevada | 01:14 |
-| 🟢 1.8 | 23 km N of Trout Lake, Washington | 01:09 |
+| 🟢 1.7 | 10 km E of Mina, Nevada | 04:37 |
+| 🟢 2.3 | 6 km SSW of Pāhala, Hawaii | 04:34 |
+| 🟢 0.2 | 5 km WNW of Cobb, CA | 04:33 |
+| 🔴 5.1 | 81 km E of Petropavlovsk-Kamchatsky, Russia | 04:24 |
+| 🟢 0.8 | 19 km E of Julian, CA | 04:17 |
+| 🟢 0.3 | 15 km S of Anza, CA | 04:08 |
+| 🟢 1.3 | 18 km N of Indio, CA | 04:07 |
+| 🟢 2.1 | 8 km SE of Point MacKenzie, Alaska | 04:00 |
+| 🟢 1.1 | 3 km SSW of Brawley, CA | 03:55 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 03:54 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
+- 🔥 **Wildfires**: [RX Cheyenne Point Prescribed Fire, Custer, Oklahoma](https://irwin.doi.gov/observer/incidents/20d222a4-26e5-4440-b30f-da9a97511073) (Feb 05)
+- 🔥 **Wildfires**: [SHNF C-104/107 RX Prescribed Fire, San Jacinto, Texas](https://irwin.doi.gov/observer/incidents/82e148ea-6760-4d25-9683-7f02d0543c13) (Feb 05)
 - ⛈️ **Severe Storms**: [Tropical Storm Penha](https://www.metoc.navy.mil/jtwc/products/wp0226.tcw) (Feb 05)
-- 🔥 **Wildfires**: [Straw Riddle RX Prescribed Fire, Winston, Alabama](https://irwin.doi.gov/observer/incidents/68e02cb2-1283-4fb3-bf72-200d6debccbb) (Feb 02)
-- 🔥 **Wildfires**: [Compartment 40A RX Prescribed Fire, Bibb, Alabama](https://irwin.doi.gov/observer/incidents/001a6dac-601f-4743-ab4e-82df07edc9f2) (Feb 02)
-- 🔥 **Wildfires**: [RX KIS BU 15 Prescribed Fire, Natchitoches, Louisiana](https://irwin.doi.gov/observer/incidents/5c675fb6-3b53-4669-9162-bcfd28a14cb7) (Feb 02)
-- 🔥 **Wildfires**: [What Happened Here North RX Prescribed Fire, Cleburne, Alabama](https://irwin.doi.gov/observer/incidents/d27ff4c8-f58f-4009-a292-30e7069be207) (Feb 01)
-- 🔥 **Wildfires**: [SHNF C-1/2 North RX Prescribed Fire, Montgomery, Texas](https://irwin.doi.gov/observer/incidents/813c5764-ab43-4352-ad98-74c1b4ab52e6) (Feb 01)
-- 🔥 **Wildfires**: [Bienville CPT 10 RX Prescribed Fire, Scott, Mississippi](https://irwin.doi.gov/observer/incidents/449f3014-e404-4fff-a056-0455ff571e69) (Feb 01)
-- 🔥 **Wildfires**: [Pete White East RX Prescribed Fire, Clay, Alabama](https://irwin.doi.gov/observer/incidents/ba6eef49-6938-47b5-b06d-11a02afce52f) (Feb 01)
-- 🔥 **Wildfires**: [Upper Shoal A RX Prescribed Fire, Cleburne, Alabama](https://irwin.doi.gov/observer/incidents/ac582fd8-ea0d-410f-b7c0-b4d5216da38d) (Feb 01)
-- 🔥 **Wildfires**: [Compartment 129A RX Prescribed Fire, Chilton, Alabama](https://irwin.doi.gov/observer/incidents/279b9790-183e-47d9-bc52-43aede480e3d) (Feb 01)
+- 🔥 **Wildfires**: [ST-1 Alpha Wildfire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/87ceaf02-d700-4480-8bf7-ba6f5c2dd38a) (Feb 03)
+- 🔥 **Wildfires**: [Pearl River Connie Hariel Rd Wildfire, Pearl River, Mississippi](https://irwin.doi.gov/observer/incidents/3525af6b-d678-4921-8179-ee50e0b6a7f2) (Feb 03)
+- 🔥 **Wildfires**: [HORSESHOE CREEK (23) Wildfire, Gulf, Florida](https://irwin.doi.gov/observer/incidents/0f0a1d73-7dfe-4113-852f-67a03354b66a) (Feb 02)
+- 🔥 **Wildfires**: [Burns Lake Wildfire, Clay, Texas](https://irwin.doi.gov/observer/incidents/45ad4b4f-7796-4243-aeeb-6f4e57688a47) (Feb 02)
+- 🔥 **Wildfires**: [Quail 05/08/12 RX Prescribed Fire, Cleburne, Alabama](https://irwin.doi.gov/observer/incidents/d8de2499-d432-4db0-a89f-da0d638508b1) (Feb 02)
+- 🔥 **Wildfires**: [Chickasawhay CPT 353 355 RX Prescribed Fire, Jones, Mississippi](https://irwin.doi.gov/observer/incidents/1c89da63-a1e9-42b5-be83-9a4d49cfa6cd) (Feb 02)
+- 🔥 **Wildfires**: [DeSoto Silviculture Unit 07 C517 RX Prescribed Fire, Harrison, Mississippi](https://irwin.doi.gov/observer/incidents/c9dd9caa-2058-4387-bd91-9c70ed5e7282) (Feb 02)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
