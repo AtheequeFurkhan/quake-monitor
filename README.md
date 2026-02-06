@@ -2,21 +2,24 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2008:42:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-357ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2009:43:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 55 km SSW of Whites City, New Mexico | 08:36 |
-| 🟢 0.9 | 23 km N of Borrego Springs, CA | 08:36 |
-| 🟢 0.8 | 14 km NW of Bodfish, CA | 08:27 |
-| 🟢 2.0 | 28 km W of Minto, Alaska | 08:24 |
-| 🟢 1.3 | 9 km NW of The Geysers, CA | 08:23 |
-| 🟢 1.0 | 8 km W of Cobb, CA | 08:16 |
-| 🟢 1.6 | 14 km NNE of Susitna North, Alaska | 08:06 |
-| 🟢 1.9 | 23 km SSE of Fern Forest, Hawaii | 07:55 |
-| 🟠 4.8 | south of the Fiji Islands | 07:47 |
-| 🟢 0.7 | 10 km SSW of Idyllwild, CA | 07:42 |
+| 🟢 0.8 | 7 km W of Cobb, CA | 09:34 |
+| 🟢 1.4 | 5 km NW of Ridgeway, Alaska | 09:20 |
+| 🟢 1.7 | 53 km WNW of Happy Valley, Alaska | 09:15 |
+| 🟢 0.7 | 5 km E of Borrego Springs, CA | 09:11 |
+| 🟢 1.0 | 8 km W of Cobb, CA | 09:11 |
+| 🟢 1.1 | 6 km NNW of The Geysers, CA | 09:08 |
+| 🟢 1.2 | 8 km SE of Gardendale, Texas | 09:05 |
+| 🟢 0.7 | 13 km NW of The Geysers, CA | 09:00 |
+| 🟢 0.8 | 10 km SSW of Idyllwild, CA | 09:00 |
+| 🟢 0.5 | 10 km SSW of Idyllwild, CA | 08:57 |
+| 🟢 2.3 | 16 km NE of Susitna, Alaska | 08:54 |
+| 🟢 0.8 | 12 km ESE of Coso Junction, CA | 08:54 |
+| 🟢 2.4 | 16 km WNW of Bridgeport, CA | 08:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
