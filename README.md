@@ -2,24 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2018:53:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-225ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2019:38:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-510ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.1 | 15 km S of Salton City, CA | 19:26 |
+| 🟢 1.6 | 15 km WNW of Silver Peak, Nevada | 19:19 |
+| 🟢 2.8 | 25 km W of Sunnyside-Tahoe City, CA | 19:17 |
+| 🟢 1.0 | 2 km SW of Cobb, CA | 19:15 |
 | 🟢 1.9 | 26 km S of Malibu, CA | 18:44 |
 | 🟢 1.5 | 7 km WNW of Cobb, CA | 18:41 |
-| 🟢 2.2 | 7 km WNW of Cobb, CA | 18:34 |
-| 🟢 1.7 | 13 km SSE of Fern Forest, Hawaii | 18:27 |
-| 🟢 0.7 | 10 km WNW of The Geysers, CA | 18:26 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 18:20 |
-| 🟢 1.4 | 4 km NW of Redwood Valley, CA | 18:19 |
-| 🟢 1.3 | 23 km NNW of Tehachapi, CA | 18:13 |
-| 🟢 1.1 | 34 km SE of West Yellowstone, Montana | 18:12 |
-| 🟢 0.6 | 9 km SW of Idyllwild, CA | 18:08 |
-| 🟠 3.3 | 55 km ESE of Boca de Yuma, Dominican Republic | 18:07 |
-| 🟢 1.6 | 16 km WSW of Salcha, Alaska | 18:07 |
-| 🟢 1.0 | 10 km WSW of Stanton, Texas | 18:06 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
