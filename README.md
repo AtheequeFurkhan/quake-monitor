@@ -2,21 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2014:39:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-179ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2015:40:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-208ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 38 km SSE of Campo, CA | 14:36 |
-| 🟢 0.9 | 11 km SSW of Idyllwild, CA | 14:33 |
-| 🟢 1.9 | 46 km NE of Livengood, Alaska | 14:26 |
-| 🟢 1.1 | 3 km W of Cobb, CA | 14:21 |
-| 🟢 1.8 | 22 km NNW of Eureka Roadhouse, Alaska | 14:20 |
-| 🟢 2.0 | 89 km NW of Yakutat, Alaska | 14:18 |
-| 🟢 1.7 | 14 km SE of Pāhala, Hawaii | 14:11 |
-| 🟢 1.8 | 73 km ENE of Ugashik, Alaska | 14:07 |
-| 🟢 1.5 | 50 km S of Whites City, New Mexico | 14:06 |
-| 🟢 1.6 | 60 km S of Whites City, New Mexico | 13:39 |
+| 🟢 1.0 | 34 km WSW of Ackerly, Texas | 15:35 |
+| 🟢 2.7 | 16 km SW of Salcha, Alaska | 15:17 |
+| 🟢 1.5 | 52 km NW of Ninilchik, Alaska | 15:05 |
+| 🟢 0.7 | 4 km ESE of Julian, CA | 14:45 |
+| 🟢 1.4 | 15 km WSW of Manley Hot Springs, Alaska | 14:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
