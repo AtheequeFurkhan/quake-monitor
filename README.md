@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2016:46:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-228ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2017:41:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-246ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.5 | 43 km NNE of Ouzinkie, Alaska | 16:41 |
-| 🟢 0.5 | 18 km ESE of Anza, CA | 16:40 |
-| 🟢 1.5 | 13 km NE of Little Lake, CA | 16:33 |
-| 🟢 1.3 | 72 km NE of Port Alsworth, Alaska | 16:29 |
-| 🟠 4.8 | 266 km ESE of Ozernovskiy, Russia | 16:20 |
-| 🟢 2.4 | 27 km ENE of Pedro Bay, Alaska | 16:11 |
-| 🟠 4.7 | 0 km NE of Shiraoka, Japan | 15:58 |
-| 🟢 1.8 | 10 km NNE of Ridgecrest, CA | 15:56 |
-| 🟢 1.8 | 77 km S of Kokhanok, Alaska | 15:54 |
+| 🟢 1.1 | 8 km W of Cobb, CA | 17:34 |
+| 🟢 1.2 | 56 km E of McCarthy, Alaska | 17:28 |
+| 🟢 1.8 | 26 km NW of Toyah, Texas | 17:16 |
+| 🟢 2.0 | 39 km SSW of Skwentna, Alaska | 17:10 |
+| 🟢 1.4 | 3 km N of Dublin, CA | 17:02 |
+| 🟠 3.1 | 19 km NW of Ninilchik, Alaska | 16:53 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
