@@ -2,18 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2011:34:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-437ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2013:01:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-202ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 15 km ESE of Halibut Cove, Alaska | 11:27 |
-| 🟢 2.4 | 53 km SSW of Whites City, New Mexico | 11:06 |
-| 🟢 1.6 | 55 km SSW of Whites City, New Mexico | 11:00 |
-| 🟢 1.4 | 56 km E of Egegik, Alaska | 10:58 |
-| 🟢 1.4 | 31 km NE of Pinnacles, CA | 10:38 |
-| 🟢 1.8 | 24 km SE of Kasilof, Alaska | 10:37 |
-| 🟢 1.1 | 77 km NW of Eureka Roadhouse, Alaska | 10:35 |
+| 🟢 1.4 | 57 km E of Egegik, Alaska | 12:57 |
+| 🟢 1.3 | 31 km ESE of Minto, Alaska | 12:33 |
+| 🟢 1.1 | 5 km NW of The Geysers, CA | 12:19 |
+| 🟢 1.7 | 68 km ESE of Cantwell, Alaska | 12:11 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
