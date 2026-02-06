@@ -2,17 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2019:38:20%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-510ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2020:35:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-445ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 15 km S of Salton City, CA | 19:26 |
-| 🟢 1.6 | 15 km WNW of Silver Peak, Nevada | 19:19 |
-| 🟢 2.8 | 25 km W of Sunnyside-Tahoe City, CA | 19:17 |
-| 🟢 1.0 | 2 km SW of Cobb, CA | 19:15 |
-| 🟢 1.9 | 26 km S of Malibu, CA | 18:44 |
-| 🟢 1.5 | 7 km WNW of Cobb, CA | 18:41 |
+| 🟢 1.6 | 40 km NNW of Glacier View, Alaska | 20:32 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 20:23 |
+| 🟢 1.6 | 47 km NW of Toyah, Texas | 20:21 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 20:17 |
+| 🟢 2.6 | 5 km E of La Parguera, Puerto Rico | 19:58 |
+| 🟢 1.4 | 5 km NE of Bradbury, CA | 19:45 |
+| 🟢 1.8 | 14 km S of Fern Forest, Hawaii | 19:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
