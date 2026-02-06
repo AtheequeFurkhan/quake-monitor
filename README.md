@@ -2,16 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2015:40:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-208ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2016:46:04%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-228ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 34 km WSW of Ackerly, Texas | 15:35 |
-| 🟢 2.7 | 16 km SW of Salcha, Alaska | 15:17 |
-| 🟢 1.5 | 52 km NW of Ninilchik, Alaska | 15:05 |
-| 🟢 0.7 | 4 km ESE of Julian, CA | 14:45 |
-| 🟢 1.4 | 15 km WSW of Manley Hot Springs, Alaska | 14:42 |
+| 🟢 2.5 | 43 km NNE of Ouzinkie, Alaska | 16:41 |
+| 🟢 0.5 | 18 km ESE of Anza, CA | 16:40 |
+| 🟢 1.5 | 13 km NE of Little Lake, CA | 16:33 |
+| 🟢 1.3 | 72 km NE of Port Alsworth, Alaska | 16:29 |
+| 🟠 4.8 | 266 km ESE of Ozernovskiy, Russia | 16:20 |
+| 🟢 2.4 | 27 km ENE of Pedro Bay, Alaska | 16:11 |
+| 🟠 4.7 | 0 km NE of Shiraoka, Japan | 15:58 |
+| 🟢 1.8 | 10 km NNE of Ridgecrest, CA | 15:56 |
+| 🟢 1.8 | 77 km S of Kokhanok, Alaska | 15:54 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
