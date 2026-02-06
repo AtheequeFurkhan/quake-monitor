@@ -2,28 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2010:40:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-242ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2011:34:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-437ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.9 | 15 km ESE of Halibut Cove, Alaska | 11:27 |
+| 🟢 2.4 | 53 km SSW of Whites City, New Mexico | 11:06 |
+| 🟢 1.6 | 55 km SSW of Whites City, New Mexico | 11:00 |
+| 🟢 1.4 | 56 km E of Egegik, Alaska | 10:58 |
 | 🟢 1.4 | 31 km NE of Pinnacles, CA | 10:38 |
 | 🟢 1.8 | 24 km SE of Kasilof, Alaska | 10:37 |
 | 🟢 1.1 | 77 km NW of Eureka Roadhouse, Alaska | 10:35 |
-| 🟢 1.3 | 4 km W of Cobb, CA | 10:28 |
-| 🟢 1.7 | 4 km W of Cobb, CA | 10:28 |
-| 🟢 2.7 | 26 km NW of Toyah, Texas | 10:27 |
-| 🟢 1.3 | 22 km SW of Snyder, Texas | 10:26 |
-| 🟠 3.5 | 9 km WNW of Pedro Bay, Alaska | 10:21 |
-| 🟢 1.1 | 24 km NW of Parkfield, CA | 10:21 |
-| 🟢 2.4 | 48 km ESE of Ugashik, Alaska | 10:20 |
-| 🟢 0.7 | 17 km NNE of Indio, CA | 10:06 |
-| 🟢 0.5 | 10 km ENE of Ridgecrest, CA | 10:03 |
-| 🟢 1.6 | 58 km S of Whites City, New Mexico | 10:03 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 09:59 |
-| 🟢 0.9 | 19 km NNE of Indio, CA | 09:49 |
-| 🟢 1.1 | 11 km N of Piru, CA | 09:48 |
-| 🟢 2.7 | 14 km N of Ninilchik, Alaska | 09:45 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
