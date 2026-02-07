@@ -2,20 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2015:26:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-258ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2016:31:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-294ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 16 km E of Little Lake, CA | 15:11 |
-| 🟢 0.5 | 16 km E of Little Lake, CA | 15:10 |
-| 🟢 1.3 | 38 km WNW of Ninilchik, Alaska | 15:03 |
-| 🟢 1.8 | 12 km ESE of Livermore, CA | 14:59 |
-| 🟠 3.1 | 67 km WNW of Ninilchik, Alaska | 14:58 |
-| 🟢 1.5 | 23 km SW of Snyder, Texas | 14:43 |
-| 🟢 0.3 | 6 km NNW of The Geysers, CA | 14:43 |
-| 🟢 1.4 | 25 km SW of Maricopa, CA | 14:41 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 14:31 |
+| 🟢 1.7 | 19 km SE of Pāhala, Hawaii | 16:15 |
+| 🟢 0.6 | 13 km ESE of Anza, CA | 16:07 |
+| 🟢 1.9 | 18 km SE of Pāhala, Hawaii | 16:06 |
+| 🟢 2.2 | 27 km SW of Jal, New Mexico | 16:06 |
+| 🟢 2.9 | 62 km ENE of Cruz Bay, U.S. Virgin Islands | 15:50 |
+| 🟢 0.6 | 59 km WNW of Tyonek, Alaska | 15:44 |
+| 🟢 1.0 | 27 km E of Coso Junction, CA | 15:39 |
+| 🟢 2.0 | 12 km SSE of Volcano, Hawaii | 15:39 |
+| 🟢 1.6 | 40 km SSW of Skwentna, Alaska | 15:33 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
