@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2008:33:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-236ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2009:31:55%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-494ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 17 km E of Rampart, Alaska | 08:14 |
-| 🟢 0.4 | 5 km WSW of Anza, CA | 07:58 |
-| 🟢 1.5 | 39 km SSW of Trapper Creek, Alaska | 07:54 |
-| 🟢 1.6 | 55 km SSE of King Salmon, Alaska | 07:49 |
-| 🟢 1.0 | 2 km ESE of The Geysers, CA | 07:47 |
-| 🟢 0.7 | 5 km WNW of Cobb, CA | 07:41 |
-| 🟢 1.2 | 10 km NE of Gilroy, CA | 07:38 |
-| 🟢 0.8 | 2 km NNE of The Geysers, CA | 07:34 |
+| 🟢 1.5 | 20 km NW of Susitna, Alaska | 09:27 |
+| 🟢 2.3 | 23 km ESE of Naalehu, Hawaii | 09:26 |
+| 🟢 1.7 | 22 km ESE of Naalehu, Hawaii | 09:26 |
+| 🟢 0.0 | 17 km S of Valle Vista, CA | 09:16 |
+| 🟢 2.1 | 20 km W of Anchor Point, Alaska | 08:53 |
+| 🟢 1.3 | 62 km ESE of Knik River, Alaska | 08:45 |
+| 🟢 2.0 | 50 km SSE of Whites City, New Mexico | 08:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
