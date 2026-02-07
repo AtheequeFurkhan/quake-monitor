@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2018:37:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-526ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2019:24:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-178ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.5 | 21 km WNW of Fishhook, Alaska | 19:08 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 18:59 |
+| 🟢 1.1 | 6 km WNW of The Geysers, CA | 18:41 |
+| 🟢 1.4 | 20 km NNE of Indio, CA | 18:38 |
+| 🟠 3.0 | 22 km N of San Antonio, Puerto Rico | 18:33 |
 | 🟢 1.7 | 41 km W of Anchor Point, Alaska | 18:30 |
-| 🟢 1.4 | 87 km WNW of Karluk, Alaska | 18:15 |
-| 🟢 1.5 | 15 km SW of Tyonek, Alaska | 18:11 |
-| 🟢 2.2 | 4 km SSW of Pāhala, Hawaii | 18:06 |
-| 🟢 0.8 | 10 km NW of The Geysers, CA | 18:05 |
-| 🟢 1.2 | 18 km NW of Midland, Texas | 17:49 |
-| 🟢 1.2 | 9 km W of The Geysers, CA | 17:47 |
-| 🟢 0.9 | 7 km SSW of Tres Pinos, CA | 17:45 |
-| 🟢 2.0 | 7 km ENE of Point Possession, Alaska | 17:41 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
