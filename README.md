@@ -2,20 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2006%20Feb%202026%2023:27:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-313ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2002:03:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-487ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 5 km WNW of Cobb, CA | 23:10 |
-| 🟢 2.1 | 48 km WNW of Anchor Point, Alaska | 23:04 |
-| 🟢 1.1 | 38 km NW of Stanton, Texas | 23:01 |
-| 🟢 1.6 | 36 km NE of Crane, Texas | 22:59 |
-| 🟢 2.3 | 4 km SE of San Ramon, CA | 22:45 |
-| 🟢 0.9 | 85 km NNW of Karluk, Alaska | 22:44 |
-| 🟢 0.9 | 14 km W of Mojave, CA | 22:43 |
-| 🟢 0.8 | 8 km NW of The Geysers, CA | 22:28 |
-| 🟢 1.3 | 2 km NNE of The Geysers, CA | 22:27 |
+| 🟢 1.8 | 53 km W of Mentone, Texas | 01:57 |
+| 🟢 2.3 | 1 km ESE of Indios, Puerto Rico | 01:40 |
+| 🟢 1.9 | 100 km N of Yakutat, Alaska | 01:39 |
+| 🟢 1.1 | 10 km WNW of The Geysers, CA | 01:38 |
+| 🟢 1.4 | 7 km NE of Rosarito, B.C., MX | 01:32 |
+| 🟢 1.4 | 2 km S of Redwood Valley, CA | 01:31 |
+| 🟢 3.0 | 1 km ESE of Indios, Puerto Rico | 01:25 |
+| 🟠 3.0 | 55 km N of Brenas, Puerto Rico | 01:16 |
+| 🟢 2.0 | 121 km N of Yakutat, Alaska | 01:11 |
+| 🟢 1.5 | 116 km N of Yakutat, Alaska | 01:06 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
