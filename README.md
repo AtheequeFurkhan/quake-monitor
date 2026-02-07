@@ -2,17 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2019:24:51%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-178ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2020:28:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-121ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.5 | 21 km WNW of Fishhook, Alaska | 19:08 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 18:59 |
-| 🟢 1.1 | 6 km WNW of The Geysers, CA | 18:41 |
-| 🟢 1.4 | 20 km NNE of Indio, CA | 18:38 |
-| 🟠 3.0 | 22 km N of San Antonio, Puerto Rico | 18:33 |
-| 🟢 1.7 | 41 km W of Anchor Point, Alaska | 18:30 |
+| 🟢 1.3 | 4 km ESE of San Ramon, CA | 20:25 |
+| 🟢 0.8 | 8 km WNW of Cobb, CA | 20:11 |
+| 🟢 1.1 | 8 km WNW of Cobb, CA | 20:06 |
+| 🟢 1.1 | 8 km WNW of Cobb, CA | 20:05 |
+| 🟢 2.4 | 8 km NW of The Geysers, CA | 20:05 |
+| 🟠 4.6 | 169 km E of Petropavlovsk-Kamchatsky, Russia | 20:00 |
+| 🟢 0.9 | 85 km NNW of Karluk, Alaska | 19:48 |
+| 🟢 1.9 | 5 km SSW of Pāhala, Hawaii | 19:46 |
+| 🟢 2.1 | 1 km ENE of Hōlualoa, Hawaii | 19:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
