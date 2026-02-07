@@ -2,17 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2021:27:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-206ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2022:27:22%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-212ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 59 km WNW of Anchor Point, Alaska | 21:15 |
-| 🟢 1.9 | 10 km NW of Stockdale, Texas | 21:11 |
-| 🟢 1.7 | 29 km SE of Mina, Nevada | 21:00 |
-| 🟠 4.8 | 116 km SE of António Enes, Mozambique | 20:42 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 20:35 |
-| 🟢 0.5 | 62 km WNW of Tyonek, Alaska | 20:32 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 22:12 |
+| 🟢 0.9 | 15 km NNE of Borrego Springs, CA | 22:05 |
+| 🟢 1.1 | 3 km ENE of Rialto, CA | 21:56 |
+| 🟢 2.4 | 98 km N of Karluk, Alaska | 21:49 |
+| 🟢 1.6 | 10 km E of Hidden Valley Lake, CA | 21:37 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
