@@ -2,18 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2010:27:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-354ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2011:22:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-182ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 17 km W of Nikiski, Alaska | 10:04 |
-| 🟠 3.4 | 65 km SE of Denali National Park, Alaska | 09:52 |
-| 🟢 1.5 | 22 km ENE of San Lucas, CA | 09:39 |
-| 🟢 2.5 | 72 km SE of Kokhanok, Alaska | 09:35 |
-| 🟢 2.1 | 30 km SW of Karluk, Alaska | 09:30 |
-| 🟢 1.5 | 20 km NW of Susitna, Alaska | 09:27 |
-| 🟢 2.3 | 23 km ESE of Naalehu, Hawaii | 09:26 |
+| 🟢 2.1 | 31 km S of Eureka Roadhouse, Alaska | 11:16 |
+| 🟢 0.9 | 7 km W of Cobb, CA | 11:14 |
+| 🟢 1.7 | 78 km ENE of McCarthy, Alaska | 11:11 |
+| 🔴 5.2 | Prince Edward Islands region | 11:03 |
+| 🟢 2.3 | 3 km SSW of Knik, Alaska | 11:01 |
+| 🟢 2.1 | 22 km SE of Burney, CA | 10:55 |
+| 🟢 1.4 | 8 km WSW of Progreso, B.C., MX | 10:52 |
+| 🟢 1.6 | 21 km NNW of Viola, CA | 10:42 |
+| 🟢 0.7 | 9 km WNW of Cobb, CA | 10:41 |
+| 🟢 2.1 | 23 km SE of Burney, CA | 10:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
