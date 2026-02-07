@@ -2,16 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2006:43:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-506ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2007:32:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-409ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.2 | 11 km E of Balmorhea, Texas | 07:26 |
+| 🟢 1.3 | 14 km NW of Stanton, Texas | 07:09 |
+| 🟢 1.4 | 19 km WSW of Susitna North, Alaska | 07:07 |
+| 🟢 0.9 | 6 km WNW of The Geysers, CA | 07:05 |
+| 🟢 1.2 | 27 km E of Coso Junction, CA | 07:03 |
+| 🟢 2.6 | 49 km WNW of Anchor Point, Alaska | 07:00 |
+| 🟢 1.7 | 57 km N of Petersville, Alaska | 06:55 |
+| 🟢 1.1 | 2 km NW of The Geysers, CA | 06:54 |
+| 🟢 0.6 | 13 km ENE of Cloverdale, CA | 06:49 |
+| 🟢 1.2 | 12 km NNW of Piru, CA | 06:46 |
+| 🟢 2.0 | 20 km W of Garden City, Texas | 06:43 |
+| 🟢 2.3 | 87 km W of Akhiok, Alaska | 06:43 |
+| 🟢 0.9 | 13 km NW of The Geysers, CA | 06:40 |
 | 🟢 1.0 | 5 km S of Loyola, CA | 06:32 |
-| 🟢 1.5 | 23 km W of Happy Valley, Alaska | 06:25 |
-| 🟢 1.7 | 37 km ENE of Pedro Bay, Alaska | 06:11 |
-| 🟢 1.9 | 9 km NNE of Cooper Landing, Alaska | 05:57 |
-| 🟢 2.0 | 27 km E of Coso Junction, CA | 05:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
