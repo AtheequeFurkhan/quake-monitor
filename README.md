@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2020:28:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-121ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2021:27:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-206ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.3 | 4 km ESE of San Ramon, CA | 20:25 |
-| 🟢 0.8 | 8 km WNW of Cobb, CA | 20:11 |
-| 🟢 1.1 | 8 km WNW of Cobb, CA | 20:06 |
-| 🟢 1.1 | 8 km WNW of Cobb, CA | 20:05 |
-| 🟢 2.4 | 8 km NW of The Geysers, CA | 20:05 |
-| 🟠 4.6 | 169 km E of Petropavlovsk-Kamchatsky, Russia | 20:00 |
-| 🟢 0.9 | 85 km NNW of Karluk, Alaska | 19:48 |
-| 🟢 1.9 | 5 km SSW of Pāhala, Hawaii | 19:46 |
-| 🟢 2.1 | 1 km ENE of Hōlualoa, Hawaii | 19:42 |
+| 🟢 2.0 | 59 km WNW of Anchor Point, Alaska | 21:15 |
+| 🟢 1.9 | 10 km NW of Stockdale, Texas | 21:11 |
+| 🟢 1.7 | 29 km SE of Mina, Nevada | 21:00 |
+| 🟠 4.8 | 116 km SE of António Enes, Mozambique | 20:42 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 20:35 |
+| 🟢 0.5 | 62 km WNW of Tyonek, Alaska | 20:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
