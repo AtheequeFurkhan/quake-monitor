@@ -2,22 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2012:51:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-200ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2013:44:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-197ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.1 | 25 km W of Minto, Alaska | 13:41 |
+| 🟢 2.7 | 7 km N of Hala‘ula, Hawaii | 13:36 |
+| 🟢 1.9 | 34 km NW of Valdez, Alaska | 13:26 |
+| 🟠 4.6 | 17 km NW of Gyalshing, India | 13:05 |
+| 🟢 1.2 | 7 km ESE of Lake Isabella, CA | 13:04 |
+| 🟢 1.1 | 21 km ESE of Julian, CA | 13:03 |
+| 🟢 1.0 | 19 km N of Indio, CA | 12:53 |
+| 🟠 4.6 | off the coast of Central America | 12:52 |
 | 🟢 1.3 | 7 km NW of The Geysers, CA | 12:43 |
-| 🟢 1.7 | 56 km S of Whites City, New Mexico | 12:38 |
-| 🟢 1.6 | 1 km ESE of Huron, CA | 12:24 |
-| 🟢 0.9 | 18 km N of Indio, CA | 12:20 |
-| 🟢 1.7 | 28 km S of Eureka Roadhouse, Alaska | 12:17 |
-| 🟠 3.9 | 63 km NNE of Otra Banda, Dominican Republic | 12:13 |
-| 🟠 5.0 | off the coast of Central America | 12:05 |
-| 🟢 1.1 | 11 km SE of Middletown, CA | 12:04 |
-| 🟢 2.7 | 12 km SE of Middletown, CA | 12:02 |
-| 🟢 1.0 | 8 km NW of The Geysers, CA | 12:01 |
-| 🟢 0.7 | 8 km ENE of Nuevo, CA | 11:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
