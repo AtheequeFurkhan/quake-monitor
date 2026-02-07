@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2016:31:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-294ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2017:27:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-464ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 19 km SE of Pāhala, Hawaii | 16:15 |
-| 🟢 0.6 | 13 km ESE of Anza, CA | 16:07 |
-| 🟢 1.9 | 18 km SE of Pāhala, Hawaii | 16:06 |
-| 🟢 2.2 | 27 km SW of Jal, New Mexico | 16:06 |
-| 🟢 2.9 | 62 km ENE of Cruz Bay, U.S. Virgin Islands | 15:50 |
-| 🟢 0.6 | 59 km WNW of Tyonek, Alaska | 15:44 |
-| 🟢 1.0 | 27 km E of Coso Junction, CA | 15:39 |
-| 🟢 2.0 | 12 km SSE of Volcano, Hawaii | 15:39 |
-| 🟢 1.6 | 40 km SSW of Skwentna, Alaska | 15:33 |
+| 🟢 1.7 | 22 km SE of Burney, CA | 17:20 |
+| 🟢 1.7 | 36 km WNW of Karluk, Alaska | 17:20 |
+| 🟢 2.1 | 36 km NNE of Larsen Bay, Alaska | 16:58 |
+| 🟢 1.7 | 15 km WSW of Johannesburg, CA | 16:55 |
+| 🟢 2.3 | 54 km S of Cantwell, Alaska | 16:43 |
+| 🟢 0.8 | 2 km E of Winchester, CA | 16:40 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
