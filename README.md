@@ -2,18 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2009:31:55%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-494ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2010:27:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-354ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.1 | 17 km W of Nikiski, Alaska | 10:04 |
+| 🟠 3.4 | 65 km SE of Denali National Park, Alaska | 09:52 |
+| 🟢 1.5 | 22 km ENE of San Lucas, CA | 09:39 |
+| 🟢 2.5 | 72 km SE of Kokhanok, Alaska | 09:35 |
+| 🟢 2.1 | 30 km SW of Karluk, Alaska | 09:30 |
 | 🟢 1.5 | 20 km NW of Susitna, Alaska | 09:27 |
 | 🟢 2.3 | 23 km ESE of Naalehu, Hawaii | 09:26 |
-| 🟢 1.7 | 22 km ESE of Naalehu, Hawaii | 09:26 |
-| 🟢 0.0 | 17 km S of Valle Vista, CA | 09:16 |
-| 🟢 2.1 | 20 km W of Anchor Point, Alaska | 08:53 |
-| 🟢 1.3 | 62 km ESE of Knik River, Alaska | 08:45 |
-| 🟢 2.0 | 50 km SSE of Whites City, New Mexico | 08:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
