@@ -2,21 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2002:03:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-487ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2004:28:12%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-422ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 53 km W of Mentone, Texas | 01:57 |
-| 🟢 2.3 | 1 km ESE of Indios, Puerto Rico | 01:40 |
-| 🟢 1.9 | 100 km N of Yakutat, Alaska | 01:39 |
-| 🟢 1.1 | 10 km WNW of The Geysers, CA | 01:38 |
-| 🟢 1.4 | 7 km NE of Rosarito, B.C., MX | 01:32 |
-| 🟢 1.4 | 2 km S of Redwood Valley, CA | 01:31 |
-| 🟢 3.0 | 1 km ESE of Indios, Puerto Rico | 01:25 |
-| 🟠 3.0 | 55 km N of Brenas, Puerto Rico | 01:16 |
-| 🟢 2.0 | 121 km N of Yakutat, Alaska | 01:11 |
-| 🟢 1.5 | 116 km N of Yakutat, Alaska | 01:06 |
+| 🟠 3.2 | 58 km S of Whites City, New Mexico | 04:03 |
+| 🟢 2.2 | 53 km WSW of Akhiok, Alaska | 03:58 |
+| 🟢 1.8 | 19 km NNE of Indio, CA | 03:48 |
+| 🟢 0.9 | 19 km NNE of Indio, CA | 03:47 |
+| 🟢 1.5 | 14 km W of Toms Place, CA | 03:37 |
+| 🟢 1.0 | 13 km W of Toms Place, CA | 03:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
