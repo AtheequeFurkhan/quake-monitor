@@ -2,22 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2017:27:02%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-464ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2018:37:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-526ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 22 km SE of Burney, CA | 17:20 |
-| 🟢 1.7 | 36 km WNW of Karluk, Alaska | 17:20 |
-| 🟢 2.1 | 36 km NNE of Larsen Bay, Alaska | 16:58 |
-| 🟢 1.7 | 15 km WSW of Johannesburg, CA | 16:55 |
-| 🟢 2.3 | 54 km S of Cantwell, Alaska | 16:43 |
-| 🟢 0.8 | 2 km E of Winchester, CA | 16:40 |
+| 🟢 1.7 | 41 km W of Anchor Point, Alaska | 18:30 |
+| 🟢 1.4 | 87 km WNW of Karluk, Alaska | 18:15 |
+| 🟢 1.5 | 15 km SW of Tyonek, Alaska | 18:11 |
+| 🟢 2.2 | 4 km SSW of Pāhala, Hawaii | 18:06 |
+| 🟢 0.8 | 10 km NW of The Geysers, CA | 18:05 |
+| 🟢 1.2 | 18 km NW of Midland, Texas | 17:49 |
+| 🟢 1.2 | 9 km W of The Geysers, CA | 17:47 |
+| 🟢 0.9 | 7 km SSW of Tres Pinos, CA | 17:45 |
+| 🟢 2.0 | 7 km ENE of Point Possession, Alaska | 17:41 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
-- ⛈️ **Severe Storms**: [Tropical Cyclone 20s](https://www.metoc.navy.mil/jtwc/products/sh2026.tcw) (Feb 07)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Mitchell](https://www.metoc.navy.mil/jtwc/products/sh2026.tcw) (Feb 07)
 - 🔥 **Wildfires**: [RX Cheyenne Point Prescribed Fire, Custer, Oklahoma](https://irwin.doi.gov/observer/incidents/20d222a4-26e5-4440-b30f-da9a97511073) (Feb 05)
 - 🔥 **Wildfires**: [SHNF C-104/107 RX Prescribed Fire, San Jacinto, Texas](https://irwin.doi.gov/observer/incidents/82e148ea-6760-4d25-9683-7f02d0543c13) (Feb 05)
 - ⛈️ **Severe Storms**: [Tropical Storm Penha](https://www.metoc.navy.mil/jtwc/products/wp0226.tcw) (Feb 06)
