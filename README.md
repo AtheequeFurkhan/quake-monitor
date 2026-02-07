@@ -2,21 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2005:42:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-392ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2006:43:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-506ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 5 km E of Badger, Alaska | 05:32 |
-| 🟢 0.9 | 5 km N of Little Lake, CA | 05:22 |
-| 🟢 1.1 | 5 km NNW of The Geysers, CA | 05:21 |
-| 🟢 2.6 | 12 km SSE of Guánica, Puerto Rico | 05:20 |
-| 🟢 1.7 | 11 km SE of Pāhala, Hawaii | 05:12 |
-| 🟢 0.9 | 24 km NNW of Searles Valley, CA | 05:03 |
-| 🟢 1.7 | 6 km S of Brawley, CA | 04:50 |
-| 🟢 1.0 | 7 km NW of The Geysers, CA | 04:45 |
-| 🟢 1.6 | 58 km NW of Toyah, Texas | 04:44 |
-| 🟢 1.6 | 58 km NW of Toyah, Texas | 04:44 |
+| 🟢 1.0 | 5 km S of Loyola, CA | 06:32 |
+| 🟢 1.5 | 23 km W of Happy Valley, Alaska | 06:25 |
+| 🟢 1.7 | 37 km ENE of Pedro Bay, Alaska | 06:11 |
+| 🟢 1.9 | 9 km NNE of Cooper Landing, Alaska | 05:57 |
+| 🟢 2.0 | 27 km E of Coso Junction, CA | 05:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
