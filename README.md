@@ -2,19 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2014:27:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-288ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2015:26:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-258ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 25 km WNW of Inyokern, CA | 14:00 |
-| 🟢 1.2 | 14 km N of Inyokern, CA | 14:00 |
-| 🟢 2.0 | 19 km SW of Ackerly, Texas | 13:59 |
-| 🟢 1.6 | 23 km NNW of Westbrook, Texas | 13:56 |
-| 🟢 1.5 | 25 km SW of Maricopa, CA | 13:55 |
-| 🟢 1.2 | 27 km W of Ferry, Alaska | 13:47 |
-| 🟢 1.1 | 25 km W of Minto, Alaska | 13:41 |
-| 🟢 2.7 | 7 km N of Hala‘ula, Hawaii | 13:36 |
+| 🟢 1.6 | 16 km E of Little Lake, CA | 15:11 |
+| 🟢 0.5 | 16 km E of Little Lake, CA | 15:10 |
+| 🟢 1.3 | 38 km WNW of Ninilchik, Alaska | 15:03 |
+| 🟢 1.8 | 12 km ESE of Livermore, CA | 14:59 |
+| 🟠 3.1 | 67 km WNW of Ninilchik, Alaska | 14:58 |
+| 🟢 1.5 | 23 km SW of Snyder, Texas | 14:43 |
+| 🟢 0.3 | 6 km NNW of The Geysers, CA | 14:43 |
+| 🟢 1.4 | 25 km SW of Maricopa, CA | 14:41 |
+| 🟢 0.8 | 8 km NW of The Geysers, CA | 14:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
