@@ -2,22 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2002:36:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-290ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2005:03:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-198ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 23 km W of Cohoe, Alaska | 02:11 |
-| 🟢 0.5 | 9 km ESE of Valle Vista, CA | 02:03 |
-| 🟢 1.6 | 30 km ENE of Susitna North, Alaska | 02:02 |
-| 🟠 4.9 | 107 km ESE of Takahagi, Japan | 01:59 |
-| 🟢 1.3 | 6 km WNW of Cobb, CA | 01:52 |
-| 🟠 3.4 | 88 km NNE of Cruz Bay, U.S. Virgin Islands | 01:51 |
-| 🟢 2.6 | 108 km N of Yakutat, Alaska | 01:45 |
-| 🟢 1.3 | 4 km W of Cobb, CA | 01:44 |
-| 🟢 1.0 | 15 km W of Johannesburg, CA | 01:43 |
-| 🟢 1.1 | 6 km WNW of Cobb, CA | 01:40 |
-| 🟢 1.8 | 24 km NW of Parkfield, CA | 01:38 |
+| 🟢 2.5 | 3 km SSW of Pāhala, Hawaii | 04:52 |
+| 🟢 1.5 | 4 km W of Cobb, CA | 04:41 |
+| 🟢 1.1 | 8 km WNW of Cobb, CA | 04:40 |
+| 🟢 0.8 | 9 km SW of Idyllwild, CA | 04:33 |
+| 🟢 1.2 | 23 km N of Ridgecrest, CA | 04:26 |
+| 🟢 1.9 | 26 km NNW of Nikiski, Alaska | 04:23 |
+| 🟢 0.5 | 7 km NW of The Geysers, CA | 04:18 |
+| 🟢 1.9 | 31 km WSW of Ackerly, Texas | 04:13 |
+| 🟢 1.8 | 0 km NNE of Pāhala, Hawaii | 04:12 |
+| 🟢 0.6 | 68 km WNW of Beluga, Alaska | 04:06 |
+| 🟢 1.1 | 36 km NW of Stanton, Texas | 04:05 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
