@@ -2,15 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2014:28:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-121ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2015:27:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-131ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 4 km ESE of San Ramon, CA | 14:16 |
-| 🟢 2.9 | 15 km N of Brooktrails, CA | 14:12 |
-| 🟢 2.2 | 15 km E of Stanton, Texas | 14:01 |
-| 🟢 0.8 | 21 km ESE of Little Lake, CA | 13:38 |
+| 🟢 0.2 | 8 km WNW of Cobb, CA | 15:25 |
+| 🟢 1.7 | 36 km NW of Toyah, Texas | 15:20 |
+| 🟢 3.0 | 135 km SSE of Akhiok, Alaska | 15:20 |
+| 🟢 1.0 | 7 km NW of The Geysers, CA | 15:20 |
+| 🟢 0.8 | 6 km W of Cobb, CA | 15:16 |
+| 🟢 2.2 | 16 km N of Brooktrails, CA | 15:16 |
+| 🟢 2.2 | 4 km W of Cobb, CA | 15:11 |
+| 🟢 1.5 | 83 km WNW of Karluk, Alaska | 14:55 |
+| 🟢 1.5 | 14 km E of Rampart, Alaska | 14:52 |
+| 🟢 0.6 | 13 km SSW of Borrego Springs, CA | 14:32 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
