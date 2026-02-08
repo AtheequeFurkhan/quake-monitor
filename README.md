@@ -2,20 +2,26 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2021:27:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-194ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2022:29:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-210ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 50 km S of Glacier View, Alaska | 21:21 |
-| 🟢 0.9 | 10 km W of Pine Valley, CA | 21:16 |
-| 🟢 0.5 | 19 km NNW of Borrego Springs, CA | 20:57 |
-| 🔴 5.1 | 113 km SSE of Akhiok, Alaska | 20:47 |
-| 🟠 3.9 | 127 km SSE of Akhiok, Alaska | 20:45 |
-| 🟠 3.8 | 104 km NNE of Cruz Bay, U.S. Virgin Islands | 20:43 |
-| 🟢 2.0 | 4 km SSE of Dover, Oklahoma | 20:36 |
-| 🟠 4.0 | 134 km SSE of Akhiok, Alaska | 20:36 |
-| 🟢 1.0 | 11 km E of Fox, Alaska | 20:30 |
+| 🟢 1.0 | 10 km W of Pine Valley, CA | 22:22 |
+| 🟢 0.6 | 7 km NW of The Geysers, CA | 22:06 |
+| 🟢 1.0 | 2 km ENE of The Geysers, CA | 22:02 |
+| 🟢 0.8 | 3 km NE of The Geysers, CA | 21:57 |
+| 🟢 1.2 | 2 km WNW of Anderson Springs, CA | 21:56 |
+| 🟢 1.1 | 8 km NW of The Geysers, CA | 21:53 |
+| 🟢 1.1 | 8 km NW of The Geysers, CA | 21:53 |
+| 🟢 1.8 | 6 km NNW of The Geysers, CA | 21:52 |
+| 🟢 1.4 | 6 km NW of The Geysers, CA | 21:47 |
+| 🔴 5.7 | 2 km NW of Santo Tomás Tamazulapam, Mexico | 21:42 |
+| 🟢 1.6 | 10 km ENE of Goldfield, Nevada | 21:38 |
+| 🟢 0.8 | 6 km NNW of The Geysers, CA | 21:38 |
+| 🟢 0.7 | 5 km WNW of The Geysers, CA | 21:35 |
+| 🟢 1.7 | 64 km N of Petersville, Alaska | 21:29 |
+| 🟢 1.9 | 53 km W of Karluk, Alaska | 21:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
