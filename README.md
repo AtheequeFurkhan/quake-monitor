@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2017:27:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-440ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2018:37:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-306ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.7 | 2 km NW of The Geysers, CA | 17:21 |
-| 🟢 1.3 | 14 km S of Borrego Springs, CA | 17:17 |
-| 🟢 2.4 | 66 km ENE of Pedro Bay, Alaska | 17:06 |
-| 🟢 1.2 | 13 km NW of The Geysers, CA | 17:05 |
-| 🟢 1.8 | 53 km WNW of Nikiski, Alaska | 16:56 |
-| 🟢 1.7 | 31 km NW of Toyah, Texas | 16:52 |
-| 🟢 1.7 | 30 km NW of Toyah, Texas | 16:51 |
-| 🟠 4.6 | 17 km S of Shikotan, Russia | 16:50 |
-| 🟢 1.5 | 35 km W of Karluk, Alaska | 16:43 |
+| 🟢 0.8 | 2 km E of Roseland, CA | 18:21 |
+| 🟢 1.2 | 3 km NW of The Geysers, CA | 18:19 |
+| 🟢 1.3 | 20 km SE of Pinnacles, CA | 18:05 |
+| 🟢 1.4 | 10 km SSW of Valencia, CA | 18:04 |
+| 🟢 1.0 | 11 km SSW of Valencia, CA | 18:03 |
+| 🟢 1.8 | 10 km SSW of Valencia, CA | 17:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
