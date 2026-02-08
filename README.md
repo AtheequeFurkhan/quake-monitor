@@ -2,15 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2007%20Feb%202026%2023:31:13%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-398ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2002:36:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-290ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 0 km NNW of The Geysers, CA | 23:07 |
-| 🟢 2.0 | 3 km NW of The Geysers, CA | 23:00 |
-| 🟢 1.4 | 2 km E of The Geysers, CA | 22:58 |
-| 🟠 4.9 | 39 km WSW of Kíssamos, Greece | 22:33 |
+| 🟢 1.7 | 23 km W of Cohoe, Alaska | 02:11 |
+| 🟢 0.5 | 9 km ESE of Valle Vista, CA | 02:03 |
+| 🟢 1.6 | 30 km ENE of Susitna North, Alaska | 02:02 |
+| 🟠 4.9 | 107 km ESE of Takahagi, Japan | 01:59 |
+| 🟢 1.3 | 6 km WNW of Cobb, CA | 01:52 |
+| 🟠 3.4 | 88 km NNE of Cruz Bay, U.S. Virgin Islands | 01:51 |
+| 🟢 2.6 | 108 km N of Yakutat, Alaska | 01:45 |
+| 🟢 1.3 | 4 km W of Cobb, CA | 01:44 |
+| 🟢 1.0 | 15 km W of Johannesburg, CA | 01:43 |
+| 🟢 1.1 | 6 km WNW of Cobb, CA | 01:40 |
+| 🟢 1.8 | 24 km NW of Parkfield, CA | 01:38 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
