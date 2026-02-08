@@ -2,23 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2012:52:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-203ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2013:46:28%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-672ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 23 km NNE of Chickaloon, Alaska | 12:27 |
-| 🟢 1.3 | 85 km WNW of Karluk, Alaska | 12:25 |
-| 🟢 0.2 | 10 km NW of The Geysers, CA | 12:24 |
-| 🟢 0.9 | 9 km NW of The Geysers, CA | 12:23 |
-| 🟢 1.4 | 70 km WNW of Nikiski, Alaska | 12:15 |
-| 🟢 1.1 | 10 km SSW of Valencia, CA | 12:15 |
-| 🟢 1.0 | 6 km NW of The Geysers, CA | 12:15 |
-| 🟢 0.2 | 10 km NW of The Geysers, CA | 12:12 |
-| 🟢 1.3 | 9 km NW of The Geysers, CA | 12:12 |
-| 🔴 5.5 | 45 km SSW of Maisí, Cuba | 12:00 |
-| 🟢 1.9 | 53 km W of Anchor Point, Alaska | 11:57 |
-| 🟢 1.5 | 82 km NNW of Karluk, Alaska | 11:52 |
+| 🟢 0.8 | 21 km ESE of Little Lake, CA | 13:38 |
+| 🟢 1.3 | 78 km N of Chickaloon, Alaska | 13:14 |
+| 🟢 1.2 | 13 km W of Toms Place, CA | 13:01 |
+| 🟢 1.1 | 39 km ENE of McKinney Acres, Texas | 12:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
