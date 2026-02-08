@@ -2,19 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2008:34:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-298ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2009:31:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-314ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 10 km S of Forsan, Texas | 08:27 |
-| 🟢 0.5 | 9 km NW of Anza, CA | 08:20 |
-| 🟢 2.3 | 4 km SE of Devore, CA | 08:11 |
-| 🟢 0.7 | 1 km WSW of The Geysers, CA | 08:11 |
-| 🟢 0.5 | 5 km W of Palomar Observatory, CA | 07:50 |
-| 🟢 2.0 | 50 km SSE of Whites City, New Mexico | 07:47 |
-| 🟢 2.0 | 15 km N of Pāhala, Hawaii | 07:35 |
-| 🟢 2.1 | 55 km SSW of Whites City, New Mexico | 07:35 |
+| 🟢 0.9 | 7 km NW of The Geysers, CA | 09:28 |
+| 🟢 0.4 | 6 km WNW of Cobb, CA | 09:28 |
+| 🟢 0.8 | 9 km WNW of The Geysers, CA | 09:03 |
+| 🟢 1.0 | 14 km N of Four Mile Road, Alaska | 09:00 |
+| 🟢 1.8 | 10 km SSW of Valencia, CA | 08:52 |
+| 🟢 1.5 | 10 km SSW of Valencia, CA | 08:45 |
+| 🟢 2.7 | 10 km SSW of Valencia, CA | 08:39 |
+| 🟢 2.4 | 10 km SSW of Valencia, CA | 08:38 |
+| 🟢 2.0 | 9 km SSW of Valencia, CA | 08:38 |
+| 🟢 1.8 | 10 km SSW of Valencia, CA | 08:38 |
+| 🟢 2.2 | 10 km SSW of Valencia, CA | 08:37 |
+| 🟢 0.7 | 12 km SSE of Anza, CA | 08:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
