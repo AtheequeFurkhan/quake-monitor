@@ -2,18 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2006:52:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-194ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2007:39:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-403ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.8 | 24 km NW of Beluga, Alaska | 07:30 |
+| 🟢 1.8 | 18 km ENE of Willow, Alaska | 07:27 |
+| 🟢 2.6 | 85 km N of Yakutat, Alaska | 07:22 |
+| 🟢 1.2 | 19 km NNE of Four Mile Road, Alaska | 07:11 |
+| 🟢 0.9 | 23 km N of Borrego Springs, CA | 07:07 |
+| 🟢 0.8 | 5 km NW of The Geysers, CA | 07:02 |
+| 🟢 1.4 | 8 km S of Glacier View, Alaska | 06:52 |
+| 🟢 0.5 | 12 km ESE of Anza, CA | 06:51 |
 | 🟢 1.9 | 24 km SW of Snyder, Texas | 06:40 |
-| 🟢 0.8 | 2 km NW of The Geysers, CA | 06:31 |
-| 🟢 2.2 | 18 km ESE of Leilani Estates, Hawaii | 06:27 |
-| 🟢 1.0 | 16 km ESE of Julian, CA | 06:22 |
-| 🟢 2.2 | 3 km SSE of Redwood Valley, CA | 06:14 |
-| 🟠 4.7 | 58 km SSE of Kangding, China | 06:06 |
-| 🟢 2.3 | 79 km W of Akhiok, Alaska | 06:04 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
