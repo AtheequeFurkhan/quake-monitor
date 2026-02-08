@@ -2,20 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2007:39:36%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-403ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2008:34:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-298ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.8 | 24 km NW of Beluga, Alaska | 07:30 |
-| 🟢 1.8 | 18 km ENE of Willow, Alaska | 07:27 |
-| 🟢 2.6 | 85 km N of Yakutat, Alaska | 07:22 |
-| 🟢 1.2 | 19 km NNE of Four Mile Road, Alaska | 07:11 |
-| 🟢 0.9 | 23 km N of Borrego Springs, CA | 07:07 |
-| 🟢 0.8 | 5 km NW of The Geysers, CA | 07:02 |
-| 🟢 1.4 | 8 km S of Glacier View, Alaska | 06:52 |
-| 🟢 0.5 | 12 km ESE of Anza, CA | 06:51 |
-| 🟢 1.9 | 24 km SW of Snyder, Texas | 06:40 |
+| 🟢 1.5 | 10 km S of Forsan, Texas | 08:27 |
+| 🟢 0.5 | 9 km NW of Anza, CA | 08:20 |
+| 🟢 2.3 | 4 km SE of Devore, CA | 08:11 |
+| 🟢 0.7 | 1 km WSW of The Geysers, CA | 08:11 |
+| 🟢 0.5 | 5 km W of Palomar Observatory, CA | 07:50 |
+| 🟢 2.0 | 50 km SSE of Whites City, New Mexico | 07:47 |
+| 🟢 2.0 | 15 km N of Pāhala, Hawaii | 07:35 |
+| 🟢 2.1 | 55 km SSW of Whites City, New Mexico | 07:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
