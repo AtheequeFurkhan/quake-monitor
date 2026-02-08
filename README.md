@@ -2,18 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2016:32:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-358ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2017:27:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-440ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 37 km NW of Toyah, Texas | 16:24 |
-| 🟢 1.8 | 26 km SE of Susitna North, Alaska | 16:15 |
-| 🟢 0.8 | 23 km N of Borrego Springs, CA | 16:08 |
-| 🟢 2.0 | 22 km W of Toyah, Texas | 16:06 |
-| 🟢 1.1 | 4 km W of Cobb, CA | 16:04 |
-| 🟢 1.7 | 0 km S of Indios, Puerto Rico | 15:53 |
-| 🟢 2.5 | 39 km WSW of Salamatof, Alaska | 15:47 |
+| 🟢 0.7 | 2 km NW of The Geysers, CA | 17:21 |
+| 🟢 1.3 | 14 km S of Borrego Springs, CA | 17:17 |
+| 🟢 2.4 | 66 km ENE of Pedro Bay, Alaska | 17:06 |
+| 🟢 1.2 | 13 km NW of The Geysers, CA | 17:05 |
+| 🟢 1.8 | 53 km WNW of Nikiski, Alaska | 16:56 |
+| 🟢 1.7 | 31 km NW of Toyah, Texas | 16:52 |
+| 🟢 1.7 | 30 km NW of Toyah, Texas | 16:51 |
+| 🟠 4.6 | 17 km S of Shikotan, Russia | 16:50 |
+| 🟢 1.5 | 35 km W of Karluk, Alaska | 16:43 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
