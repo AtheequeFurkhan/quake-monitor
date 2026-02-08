@@ -2,22 +2,14 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2010:28:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-110ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2011:24:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-320ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 5 km WSW of Pāhala, Hawaii | 10:23 |
-| 🟢 0.7 | 7 km SSW of Cabazon, CA | 10:19 |
-| 🟢 1.2 | 10 km W of Pine Valley, CA | 10:15 |
-| 🟢 0.6 | 12 km SSE of Anza, CA | 10:11 |
-| 🟢 1.2 | 23 km SW of Snyder, Texas | 10:06 |
-| 🟢 1.2 | 126 km SE of McCarthy, Alaska | 09:53 |
-| 🟢 1.1 | 13 km ENE of Ridgecrest, CA | 09:51 |
-| 🟢 1.1 | 30 km W of Olancha, CA | 09:47 |
-| 🟢 0.4 | 8 km NW of The Geysers, CA | 09:33 |
-| 🟢 1.0 | 8 km NW of The Geysers, CA | 09:32 |
-| 🟢 2.4 | 24 km NNW of Westbrook, Texas | 09:31 |
+| 🟢 0.6 | 22 km E of Julian, CA | 11:18 |
+| 🟢 0.3 | 4 km NW of The Geysers, CA | 10:42 |
+| 🟢 1.2 | 17 km NNE of Indio, CA | 10:37 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
