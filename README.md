@@ -2,17 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2018:37:54%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-306ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2019:25:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-434ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 2 km E of Roseland, CA | 18:21 |
-| 🟢 1.2 | 3 km NW of The Geysers, CA | 18:19 |
-| 🟢 1.3 | 20 km SE of Pinnacles, CA | 18:05 |
-| 🟢 1.4 | 10 km SSW of Valencia, CA | 18:04 |
-| 🟢 1.0 | 11 km SSW of Valencia, CA | 18:03 |
-| 🟢 1.8 | 10 km SSW of Valencia, CA | 17:50 |
+| 🟢 1.2 | 8 km WNW of Cobb, CA | 19:19 |
+| 🟢 1.7 | 8 km WNW of Cobb, CA | 19:18 |
+| 🟢 1.3 | 102 km ESE of McCarthy, Alaska | 19:18 |
+| 🟢 1.4 | 9 km WNW of Cobb, CA | 19:18 |
+| 🟠 3.6 | 8 km WNW of Cobb, CA | 19:17 |
+| 🟠 3.6 | 8 km WNW of Cobb, CA | 19:17 |
+| 🟢 1.6 | 11 km SE of Pinnacles, CA | 19:17 |
+| 🟢 0.7 | 8 km WNW of Cobb, CA | 19:16 |
+| 🟢 1.9 | 56 km SSE of King Salmon, Alaska | 18:52 |
+| 🟠 3.6 | 50 km NE of Valmy, Nevada | 18:49 |
+| 🟢 1.7 | 56 km SSE of King Salmon, Alaska | 18:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
