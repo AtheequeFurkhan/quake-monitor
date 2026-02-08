@@ -2,22 +2,26 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2019:25:53%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-434ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2020:29:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-407ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 8 km WNW of Cobb, CA | 19:19 |
-| 🟢 1.7 | 8 km WNW of Cobb, CA | 19:18 |
-| 🟢 1.3 | 102 km ESE of McCarthy, Alaska | 19:18 |
-| 🟢 1.4 | 9 km WNW of Cobb, CA | 19:18 |
-| 🟠 3.6 | 8 km WNW of Cobb, CA | 19:17 |
-| 🟠 3.6 | 8 km WNW of Cobb, CA | 19:17 |
-| 🟢 1.6 | 11 km SE of Pinnacles, CA | 19:17 |
-| 🟢 0.7 | 8 km WNW of Cobb, CA | 19:16 |
-| 🟢 1.9 | 56 km SSE of King Salmon, Alaska | 18:52 |
-| 🟠 3.6 | 50 km NE of Valmy, Nevada | 18:49 |
-| 🟢 1.7 | 56 km SSE of King Salmon, Alaska | 18:44 |
+| 🟢 0.8 | 2 km N of The Geysers, CA | 20:25 |
+| 🟢 0.8 | 5 km WNW of Cobb, CA | 20:14 |
+| 🟢 1.4 | 9 km NW of The Geysers, CA | 20:10 |
+| 🟢 1.8 | 15 km W of Alberto Oviedo Mota, B.C., MX | 20:01 |
+| 🟢 1.6 | 65 km W of Petersville, Alaska | 19:56 |
+| 🟢 0.6 | 9 km WNW of Cobb, CA | 19:52 |
+| 🟢 1.3 | 9 km W of Forsan, Texas | 19:50 |
+| 🟢 0.8 | 22 km SSW of La Quinta, CA | 19:47 |
+| 🟢 0.9 | 1 km ESE of The Geysers, CA | 19:46 |
+| 🟢 1.5 | 7 km ENE of Hollister, CA | 19:44 |
+| 🟢 0.7 | 9 km WNW of Cobb, CA | 19:40 |
+| 🟢 1.1 | 6 km NW of The Geysers, CA | 19:35 |
+| 🟢 0.7 | 9 km WNW of Cobb, CA | 19:34 |
+| 🟢 1.1 | 8 km WNW of Cobb, CA | 19:32 |
+| 🟢 0.8 | 71 km WNW of Nikiski, Alaska | 19:31 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
