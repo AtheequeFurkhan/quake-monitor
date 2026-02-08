@@ -2,26 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2022:29:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-210ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sun,%2008%20Feb%202026%2023:33:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-392ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 10 km W of Pine Valley, CA | 22:22 |
-| 🟢 0.6 | 7 km NW of The Geysers, CA | 22:06 |
-| 🟢 1.0 | 2 km ENE of The Geysers, CA | 22:02 |
-| 🟢 0.8 | 3 km NE of The Geysers, CA | 21:57 |
-| 🟢 1.2 | 2 km WNW of Anderson Springs, CA | 21:56 |
-| 🟢 1.1 | 8 km NW of The Geysers, CA | 21:53 |
-| 🟢 1.1 | 8 km NW of The Geysers, CA | 21:53 |
-| 🟢 1.8 | 6 km NNW of The Geysers, CA | 21:52 |
-| 🟢 1.4 | 6 km NW of The Geysers, CA | 21:47 |
-| 🔴 5.7 | 2 km NW of Santo Tomás Tamazulapam, Mexico | 21:42 |
-| 🟢 1.6 | 10 km ENE of Goldfield, Nevada | 21:38 |
-| 🟢 0.8 | 6 km NNW of The Geysers, CA | 21:38 |
-| 🟢 0.7 | 5 km WNW of The Geysers, CA | 21:35 |
-| 🟢 1.7 | 64 km N of Petersville, Alaska | 21:29 |
-| 🟢 1.9 | 53 km W of Karluk, Alaska | 21:28 |
+| 🟢 0.5 | 2 km WNW of Cobb, CA | 23:15 |
+| 🟢 0.8 | 16 km W of Stanton, Texas | 23:12 |
+| 🟢 1.1 | 38 km WSW of Ackerly, Texas | 23:00 |
+| 🟢 1.0 | 1 km NE of The Geysers, CA | 22:50 |
+| 🟢 2.9 | 2 km ESE of Pāhala, Hawaii | 22:45 |
+| 🟢 1.9 | 101 km NW of Yakutat, Alaska | 22:44 |
+| 🟠 3.1 | 105 km NNE of Cruz Bay, U.S. Virgin Islands | 22:36 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
