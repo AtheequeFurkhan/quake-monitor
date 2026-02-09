@@ -2,19 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2009%20Feb%202026%2011:44:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-185ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2009%20Feb%202026%2013:11:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-431ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 3 km SW of Anderson Springs, CA | 11:33 |
-| 🟢 0.7 | 9 km WNW of The Geysers, CA | 11:22 |
-| 🟢 0.9 | 18 km NNE of Indio, CA | 11:16 |
-| 🟢 2.4 | 1 km E of Pinnacles, CA | 11:15 |
-| 🟢 0.8 | 9 km W of Cobb, CA | 11:14 |
-| 🟢 0.8 | 5 km NW of The Geysers, CA | 11:07 |
-| 🟢 0.4 | 7 km SSW of Llano, CA | 11:00 |
-| 🟢 0.9 | 3 km NW of Fontana, CA | 10:59 |
+| 🟢 1.5 | 37 km NW of Toyah, Texas | 12:57 |
+| 🟢 1.8 | 4 km WSW of Big Lake, Alaska | 12:29 |
+| 🟢 1.9 | 53 km ESE of Pedro Bay, Alaska | 12:25 |
+| 🟢 1.6 | 13 km NW of Fillmore, CA | 12:24 |
+| 🟢 2.2 | 52 km N of Petersville, Alaska | 12:21 |
+| 🟠 3.3 | 89 km NNE of Cruz Bay, U.S. Virgin Islands | 12:14 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
