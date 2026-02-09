@@ -2,25 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2009%20Feb%202026%2019:13:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-294ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2009%20Feb%202026%2020:40:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-200ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 72 km E of Port Alsworth, Alaska | 19:10 |
-| 🟢 1.6 | 26 km NNW of Valdez, Alaska | 19:07 |
-| 🟢 2.0 | 3 km NW of Dixon Lane-Meadow Creek, CA | 18:59 |
-| 🟠 5.0 | 32 km ESE of Hihifo, Tonga | 18:52 |
-| 🟢 1.0 | 2 km ESE of The Geysers, CA | 18:52 |
-| 🟢 1.4 | 11 km W of Susitna, Alaska | 18:49 |
-| 🟢 1.7 | 7 km ENE of Calumet, Oklahoma | 18:42 |
-| 🟢 1.5 | 46 km WSW of Cantwell, Alaska | 18:39 |
-| 🟢 1.7 | 21 km W of Balmorhea, Texas | 18:36 |
-| 🟢 1.9 | 12 km WSW of Stanton, Texas | 18:35 |
-| 🟢 1.0 | 23 km ENE of San Lucas, CA | 18:29 |
-| 🟢 2.1 | 52 km S of Whites City, New Mexico | 18:29 |
-| 🟢 1.7 | 19 km NNE of Indio, CA | 18:24 |
-| 🟢 1.7 | 11 km SE of Pinnacles, CA | 18:23 |
+| 🟢 1.8 | 28 km NW of Toyah, Texas | 20:29 |
+| 🟢 2.1 | 4 km NNE of Prattville, CA | 20:14 |
+| 🟠 3.3 | 72 km NNE of Cruz Bay, U.S. Virgin Islands | 19:58 |
+| 🟢 1.1 | 8 km SSW of Mojave, CA | 19:51 |
+| 🟢 1.8 | 11 km SE of Pāhala, Hawaii | 19:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
