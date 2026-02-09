@@ -2,23 +2,26 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2009%20Feb%202026%2005:01:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-449ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2009%20Feb%202026%2007:05:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-381ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 20 km NNW of Stanton, Texas | 04:52 |
-| 🟢 2.2 | 169 km S of Lowell Point, Alaska | 04:49 |
-| 🟢 2.3 | 9 km ENE of Calumet, Oklahoma | 04:41 |
-| 🟢 1.5 | 35 km SE of Mina, Nevada | 04:28 |
-| 🟢 1.4 | 11 km SSW of Valencia, CA | 04:27 |
-| 🟢 1.5 | 23 km SW of Snyder, Texas | 04:24 |
-| 🟢 1.5 | 49 km WNW of Salamatof, Alaska | 04:13 |
+| 🟢 2.5 | 19 km ENE of Honaunau-Napoopoo, Hawaii | 06:59 |
+| 🟢 1.5 | 6 km ENE of San Simeon, CA | 06:52 |
+| 🟢 2.0 | 62 km N of Petersville, Alaska | 06:51 |
+| 🟢 2.2 | 38 km WNW of Mentone, Texas | 06:34 |
+| 🟢 2.8 | 12 km WSW of Stanton, Texas | 06:33 |
+| 🟢 0.5 | 15 km WSW of Searles Valley, CA | 06:28 |
+| 🟢 2.0 | 40 km SW of Skwentna, Alaska | 06:16 |
+| 🟢 1.8 | 7 km SSW of Pāhala, Hawaii | 06:15 |
+| 🟢 1.8 | 5 km WNW of The Geysers, CA | 06:07 |
+| 🟢 0.8 | 9 km WNW of The Geysers, CA | 06:06 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
-- ⛈️ **Severe Storms**: [Tropical Cyclone Mitchell](https://www.metoc.navy.mil/jtwc/products/sh2026.tcw) (Feb 08)
+- ⛈️ **Severe Storms**: [Tropical Cyclone Mitchell](https://www.metoc.navy.mil/jtwc/products/sh2026.tcw) (Feb 09)
 - 🔥 **Wildfires**: [RX Cheyenne Point Prescribed Fire, Custer, Oklahoma](https://irwin.doi.gov/observer/incidents/20d222a4-26e5-4440-b30f-da9a97511073) (Feb 05)
 - 🔥 **Wildfires**: [SHNF C-104/107 RX Prescribed Fire, San Jacinto, Texas](https://irwin.doi.gov/observer/incidents/82e148ea-6760-4d25-9683-7f02d0543c13) (Feb 05)
 - ⛈️ **Severe Storms**: [Tropical Storm Penha](https://www.metoc.navy.mil/jtwc/products/wp0226.tcw) (Feb 06)
