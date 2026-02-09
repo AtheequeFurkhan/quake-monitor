@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2009%20Feb%202026%2010:03:52%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-221ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2009%20Feb%202026%2011:44:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-185ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 2 km NNE of The Geysers, CA | 09:57 |
-| 🟢 1.4 | 102 km NW of Yakutat, Alaska | 09:57 |
-| 🟢 1.8 | 6 km SW of Volcano, Hawaii | 09:55 |
-| 🟢 0.6 | 6 km NW of The Geysers, CA | 09:49 |
-| 🟢 1.3 | 56 km WNW of Ninilchik, Alaska | 09:30 |
-| 🟢 2.0 | 13 km E of Pāhala, Hawaii | 09:18 |
-| 🟢 0.8 | 0 km SSW of The Geysers, CA | 09:16 |
-| 🟢 0.7 | 10 km WNW of The Geysers, CA | 09:12 |
+| 🟢 1.2 | 3 km SW of Anderson Springs, CA | 11:33 |
+| 🟢 0.7 | 9 km WNW of The Geysers, CA | 11:22 |
+| 🟢 0.9 | 18 km NNE of Indio, CA | 11:16 |
+| 🟢 2.4 | 1 km E of Pinnacles, CA | 11:15 |
+| 🟢 0.8 | 9 km W of Cobb, CA | 11:14 |
+| 🟢 0.8 | 5 km NW of The Geysers, CA | 11:07 |
+| 🟢 0.4 | 7 km SSW of Llano, CA | 11:00 |
+| 🟢 0.9 | 3 km NW of Fontana, CA | 10:59 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
