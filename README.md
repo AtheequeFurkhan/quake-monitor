@@ -2,25 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2009%20Feb%202026%2014:53:27%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-424ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2009%20Feb%202026%2015:57:34%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-296ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 16 km ESE of Little Lake, CA | 14:47 |
-| 🟢 2.1 | 16 km ESE of Little Lake, CA | 14:45 |
-| 🟢 2.4 | 42 km N of Petersville, Alaska | 14:41 |
-| 🟢 2.3 | 97 km N of Karluk, Alaska | 14:34 |
-| 🟠 3.6 | 32 km NW of Ninilchik, Alaska | 14:31 |
-| 🟢 0.7 | 7 km NW of The Geysers, CA | 14:31 |
-| 🟢 0.8 | 103 km N of Karluk, Alaska | 14:28 |
-| 🟢 1.4 | 13 km WNW of Pinnacles, CA | 14:09 |
-| 🟢 1.6 | 68 km ENE of Pedro Bay, Alaska | 14:09 |
-| 🟠 3.2 | 97 km NE of Cruz Bay, U.S. Virgin Islands | 14:05 |
-| 🟢 0.8 | 3 km SE of The Geysers, CA | 14:00 |
-| 🟢 1.3 | 36 km NNW of Glacier View, Alaska | 13:58 |
-| 🟢 2.8 | 83 km NNE of Cruz Bay, U.S. Virgin Islands | 13:56 |
-| 🟢 0.7 | 62 km WNW of Beluga, Alaska | 13:54 |
+| 🟠 3.8 | 42 km NNE of Cruz Bay, U.S. Virgin Islands | 15:32 |
+| 🟢 0.3 | 6 km WNW of Cobb, CA | 15:28 |
+| 🟢 0.9 | 95 km N of Karluk, Alaska | 15:27 |
+| 🟢 1.9 | 3 km NE of Santa Rosa, CA | 15:23 |
+| 🟢 1.0 | 15 km NE of Borrego Springs, CA | 15:13 |
+| 🟢 1.2 | 17 km NNE of Indio, CA | 15:13 |
+| 🟢 2.0 | 5 km ENE of Calumet, Oklahoma | 15:11 |
+| 🟢 1.7 | 56 km N of Petersville, Alaska | 15:01 |
+| 🟢 1.4 | 48 km NW of Toyah, Texas | 15:00 |
+| 🟢 2.3 | 18 km ESE of Johannesburg, CA | 15:00 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
