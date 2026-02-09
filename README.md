@@ -2,19 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2009%20Feb%202026%2008:54:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-308ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2009%20Feb%202026%2010:03:52%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-221ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 23 km ENE of San Lucas, CA | 08:51 |
-| 🟢 0.7 | 11 km ENE of Ridgecrest, CA | 08:47 |
-| 🟢 0.8 | 12 km SSE of Big Bear City, CA | 08:40 |
-| 🟢 2.8 | 9 km ENE of Calumet, Oklahoma | 08:39 |
-| 🟢 1.5 | 54 km SSW of Glacier View, Alaska | 08:31 |
-| 🟠 5.0 | 149 km WNW of Tobelo, Indonesia | 08:30 |
-| 🟢 1.4 | 43 km W of Tyonek, Alaska | 08:08 |
-| 🟢 1.9 | 44 km WNW of Ninilchik, Alaska | 08:05 |
+| 🟢 1.2 | 2 km NNE of The Geysers, CA | 09:57 |
+| 🟢 1.4 | 102 km NW of Yakutat, Alaska | 09:57 |
+| 🟢 1.8 | 6 km SW of Volcano, Hawaii | 09:55 |
+| 🟢 0.6 | 6 km NW of The Geysers, CA | 09:49 |
+| 🟢 1.3 | 56 km WNW of Ninilchik, Alaska | 09:30 |
+| 🟢 2.0 | 13 km E of Pāhala, Hawaii | 09:18 |
+| 🟢 0.8 | 0 km SSW of The Geysers, CA | 09:16 |
+| 🟢 0.7 | 10 km WNW of The Geysers, CA | 09:12 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
