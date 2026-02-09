@@ -2,16 +2,27 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2009%20Feb%202026%2021:39:48%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-420ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2009%20Feb%202026%2022:37:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-558ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 95 km NW of Yakutat, Alaska | 21:30 |
-| 🟢 1.9 | 7 km NW of The Geysers, CA | 21:26 |
-| 🟢 1.1 | 93 km SSE of King Salmon, Alaska | 21:17 |
-| 🟢 1.0 | 40 km SW of Silver Gate, Montana | 21:00 |
-| 🟢 2.0 | 13 km W of Midland, Texas | 20:56 |
+| 🟢 1.9 | 11 km SE of Pinnacles, CA | 22:32 |
+| 🟢 1.5 | 21 km SSW of Manley Hot Springs, Alaska | 22:32 |
+| 🟢 0.9 | 8 km SSE of Redlands, CA | 22:19 |
+| 🟢 1.7 | 4 km S of Falls City, Texas | 22:13 |
+| 🟢 1.1 | 5 km WNW of Cobb, CA | 22:08 |
+| 🟢 1.2 | 12 km WSW of Stanton, Texas | 22:06 |
+| 🟢 1.6 | 3 km E of San Ramon, CA | 22:05 |
+| 🟢 1.5 | 12 km ESE of Willits, CA | 22:05 |
+| 🟢 1.0 | 6 km NNW of Rancho Cucamonga, CA | 21:59 |
+| 🟢 1.9 | 4 km SW of Tahoe Vista, CA | 21:55 |
+| 🟢 1.9 | 2 km SE of The Geysers, CA | 21:55 |
+| 🟢 1.1 | 8 km W of Cobb, CA | 21:53 |
+| 🟢 2.2 | 87 km NW of Yakutat, Alaska | 21:53 |
+| 🟢 1.6 | 13 km W of Point Possession, Alaska | 21:46 |
+| 🟢 0.2 | 41 km SW of Silver Gate, Montana | 21:46 |
+| 🟢 1.5 | 28 km ENE of Chase, Alaska | 21:39 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
