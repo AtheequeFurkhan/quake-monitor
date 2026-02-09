@@ -2,21 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Mon,%2009%20Feb%202026%2007:05:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-381ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Mon,%2009%20Feb%202026%2008:54:43%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-308ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.5 | 19 km ENE of Honaunau-Napoopoo, Hawaii | 06:59 |
-| 🟢 1.5 | 6 km ENE of San Simeon, CA | 06:52 |
-| 🟢 2.0 | 62 km N of Petersville, Alaska | 06:51 |
-| 🟢 2.2 | 38 km WNW of Mentone, Texas | 06:34 |
-| 🟢 2.8 | 12 km WSW of Stanton, Texas | 06:33 |
-| 🟢 0.5 | 15 km WSW of Searles Valley, CA | 06:28 |
-| 🟢 2.0 | 40 km SW of Skwentna, Alaska | 06:16 |
-| 🟢 1.8 | 7 km SSW of Pāhala, Hawaii | 06:15 |
-| 🟢 1.8 | 5 km WNW of The Geysers, CA | 06:07 |
-| 🟢 0.8 | 9 km WNW of The Geysers, CA | 06:06 |
+| 🟢 1.4 | 23 km ENE of San Lucas, CA | 08:51 |
+| 🟢 0.7 | 11 km ENE of Ridgecrest, CA | 08:47 |
+| 🟢 0.8 | 12 km SSE of Big Bear City, CA | 08:40 |
+| 🟢 2.8 | 9 km ENE of Calumet, Oklahoma | 08:39 |
+| 🟢 1.5 | 54 km SSW of Glacier View, Alaska | 08:31 |
+| 🟠 5.0 | 149 km WNW of Tobelo, Indonesia | 08:30 |
+| 🟢 1.4 | 43 km W of Tyonek, Alaska | 08:08 |
+| 🟢 1.9 | 44 km WNW of Ninilchik, Alaska | 08:05 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
