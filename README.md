@@ -2,17 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2010%20Feb%202026%2018:03:10%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-439ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2010%20Feb%202026%2019:59:59%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-176ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 16 km SE of Pāhala, Hawaii | 17:46 |
-| 🟢 0.5 | 2 km SW of Cobb, CA | 17:31 |
-| 🟢 1.9 | 2 km WSW of Cobb, CA | 17:30 |
-| 🟢 1.8 | 28 km NW of Toyah, Texas | 17:24 |
-| 🟢 1.7 | 28 km NW of Toyah, Texas | 17:24 |
-| 🟢 1.1 | 21 km SE of Midland, Texas | 17:10 |
+| 🟢 1.6 | 4 km ESE of San Ramon, CA | 19:49 |
+| 🟢 2.4 | 3 km SE of Brawley, CA | 19:48 |
+| 🟢 0.8 | 3 km NNW of The Geysers, CA | 19:40 |
+| 🟢 1.2 | 16 km E of Little Lake, CA | 19:33 |
+| 🟢 2.0 | 34 km N of Chenega, Alaska | 19:29 |
+| 🟢 1.3 | 12 km ESE of Cle Elum, Washington | 19:08 |
+| 🟢 1.7 | 7 km N of Fontana, CA | 19:08 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
