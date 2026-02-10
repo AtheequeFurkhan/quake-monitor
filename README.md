@@ -2,23 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2010%20Feb%202026%2005:04:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-402ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2010%20Feb%202026%2007:05:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-369ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 9 km SW of Avenal, CA | 04:54 |
-| 🟢 2.0 | 25 km SW of Petersville, Alaska | 04:49 |
-| 🟢 1.3 | 7 km NW of The Geysers, CA | 04:38 |
-| 🟠 4.0 | 54 km SE of Emporeío, Greece | 04:34 |
-| 🟢 1.3 | 84 km NNW of Karluk, Alaska | 04:28 |
-| 🟢 2.0 | 90 km NW of Yakutat, Alaska | 04:27 |
-| 🟢 1.5 | 45 km SE of Denali National Park, Alaska | 04:26 |
-| 🟢 1.7 | 15 km ENE of Falls City, Texas | 04:24 |
-| 🟢 2.5 | 69 km ESE of Denali National Park, Alaska | 04:18 |
-| 🟠 3.3 | 20 km NNW of Alder Springs, CA | 04:18 |
-| 🟢 0.7 | 8 km NE of Julian, CA | 04:17 |
-| 🟢 1.2 | 3 km NW of The Geysers, CA | 04:07 |
+| 🟢 1.9 | 9 km NE of Pāhala, Hawaii | 06:46 |
+| 🟢 2.1 | 55 km E of Pedro Bay, Alaska | 06:38 |
+| 🟢 0.8 | 4 km WSW of The Geysers, CA | 06:31 |
+| 🟠 3.1 | 73 km NW of Lake Minchumina, Alaska | 06:31 |
+| 🟢 0.7 | 15 km ENE of Mammoth Lakes, CA | 06:27 |
+| 🟢 1.6 | 60 km S of Whites City, New Mexico | 06:25 |
+| 🟢 1.4 | 13 km ESE of Olancha, CA | 06:16 |
+| 🟢 2.3 | 43 km SE of Pedro Bay, Alaska | 06:12 |
+| 🟢 2.1 | 12 km SSE of Volcano, Hawaii | 06:07 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
