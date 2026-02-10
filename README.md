@@ -2,18 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2010%20Feb%202026%2019:59:59%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-176ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2010%20Feb%202026%2020:57:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-244ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 4 km ESE of San Ramon, CA | 19:49 |
-| 🟢 2.4 | 3 km SE of Brawley, CA | 19:48 |
-| 🟢 0.8 | 3 km NNW of The Geysers, CA | 19:40 |
-| 🟢 1.2 | 16 km E of Little Lake, CA | 19:33 |
-| 🟢 2.0 | 34 km N of Chenega, Alaska | 19:29 |
-| 🟢 1.3 | 12 km ESE of Cle Elum, Washington | 19:08 |
-| 🟢 1.7 | 7 km N of Fontana, CA | 19:08 |
+| 🟢 0.6 | 21 km ESE of Little Lake, CA | 20:50 |
+| 🟢 3.0 | 8 km NNW of Meadow Lakes, Alaska | 20:47 |
+| 🟠 4.6 | 9 km NNW of Meadow Lakes, Alaska | 20:42 |
+| 🟢 1.8 | 66 km SE of Cantwell, Alaska | 20:36 |
+| 🟢 2.6 | 48 km NE of Valmy, Nevada | 20:35 |
+| 🟢 1.9 | 13 km WSW of Stanton, Texas | 20:30 |
+| 🟢 2.3 | 13 km W of Stanton, Texas | 20:27 |
+| 🟢 1.5 | 2 km NNW of Enterprise, Nevada | 20:17 |
+| 🟢 2.4 | 21 km NE of Lake Davis, CA | 20:12 |
+| 🟢 0.4 | 2 km NE of Anza, CA | 20:10 |
+| 🟠 4.9 | 37 km SE of Luganville, Vanuatu | 20:03 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
