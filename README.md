@@ -2,20 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2010%20Feb%202026%2013:16:05%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-286ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2010%20Feb%202026%2014:59:31%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-412ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 80 km ENE of Ugashik, Alaska | 13:06 |
-| 🟢 1.4 | 36 km NW of Toyah, Texas | 13:04 |
-| 🟢 1.8 | 22 km SE of Pāhala, Hawaii | 13:02 |
-| 🟢 2.4 | 20 km SE of Pāhala, Hawaii | 12:58 |
-| 🟢 1.7 | 22 km SE of Pāhala, Hawaii | 12:58 |
-| 🟢 2.3 | 55 km W of Karluk, Alaska | 12:53 |
-| 🟢 0.7 | 10 km S of Valle Vista, CA | 12:51 |
-| 🟢 1.5 | 36 km NW of Toyah, Texas | 12:45 |
-| 🟢 2.6 | 4 km SE of San Ramon, CA | 12:18 |
+| 🟢 2.0 | 8 km SSW of Progreso, B.C., MX | 14:44 |
+| 🟢 0.5 | 14 km SW of Searles Valley, CA | 14:41 |
+| 🟢 2.6 | 32 km NW of Toyah, Texas | 14:32 |
+| 🟢 0.6 | 15 km N of Borrego Springs, CA | 14:24 |
+| 🟢 1.4 | 6 km SSE of Eielson Air Force Base, Alaska | 14:02 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 14:00 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
