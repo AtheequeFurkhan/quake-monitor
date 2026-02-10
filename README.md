@@ -2,30 +2,37 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2010%20Feb%202026%2002:30:55%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-314ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2010%20Feb%202026%2005:04:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-402ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 12 km S of Suisun City, CA | 02:22 |
-| 🟢 0.9 | 6 km WNW of Cobb, CA | 02:12 |
-| 🟢 1.5 | 27 km SSE of Rachel, Nevada | 02:12 |
-| 🟢 2.0 | 1 km S of Indios, Puerto Rico | 02:06 |
-| 🟢 1.2 | 44 km NNW of Beluga, Alaska | 01:31 |
+| 🟢 1.0 | 9 km SW of Avenal, CA | 04:54 |
+| 🟢 2.0 | 25 km SW of Petersville, Alaska | 04:49 |
+| 🟢 1.3 | 7 km NW of The Geysers, CA | 04:38 |
+| 🟠 4.0 | 54 km SE of Emporeío, Greece | 04:34 |
+| 🟢 1.3 | 84 km NNW of Karluk, Alaska | 04:28 |
+| 🟢 2.0 | 90 km NW of Yakutat, Alaska | 04:27 |
+| 🟢 1.5 | 45 km SE of Denali National Park, Alaska | 04:26 |
+| 🟢 1.7 | 15 km ENE of Falls City, Texas | 04:24 |
+| 🟢 2.5 | 69 km ESE of Denali National Park, Alaska | 04:18 |
+| 🟠 3.3 | 20 km NNW of Alder Springs, CA | 04:18 |
+| 🟢 0.7 | 8 km NE of Julian, CA | 04:17 |
+| 🟢 1.2 | 3 km NW of The Geysers, CA | 04:07 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
-- ⛈️ **Severe Storms**: [Tropical Cyclone Gezani](https://www.metoc.navy.mil/jtwc/products/sh2126.tcw) (Feb 09)
-- ⛈️ **Severe Storms**: [Tropical Cyclone Mitchell](https://www.metoc.navy.mil/jtwc/products/sh2026.tcw) (Feb 09)
-- 🔥 **Wildfires**: [RX Cheyenne Point Prescribed Fire, Custer, Oklahoma](https://irwin.doi.gov/observer/incidents/20d222a4-26e5-4440-b30f-da9a97511073) (Feb 05)
-- 🔥 **Wildfires**: [SHNF C-104/107 RX Prescribed Fire, San Jacinto, Texas](https://irwin.doi.gov/observer/incidents/82e148ea-6760-4d25-9683-7f02d0543c13) (Feb 05)
-- ⛈️ **Severe Storms**: [Tropical Storm Penha](https://www.metoc.navy.mil/jtwc/products/wp0226.tcw) (Feb 06)
-- 🔥 **Wildfires**: [ST-1 Alpha Wildfire, Highlands, Florida](https://irwin.doi.gov/observer/incidents/87ceaf02-d700-4480-8bf7-ba6f5c2dd38a) (Feb 03)
-- 🔥 **Wildfires**: [Pearl River Connie Hariel Rd Wildfire, Pearl River, Mississippi](https://irwin.doi.gov/observer/incidents/3525af6b-d678-4921-8179-ee50e0b6a7f2) (Feb 03)
-- 🔥 **Wildfires**: [HORSESHOE CREEK (23) Wildfire, Gulf, Florida](https://irwin.doi.gov/observer/incidents/0f0a1d73-7dfe-4113-852f-67a03354b66a) (Feb 02)
-- 🔥 **Wildfires**: [Burns Lake Wildfire, Clay, Texas](https://irwin.doi.gov/observer/incidents/45ad4b4f-7796-4243-aeeb-6f4e57688a47) (Feb 02)
-- 🔥 **Wildfires**: [Quail 05/08/12 RX Prescribed Fire, Cleburne, Alabama](https://irwin.doi.gov/observer/incidents/d8de2499-d432-4db0-a89f-da0d638508b1) (Feb 02)
+- 🔥 **Wildfires**: [Caney Creek RX Prescribed Fire, Winston, Alabama](https://irwin.doi.gov/observer/incidents/5cc287ad-c8b6-473c-b5fc-7677d560cae0) (Feb 09)
+- 🔥 **Wildfires**: [RX Seed Orchard Prescribed Fire, Montgomery, Arkansas](https://irwin.doi.gov/observer/incidents/aa496164-5cf4-4add-babc-243790b2800e) (Feb 09)
+- 🔥 **Wildfires**: [RX HAY TRAP Prescribed Fire, Pittsburg, Oklahoma](https://irwin.doi.gov/observer/incidents/fca99290-0365-4efe-a7d1-bc032a2d6741) (Feb 09)
+- 🔥 **Wildfires**: [RX CALV BU 109 Prescribed Fire, Vernon, Louisiana](https://irwin.doi.gov/observer/incidents/2dfe31b1-aafe-48cb-8077-1c27abc94e0b) (Feb 09)
+- 🔥 **Wildfires**: [RX CAT BU 58 Prescribed Fire, Grant, Louisiana](https://irwin.doi.gov/observer/incidents/20f52bbd-d4b3-4e58-a797-e711cf5248f2) (Feb 09)
+- 🔥 **Wildfires**: [SNF C-11/13/14 Boles Field NE RX Prescribed Fire, Shelby, Texas](https://irwin.doi.gov/observer/incidents/4eb10067-f74a-41f7-b3eb-636ced98327d) (Feb 09)
+- 🔥 **Wildfires**: [RX East Muddy Prescribed Fire, Montgomery, Arkansas](https://irwin.doi.gov/observer/incidents/112aae62-9c63-460f-b13e-de64d710ee18) (Feb 09)
+- 🔥 **Wildfires**: [Bienville CPT 12 RX Prescribed Fire, Scott, Mississippi](https://irwin.doi.gov/observer/incidents/83642eec-a8a1-413c-86d9-64be539056d0) (Feb 08)
+- 🔥 **Wildfires**: [RX CALV BU 114 Prescribed Fire, Vernon, Louisiana](https://irwin.doi.gov/observer/incidents/90070f9f-a23d-4438-8a7e-798121660a31) (Feb 08)
+- 🔥 **Wildfires**: [RX CAT BU 31 Prescribed Fire, Grant, Louisiana](https://irwin.doi.gov/observer/incidents/64e4dd84-6803-431d-833b-c0453f71752d) (Feb 08)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
