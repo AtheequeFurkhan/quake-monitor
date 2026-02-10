@@ -2,17 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2010%20Feb%202026%2014:59:31%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-412ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2010%20Feb%202026%2016:14:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-584ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 8 km SSW of Progreso, B.C., MX | 14:44 |
-| 🟢 0.5 | 14 km SW of Searles Valley, CA | 14:41 |
-| 🟢 2.6 | 32 km NW of Toyah, Texas | 14:32 |
-| 🟢 0.6 | 15 km N of Borrego Springs, CA | 14:24 |
-| 🟢 1.4 | 6 km SSE of Eielson Air Force Base, Alaska | 14:02 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 14:00 |
+| 🟢 2.8 | 57 km WNW of Happy Valley, Alaska | 16:10 |
+| 🟢 1.5 | 5 km W of San Jacinto, CA | 16:10 |
+| 🟢 2.3 | 54 km WNW of Nikiski, Alaska | 16:03 |
+| 🟢 1.9 | 14 km SSE of Fern Forest, Hawaii | 15:57 |
+| 🟢 2.0 | 9 km ESE of Willow, Alaska | 15:57 |
+| 🟢 1.3 | 6 km E of Santa Rosa, CA | 15:38 |
+| 🟢 1.4 | 20 km NE of Coachella, CA | 15:33 |
+| 🟢 1.6 | 7 km W of Calimesa, CA | 15:27 |
+| 🟢 1.4 | 6 km ENE of Yucaipa, CA | 15:27 |
+| 🟢 2.7 | 14 km W of Johannesburg, CA | 15:20 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
