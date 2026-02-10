@@ -2,20 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2010%20Feb%202026%2007:05:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-369ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2010%20Feb%202026%2008:57:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-413ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 9 km NE of Pāhala, Hawaii | 06:46 |
-| 🟢 2.1 | 55 km E of Pedro Bay, Alaska | 06:38 |
-| 🟢 0.8 | 4 km WSW of The Geysers, CA | 06:31 |
-| 🟠 3.1 | 73 km NW of Lake Minchumina, Alaska | 06:31 |
-| 🟢 0.7 | 15 km ENE of Mammoth Lakes, CA | 06:27 |
-| 🟢 1.6 | 60 km S of Whites City, New Mexico | 06:25 |
-| 🟢 1.4 | 13 km ESE of Olancha, CA | 06:16 |
-| 🟢 2.3 | 43 km SE of Pedro Bay, Alaska | 06:12 |
-| 🟢 2.1 | 12 km SSE of Volcano, Hawaii | 06:07 |
+| 🟢 1.4 | 17 km ENE of Gardendale, Texas | 08:50 |
+| 🟠 3.4 | 99 km ENE of Chignik, Alaska | 08:49 |
+| 🟢 1.4 | 16 km ESE of Little Lake, CA | 08:48 |
+| 🟢 1.0 | 16 km NE of Gardendale, Texas | 08:39 |
+| 🟢 1.9 | 16 km ESE of Little Lake, CA | 08:37 |
+| 🟢 1.7 | 60 km S of Whites City, New Mexico | 08:32 |
+| 🟢 0.7 | 9 km NW of The Geysers, CA | 08:20 |
+| 🟢 1.6 | 18 km NNW of Toyah, Texas | 08:19 |
+| 🟠 5.0 | 84 km ENE of Manchioneal, Jamaica | 08:18 |
+| 🟢 0.9 | 20 km ESE of Anza, CA | 08:06 |
+| 🟢 0.7 | 7 km NE of Coso Junction, CA | 08:06 |
+| 🟢 0.8 | 20 km ESE of Anza, CA | 08:05 |
+| 🟢 0.9 | 9 km SE of Ocotillo Wells, CA | 08:03 |
+| 🟢 1.2 | 10 km NE of Coahoma, Texas | 07:58 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
