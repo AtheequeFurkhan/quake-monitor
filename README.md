@@ -2,23 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2010%20Feb%202026%2021:49:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-205ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2010%20Feb%202026%2022:40:41%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-188ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 13 km WSW of Stanton, Texas | 21:45 |
-| 🟢 1.8 | 60 km NNE of Petersville, Alaska | 21:38 |
-| 🟢 1.7 | 60 km S of Whites City, New Mexico | 21:36 |
-| 🟢 2.9 | 13 km WSW of Stanton, Texas | 21:36 |
-| 🟢 2.4 | 33 km NNW of Cooper Landing, Alaska | 21:35 |
-| 🟢 1.3 | 3 km SE of Pacifica, CA | 21:30 |
-| 🟢 2.4 | 9 km NNW of Meadow Lakes, Alaska | 21:16 |
-| 🟢 2.4 | 9 km NNW of Meadow Lakes, Alaska | 21:16 |
-| 🔴 5.6 | 142 km SSW of Gataivai, Samoa | 21:14 |
-| 🟠 4.5 | 12 km SE of Prizren, Kosovo | 21:05 |
-| 🟢 0.6 | 21 km ESE of Little Lake, CA | 20:50 |
-| 🟠 5.0 | 101 km WSW of Pole Ojea, Puerto Rico | 20:49 |
+| 🟢 2.2 | 27 km E of Honaunau-Napoopoo, Hawaii | 22:11 |
+| 🟢 2.2 | 12 km WSW of Stanton, Texas | 22:08 |
+| 🟢 0.9 | 16 km E of Little Lake, CA | 22:04 |
+| 🟢 1.2 | 13 km WSW of Stanton, Texas | 21:45 |
+| 🟢 1.8 | 17 km ENE of Falls City, Texas | 21:42 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
