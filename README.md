@@ -2,22 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Tue,%2010%20Feb%202026%2020:57:11%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-244ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Tue,%2010%20Feb%202026%2021:49:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-205ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.1 | 13 km WSW of Stanton, Texas | 21:45 |
+| 🟢 1.8 | 60 km NNE of Petersville, Alaska | 21:38 |
+| 🟢 1.7 | 60 km S of Whites City, New Mexico | 21:36 |
+| 🟢 2.9 | 13 km WSW of Stanton, Texas | 21:36 |
+| 🟢 2.4 | 33 km NNW of Cooper Landing, Alaska | 21:35 |
+| 🟢 1.3 | 3 km SE of Pacifica, CA | 21:30 |
+| 🟢 2.4 | 9 km NNW of Meadow Lakes, Alaska | 21:16 |
+| 🟢 2.4 | 9 km NNW of Meadow Lakes, Alaska | 21:16 |
+| 🔴 5.6 | 142 km SSW of Gataivai, Samoa | 21:14 |
+| 🟠 4.5 | 12 km SE of Prizren, Kosovo | 21:05 |
 | 🟢 0.6 | 21 km ESE of Little Lake, CA | 20:50 |
-| 🟢 3.0 | 8 km NNW of Meadow Lakes, Alaska | 20:47 |
-| 🟠 4.6 | 9 km NNW of Meadow Lakes, Alaska | 20:42 |
-| 🟢 1.8 | 66 km SE of Cantwell, Alaska | 20:36 |
-| 🟢 2.6 | 48 km NE of Valmy, Nevada | 20:35 |
-| 🟢 1.9 | 13 km WSW of Stanton, Texas | 20:30 |
-| 🟢 2.3 | 13 km W of Stanton, Texas | 20:27 |
-| 🟢 1.5 | 2 km NNW of Enterprise, Nevada | 20:17 |
-| 🟢 2.4 | 21 km NE of Lake Davis, CA | 20:12 |
-| 🟢 0.4 | 2 km NE of Anza, CA | 20:10 |
-| 🟠 4.9 | 37 km SE of Luganville, Vanuatu | 20:03 |
+| 🟠 5.0 | 101 km WSW of Pole Ojea, Puerto Rico | 20:49 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
