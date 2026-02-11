@@ -2,18 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2011%20Feb%202026%2007:02:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-199ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2011%20Feb%202026%2008:52:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-493ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 4 km NNW of The Geysers, CA | 06:57 |
-| 🟢 2.0 | 3 km SW of Anderson Springs, CA | 06:51 |
-| 🔴 5.6 | 253 km SE of Okhotsk, Russia | 06:29 |
-| 🟢 0.5 | 2 km NNW of The Geysers, CA | 06:27 |
-| 🟢 2.0 | 2 km NNW of The Geysers, CA | 06:27 |
-| 🟢 2.2 | 33 km NE of Paxson, Alaska | 06:22 |
-| 🟢 1.2 | 14 km SW of Searles Valley, CA | 06:20 |
+| 🟠 3.2 | 7 km W of Delta, B.C., MX | 08:43 |
+| 🟠 3.7 | 8 km WNW of Delta, B.C., MX | 08:40 |
+| 🟢 2.2 | 26 km E of Indian Springs, Nevada | 08:39 |
+| 🟠 4.2 | 7 km WNW of Delta, B.C., MX | 08:38 |
+| 🟢 2.8 | 6 km WNW of Delta, B.C., MX | 08:37 |
+| 🟢 0.9 | 85 km NW of Karluk, Alaska | 08:33 |
+| 🟢 0.8 | 7 km WNW of The Geysers, CA | 07:54 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
