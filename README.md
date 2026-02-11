@@ -2,25 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2011%20Feb%202026%2009:54:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-198ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2011%20Feb%202026%2010:52:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-356ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 8 km NW of Delta, B.C., MX | 09:36 |
-| 🟢 1.7 | 56 km S of Whites City, New Mexico | 09:36 |
-| 🟢 2.0 | 71 km E of Port Alsworth, Alaska | 09:34 |
-| 🟢 1.6 | 52 km S of Silver Peak, Nevada | 09:30 |
-| 🟢 2.0 | 6 km NW of Delta, B.C., MX | 09:27 |
-| 🟢 2.0 | 92 km WNW of Aleneva, Alaska | 09:19 |
-| 🟠 3.5 | 7 km WNW of Delta, B.C., MX | 09:14 |
-| 🟢 1.4 | 10 km WNW of Johannesburg, CA | 09:13 |
-| 🟢 2.3 | 8 km NW of Delta, B.C., MX | 09:12 |
-| 🟢 2.1 | 9 km WNW of Delta, B.C., MX | 09:07 |
-| 🟠 3.1 | 8 km NW of Delta, B.C., MX | 09:01 |
-| 🟠 3.5 | 8 km NW of Delta, B.C., MX | 08:56 |
-| 🟢 1.4 | 19 km NNE of Indio, CA | 08:56 |
-| 🟢 1.5 | 8 km NW of Delta, B.C., MX | 08:54 |
+| 🟢 1.0 | 9 km NE of Julian, CA | 10:46 |
+| 🟢 2.0 | 14 km ENE of Pāhala, Hawaii | 10:44 |
+| 🟢 0.9 | 4 km WNW of The Geysers, CA | 10:42 |
+| 🟢 1.9 | 2 km NE of Huron, CA | 10:37 |
+| 🟢 2.3 | 83 km ESE of Egegik, Alaska | 10:35 |
+| 🟢 1.7 | 57 km S of Whites City, New Mexico | 10:29 |
+| 🟢 2.2 | 57 km W of Anchor Point, Alaska | 10:25 |
+| 🟢 1.6 | 1 km NNE of The Geysers, CA | 10:02 |
+| 🟢 1.9 | 3 km WSW of Hermosa Beach, CA | 09:55 |
+| 🟢 0.7 | 7 km N of Anza, CA | 09:55 |
+| 🟢 2.2 | 6 km NNW of Meadow Lakes, Alaska | 09:54 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
