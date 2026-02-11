@@ -2,22 +2,33 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2011%20Feb%202026%2010:52:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-356ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2011%20Feb%202026%2011:45:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-497ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.5 | 16 km WNW of Bridgeport, CA | 11:41 |
+| 🟢 2.1 | 5 km SW of Ridgemark, CA | 11:39 |
+| 🟢 2.5 | 5 km SW of Ridgemark, CA | 11:37 |
+| 🟢 2.3 | 8 km NNW of Meadow Lakes, Alaska | 11:36 |
+| 🟠 3.3 | 5 km SW of Ridgemark, CA | 11:34 |
+| 🟢 2.4 | 8 km ENE of Calumet, Oklahoma | 11:33 |
+| 🟢 2.5 | 5 km SW of Ridgemark, CA | 11:30 |
+| 🟢 1.5 | 15 km ENE of Falls City, Texas | 11:26 |
+| 🟢 1.1 | 8 km W of Cobb, CA | 11:24 |
+| 🟢 1.9 | 45 km WNW of Nanwalek, Alaska | 11:16 |
+| 🟢 0.9 | 4 km W of Cobb, CA | 11:10 |
+| 🟢 1.9 | 8 km SE of Pinnacles, CA | 11:06 |
+| 🟢 1.5 | 6 km SE of Valle Vista, CA | 11:02 |
+| 🟠 4.6 | 51 km N of Kandrian, Papua New Guinea | 11:00 |
+| 🟢 1.7 | 13 km WSW of Stanton, Texas | 11:00 |
+| 🟢 1.0 | 20 km ENE of Coachella, CA | 10:59 |
+| 🟢 1.2 | 20 km NE of Coachella, CA | 10:56 |
+| 🟢 0.7 | 66 km WNW of Beluga, Alaska | 10:55 |
+| 🟢 2.4 | 20 km NE of Coachella, CA | 10:54 |
+| 🟢 1.6 | 31 km WSW of Furnace Creek, California | 10:51 |
+| 🟢 1.6 | 25 km WNW of Inyokern, CA | 10:51 |
 | 🟢 1.0 | 9 km NE of Julian, CA | 10:46 |
-| 🟢 2.0 | 14 km ENE of Pāhala, Hawaii | 10:44 |
-| 🟢 0.9 | 4 km WNW of The Geysers, CA | 10:42 |
-| 🟢 1.9 | 2 km NE of Huron, CA | 10:37 |
-| 🟢 2.3 | 83 km ESE of Egegik, Alaska | 10:35 |
-| 🟢 1.7 | 57 km S of Whites City, New Mexico | 10:29 |
-| 🟢 2.2 | 57 km W of Anchor Point, Alaska | 10:25 |
-| 🟢 1.6 | 1 km NNE of The Geysers, CA | 10:02 |
-| 🟢 1.9 | 3 km WSW of Hermosa Beach, CA | 09:55 |
-| 🟢 0.7 | 7 km N of Anza, CA | 09:55 |
-| 🟢 2.2 | 6 km NNW of Meadow Lakes, Alaska | 09:54 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
