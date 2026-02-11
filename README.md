@@ -2,19 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2011%20Feb%202026%2013:12:52%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-274ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2011%20Feb%202026%2014:54:38%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-561ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.9 | 62 km SE of Kokhanok, Alaska | 13:04 |
-| 🟢 2.0 | 5 km SW of Fortuna, CA | 13:00 |
-| 🟢 0.9 | 8 km NNE of Banning, CA | 12:58 |
-| 🟢 2.4 | 8 km SE of Pinnacles, CA | 12:55 |
-| 🟢 2.6 | 6 km NNW of Meadow Lakes, Alaska | 12:48 |
-| 🟢 1.7 | 9 km NNW of Meadow Lakes, Alaska | 12:38 |
-| 🟢 1.0 | 5 km N of Moreno Valley, CA | 12:30 |
-| 🟢 0.5 | 18 km E of Julian, CA | 12:21 |
+| 🟢 2.1 | 8 km ENE of Calumet, Oklahoma | 14:48 |
+| 🟢 1.7 | 3 km SSW of Cobb, CA | 14:41 |
+| 🟢 1.9 | 3 km SE of Brawley, CA | 14:16 |
+| 🟢 1.2 | 5 km WNW of Cobb, CA | 14:12 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
