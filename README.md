@@ -2,21 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2011%20Feb%202026%2005:03:38%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-417ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2011%20Feb%202026%2007:02:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-199ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 32 km NW of Toyah, Texas | 04:54 |
-| 🟢 1.0 | 34 km WSW of Tyonek, Alaska | 04:37 |
-| 🟢 1.9 | 76 km WNW of Petersville, Alaska | 04:29 |
-| 🟢 2.1 | 54 km NNW of Yakutat, Alaska | 04:29 |
-| 🟢 1.3 | 4 km ESE of Yorba Linda, CA | 04:25 |
-| 🟢 2.1 | 8 km ENE of Pāhala, Hawaii | 04:21 |
-| 🟢 1.2 | 20 km NE of Coachella, CA | 04:19 |
-| 🟢 2.0 | 35 km SE of Beatty, Nevada | 04:10 |
-| 🟠 4.7 | 201 km ESE of Ozernovskiy, Russia | 04:06 |
-| 🟢 1.8 | 7 km ENE of Pāhala, Hawaii | 04:04 |
+| 🟢 0.8 | 4 km NNW of The Geysers, CA | 06:57 |
+| 🟢 2.0 | 3 km SW of Anderson Springs, CA | 06:51 |
+| 🔴 5.6 | 253 km SE of Okhotsk, Russia | 06:29 |
+| 🟢 0.5 | 2 km NNW of The Geysers, CA | 06:27 |
+| 🟢 2.0 | 2 km NNW of The Geysers, CA | 06:27 |
+| 🟢 2.2 | 33 km NE of Paxson, Alaska | 06:22 |
+| 🟢 1.2 | 14 km SW of Searles Valley, CA | 06:20 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
