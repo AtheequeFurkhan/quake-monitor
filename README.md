@@ -2,18 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2011%20Feb%202026%2008:52:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-493ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2011%20Feb%202026%2009:54:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-198ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟠 3.2 | 7 km W of Delta, B.C., MX | 08:43 |
-| 🟠 3.7 | 8 km WNW of Delta, B.C., MX | 08:40 |
-| 🟢 2.2 | 26 km E of Indian Springs, Nevada | 08:39 |
-| 🟠 4.2 | 7 km WNW of Delta, B.C., MX | 08:38 |
-| 🟢 2.8 | 6 km WNW of Delta, B.C., MX | 08:37 |
-| 🟢 0.9 | 85 km NW of Karluk, Alaska | 08:33 |
-| 🟢 0.8 | 7 km WNW of The Geysers, CA | 07:54 |
+| 🟢 1.7 | 8 km NW of Delta, B.C., MX | 09:36 |
+| 🟢 1.7 | 56 km S of Whites City, New Mexico | 09:36 |
+| 🟢 2.0 | 71 km E of Port Alsworth, Alaska | 09:34 |
+| 🟢 1.6 | 52 km S of Silver Peak, Nevada | 09:30 |
+| 🟢 2.0 | 6 km NW of Delta, B.C., MX | 09:27 |
+| 🟢 2.0 | 92 km WNW of Aleneva, Alaska | 09:19 |
+| 🟠 3.5 | 7 km WNW of Delta, B.C., MX | 09:14 |
+| 🟢 1.4 | 10 km WNW of Johannesburg, CA | 09:13 |
+| 🟢 2.3 | 8 km NW of Delta, B.C., MX | 09:12 |
+| 🟢 2.1 | 9 km WNW of Delta, B.C., MX | 09:07 |
+| 🟠 3.1 | 8 km NW of Delta, B.C., MX | 09:01 |
+| 🟠 3.5 | 8 km NW of Delta, B.C., MX | 08:56 |
+| 🟢 1.4 | 19 km NNE of Indio, CA | 08:56 |
+| 🟢 1.5 | 8 km NW of Delta, B.C., MX | 08:54 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
