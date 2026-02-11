@@ -2,33 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2011%20Feb%202026%2011:45:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-497ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2011%20Feb%202026%2013:12:52%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-274ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.5 | 16 km WNW of Bridgeport, CA | 11:41 |
-| 🟢 2.1 | 5 km SW of Ridgemark, CA | 11:39 |
-| 🟢 2.5 | 5 km SW of Ridgemark, CA | 11:37 |
-| 🟢 2.3 | 8 km NNW of Meadow Lakes, Alaska | 11:36 |
-| 🟠 3.3 | 5 km SW of Ridgemark, CA | 11:34 |
-| 🟢 2.4 | 8 km ENE of Calumet, Oklahoma | 11:33 |
-| 🟢 2.5 | 5 km SW of Ridgemark, CA | 11:30 |
-| 🟢 1.5 | 15 km ENE of Falls City, Texas | 11:26 |
-| 🟢 1.1 | 8 km W of Cobb, CA | 11:24 |
-| 🟢 1.9 | 45 km WNW of Nanwalek, Alaska | 11:16 |
-| 🟢 0.9 | 4 km W of Cobb, CA | 11:10 |
-| 🟢 1.9 | 8 km SE of Pinnacles, CA | 11:06 |
-| 🟢 1.5 | 6 km SE of Valle Vista, CA | 11:02 |
-| 🟠 4.6 | 51 km N of Kandrian, Papua New Guinea | 11:00 |
-| 🟢 1.7 | 13 km WSW of Stanton, Texas | 11:00 |
-| 🟢 1.0 | 20 km ENE of Coachella, CA | 10:59 |
-| 🟢 1.2 | 20 km NE of Coachella, CA | 10:56 |
-| 🟢 0.7 | 66 km WNW of Beluga, Alaska | 10:55 |
-| 🟢 2.4 | 20 km NE of Coachella, CA | 10:54 |
-| 🟢 1.6 | 31 km WSW of Furnace Creek, California | 10:51 |
-| 🟢 1.6 | 25 km WNW of Inyokern, CA | 10:51 |
-| 🟢 1.0 | 9 km NE of Julian, CA | 10:46 |
+| 🟢 2.9 | 62 km SE of Kokhanok, Alaska | 13:04 |
+| 🟢 2.0 | 5 km SW of Fortuna, CA | 13:00 |
+| 🟢 0.9 | 8 km NNE of Banning, CA | 12:58 |
+| 🟢 2.4 | 8 km SE of Pinnacles, CA | 12:55 |
+| 🟢 2.6 | 6 km NNW of Meadow Lakes, Alaska | 12:48 |
+| 🟢 1.7 | 9 km NNW of Meadow Lakes, Alaska | 12:38 |
+| 🟢 1.0 | 5 km N of Moreno Valley, CA | 12:30 |
+| 🟢 0.5 | 18 km E of Julian, CA | 12:21 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
