@@ -2,19 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2011%20Feb%202026%2021:34:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-200ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2011%20Feb%202026%2022:30:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-206ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.7 | 8 km ENE of Calumet, Oklahoma | 22:03 |
+| 🟢 0.7 | 11 km SW of Searles Valley, CA | 22:01 |
+| 🟢 1.0 | 26 km SSE of Cantwell, Alaska | 21:53 |
+| 🟢 0.9 | 13 km W of Johannesburg, CA | 21:52 |
+| 🟢 0.2 | 16 km NE of Little Lake, CA | 21:52 |
+| 🟢 1.8 | 15 km W of Toyah, Texas | 21:50 |
+| 🟢 2.3 | 31 km NNW of Karluk, Alaska | 21:34 |
+| 🟢 2.3 | 31 km NW of Toyah, Texas | 21:33 |
 | 🟢 1.4 | 5 km WNW of Cobb, CA | 21:31 |
 | 🟢 0.3 | 7 km NW of The Geysers, CA | 21:30 |
-| 🟢 1.7 | 11 km E of Goldfield, Nevada | 21:29 |
-| 🟢 1.1 | 6 km S of Idyllwild, CA | 20:51 |
-| 🟢 1.5 | 69 km W of Cantwell, Alaska | 20:48 |
-| 🟢 0.7 | 8 km W of Cobb, CA | 20:48 |
-| 🟢 1.4 | 3 km SE of Home Gardens, CA | 20:45 |
-| 🟢 2.1 | 31 km NW of Toyah, Texas | 20:34 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
