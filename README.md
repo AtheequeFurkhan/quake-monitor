@@ -2,17 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Wed,%2011%20Feb%202026%2020:40:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-226ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Wed,%2011%20Feb%202026%2021:34:42%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-200ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.4 | 5 km WNW of Cobb, CA | 21:31 |
+| 🟢 0.3 | 7 km NW of The Geysers, CA | 21:30 |
+| 🟢 1.7 | 11 km E of Goldfield, Nevada | 21:29 |
+| 🟢 1.1 | 6 km S of Idyllwild, CA | 20:51 |
+| 🟢 1.5 | 69 km W of Cantwell, Alaska | 20:48 |
+| 🟢 0.7 | 8 km W of Cobb, CA | 20:48 |
+| 🟢 1.4 | 3 km SE of Home Gardens, CA | 20:45 |
 | 🟢 2.1 | 31 km NW of Toyah, Texas | 20:34 |
-| 🟢 1.1 | 21 km NNE of Indio, CA | 20:31 |
-| 🟢 1.1 | 21 km NNE of Indio, CA | 20:31 |
-| 🟢 1.7 | 10 km SSE of Pāhala, Hawaii | 20:07 |
-| 🟢 2.1 | 8 km S of Mojave, CA | 19:56 |
-| 🟢 1.1 | 3 km NNW of The Geysers, CA | 19:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
