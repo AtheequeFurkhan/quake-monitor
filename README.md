@@ -2,32 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2002:22:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-460ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2004:58:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-382ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.7 | 78 km ESE of Chignik, Alaska | 02:16 |
-| 🟢 2.0 | 8 km ENE of Calumet, Oklahoma | 02:12 |
-| 🟢 2.2 | 8 km ENE of Calumet, Oklahoma | 02:06 |
-| 🟢 2.8 | 27 km ENE of Sterling, Alaska | 02:06 |
-| 🟢 2.0 | 2 km NNE of Sunol, CA | 02:04 |
-| 🟢 2.6 | 8 km S of Centerville, South Carolina | 02:00 |
-| 🟢 1.0 | 6 km WNW of Cobb, CA | 01:56 |
-| 🟢 2.6 | 3 km NNE of Sunol, CA | 01:53 |
-| 🟢 2.0 | 26 km NNE of Mentone, Texas | 01:49 |
-| 🟢 2.1 | 83 km SSE of Igiugig, Alaska | 01:42 |
-| 🟢 1.6 | 20 km NNW of Mentone, Texas | 01:42 |
-| 🟢 3.0 | 14 km W of Petrolia, CA | 01:41 |
-| 🟠 3.5 | 71 km W of Petrolia, CA | 01:39 |
-| 🟢 2.2 | 33 km NW of Valdez, Alaska | 01:36 |
-| 🟢 2.0 | 26 km NNE of Mentone, Texas | 01:36 |
-| 🟢 1.4 | 23 km NW of Mentone, Texas | 01:34 |
-| 🟢 1.9 | 3 km SSW of Pleasanton, CA | 01:31 |
-| 🟢 1.5 | 19 km NNE of Mentone, Texas | 01:30 |
-| 🟢 1.4 | 20 km NE of Coachella, CA | 01:29 |
-| 🟢 0.9 | 3 km SW of San Bernardino, CA | 01:27 |
-| 🟢 1.1 | 13 km WSW of Stanton, Texas | 01:24 |
+| 🟢 2.2 | 12 km ESE of Susitna, Alaska | 04:54 |
+| 🟢 2.0 | 9 km SE of Loco, Oklahoma | 04:24 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 04:22 |
+| 🟠 3.1 | 94 km NNE of Cruz Bay, U.S. Virgin Islands | 04:15 |
+| 🟢 1.5 | 11 km W of Forsan, Texas | 04:11 |
+| 🟢 1.1 | 15 km NE of Little Lake, CA | 04:10 |
+| 🟠 4.1 | 33 km NW of Ancud, Chile | 04:05 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
