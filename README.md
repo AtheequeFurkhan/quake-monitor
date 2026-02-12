@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2004:58:44%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-382ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2006:09:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-225ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.2 | 12 km ESE of Susitna, Alaska | 04:54 |
-| 🟢 2.0 | 9 km SE of Loco, Oklahoma | 04:24 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 04:22 |
-| 🟠 3.1 | 94 km NNE of Cruz Bay, U.S. Virgin Islands | 04:15 |
-| 🟢 1.5 | 11 km W of Forsan, Texas | 04:11 |
-| 🟢 1.1 | 15 km NE of Little Lake, CA | 04:10 |
-| 🟠 4.1 | 33 km NW of Ancud, Chile | 04:05 |
+| 🟢 1.4 | 3 km SE of Brawley, CA | 05:57 |
+| 🟢 1.5 | 27 km SW of Garden City, Texas | 05:38 |
+| 🟢 1.5 | 38 km NNW of Mentone, Texas | 05:34 |
+| 🟢 1.6 | 34 km SE of Malaga, New Mexico | 05:28 |
+| 🟢 2.2 | 27 km SW of Garden City, Texas | 05:27 |
+| 🟢 1.2 | 98 km NNW of Karluk, Alaska | 05:25 |
+| 🟢 1.7 | 23 km NNE of Skwentna, Alaska | 05:19 |
+| 🟢 1.6 | 4 km S of Trapper Creek, Alaska | 05:15 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
