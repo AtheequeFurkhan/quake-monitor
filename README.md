@@ -2,21 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2008:50:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-405ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2009:52:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-183ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 22 km SW of Toms Place, CA | 08:47 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 08:42 |
-| 🟢 1.1 | 6 km NW of The Geysers, CA | 08:37 |
-| 🟢 0.9 | 20 km ESE of Anza, CA | 08:33 |
-| 🟢 0.8 | 3 km NE of The Geysers, CA | 08:30 |
-| 🟢 1.1 | 3 km SSW of Cobb, CA | 08:21 |
-| 🟢 0.7 | 6 km NW of The Geysers, CA | 08:00 |
-| 🟢 2.1 | 58 km SSW of Whites City, New Mexico | 07:55 |
-| 🟢 3.0 | 12 km SSE of Edgerton, Wyoming | 07:54 |
-| 🟢 2.2 | 27 km ENE of Susitna North, Alaska | 07:52 |
+| 🟢 1.8 | 41 km ENE of Paxson, Alaska | 09:43 |
+| 🟢 1.8 | 23 km W of Mentone, Texas | 09:43 |
+| 🟢 1.0 | 6 km NW of The Geysers, CA | 09:37 |
+| 🟢 0.9 | 3 km NNE of Fontana, CA | 09:36 |
+| 🟢 1.8 | 8 km ENE of Calumet, Oklahoma | 09:34 |
+| 🟢 0.9 | 9 km NW of The Geysers, CA | 09:29 |
+| 🟢 0.3 | 10 km WNW of The Geysers, CA | 09:03 |
+| 🟢 1.5 | 14 km W of Johannesburg, CA | 09:00 |
+| 🟢 1.2 | 21 km SW of Toms Place, CA | 08:55 |
+| 🟢 1.8 | 10 km S of Pāhala, Hawaii | 08:53 |
+| 🟢 1.8 | 6 km S of Centerville, South Carolina | 08:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
