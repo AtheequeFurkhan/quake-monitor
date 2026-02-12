@@ -2,19 +2,26 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2006:09:35%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-225ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2007:52:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-214ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 3 km SE of Brawley, CA | 05:57 |
-| 🟢 1.5 | 27 km SW of Garden City, Texas | 05:38 |
-| 🟢 1.5 | 38 km NNW of Mentone, Texas | 05:34 |
-| 🟢 1.6 | 34 km SE of Malaga, New Mexico | 05:28 |
-| 🟢 2.2 | 27 km SW of Garden City, Texas | 05:27 |
-| 🟢 1.2 | 98 km NNW of Karluk, Alaska | 05:25 |
-| 🟢 1.7 | 23 km NNE of Skwentna, Alaska | 05:19 |
-| 🟢 1.6 | 4 km S of Trapper Creek, Alaska | 05:15 |
+| 🟢 1.9 | 6 km E of Waimea, Hawaii | 07:48 |
+| 🟢 1.5 | 55 km S of Whites City, New Mexico | 07:40 |
+| 🟢 1.6 | 11 km SSW of Skwentna, Alaska | 07:38 |
+| 🟢 2.2 | 61 km SE of Kokhanok, Alaska | 07:30 |
+| 🟢 2.0 | 56 km S of Whites City, New Mexico | 07:20 |
+| 🟢 1.5 | 4 km W of Cobb, CA | 07:18 |
+| 🟠 3.2 | 13 km S of Olancha, CA | 07:16 |
+| 🟢 1.9 | 6 km SSW of Pāhala, Hawaii | 07:15 |
+| 🟢 1.8 | 14 km NE of Pāhala, Hawaii | 07:12 |
+| 🟢 1.7 | 3 km SSW of Cobb, CA | 07:07 |
+| 🟢 0.7 | 3 km SSW of Cobb, CA | 07:06 |
+| 🟢 1.3 | 11 km W of Pine Valley, CA | 07:04 |
+| 🟢 1.6 | 16 km W of Johannesburg, CA | 07:01 |
+| 🟢 1.5 | 6 km NW of The Geysers, CA | 06:57 |
+| 🟢 0.3 | 9 km S of Idyllwild, CA | 06:53 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
