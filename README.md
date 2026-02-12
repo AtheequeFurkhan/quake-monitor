@@ -2,16 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2013:10:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-441ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2014:48:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-449ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 12:38 |
-| 🟢 1.6 | 58 km S of Whites City, New Mexico | 12:31 |
-| 🟢 2.1 | 13 km SE of Pāhala, Hawaii | 12:25 |
-| 🟢 0.7 | 32 km NW of Toyah, Texas | 12:20 |
-| 🟢 0.6 | 7 km NW of The Geysers, CA | 12:13 |
+| 🟢 1.0 | 6 km NW of The Geysers, CA | 14:38 |
+| 🟢 1.3 | 2 km ENE of The Geysers, CA | 14:33 |
+| 🟢 2.2 | 20 km ENE of Susitna North, Alaska | 14:25 |
+| 🟢 1.2 | 2 km NE of Danville, CA | 14:01 |
+| 🟢 2.6 | 22 km SSW of Frazier Park, CA | 13:58 |
+| 🟢 1.2 | 10 km W of Pine Valley, CA | 13:52 |
+| 🔴 5.1 | 275 km E of Levuka, Fiji | 13:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
