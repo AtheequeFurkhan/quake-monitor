@@ -2,24 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2020:36:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-266ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2021:34:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-385ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 19 km SE of Pāhala, Hawaii | 20:27 |
-| 🟢 2.0 | 19 km SE of Pāhala, Hawaii | 20:27 |
-| 🟢 1.7 | 15 km NE of Little Lake, CA | 20:27 |
-| 🟢 1.8 | 11 km WSW of Stanton, Texas | 20:23 |
-| 🟢 1.9 | 47 km SSE of Nelchina, Alaska | 20:14 |
-| 🟢 2.6 | 3 km N of Prattville, CA | 20:06 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 20:02 |
-| 🟢 1.4 | 6 km NNW of Lakeside, CA | 19:59 |
-| 🟢 1.1 | 13 km SE of Tehachapi, CA | 19:57 |
-| 🟢 1.3 | 13 km ESE of Coso Junction, CA | 19:53 |
-| 🟢 0.6 | 4 km W of Lake Henshaw, CA | 19:52 |
-| 🟠 3.6 | 31 km NE of Sterling, Alaska | 19:51 |
-| 🟢 2.3 | 27 km NW of Nikiski, Alaska | 19:48 |
+| 🟢 0.9 | 19 km NNE of Indio, CA | 21:25 |
+| 🟢 1.8 | 18 km SE of Pāhala, Hawaii | 20:54 |
+| 🟢 0.8 | 5 km NW of The Geysers, CA | 20:53 |
+| 🟢 1.8 | 65 km W of Happy Valley, Alaska | 20:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
