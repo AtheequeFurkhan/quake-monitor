@@ -2,26 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2007:52:57%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-214ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2008:50:08%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-405ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 6 km E of Waimea, Hawaii | 07:48 |
-| 🟢 1.5 | 55 km S of Whites City, New Mexico | 07:40 |
-| 🟢 1.6 | 11 km SSW of Skwentna, Alaska | 07:38 |
-| 🟢 2.2 | 61 km SE of Kokhanok, Alaska | 07:30 |
-| 🟢 2.0 | 56 km S of Whites City, New Mexico | 07:20 |
-| 🟢 1.5 | 4 km W of Cobb, CA | 07:18 |
-| 🟠 3.2 | 13 km S of Olancha, CA | 07:16 |
-| 🟢 1.9 | 6 km SSW of Pāhala, Hawaii | 07:15 |
-| 🟢 1.8 | 14 km NE of Pāhala, Hawaii | 07:12 |
-| 🟢 1.7 | 3 km SSW of Cobb, CA | 07:07 |
-| 🟢 0.7 | 3 km SSW of Cobb, CA | 07:06 |
-| 🟢 1.3 | 11 km W of Pine Valley, CA | 07:04 |
-| 🟢 1.6 | 16 km W of Johannesburg, CA | 07:01 |
-| 🟢 1.5 | 6 km NW of The Geysers, CA | 06:57 |
-| 🟢 0.3 | 9 km S of Idyllwild, CA | 06:53 |
+| 🟢 1.8 | 22 km SW of Toms Place, CA | 08:47 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 08:42 |
+| 🟢 1.1 | 6 km NW of The Geysers, CA | 08:37 |
+| 🟢 0.9 | 20 km ESE of Anza, CA | 08:33 |
+| 🟢 0.8 | 3 km NE of The Geysers, CA | 08:30 |
+| 🟢 1.1 | 3 km SSW of Cobb, CA | 08:21 |
+| 🟢 0.7 | 6 km NW of The Geysers, CA | 08:00 |
+| 🟢 2.1 | 58 km SSW of Whites City, New Mexico | 07:55 |
+| 🟢 3.0 | 12 km SSE of Edgerton, Wyoming | 07:54 |
+| 🟢 2.2 | 27 km ENE of Susitna North, Alaska | 07:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
