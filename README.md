@@ -2,18 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2014:48:58%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-449ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2015:54:21%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-356ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 6 km NW of The Geysers, CA | 14:38 |
-| 🟢 1.3 | 2 km ENE of The Geysers, CA | 14:33 |
-| 🟢 2.2 | 20 km ENE of Susitna North, Alaska | 14:25 |
-| 🟢 1.2 | 2 km NE of Danville, CA | 14:01 |
-| 🟢 2.6 | 22 km SSW of Frazier Park, CA | 13:58 |
-| 🟢 1.2 | 10 km W of Pine Valley, CA | 13:52 |
-| 🔴 5.1 | 275 km E of Levuka, Fiji | 13:52 |
+| 🟢 0.9 | 10 km W of Pine Valley, CA | 15:48 |
+| 🟢 1.6 | 68 km ESE of Cantwell, Alaska | 15:46 |
+| 🟢 0.5 | 9 km NW of The Geysers, CA | 15:41 |
+| 🟢 2.0 | 11 km S of Volcano, Hawaii | 15:39 |
+| 🟢 1.4 | 35 km NW of Stanton, Texas | 15:36 |
+| 🟢 1.0 | 20 km SE of Midland, Texas | 15:10 |
+| 🟢 2.1 | 6 km N of Diamond Ridge, Alaska | 14:58 |
+| 🟢 1.9 | 5 km ENE of San Pedro, CA | 14:54 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
