@@ -2,15 +2,16 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2011:40:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-193ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2013:10:15%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-441ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.1 | 56 km S of Whites City, New Mexico | 11:35 |
-| 🟢 2.2 | 17 km S of Denali National Park, Alaska | 11:16 |
-| 🟢 0.6 | 8 km W of Cobb, CA | 10:50 |
-| 🟢 1.9 | 8 km ENE of Calumet, Oklahoma | 10:43 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 12:38 |
+| 🟢 1.6 | 58 km S of Whites City, New Mexico | 12:31 |
+| 🟢 2.1 | 13 km SE of Pāhala, Hawaii | 12:25 |
+| 🟢 0.7 | 32 km NW of Toyah, Texas | 12:20 |
+| 🟢 0.6 | 7 km NW of The Geysers, CA | 12:13 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
