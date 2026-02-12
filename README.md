@@ -2,21 +2,20 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2022:34:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-187ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2023:30:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-370ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 1.7 | 15 km NW of Las Vegas, Nevada | 23:14 |
+| 🟢 2.5 | 58 km W of Petrolia, CA | 23:13 |
+| 🟢 1.5 | 56 km S of Whites City, New Mexico | 23:11 |
+| 🟢 2.4 | 61 km W of Petrolia, CA | 23:02 |
+| 🟠 3.4 | 1 km NW of Point MacKenzie, Alaska | 22:54 |
+| 🟢 2.0 | 10 km ENE of Chickaloon, Alaska | 22:39 |
+| 🟢 2.0 | 56 km S of Kingston, Nevada | 22:38 |
 | 🟢 1.1 | 5 km NW of The Geysers, CA | 22:31 |
-| 🟢 2.3 | 20 km ENE of Nelson, Nevada | 22:15 |
-| 🟢 2.0 | 27 km NNE of Tonopah, Nevada | 22:10 |
-| 🟢 2.0 | 20 km SE of Pāhala, Hawaii | 22:04 |
-| 🟢 2.9 | 58 km NNE of Petersville, Alaska | 22:00 |
-| 🔴 5.5 | 97 km SE of Katsuren-haebaru, Japan | 21:48 |
-| 🟢 1.2 | 2 km ESE of Yorba Linda, CA | 21:40 |
-| 🟢 1.1 | 16 km ESE of Little Lake, CA | 21:39 |
-| 🟢 1.1 | 16 km E of Little Lake, CA | 21:38 |
-| 🟢 1.2 | 7 km ENE of Westmorland, CA | 21:37 |
+| 🟢 1.9 | 10 km NNW of Pāhala, Hawaii | 22:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
