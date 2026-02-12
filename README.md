@@ -2,22 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2010:48:30%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-114ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2011:40:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-193ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
+| 🟢 2.1 | 56 km S of Whites City, New Mexico | 11:35 |
+| 🟢 2.2 | 17 km S of Denali National Park, Alaska | 11:16 |
+| 🟢 0.6 | 8 km W of Cobb, CA | 10:50 |
 | 🟢 1.9 | 8 km ENE of Calumet, Oklahoma | 10:43 |
-| 🟢 1.7 | 14 km W of Toms Place, CA | 10:37 |
-| 🔴 5.5 | 48 km N of Yigo Village, Guam | 10:30 |
-| 🟢 1.4 | 52 km ESE of Denali Park, Alaska | 10:26 |
-| 🟢 2.1 | 5 km SW of Guánica, Puerto Rico | 10:17 |
-| 🟢 0.6 | 2 km NW of The Geysers, CA | 10:04 |
-| 🟢 0.7 | 20 km NE of Coachella, CA | 10:00 |
-| 🟢 1.1 | 15 km W of Johannesburg, CA | 09:52 |
-| 🟢 1.7 | 14 km ENE of Ocotillo, CA | 09:52 |
-| 🟢 0.6 | 15 km SSW of La Quinta, CA | 09:51 |
-| 🟢 1.1 | 7 km NW of The Geysers, CA | 09:50 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
