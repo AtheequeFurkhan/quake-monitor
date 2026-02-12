@@ -2,31 +2,38 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2019:49:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-655ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2020:36:23%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-266ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.6 | 6 km WNW of Cobb, CA | 19:23 |
-| 🟢 1.5 | 6 km E of Toyah, Texas | 19:22 |
-| 🟢 1.8 | 15 km W of Kalaoa, Hawaii | 19:18 |
-| 🟢 2.3 | 10 km SE of Pāhala, Hawaii | 19:14 |
-| 🟢 2.1 | 58 km WNW of Happy Valley, Alaska | 19:01 |
-| 🟢 1.8 | 8 km NW of The Geysers, CA | 18:51 |
+| 🟢 1.8 | 19 km SE of Pāhala, Hawaii | 20:27 |
+| 🟢 2.0 | 19 km SE of Pāhala, Hawaii | 20:27 |
+| 🟢 1.7 | 15 km NE of Little Lake, CA | 20:27 |
+| 🟢 1.8 | 11 km WSW of Stanton, Texas | 20:23 |
+| 🟢 1.9 | 47 km SSE of Nelchina, Alaska | 20:14 |
+| 🟢 2.6 | 3 km N of Prattville, CA | 20:06 |
+| 🟢 0.8 | 6 km NW of The Geysers, CA | 20:02 |
+| 🟢 1.4 | 6 km NNW of Lakeside, CA | 19:59 |
+| 🟢 1.1 | 13 km SE of Tehachapi, CA | 19:57 |
+| 🟢 1.3 | 13 km ESE of Coso Junction, CA | 19:53 |
+| 🟢 0.6 | 4 km W of Lake Henshaw, CA | 19:52 |
+| 🟠 3.6 | 31 km NE of Sterling, Alaska | 19:51 |
+| 🟢 2.3 | 27 km NW of Nikiski, Alaska | 19:48 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
 
-- 🔥 **Wildfires**: [Caney Creek RX Prescribed Fire, Winston, Alabama](https://irwin.doi.gov/observer/incidents/5cc287ad-c8b6-473c-b5fc-7677d560cae0) (Feb 09)
-- 🔥 **Wildfires**: [RX Seed Orchard Prescribed Fire, Montgomery, Arkansas](https://irwin.doi.gov/observer/incidents/aa496164-5cf4-4add-babc-243790b2800e) (Feb 09)
-- 🔥 **Wildfires**: [RX HAY TRAP Prescribed Fire, Pittsburg, Oklahoma](https://irwin.doi.gov/observer/incidents/fca99290-0365-4efe-a7d1-bc032a2d6741) (Feb 09)
-- 🔥 **Wildfires**: [RX CALV BU 109 Prescribed Fire, Vernon, Louisiana](https://irwin.doi.gov/observer/incidents/2dfe31b1-aafe-48cb-8077-1c27abc94e0b) (Feb 09)
-- 🔥 **Wildfires**: [RX CAT BU 58 Prescribed Fire, Grant, Louisiana](https://irwin.doi.gov/observer/incidents/20f52bbd-d4b3-4e58-a797-e711cf5248f2) (Feb 09)
-- 🔥 **Wildfires**: [SNF C-11/13/14 Boles Field NE RX Prescribed Fire, Shelby, Texas](https://irwin.doi.gov/observer/incidents/4eb10067-f74a-41f7-b3eb-636ced98327d) (Feb 09)
-- 🔥 **Wildfires**: [RX East Muddy Prescribed Fire, Montgomery, Arkansas](https://irwin.doi.gov/observer/incidents/112aae62-9c63-460f-b13e-de64d710ee18) (Feb 09)
-- 🔥 **Wildfires**: [Bienville CPT 12 RX Prescribed Fire, Scott, Mississippi](https://irwin.doi.gov/observer/incidents/83642eec-a8a1-413c-86d9-64be539056d0) (Feb 08)
-- 🔥 **Wildfires**: [RX CALV BU 114 Prescribed Fire, Vernon, Louisiana](https://irwin.doi.gov/observer/incidents/90070f9f-a23d-4438-8a7e-798121660a31) (Feb 08)
-- 🔥 **Wildfires**: [RX CAT BU 31 Prescribed Fire, Grant, Louisiana](https://irwin.doi.gov/observer/incidents/64e4dd84-6803-431d-833b-c0453f71752d) (Feb 08)
+- 🔥 **Wildfires**: [Rx Polk 1121 Prescribed Fire, Polk, Texas](https://irwin.doi.gov/observer/incidents/46081a4f-7fe0-483b-8c65-76984a0011e9) (Feb 12)
+- 🔥 **Wildfires**: [Rx Polk 1087 Prescribed Fire, Polk, Texas](https://irwin.doi.gov/observer/incidents/5407cb5b-d2cf-4c19-affd-210cefee267e) (Feb 12)
+- 🔥 **Wildfires**: [RX Throckmorton 1127 Prescribed Fire, Throckmorton, Texas](https://irwin.doi.gov/observer/incidents/0d3c9ef0-3065-4336-bc44-8c2e8a566575) (Feb 12)
+- 🔥 **Wildfires**: [Berryman CCC Blocks B C RX Prescribed Fire, Washington, Missouri](https://irwin.doi.gov/observer/incidents/c098a8aa-bac5-4b94-b0c6-4f2386f828b0) (Feb 12)
+- 🔥 **Wildfires**: [640 Wildfire, Polk, Florida](https://irwin.doi.gov/observer/incidents/0d22ddf3-4c36-44f0-a95e-caa01ce378d3) (Feb 11)
+- 🔥 **Wildfires**: [Flat Tire Wildfire, Beaver, Oklahoma](https://irwin.doi.gov/observer/incidents/6f8043f9-8533-4870-9f15-d0c10ba6c27f) (Feb 11)
+- 🔥 **Wildfires**: [Rx Polk 1040 Prescribed Fire, Polk, Texas](https://irwin.doi.gov/observer/incidents/825b224e-e179-44a7-95ea-5729abd842b3) (Feb 11)
+- 🔥 **Wildfires**: [W BOUNDARY RD Wildfire, Hendry, Florida](https://irwin.doi.gov/observer/incidents/8b789518-3f05-4119-89ce-cdfaadfeb99b) (Feb 11)
+- 🔥 **Wildfires**: [GRAY Wildfire, McIntosh, Oklahoma](https://irwin.doi.gov/observer/incidents/9c186aba-1600-4bcf-8699-4a2aaefffca6) (Feb 11)
+- 🔥 **Wildfires**: [RX Herrods Creek Hare Mtn Prescribed Fire, Franklin, Arkansas](https://irwin.doi.gov/observer/incidents/bf5dfa22-9d03-455b-aa98-acc7eb376e18) (Feb 11)
 
 ---
 Generated automatically by [GitHub Actions](https://github.com/features/actions) running a [Go](https://go.dev/) script.
