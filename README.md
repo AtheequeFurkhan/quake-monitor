@@ -2,17 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2017:00:07%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-731ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2018:02:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-3.872s-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 3 km SSW of Pāhala, Hawaii | 16:55 |
-| 🟢 0.9 | 15 km ESE of Little Lake, CA | 16:55 |
-| 🟢 1.9 | 76 km E of Cantwell, Alaska | 16:30 |
-| 🟢 1.6 | 57 km S of Whites City, New Mexico | 16:29 |
-| 🟢 2.4 | 49 km W of Anchor Point, Alaska | 16:15 |
-| 🟢 0.8 | 12 km WNW of The Geysers, CA | 16:09 |
+| 🟢 1.9 | 45 km S of Nelchina, Alaska | 17:57 |
+| 🟢 0.7 | 77 km WNW of Ninilchik, Alaska | 17:44 |
+| 🟢 0.8 | 20 km ENE of Coachella, CA | 17:39 |
+| 🟢 1.6 | 2 km S of Tahoe Vista, California | 17:28 |
+| 🟢 0.3 | 7 km NW of The Geysers, CA | 17:25 |
+| 🟢 1.9 | 14 km N of Coyanosa, Texas | 17:10 |
+| 🟢 2.4 | 11 km W of Forsan, Texas | 17:09 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
