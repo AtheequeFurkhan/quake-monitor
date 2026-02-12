@@ -2,15 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2021:34:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-385ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2022:34:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-187ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 19 km NNE of Indio, CA | 21:25 |
-| 🟢 1.8 | 18 km SE of Pāhala, Hawaii | 20:54 |
-| 🟢 0.8 | 5 km NW of The Geysers, CA | 20:53 |
-| 🟢 1.8 | 65 km W of Happy Valley, Alaska | 20:44 |
+| 🟢 1.1 | 5 km NW of The Geysers, CA | 22:31 |
+| 🟢 2.3 | 20 km ENE of Nelson, Nevada | 22:15 |
+| 🟢 2.0 | 27 km NNE of Tonopah, Nevada | 22:10 |
+| 🟢 2.0 | 20 km SE of Pāhala, Hawaii | 22:04 |
+| 🟢 2.9 | 58 km NNE of Petersville, Alaska | 22:00 |
+| 🔴 5.5 | 97 km SE of Katsuren-haebaru, Japan | 21:48 |
+| 🟢 1.2 | 2 km ESE of Yorba Linda, CA | 21:40 |
+| 🟢 1.1 | 16 km ESE of Little Lake, CA | 21:39 |
+| 🟢 1.1 | 16 km E of Little Lake, CA | 21:38 |
+| 🟢 1.2 | 7 km ENE of Westmorland, CA | 21:37 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
