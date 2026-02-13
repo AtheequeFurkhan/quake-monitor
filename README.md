@@ -2,23 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2015:42:37%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-336ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2016:49:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-182ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.9 | 21 km WSW of Manhattan Beach, CA | 15:30 |
-| 🟢 0.8 | 4 km E of Ocotillo Wells, CA | 15:29 |
-| 🟢 0.9 | 10 km WNW of Cobb, CA | 15:26 |
-| 🟢 1.2 | 14 km WSW of Toms Place, CA | 15:23 |
-| 🟢 1.1 | 11 km ENE of Morgan Hill, CA | 15:14 |
-| 🟢 2.9 | 56 km SW of Tatitlek, Alaska | 15:11 |
-| 🟠 4.9 | 275 km N of Tobelo, Indonesia | 15:09 |
-| 🟢 1.7 | 61 km NNE of Petersville, Alaska | 15:08 |
-| 🟢 1.7 | 3 km ENE of Wildomar, CA | 14:58 |
-| 🔴 5.6 | 277 km N of Tobelo, Indonesia | 14:57 |
-| 🟢 2.4 | 53 km SW of Cantwell, Alaska | 14:50 |
-| 🟢 1.1 | 108 km S of McCarthy, Alaska | 14:42 |
+| 🟢 0.9 | 13 km W of Toms Place, CA | 16:35 |
+| 🟢 1.8 | 28 km S of Dyer, Nevada | 16:33 |
+| 🟢 1.6 | 16 km N of Brooktrails, CA | 16:29 |
+| 🟢 1.1 | 14 km W of Toms Place, CA | 16:26 |
+| 🟢 2.0 | 29 km W of Volcano, Hawaii | 16:16 |
+| 🟢 0.8 | 6 km WSW of Anza, CA | 16:16 |
+| 🟢 1.3 | 85 km NNW of Karluk, Alaska | 16:13 |
+| 🟢 1.5 | 18 km NW of Parkfield, CA | 16:13 |
+| 🟠 4.6 | 124 km SSE of Kūh Sefīd, Iran | 16:03 |
+| 🟠 4.9 | 259 km N of Tobelo, Indonesia | 15:55 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
