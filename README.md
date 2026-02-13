@@ -2,17 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2013:01:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-217ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2014:40:50%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-460ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 60 km S of Whites City, New Mexico | 12:53 |
-| 🟢 1.6 | 63 km S of Whites City, New Mexico | 12:53 |
-| 🟢 1.5 | 118 km NW of Yakutat, Alaska | 12:47 |
-| 🟠 3.2 | 12 km NNW of Meadow Lakes, Alaska | 12:36 |
-| 🟢 1.6 | 26 km WNW of Anchor Point, Alaska | 12:10 |
-| 🟢 2.4 | 21 km SE of Pāhala, Hawaii | 12:06 |
+| 🟢 2.6 | 14 km W of Primrose, Alaska | 14:33 |
+| 🟢 1.9 | 65 km SSE of Pope-Vannoy Landing, Alaska | 14:27 |
+| 🟢 0.7 | 10 km W of Pine Valley, CA | 14:26 |
+| 🟢 1.6 | 50 km SSE of Denali National Park, Alaska | 14:20 |
+| 🟢 2.4 | 48 km SSE of Denali National Park, Alaska | 14:16 |
+| 🟢 2.0 | 90 km WNW of Yakutat, Alaska | 14:13 |
+| 🟢 2.1 | 14 km ENE of Willow, Alaska | 14:13 |
+| 🟢 2.4 | 13 km NNW of Hope, Alaska | 14:02 |
+| 🟢 1.1 | 82 km NNW of Karluk, Alaska | 13:58 |
+| 🟠 3.5 | 48 km SE of Egegik, Alaska | 13:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
