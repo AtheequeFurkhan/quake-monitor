@@ -2,23 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2008:43:26%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-338ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2009:45:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-229ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 9 km S of Borrego Springs, CA | 08:39 |
-| 🟢 1.9 | 9 km ENE of Calumet, Oklahoma | 08:38 |
-| 🟢 2.0 | 9 km ESE of Happy Valley, Alaska | 08:33 |
-| 🟢 1.8 | 20 km SSE of Pāhala, Hawaii | 08:32 |
-| 🟢 1.1 | 9 km S of Borrego Springs, CA | 08:24 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 08:21 |
-| 🟢 1.8 | 20 km NE of Mentone, Texas | 08:11 |
-| 🟢 1.1 | 8 km S of Borrego Springs, CA | 08:11 |
-| 🟢 0.8 | 8 km S of Borrego Springs, CA | 08:11 |
-| 🟢 0.6 | 8 km S of Borrego Springs, CA | 08:01 |
-| 🟢 1.6 | 9 km S of Borrego Springs, CA | 07:59 |
-| 🟢 0.4 | 2 km ENE of Anza, CA | 07:45 |
+| 🟢 2.5 | 22 km SW of Cantwell, Alaska | 09:40 |
+| 🟢 1.7 | 25 km SE of Clam Gulch, Alaska | 09:26 |
+| 🟢 1.8 | 21 km WNW of Fishhook, Alaska | 09:22 |
+| 🟢 1.6 | 19 km NNE of Indio, CA | 09:06 |
+| 🟢 1.7 | 11 km WSW of Stanton, Texas | 09:04 |
+| 🟢 1.8 | 10 km SSE of Pāhala, Hawaii | 08:54 |
+| 🟢 0.6 | 8 km S of Borrego Springs, CA | 08:48 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
