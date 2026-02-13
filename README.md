@@ -2,22 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2006:00:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-411ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2007:50:17%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-323ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 91 km NW of Yakutat, Alaska | 05:47 |
-| 🟢 2.3 | 39 km WSW of Empire, Nevada | 05:46 |
-| 🟢 1.5 | 9 km N of Cantwell, Alaska | 05:25 |
-| 🟢 2.0 | 11 km SW of Honoka‘a, Hawaii | 05:20 |
-| 🟢 2.1 | 36 km NNE of Chickaloon, Alaska | 05:19 |
-| 🟢 1.4 | 8 km SSE of Redlands, CA | 05:19 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 05:12 |
-| 🟢 1.8 | 36 km NNW of Petersville, Alaska | 05:12 |
-| 🟢 1.1 | 7 km NW of The Geysers, CA | 05:10 |
-| 🟢 0.8 | 19 km NNE of Indio, CA | 05:06 |
-| 🟢 1.4 | 8 km SSE of Redlands, CA | 05:02 |
+| 🟢 0.4 | 2 km ENE of Anza, CA | 07:45 |
+| 🟢 1.1 | 13 km SSW of Searles Valley, CA | 07:31 |
+| 🟢 0.8 | 47 km WNW of Toyah, Texas | 07:30 |
+| 🟢 1.6 | 20 km NE of Coachella, CA | 07:21 |
+| 🟢 2.7 | 5 km WSW of La Parguera, Puerto Rico | 07:06 |
+| 🟢 1.9 | 14 km NE of Pāhala, Hawaii | 07:01 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
