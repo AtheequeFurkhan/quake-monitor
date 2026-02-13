@@ -2,21 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2016:49:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-182ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2017:40:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-264ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 13 km W of Toms Place, CA | 16:35 |
-| 🟢 1.8 | 28 km S of Dyer, Nevada | 16:33 |
-| 🟢 1.6 | 16 km N of Brooktrails, CA | 16:29 |
-| 🟢 1.1 | 14 km W of Toms Place, CA | 16:26 |
-| 🟢 2.0 | 29 km W of Volcano, Hawaii | 16:16 |
-| 🟢 0.8 | 6 km WSW of Anza, CA | 16:16 |
-| 🟢 1.3 | 85 km NNW of Karluk, Alaska | 16:13 |
-| 🟢 1.5 | 18 km NW of Parkfield, CA | 16:13 |
-| 🟠 4.6 | 124 km SSE of Kūh Sefīd, Iran | 16:03 |
-| 🟠 4.9 | 259 km N of Tobelo, Indonesia | 15:55 |
+| 🟢 1.6 | 15 km SE of Pinnacles, CA | 17:35 |
+| 🟢 0.8 | 9 km WNW of The Geysers, CA | 17:31 |
+| 🟢 0.2 | 4 km W of Cobb, CA | 17:29 |
+| 🟢 1.0 | 8 km NW of The Geysers, CA | 17:28 |
+| 🟢 0.7 | 8 km NW of The Geysers, CA | 17:28 |
+| 🟢 0.6 | 11 km NE of Julian, CA | 17:23 |
+| 🟢 2.0 | 6 km SE of Sparta, North Carolina | 17:15 |
+| 🟢 0.5 | 5 km WNW of Cobb, CA | 17:09 |
+| 🟢 0.7 | 7 km NNE of Cabazon, CA | 17:04 |
+| 🟢 1.8 | 16 km NNW of Stanton, Texas | 16:55 |
+| 🟢 2.2 | 17 km WSW of Healy, Alaska | 16:53 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
