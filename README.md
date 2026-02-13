@@ -2,22 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2017:40:18%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-264ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2018:52:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-396ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.6 | 15 km SE of Pinnacles, CA | 17:35 |
-| 🟢 0.8 | 9 km WNW of The Geysers, CA | 17:31 |
-| 🟢 0.2 | 4 km W of Cobb, CA | 17:29 |
-| 🟢 1.0 | 8 km NW of The Geysers, CA | 17:28 |
-| 🟢 0.7 | 8 km NW of The Geysers, CA | 17:28 |
-| 🟢 0.6 | 11 km NE of Julian, CA | 17:23 |
-| 🟢 2.0 | 6 km SE of Sparta, North Carolina | 17:15 |
-| 🟢 0.5 | 5 km WNW of Cobb, CA | 17:09 |
-| 🟢 0.7 | 7 km NNE of Cabazon, CA | 17:04 |
-| 🟢 1.8 | 16 km NNW of Stanton, Texas | 16:55 |
-| 🟢 2.2 | 17 km WSW of Healy, Alaska | 16:53 |
+| 🟢 1.4 | 36 km WNW of Nikiski, Alaska | 18:35 |
+| 🟢 2.2 | 47 km WNW of Skwentna, Alaska | 18:15 |
+| 🟢 0.4 | 6 km WSW of Anza, CA | 18:09 |
+| 🟢 0.5 | 10 km WNW of The Geysers, CA | 18:05 |
+| 🟢 0.6 | 10 km SE of Winchester, CA | 18:05 |
+| 🟢 0.8 | 5 km NW of The Geysers, CA | 18:02 |
+| 🟠 3.4 | 39 km SSE of Boca de Yuma, Dominican Republic | 17:56 |
+| 🟢 1.5 | 61 km S of Whites City, New Mexico | 17:53 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
