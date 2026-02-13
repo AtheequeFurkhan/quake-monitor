@@ -2,19 +2,28 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2020:39:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-360ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2021:36:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-378ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 12 km S of Olancha, CA | 20:26 |
-| 🟢 0.8 | 7 km NW of The Geysers, CA | 20:19 |
-| 🟢 0.8 | 6 km NNW of The Geysers, CA | 20:04 |
-| 🟢 0.9 | 8 km SSW of Mojave, CA | 19:56 |
-| 🟢 1.3 | 6 km NNW of The Geysers, CA | 19:55 |
-| 🟠 4.6 | 31 km SW of Mohr, Iran | 19:50 |
-| 🟠 3.2 | 72 km ESE of Denali National Park, Alaska | 19:45 |
-| 🟠 4.4 | 23 km WSW of Mohr, Iran | 19:44 |
+| 🟢 1.8 | 106 km NW of Yakutat, Alaska | 21:23 |
+| 🟢 0.6 | 10 km NE of Julian, CA | 21:20 |
+| 🟢 1.7 | 30 km E of Skwentna, Alaska | 21:18 |
+| 🟢 1.7 | 6 km NW of Livermore, CA | 21:13 |
+| 🟢 0.8 | 18 km SSW of Searles Valley, CA | 21:13 |
+| 🟢 1.0 | 4 km W of Cobb, CA | 21:12 |
+| 🟢 1.9 | 8 km NW of The Geysers, CA | 21:10 |
+| 🟢 2.0 | 39 km ESE of Cordova, Alaska | 21:10 |
+| 🟢 0.9 | 16 km E of Little Lake, CA | 21:07 |
+| 🟢 1.1 | 7 km NW of The Geysers, CA | 21:01 |
+| 🟢 0.8 | 4 km W of Cobb, CA | 20:56 |
+| 🟢 0.6 | 16 km E of Little Lake, CA | 20:51 |
+| 🟢 2.3 | 3 km ENE of Pāhala, Hawaii | 20:50 |
+| 🟢 2.6 | 17 km ENE of Pāhala, Hawaii | 20:50 |
+| 🟢 1.9 | 65 km ENE of Pedro Bay, Alaska | 20:49 |
+| 🟢 2.1 | 2 km NE of Dibble, Oklahoma | 20:49 |
+| 🟢 2.7 | 19 km ESE of Naalehu, Hawaii | 20:46 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
