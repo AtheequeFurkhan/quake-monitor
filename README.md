@@ -2,25 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2022:34:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-253ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2023:31:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-290ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.5 | 6 km WNW of Cobb, CA | 22:29 |
-| 🟢 0.8 | 6 km WNW of Cobb, CA | 22:29 |
-| 🟢 1.7 | 7 km NW of The Geysers, CA | 22:28 |
-| 🟢 0.9 | 6 km WNW of The Geysers, CA | 22:26 |
-| 🟢 1.1 | 5 km N of Little Lake, CA | 22:03 |
-| 🟢 0.8 | 1 km W of Borrego Springs, CA | 22:03 |
-| 🟢 2.5 | 5 km N of Little Lake, CA | 21:57 |
-| 🟠 4.4 | 198 km SE of Sarangani, Philippines | 21:49 |
-| 🟢 1.7 | 22 km NNE of Mentone, Texas | 21:47 |
-| 🟢 1.8 | 4 km SSW of Chase, Alaska | 21:40 |
-| 🟢 0.9 | 12 km NNE of Pinnacles, CA | 21:39 |
-| 🟢 2.4 | 7 km ENE of Calumet, Oklahoma | 21:39 |
-| 🟢 1.6 | 106 km NW of Yakutat, Alaska | 21:37 |
-| 🟢 1.3 | 7 km WSW of Ramona, CA | 21:35 |
+| 🟢 2.0 | 12 km ENE of Pāhala, Hawaii | 23:18 |
+| 🟢 0.9 | 6 km NNE of Beaumont, CA | 23:01 |
+| 🟢 1.3 | 14 km WSW of Ocotillo Wells, CA | 22:51 |
+| 🟢 0.7 | 6 km WNW of Cobb, CA | 22:37 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
