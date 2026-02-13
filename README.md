@@ -2,19 +2,22 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2004:53:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-356ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2006:00:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-411ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.0 | 9 km WNW of The Geysers, CA | 04:48 |
-| 🟢 0.9 | 18 km E of Julian, CA | 04:42 |
-| 🟢 2.0 | 17 km WSW of Petrolia, CA | 04:42 |
-| 🟢 2.4 | 3 km NW of Redway, CA | 04:17 |
-| 🟢 1.4 | 64 km S of Glacier View, Alaska | 04:17 |
-| 🟢 1.9 | 8 km ENE of Calumet, Oklahoma | 04:12 |
-| 🟢 1.3 | 15 km WSW of Ocotillo Wells, CA | 04:07 |
-| 🟢 1.4 | 60 km S of Glacier View, Alaska | 03:59 |
+| 🟢 2.0 | 91 km NW of Yakutat, Alaska | 05:47 |
+| 🟢 2.3 | 39 km WSW of Empire, Nevada | 05:46 |
+| 🟢 1.5 | 9 km N of Cantwell, Alaska | 05:25 |
+| 🟢 2.0 | 11 km SW of Honoka‘a, Hawaii | 05:20 |
+| 🟢 2.1 | 36 km NNE of Chickaloon, Alaska | 05:19 |
+| 🟢 1.4 | 8 km SSE of Redlands, CA | 05:19 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 05:12 |
+| 🟢 1.8 | 36 km NNW of Petersville, Alaska | 05:12 |
+| 🟢 1.1 | 7 km NW of The Geysers, CA | 05:10 |
+| 🟢 0.8 | 19 km NNE of Indio, CA | 05:06 |
+| 🟢 1.4 | 8 km SSE of Redlands, CA | 05:02 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
