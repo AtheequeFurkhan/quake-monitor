@@ -2,25 +2,17 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2011:32:00%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-264ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2013:01:56%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-217ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.4 | 71 km SW of Skwentna, Alaska | 11:26 |
-| 🟢 2.3 | 55 km N of Petersville, Alaska | 11:26 |
-| 🟢 2.2 | 3 km SE of Pacifica, CA | 11:25 |
-| 🟢 2.5 | 3 km SE of Pacifica, CA | 11:25 |
-| 🟢 0.8 | 13 km NW of The Geysers, CA | 11:08 |
-| 🟢 0.8 | 5 km NW of The Geysers, CA | 11:01 |
-| 🟢 1.6 | 55 km SSE of Whites City, New Mexico | 10:52 |
-| 🟢 1.7 | 8 km NW of Delta, B.C., MX | 10:51 |
-| 🟢 1.6 | 7 km WNW of Delta, B.C., MX | 10:49 |
-| 🟢 1.8 | 3 km WNW of Anderson Springs, CA | 10:43 |
-| 🟢 1.8 | 29 km W of Anderson, Alaska | 10:42 |
-| 🟢 0.8 | 10 km E of Borrego Springs, CA | 10:39 |
-| 🟢 2.2 | 28 km NW of Toyah, Texas | 10:34 |
-| 🟠 4.5 | 27 km W of Mohr, Iran | 10:33 |
+| 🟢 1.6 | 60 km S of Whites City, New Mexico | 12:53 |
+| 🟢 1.6 | 63 km S of Whites City, New Mexico | 12:53 |
+| 🟢 1.5 | 118 km NW of Yakutat, Alaska | 12:47 |
+| 🟠 3.2 | 12 km NNW of Meadow Lakes, Alaska | 12:36 |
+| 🟢 1.6 | 26 km WNW of Anchor Point, Alaska | 12:10 |
+| 🟢 2.4 | 21 km SE of Pāhala, Hawaii | 12:06 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
