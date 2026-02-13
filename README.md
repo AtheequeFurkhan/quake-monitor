@@ -2,20 +2,23 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Thu,%2012%20Feb%202026%2023:30:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-370ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2002:24:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-231ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.7 | 15 km NW of Las Vegas, Nevada | 23:14 |
-| 🟢 2.5 | 58 km W of Petrolia, CA | 23:13 |
-| 🟢 1.5 | 56 km S of Whites City, New Mexico | 23:11 |
-| 🟢 2.4 | 61 km W of Petrolia, CA | 23:02 |
-| 🟠 3.4 | 1 km NW of Point MacKenzie, Alaska | 22:54 |
-| 🟢 2.0 | 10 km ENE of Chickaloon, Alaska | 22:39 |
-| 🟢 2.0 | 56 km S of Kingston, Nevada | 22:38 |
-| 🟢 1.1 | 5 km NW of The Geysers, CA | 22:31 |
-| 🟢 1.9 | 10 km NNW of Pāhala, Hawaii | 22:30 |
+| 🟢 1.5 | 5 km SW of Ridgemark, CA | 02:03 |
+| 🟢 0.7 | 5 km W of Cobb, CA | 02:01 |
+| 🟢 2.4 | 5 km W of Cobb, CA | 02:00 |
+| 🟢 2.5 | 21 km NNE of Mentone, Texas | 01:59 |
+| 🟢 0.9 | 3 km NNE of Fontana, CA | 01:53 |
+| 🟢 2.4 | 16 km SSE of Guánica, Puerto Rico | 01:52 |
+| 🟢 1.9 | 19 km NNE of Indio, CA | 01:49 |
+| 🟢 0.8 | 7 km NNE of Cabazon, CA | 01:44 |
+| 🟢 2.1 | 8 km ENE of Calumet, Oklahoma | 01:43 |
+| 🟢 2.0 | 46 km NE of Pedro Bay, Alaska | 01:42 |
+| 🟠 3.7 | 7 km NNW of Black Eagle, Montana | 01:36 |
+| 🟢 2.6 | 14 km NW of Susitna, Alaska | 01:30 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
