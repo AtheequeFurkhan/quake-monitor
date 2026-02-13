@@ -2,19 +2,15 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2018:52:33%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-396ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2019:43:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-300ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.4 | 36 km WNW of Nikiski, Alaska | 18:35 |
-| 🟢 2.2 | 47 km WNW of Skwentna, Alaska | 18:15 |
-| 🟢 0.4 | 6 km WSW of Anza, CA | 18:09 |
-| 🟢 0.5 | 10 km WNW of The Geysers, CA | 18:05 |
-| 🟢 0.6 | 10 km SE of Winchester, CA | 18:05 |
-| 🟢 0.8 | 5 km NW of The Geysers, CA | 18:02 |
-| 🟠 3.4 | 39 km SSE of Boca de Yuma, Dominican Republic | 17:56 |
-| 🟢 1.5 | 61 km S of Whites City, New Mexico | 17:53 |
+| 🟢 1.8 | 4 km E of Riverside, CA | 19:31 |
+| 🟠 4.9 | 114 km SE of Angoram, Papua New Guinea | 19:08 |
+| 🟠 4.5 | 282 km N of Tobelo, Indonesia | 18:56 |
+| 🟢 2.0 | 12 km WSW of Stanton, Texas | 18:56 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
