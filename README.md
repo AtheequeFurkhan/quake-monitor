@@ -2,28 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2021:36:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-378ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2022:34:45%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-253ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 106 km NW of Yakutat, Alaska | 21:23 |
-| 🟢 0.6 | 10 km NE of Julian, CA | 21:20 |
-| 🟢 1.7 | 30 km E of Skwentna, Alaska | 21:18 |
-| 🟢 1.7 | 6 km NW of Livermore, CA | 21:13 |
-| 🟢 0.8 | 18 km SSW of Searles Valley, CA | 21:13 |
-| 🟢 1.0 | 4 km W of Cobb, CA | 21:12 |
-| 🟢 1.9 | 8 km NW of The Geysers, CA | 21:10 |
-| 🟢 2.0 | 39 km ESE of Cordova, Alaska | 21:10 |
-| 🟢 0.9 | 16 km E of Little Lake, CA | 21:07 |
-| 🟢 1.1 | 7 km NW of The Geysers, CA | 21:01 |
-| 🟢 0.8 | 4 km W of Cobb, CA | 20:56 |
-| 🟢 0.6 | 16 km E of Little Lake, CA | 20:51 |
-| 🟢 2.3 | 3 km ENE of Pāhala, Hawaii | 20:50 |
-| 🟢 2.6 | 17 km ENE of Pāhala, Hawaii | 20:50 |
-| 🟢 1.9 | 65 km ENE of Pedro Bay, Alaska | 20:49 |
-| 🟢 2.1 | 2 km NE of Dibble, Oklahoma | 20:49 |
-| 🟢 2.7 | 19 km ESE of Naalehu, Hawaii | 20:46 |
+| 🟢 0.5 | 6 km WNW of Cobb, CA | 22:29 |
+| 🟢 0.8 | 6 km WNW of Cobb, CA | 22:29 |
+| 🟢 1.7 | 7 km NW of The Geysers, CA | 22:28 |
+| 🟢 0.9 | 6 km WNW of The Geysers, CA | 22:26 |
+| 🟢 1.1 | 5 km N of Little Lake, CA | 22:03 |
+| 🟢 0.8 | 1 km W of Borrego Springs, CA | 22:03 |
+| 🟢 2.5 | 5 km N of Little Lake, CA | 21:57 |
+| 🟠 4.4 | 198 km SE of Sarangani, Philippines | 21:49 |
+| 🟢 1.7 | 22 km NNE of Mentone, Texas | 21:47 |
+| 🟢 1.8 | 4 km SSW of Chase, Alaska | 21:40 |
+| 🟢 0.9 | 12 km NNE of Pinnacles, CA | 21:39 |
+| 🟢 2.4 | 7 km ENE of Calumet, Oklahoma | 21:39 |
+| 🟢 1.6 | 106 km NW of Yakutat, Alaska | 21:37 |
+| 🟢 1.3 | 7 km WSW of Ramona, CA | 21:35 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
