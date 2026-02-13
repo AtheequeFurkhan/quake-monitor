@@ -2,23 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2002:24:16%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-231ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2004:53:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-356ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.5 | 5 km SW of Ridgemark, CA | 02:03 |
-| 🟢 0.7 | 5 km W of Cobb, CA | 02:01 |
-| 🟢 2.4 | 5 km W of Cobb, CA | 02:00 |
-| 🟢 2.5 | 21 km NNE of Mentone, Texas | 01:59 |
-| 🟢 0.9 | 3 km NNE of Fontana, CA | 01:53 |
-| 🟢 2.4 | 16 km SSE of Guánica, Puerto Rico | 01:52 |
-| 🟢 1.9 | 19 km NNE of Indio, CA | 01:49 |
-| 🟢 0.8 | 7 km NNE of Cabazon, CA | 01:44 |
-| 🟢 2.1 | 8 km ENE of Calumet, Oklahoma | 01:43 |
-| 🟢 2.0 | 46 km NE of Pedro Bay, Alaska | 01:42 |
-| 🟠 3.7 | 7 km NNW of Black Eagle, Montana | 01:36 |
-| 🟢 2.6 | 14 km NW of Susitna, Alaska | 01:30 |
+| 🟢 1.0 | 9 km WNW of The Geysers, CA | 04:48 |
+| 🟢 0.9 | 18 km E of Julian, CA | 04:42 |
+| 🟢 2.0 | 17 km WSW of Petrolia, CA | 04:42 |
+| 🟢 2.4 | 3 km NW of Redway, CA | 04:17 |
+| 🟢 1.4 | 64 km S of Glacier View, Alaska | 04:17 |
+| 🟢 1.9 | 8 km ENE of Calumet, Oklahoma | 04:12 |
+| 🟢 1.3 | 15 km WSW of Ocotillo Wells, CA | 04:07 |
+| 🟢 1.4 | 60 km S of Glacier View, Alaska | 03:59 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
