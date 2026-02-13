@@ -2,15 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2019:43:01%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-300ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2020:39:49%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-360ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.8 | 4 km E of Riverside, CA | 19:31 |
-| 🟠 4.9 | 114 km SE of Angoram, Papua New Guinea | 19:08 |
-| 🟠 4.5 | 282 km N of Tobelo, Indonesia | 18:56 |
-| 🟢 2.0 | 12 km WSW of Stanton, Texas | 18:56 |
+| 🟢 2.0 | 12 km S of Olancha, CA | 20:26 |
+| 🟢 0.8 | 7 km NW of The Geysers, CA | 20:19 |
+| 🟢 0.8 | 6 km NNW of The Geysers, CA | 20:04 |
+| 🟢 0.9 | 8 km SSW of Mojave, CA | 19:56 |
+| 🟢 1.3 | 6 km NNW of The Geysers, CA | 19:55 |
+| 🟠 4.6 | 31 km SW of Mohr, Iran | 19:50 |
+| 🟠 3.2 | 72 km ESE of Denali National Park, Alaska | 19:45 |
+| 🟠 4.4 | 23 km WSW of Mohr, Iran | 19:44 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
