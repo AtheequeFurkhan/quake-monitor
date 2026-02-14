@@ -2,18 +2,25 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2014%20Feb%202026%2009:32:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-751ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2014%20Feb%202026%2010:28:03%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-5.029s-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.3 | 89 km SE of Ugashik, Alaska | 09:20 |
-| 🟢 1.6 | 35 km ENE of Chase, Alaska | 09:13 |
-| 🟢 2.7 | 11 km NNE of Houston, Alaska | 09:07 |
-| 🟢 1.7 | 61 km S of Whites City, New Mexico | 09:07 |
-| 🟠 3.8 | 7 km NNW of Meadow Lakes, Alaska | 08:58 |
-| 🟢 1.8 | 103 km S of McCarthy, Alaska | 08:53 |
-| 🟢 0.3 | 12 km SSE of Anza, CA | 08:52 |
+| 🟢 1.8 | 24 km E of Pāhala, Hawaii | 10:14 |
+| 🟢 1.1 | 6 km WNW of Cobb, CA | 10:09 |
+| 🟢 1.9 | 17 km SE of Clam Gulch, Alaska | 10:01 |
+| 🟢 2.1 | 2 km SSW of Wickett, Texas | 09:59 |
+| 🟢 0.9 | 46 km W of Salamatof, Alaska | 09:57 |
+| 🟢 1.9 | 8 km NNW of Meadow Lakes, Alaska | 09:54 |
+| 🟢 0.7 | 10 km NE of Indio, CA | 09:51 |
+| 🟠 4.7 | 172 km ENE of Tual, Indonesia | 09:48 |
+| 🟢 1.2 | 3 km ESE of The Geysers, CA | 09:47 |
+| 🟢 2.9 | 10 km NNW of Meadow Lakes, Alaska | 09:45 |
+| 🟢 1.9 | 19 km NE of Mentone, Texas | 09:42 |
+| 🟢 1.9 | 26 km NNE of Mentone, Texas | 09:41 |
+| 🟢 0.7 | 6 km ESE of Lake Isabella, CA | 09:40 |
+| 🟠 4.5 | 68 km SW of False Pass, Alaska | 09:28 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
