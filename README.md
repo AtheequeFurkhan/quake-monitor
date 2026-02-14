@@ -2,20 +2,19 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2014%20Feb%202026%2007:34:25%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-413ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2014%20Feb%202026%2008:34:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-358ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.1 | 2 km ENE of The Geysers, CA | 07:31 |
-| 🟢 1.8 | 17 km N of Mentone, Texas | 07:23 |
-| 🟢 1.0 | 7 km NW of The Geysers, CA | 07:16 |
-| 🟢 1.2 | 9 km NE of Julian, CA | 07:13 |
-| 🟠 5.0 | Rat Islands, Aleutian Islands, Alaska | 07:10 |
-| 🟢 1.5 | 19 km E of Ferry, Alaska | 07:05 |
-| 🟢 0.8 | 6 km NW of The Geysers, CA | 06:52 |
-| 🟢 1.2 | 14 km W of Toms Place, CA | 06:45 |
-| 🟢 2.4 | 17 km NE of Pāhala, Hawaii | 06:41 |
+| 🟢 1.2 | 2 km ENE of Monterey Park, CA | 08:28 |
+| 🟢 0.9 | 1 km E of The Geysers, CA | 08:28 |
+| 🟢 1.4 | 3 km NE of The Geysers, CA | 08:10 |
+| 🟢 1.1 | 21 km NNE of Indio, CA | 08:05 |
+| 🟢 0.8 | 2 km N of Fontana, CA | 08:03 |
+| 🟢 1.3 | 10 km WNW of The Geysers, CA | 07:53 |
+| 🟢 1.7 | 8 km NW of Knik-Fairview, Alaska | 07:51 |
+| 🟢 1.5 | 3 km NNE of Fontana, CA | 07:47 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
