@@ -2,21 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2014%20Feb%202026%2002:05:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-413ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2014%20Feb%202026%2004:41:40%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-314ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 0.9 | 7 km S of Pearblossom, CA | 01:59 |
-| 🟢 1.8 | 7 km S of Pearblossom, CA | 01:58 |
-| 🟢 0.7 | 5 km NNW of Little Lake, CA | 01:48 |
-| 🟢 1.4 | 3 km NNW of West Valley City, Utah | 01:39 |
-| 🟢 1.9 | 25 km N of Hiko, Nevada | 01:34 |
-| 🟠 3.5 | 4 km NNW of West Valley City, Utah | 01:32 |
-| 🟢 1.3 | 22 km SW of Snyder, Texas | 01:30 |
-| 🟢 1.5 | 13 km SSE of Stanton, Texas | 01:11 |
-| 🟢 1.5 | 16 km NW of Stagecoach, Nevada | 01:10 |
-| 🟠 3.6 | 65 km SE of Punta Cana, Dominican Republic | 01:10 |
+| 🟢 0.6 | 9 km WNW of The Geysers, CA | 04:31 |
+| 🟢 2.0 | 36 km SE of Mina, Nevada | 04:28 |
+| 🟢 1.0 | 19 km NNE of Indio, CA | 04:17 |
+| 🟠 3.7 | 115 km N of Yakutat, Alaska | 04:03 |
+| 🟠 4.4 | 82 km NNE of Ollagüe, Chile | 04:01 |
+| 🟢 1.4 | 47 km NW of Toyah, Texas | 03:59 |
+| 🟢 1.5 | 21 km NE of Chase, Alaska | 03:55 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
