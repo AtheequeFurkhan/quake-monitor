@@ -2,15 +2,21 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Fri,%2013%20Feb%202026%2023:31:29%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-290ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2014%20Feb%202026%2002:05:39%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-413ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 2.0 | 12 km ENE of Pāhala, Hawaii | 23:18 |
-| 🟢 0.9 | 6 km NNE of Beaumont, CA | 23:01 |
-| 🟢 1.3 | 14 km WSW of Ocotillo Wells, CA | 22:51 |
-| 🟢 0.7 | 6 km WNW of Cobb, CA | 22:37 |
+| 🟢 0.9 | 7 km S of Pearblossom, CA | 01:59 |
+| 🟢 1.8 | 7 km S of Pearblossom, CA | 01:58 |
+| 🟢 0.7 | 5 km NNW of Little Lake, CA | 01:48 |
+| 🟢 1.4 | 3 km NNW of West Valley City, Utah | 01:39 |
+| 🟢 1.9 | 25 km N of Hiko, Nevada | 01:34 |
+| 🟠 3.5 | 4 km NNW of West Valley City, Utah | 01:32 |
+| 🟢 1.3 | 22 km SW of Snyder, Texas | 01:30 |
+| 🟢 1.5 | 13 km SSE of Stanton, Texas | 01:11 |
+| 🟢 1.5 | 16 km NW of Stagecoach, Nevada | 01:10 |
+| 🟠 3.6 | 65 km SE of Punta Cana, Dominican Republic | 01:10 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
