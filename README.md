@@ -2,19 +2,18 @@
 
 > *Real-time tracking of Earthquakes, Wildfires, and Volcanoes using Go & GitHub Actions.*
 
-![Last Updated](https://img.shields.io/badge/Updated-Sat,%2014%20Feb%202026%2008:34:06%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-358ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
+![Last Updated](https://img.shields.io/badge/Updated-Sat,%2014%20Feb%202026%2009:32:09%20UTC-blue) ![Build Time](https://img.shields.io/badge/Build%20Time-751ms-green) ![System](https://img.shields.io/badge/System-Operational-success)
 
 ## 📉 Earthquakes (Last Hour)
 | Mag | Location | Time (UTC) |
 |:---:|:---|:---|
-| 🟢 1.2 | 2 km ENE of Monterey Park, CA | 08:28 |
-| 🟢 0.9 | 1 km E of The Geysers, CA | 08:28 |
-| 🟢 1.4 | 3 km NE of The Geysers, CA | 08:10 |
-| 🟢 1.1 | 21 km NNE of Indio, CA | 08:05 |
-| 🟢 0.8 | 2 km N of Fontana, CA | 08:03 |
-| 🟢 1.3 | 10 km WNW of The Geysers, CA | 07:53 |
-| 🟢 1.7 | 8 km NW of Knik-Fairview, Alaska | 07:51 |
-| 🟢 1.5 | 3 km NNE of Fontana, CA | 07:47 |
+| 🟢 2.3 | 89 km SE of Ugashik, Alaska | 09:20 |
+| 🟢 1.6 | 35 km ENE of Chase, Alaska | 09:13 |
+| 🟢 2.7 | 11 km NNE of Houston, Alaska | 09:07 |
+| 🟢 1.7 | 61 km S of Whites City, New Mexico | 09:07 |
+| 🟠 3.8 | 7 km NNW of Meadow Lakes, Alaska | 08:58 |
+| 🟢 1.8 | 103 km S of McCarthy, Alaska | 08:53 |
+| 🟢 0.3 | 12 km SSE of Anza, CA | 08:52 |
 
 ## 🌋 Active Hazards (NASA EONET)
 *Includes Wildfires, Volcanoes, and Icebergs detected by satellite.*
